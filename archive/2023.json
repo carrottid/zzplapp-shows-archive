@@ -12844,7 +12844,17 @@
    "to": "2023-04-16",
    "venue": "소극장 혜화당 (구. 까망소극장)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF214920_230314_100554.gif",
-   "state": "공연완료"
+   "cast": [
+    "김현경",
+    "송서영",
+    "박창규",
+    "한성국",
+    "강서율",
+    "정가람",
+    "권민서"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF215274",

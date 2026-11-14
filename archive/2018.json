@@ -2755,7 +2755,11 @@
     "홍승안"
    ],
    "state": "공연완료",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#545674",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PD128955",

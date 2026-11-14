@@ -48,5 +48,9 @@
  "roleCastSource": {
   "name": "PlayDB",
   "url": "https://web.archive.org/web/20200919085524/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=128882"
+ },
+ "color": {
+  "bg": "#545674",
+  "fg": "#FFFFFF"
  }
 }

@@ -1,0 +1,26 @@
+{
+ "id": "PD92699",
+ "title": "원로연극제 - 그 여자 억척어멈",
+ "genre": "연극",
+ "from": "2016-06-03",
+ "to": "2016-06-17",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "배해선"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "배수련",
+   "name": "배해선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170616051330/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=92699"
+ }
+}

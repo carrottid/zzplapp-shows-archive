@@ -1,0 +1,56 @@
+{
+ "id": "PD1283",
+ "title": "소설가 구보씨와 경성사람들",
+ "genre": "연극",
+ "from": "2007-10-20",
+ "to": "2007-11-04",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "김종태",
+  "선종남",
+  "백현주",
+  "우정국",
+  "이화룡",
+  "최정인",
+  "이미지"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "구보",
+   "name": "김종태"
+  },
+  {
+   "role": "윤초시",
+   "name": "선종남"
+  },
+  {
+   "role": "숙자",
+   "name": "백현주"
+  },
+  {
+   "role": "흥수",
+   "name": "우정국"
+  },
+  {
+   "role": "이상",
+   "name": "이화룡"
+  },
+  {
+   "role": "순이, 구보의누이",
+   "name": "최정인"
+  },
+  {
+   "role": "",
+   "name": "이미지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20231010131926/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=1283"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "id": "PD32145",
+ "title": "거대한 삶",
+ "genre": "연극",
+ "from": "2012-02-09",
+ "to": "2012-02-19",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "박봉서",
+  "손진환",
+  "이병술",
+  "최상규",
+  "김춘기",
+  "박기산",
+  "정병호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "사학자",
+   "name": "박봉서"
+  },
+  {
+   "role": "이종형",
+   "name": "손진환"
+  },
+  {
+   "role": "김리삼",
+   "name": "이병술"
+  },
+  {
+   "role": "재판관, 중국경찰서장",
+   "name": "최상규"
+  },
+  {
+   "role": "검찰관,일본군참모",
+   "name": "김춘기"
+  },
+  {
+   "role": "이승훈",
+   "name": "박기산"
+  },
+  {
+   "role": "",
+   "name": "정병호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171106155107/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=32145"
+ }
+}

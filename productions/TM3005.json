@@ -1,0 +1,94 @@
+{
+ "id": "TM3005",
+ "title": "신과 함께_저승편",
+ "genre": "뮤지컬",
+ "from": "2020-10-09",
+ "to": "2020-10-24",
+ "venue": "LG아트센터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200817065020cc56d9de2d974c28801d2efc29cbf87b.jpg",
+ "cast": [
+  "조형균",
+  "조성윤",
+  "정원영",
+  "신상언",
+  "김용한",
+  "강상준",
+  "최인형",
+  "김건혜",
+  "이혜수",
+  "이석준",
+  "금승훈",
+  "고미경",
+  "김백현",
+  "이기완"
+ ],
+ "state": "공연완료",
+ "producer": "서울예술단",
+ "price": "VIP석 9만 원 / R석 7만 원 / S석 5만 원 / A석 3만 원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "진기한",
+   "name": "조형균"
+  },
+  {
+   "role": "진기한",
+   "name": "조성윤"
+  },
+  {
+   "role": "김자홍",
+   "name": "정원영"
+  },
+  {
+   "role": "김자홍",
+   "name": "신상언"
+  },
+  {
+   "role": "강림",
+   "name": "김용한"
+  },
+  {
+   "role": "강림",
+   "name": "강상준"
+  },
+  {
+   "role": "해원맥",
+   "name": "최인형"
+  },
+  {
+   "role": "덕춘",
+   "name": "김건혜"
+  },
+  {
+   "role": "덕춘",
+   "name": "이혜수"
+  },
+  {
+   "role": "염라대왕",
+   "name": "이석준"
+  },
+  {
+   "role": "염라대왕",
+   "name": "금승훈"
+  },
+  {
+   "role": "지장보살",
+   "name": "고미경"
+  },
+  {
+   "role": "지장보살",
+   "name": "김백현"
+  },
+  {
+   "role": "유성연(원귀)",
+   "name": "이기완"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3005"
+ }
+}

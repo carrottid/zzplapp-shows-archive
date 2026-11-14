@@ -1,0 +1,51 @@
+{
+ "id": "PD155176",
+ "title": "라흐마니노프",
+ "genre": "뮤지컬",
+ "from": "2020-03-14",
+ "to": "2020-06-21",
+ "venue": "예스24스테이지 1관",
+ "cast": [
+  "박규원",
+  "이해준",
+  "정욱진",
+  "유성재",
+  "정민",
+  "임병근"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "라흐마니노프",
+   "name": "박규원"
+  },
+  {
+   "role": "라흐마니노프",
+   "name": "이해준"
+  },
+  {
+   "role": "라흐마니노프",
+   "name": "정욱진"
+  },
+  {
+   "role": "니콜라이 달",
+   "name": "유성재"
+  },
+  {
+   "role": "니콜라이 달",
+   "name": "정민"
+  },
+  {
+   "role": "니콜라이 달",
+   "name": "임병근"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220818023457/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=155176"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "id": "TM881",
+ "title": "오르페오",
+ "genre": "뮤지컬",
+ "from": "2007-11-27",
+ "to": "2007-12-02",
+ "venue": "유니버설아트센터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009150547314da2ee54b6a94d14bd861d7feef6c19b.jpg",
+ "cast": [
+  "전혁진",
+  "장성희",
+  "최인형",
+  "도정주",
+  "이종한"
+ ],
+ "state": "공연완료",
+ "producer": "서울예술단",
+ "price": "R석 6만원, S석 5만원, A석 3만원, B석 1만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "동욱/오르페오",
+   "name": "전혁진"
+  },
+  {
+   "role": "유리/에우리디체",
+   "name": "장성희"
+  },
+  {
+   "role": "진유/하데스",
+   "name": "최인형"
+  },
+  {
+   "role": "앙상블",
+   "name": "도정주"
+  },
+  {
+   "role": "앙상블",
+   "name": "이종한"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=881"
+ }
+}

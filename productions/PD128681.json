@@ -1,0 +1,71 @@
+{
+ "id": "PD128681",
+ "title": "프랑켄슈타인 - 진주",
+ "genre": "뮤지컬",
+ "from": "2018-10-12",
+ "to": "2018-10-13",
+ "venue": "경상남도문화예술회관 대공연장",
+ "cast": [
+  "전동석",
+  "민우혁",
+  "카이",
+  "박민성",
+  "박혜나",
+  "안시하",
+  "이희정",
+  "김대종",
+  "손대희",
+  "류지한"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "빅터 프랑켄슈타인",
+   "name": "전동석"
+  },
+  {
+   "role": "빅터 프랑켄슈타인",
+   "name": "민우혁"
+  },
+  {
+   "role": "앙리 뒤프레",
+   "name": "카이"
+  },
+  {
+   "role": "앙리 뒤프레",
+   "name": "박민성"
+  },
+  {
+   "role": "엘렌",
+   "name": "박혜나"
+  },
+  {
+   "role": "줄리아",
+   "name": "안시하"
+  },
+  {
+   "role": "슈테판",
+   "name": "이희정"
+  },
+  {
+   "role": "룽게",
+   "name": "김대종"
+  },
+  {
+   "role": "",
+   "name": "손대희"
+  },
+  {
+   "role": "",
+   "name": "류지한"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240115104013/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=128681"
+ }
+}

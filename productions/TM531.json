@@ -1,0 +1,73 @@
+{
+ "id": "TM531",
+ "title": "렌트",
+ "genre": "뮤지컬",
+ "from": "2000-07-05",
+ "to": "2000-08-06",
+ "venue": "예술의전당 오페라극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_일괄편집_rent.jpg",
+ "cast": [
+  "남경주",
+  "이건명",
+  "최정원",
+  "김선영",
+  "황현정",
+  "전수경",
+  "이희정",
+  "김도형",
+  "주원성",
+  "이동근"
+ ],
+ "state": "공연완료",
+ "producer": "신시뮤지컬컴퍼니",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "로저",
+   "name": "남경주"
+  },
+  {
+   "role": "마크",
+   "name": "이건명"
+  },
+  {
+   "role": "미미",
+   "name": "최정원"
+  },
+  {
+   "role": "머린",
+   "name": "김선영"
+  },
+  {
+   "role": "머린",
+   "name": "황현정"
+  },
+  {
+   "role": "조앤",
+   "name": "전수경"
+  },
+  {
+   "role": "콜린",
+   "name": "이희정"
+  },
+  {
+   "role": "엔젤",
+   "name": "김도형"
+  },
+  {
+   "role": "엔젤",
+   "name": "주원성"
+  },
+  {
+   "role": "베니",
+   "name": "이동근"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=531"
+ }
+}

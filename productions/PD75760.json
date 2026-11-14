@@ -1,0 +1,66 @@
+{
+ "id": "PD75760",
+ "title": "합석전후",
+ "genre": "연극",
+ "from": "2015-04-16",
+ "to": "2015-04-26",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "강일",
+  "송현서",
+  "정진식",
+  "박종용",
+  "박상훈",
+  "고병택",
+  "김지용",
+  "이연희",
+  "박시영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아빠 만호",
+   "name": "강일"
+  },
+  {
+   "role": "아빠 만호",
+   "name": "송현서"
+  },
+  {
+   "role": "사채업자",
+   "name": "정진식"
+  },
+  {
+   "role": "아들 창현",
+   "name": "박종용"
+  },
+  {
+   "role": "봉학",
+   "name": "박상훈"
+  },
+  {
+   "role": "경비원",
+   "name": "고병택"
+  },
+  {
+   "role": "배달원",
+   "name": "김지용"
+  },
+  {
+   "role": "",
+   "name": "이연희"
+  },
+  {
+   "role": "",
+   "name": "박시영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241103202937/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=75760"
+ }
+}

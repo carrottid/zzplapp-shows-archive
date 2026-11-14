@@ -1,0 +1,36 @@
+{
+ "id": "PD97838",
+ "title": "블랙버드",
+ "genre": "연극",
+ "from": "2016-10-13",
+ "to": "2016-11-20",
+ "venue": "예스24스테이지 1관",
+ "cast": [
+  "조재현",
+  "채수빈",
+  "옥자연"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "레이",
+   "name": "조재현"
+  },
+  {
+   "role": "우나",
+   "name": "채수빈"
+  },
+  {
+   "role": "우나",
+   "name": "옥자연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250711113225/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=97838"
+ }
+}

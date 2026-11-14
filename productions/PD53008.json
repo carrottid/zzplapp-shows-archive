@@ -1,0 +1,61 @@
+{
+ "id": "PD53008",
+ "title": "레몬",
+ "genre": "연극",
+ "from": "2013-10-03",
+ "to": "2013-10-13",
+ "venue": "세실극장",
+ "cast": [
+  "김결",
+  "박효주",
+  "정재진",
+  "김용선",
+  "안경희",
+  "이동환",
+  "박윤서",
+  "김대영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "박진우",
+   "name": "김결"
+  },
+  {
+   "role": "이선미",
+   "name": "박효주"
+  },
+  {
+   "role": "이명국",
+   "name": "정재진"
+  },
+  {
+   "role": "강숙현",
+   "name": "김용선"
+  },
+  {
+   "role": "장진영",
+   "name": "안경희"
+  },
+  {
+   "role": "김태성",
+   "name": "이동환"
+  },
+  {
+   "role": "",
+   "name": "박윤서"
+  },
+  {
+   "role": "",
+   "name": "김대영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171101000318/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=53008"
+ }
+}

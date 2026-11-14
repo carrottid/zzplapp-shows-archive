@@ -1,0 +1,49 @@
+{
+ "id": "TM43",
+ "title": "빨래",
+ "genre": "뮤지컬",
+ "from": "2006-02-17",
+ "to": "2006-05-14",
+ "venue": "상명아트홀 1관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_db-bbalrae(2006).jpg",
+ "cast": [
+  "김영옥",
+  "임진웅",
+  "박은영",
+  "김중기",
+  "백미라"
+ ],
+ "state": "공연완료",
+ "producer": "명랑씨어터 수박,파임커뮤니케이션즈",
+ "price": "일반 3만원/ 청소년 만8천원(중학생 이상 관람 가능)",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "서나영",
+   "name": "김영옥"
+  },
+  {
+   "role": "솔롱고",
+   "name": "임진웅"
+  },
+  {
+   "role": "주인할매",
+   "name": "박은영"
+  },
+  {
+   "role": "빠꽁 외",
+   "name": "김중기"
+  },
+  {
+   "role": "서점여직원 외",
+   "name": "백미라"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=43"
+ }
+}

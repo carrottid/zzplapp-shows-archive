@@ -1,0 +1,124 @@
+{
+ "id": "TM2015",
+ "title": "그리스",
+ "genre": "뮤지컬",
+ "from": "2013-10-22",
+ "to": "2014-04-20",
+ "venue": "유니플렉스 1관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013grease.jpg",
+ "cast": [
+  "정민",
+  "강민수",
+  "김보선",
+  "윤준호",
+  "이혁",
+  "석재형",
+  "김용규",
+  "이지윤",
+  "문희라",
+  "최미소",
+  "강지혜",
+  "박현선",
+  "김예진",
+  "남궁민희",
+  "신윤정",
+  "문지수",
+  "김경식",
+  "김한재",
+  "권세정",
+  "김수언"
+ ],
+ "state": "공연완료",
+ "producer": "㈜오디뮤지컬컴퍼니, ㈜CJ E&M",
+ "price": "R석 66,000원/ S석 44,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "대니",
+   "name": "정민"
+  },
+  {
+   "role": "대니",
+   "name": "강민수"
+  },
+  {
+   "role": "케니키",
+   "name": "김보선"
+  },
+  {
+   "role": "케니키",
+   "name": "윤준호"
+  },
+  {
+   "role": "두디",
+   "name": "이혁"
+  },
+  {
+   "role": "로저",
+   "name": "석재형"
+  },
+  {
+   "role": "소니",
+   "name": "김용규"
+  },
+  {
+   "role": "샌디",
+   "name": "이지윤"
+  },
+  {
+   "role": "샌디",
+   "name": "문희라"
+  },
+  {
+   "role": "리조",
+   "name": "최미소"
+  },
+  {
+   "role": "리조",
+   "name": "강지혜"
+  },
+  {
+   "role": "프렌치",
+   "name": "박현선"
+  },
+  {
+   "role": "잔",
+   "name": "김예진"
+  },
+  {
+   "role": "잔",
+   "name": "남궁민희"
+  },
+  {
+   "role": "마티",
+   "name": "신윤정"
+  },
+  {
+   "role": "빈스",
+   "name": "문지수"
+  },
+  {
+   "role": "유진",
+   "name": "김경식"
+  },
+  {
+   "role": "유진",
+   "name": "김한재"
+  },
+  {
+   "role": "린치",
+   "name": "권세정"
+  },
+  {
+   "role": "패티",
+   "name": "김수언"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2015"
+ }
+}

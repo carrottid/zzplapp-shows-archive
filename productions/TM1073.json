@@ -1,0 +1,69 @@
+{
+ "id": "TM1073",
+ "title": "화장을 고치고",
+ "genre": "뮤지컬",
+ "from": "2008-05-12",
+ "to": "2008-07-20",
+ "venue": "충무아트홀 소극장블루",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200605033332e6fcec39c0594090a39d7db26cae4cc7.jpg",
+ "cast": [
+  "김수용",
+  "최성원",
+  "백주희",
+  "신주연",
+  "오대환",
+  "김종구",
+  "서홍석",
+  "이소영",
+  "김수영"
+ ],
+ "state": "공연완료",
+ "producer": "(주)세븐센스",
+ "price": "R석 4만원, S석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "지섭",
+   "name": "김수용"
+  },
+  {
+   "role": "지섭",
+   "name": "최성원"
+  },
+  {
+   "role": "혜리",
+   "name": "백주희"
+  },
+  {
+   "role": "혜리",
+   "name": "신주연"
+  },
+  {
+   "role": "멀티맨",
+   "name": "오대환"
+  },
+  {
+   "role": "멀티맨",
+   "name": "김종구"
+  },
+  {
+   "role": "멀티맨",
+   "name": "서홍석"
+  },
+  {
+   "role": "멀티걸",
+   "name": "이소영"
+  },
+  {
+   "role": "멀티걸",
+   "name": "김수영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1073"
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "id": "TM2259",
+ "title": "총각네 야채가게",
+ "genre": "뮤지컬",
+ "from": "2015-11-13",
+ "to": "2015-12-31",
+ "venue": "한전아트센터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201510081105090CB0WAJO4428W7AR.jpg",
+ "cast": [
+  "전진오",
+  "박정표",
+  "김찬호",
+  "이승현",
+  "전재홍",
+  "정순원",
+  "동현(보이프렌드)",
+  "강영석",
+  "손유동",
+  "기세중",
+  "형곤",
+  "김지휘",
+  "박시환",
+  "김현진",
+  "차청화",
+  "김아영",
+  "허은미",
+  "이민희"
+ ],
+ "state": "공연완료",
+ "producer": "라이브",
+ "price": "R석 6만6천원, S석 4만4천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이태성",
+   "name": "전진오"
+  },
+  {
+   "role": "이태성",
+   "name": "박정표"
+  },
+  {
+   "role": "이태성",
+   "name": "김찬호"
+  },
+  {
+   "role": "박민석",
+   "name": "이승현"
+  },
+  {
+   "role": "박민석",
+   "name": "전재홍"
+  },
+  {
+   "role": "최윤민",
+   "name": "정순원"
+  },
+  {
+   "role": "최윤민",
+   "name": "동현(보이프렌드)"
+  },
+  {
+   "role": "최윤민",
+   "name": "강영석"
+  },
+  {
+   "role": "손지환",
+   "name": "손유동"
+  },
+  {
+   "role": "손지환",
+   "name": "기세중"
+  },
+  {
+   "role": "손지환",
+   "name": "형곤"
+  },
+  {
+   "role": "박철진",
+   "name": "김지휘"
+  },
+  {
+   "role": "박철진",
+   "name": "박시환"
+  },
+  {
+   "role": "박철진",
+   "name": "김현진"
+  },
+  {
+   "role": "멀티녀",
+   "name": "차청화"
+  },
+  {
+   "role": "멀티녀",
+   "name": "김아영"
+  },
+  {
+   "role": "멀티녀",
+   "name": "허은미"
+  },
+  {
+   "role": "멀티녀",
+   "name": "이민희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2259"
+ }
+}

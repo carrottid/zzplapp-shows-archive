@@ -1,0 +1,71 @@
+{
+ "id": "PD22957",
+ "title": "광화문연가 - 고양",
+ "genre": "뮤지컬",
+ "from": "2011-05-20",
+ "to": "2011-05-22",
+ "venue": "고양아람누리 아람극장",
+ "cast": [
+  "윤도현",
+  "송창의",
+  "김무열",
+  "임병근",
+  "리사",
+  "박호산",
+  "허규",
+  "양요섭",
+  "김태한",
+  "구원영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "상훈",
+   "name": "윤도현"
+  },
+  {
+   "role": "상훈",
+   "name": "송창의"
+  },
+  {
+   "role": "현우",
+   "name": "김무열"
+  },
+  {
+   "role": "현우",
+   "name": "임병근"
+  },
+  {
+   "role": "여주",
+   "name": "리사"
+  },
+  {
+   "role": "현재의 상훈",
+   "name": "박호산"
+  },
+  {
+   "role": "지용",
+   "name": "허규"
+  },
+  {
+   "role": "지용",
+   "name": "양요섭"
+  },
+  {
+   "role": "진국",
+   "name": "김태한"
+  },
+  {
+   "role": "",
+   "name": "구원영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230203025610/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=22957"
+ }
+}

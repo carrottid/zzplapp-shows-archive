@@ -1,0 +1,44 @@
+{
+ "id": "TM1534",
+ "title": "아이 러브 유",
+ "genre": "뮤지컬",
+ "from": "2009-12-04",
+ "to": "2010-07-11",
+ "venue": "아트원씨어터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_iloveyou2009.JPG",
+ "cast": [
+  "이민아",
+  "전재홍",
+  "김영주",
+  "정수한"
+ ],
+ "state": "공연완료",
+ "producer": "설앤컴퍼니, CJ엔터테인먼트",
+ "price": "R석 45,000원 / S석 35,000원 / A석 20,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "여자1",
+   "name": "이민아"
+  },
+  {
+   "role": "남자1",
+   "name": "전재홍"
+  },
+  {
+   "role": "여자2",
+   "name": "김영주"
+  },
+  {
+   "role": "남자2",
+   "name": "정수한"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1534"
+ }
+}

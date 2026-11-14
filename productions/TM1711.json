@@ -1,0 +1,49 @@
+{
+ "id": "TM1711",
+ "title": "엄마를 부탁해",
+ "genre": "뮤지컬",
+ "from": "2011-05-05",
+ "to": "2011-06-19",
+ "venue": "충무아트홀 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_mother.jpg",
+ "cast": [
+  "김성녀",
+  "김덕환",
+  "차지연",
+  "이계창",
+  "김경선"
+ ],
+ "state": "공연완료",
+ "producer": "신시컴퍼니",
+ "price": "VIP석 9만원 / R석 7만원 / S석 5만원 / A석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "엄마",
+   "name": "김성녀"
+  },
+  {
+   "role": "아버지",
+   "name": "김덕환"
+  },
+  {
+   "role": "장녀",
+   "name": "차지연"
+  },
+  {
+   "role": "장남",
+   "name": "이계창"
+  },
+  {
+   "role": "차녀",
+   "name": "김경선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1711"
+ }
+}

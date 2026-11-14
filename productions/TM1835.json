@@ -1,0 +1,64 @@
+{
+ "id": "TM1835",
+ "title": "콘보이쇼 타임터널",
+ "genre": "뮤지컬",
+ "from": "2012-03-23",
+ "to": "2012-04-22",
+ "venue": "백암아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster12.jpg",
+ "cast": [
+  "전혁진",
+  "강요섭",
+  "김정훈",
+  "김호민",
+  "김동현",
+  "성민(김우철)",
+  "신진범",
+  "마현진"
+ ],
+ "state": "공연완료",
+ "producer": "스테이지팩토리",
+ "price": "전석 6만6천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이태성/이상준",
+   "name": "전혁진"
+  },
+  {
+   "role": "이태성/이상준",
+   "name": "강요섭"
+  },
+  {
+   "role": "김정민/김영만",
+   "name": "김정훈"
+  },
+  {
+   "role": "김정민/김영만",
+   "name": "김호민"
+  },
+  {
+   "role": "박호영/박상천",
+   "name": "김동현"
+  },
+  {
+   "role": "강대식/강화상",
+   "name": "성민(김우철)"
+  },
+  {
+   "role": "최남수/최문식",
+   "name": "신진범"
+  },
+  {
+   "role": "이연우/이건희",
+   "name": "마현진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1835"
+ }
+}

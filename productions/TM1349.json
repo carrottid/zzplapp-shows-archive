@@ -1,0 +1,64 @@
+{
+ "id": "TM1349",
+ "title": "오디션",
+ "genre": "뮤지컬",
+ "from": "2009-02-01",
+ "to": "2009-03-29",
+ "venue": "씨어터 디아더",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2009audition.jpg",
+ "cast": [
+  "박용전",
+  "허규",
+  "주현종",
+  "정찬희",
+  "신효선",
+  "조은별",
+  "위다복",
+  "안옥진"
+ ],
+ "state": "공연완료",
+ "producer": "오픈런뮤지컬컴퍼니",
+ "price": "일반 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "박병태",
+   "name": "박용전"
+  },
+  {
+   "role": "박병태",
+   "name": "허규"
+  },
+  {
+   "role": "최준철",
+   "name": "주현종"
+  },
+  {
+   "role": "정찬희",
+   "name": "정찬희"
+  },
+  {
+   "role": "김선아",
+   "name": "신효선"
+  },
+  {
+   "role": "김선아",
+   "name": "조은별"
+  },
+  {
+   "role": "홍다복",
+   "name": "위다복"
+  },
+  {
+   "role": "홍초롱",
+   "name": "안옥진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1349"
+ }
+}

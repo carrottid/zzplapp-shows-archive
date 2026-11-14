@@ -1,0 +1,64 @@
+{
+ "id": "TM1882",
+ "title": "영웅을 기다리며",
+ "genre": "뮤지컬",
+ "from": "2012-08-07",
+ "to": "2012-10-31",
+ "venue": "PMC 대학로 자유극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster25.jpg",
+ "cast": [
+  "손광업",
+  "조휘",
+  "이신성",
+  "임강성",
+  "자두",
+  "김지민",
+  "홍순범",
+  "최성민"
+ ],
+ "state": "공연완료",
+ "producer": "파파 프로덕션",
+ "price": "평일 2만5천원 / 주말 3만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이순신",
+   "name": "손광업"
+  },
+  {
+   "role": "이순신",
+   "name": "조휘"
+  },
+  {
+   "role": "사스케",
+   "name": "이신성"
+  },
+  {
+   "role": "사스케",
+   "name": "임강성"
+  },
+  {
+   "role": "막딸",
+   "name": "자두"
+  },
+  {
+   "role": "막딸",
+   "name": "김지민"
+  },
+  {
+   "role": "멀티맨",
+   "name": "홍순범"
+  },
+  {
+   "role": "멀티맨",
+   "name": "최성민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1882"
+ }
+}

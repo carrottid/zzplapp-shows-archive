@@ -1,0 +1,44 @@
+{
+ "id": "TM860",
+ "title": "김종욱 찾기",
+ "genre": "뮤지컬",
+ "from": "2006-06-02",
+ "to": "2006-08-15",
+ "venue": "대학로 예술마당 1관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_김종욱 03.jpg",
+ "cast": [
+  "오만석",
+  "엄기준",
+  "오나라",
+  "전진오"
+ ],
+ "state": "공연완료",
+ "producer": "CJ엔터테인먼트, 뮤지컬해븐",
+ "price": "일반 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "김종욱/남자",
+   "name": "오만석"
+  },
+  {
+   "role": "김종욱/남자",
+   "name": "엄기준"
+  },
+  {
+   "role": "오나라",
+   "name": "오나라"
+  },
+  {
+   "role": "멀티맨",
+   "name": "전진오"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=860"
+ }
+}

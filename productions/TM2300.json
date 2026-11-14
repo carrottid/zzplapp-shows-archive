@@ -1,0 +1,54 @@
+{
+ "id": "TM2300",
+ "title": "쓰릴 미",
+ "genre": "뮤지컬",
+ "from": "2016-02-19",
+ "to": "2016-06-12",
+ "venue": "DCF대명문화공장 2관 라이프웨이홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20180105060106E8PP124O2735270X.jpg",
+ "cast": [
+  "임병근",
+  "정동화",
+  "강동호",
+  "정욱진",
+  "강영석",
+  "이상이"
+ ],
+ "state": "공연완료",
+ "producer": "달컴퍼니, 프레인글로벌",
+ "price": "R석 6만원, S석 4만원, 발코니석 1만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "그",
+   "name": "임병근"
+  },
+  {
+   "role": "그",
+   "name": "정동화"
+  },
+  {
+   "role": "그",
+   "name": "강동호"
+  },
+  {
+   "role": "나",
+   "name": "정욱진"
+  },
+  {
+   "role": "나",
+   "name": "강영석"
+  },
+  {
+   "role": "나",
+   "name": "이상이"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2300"
+ }
+}

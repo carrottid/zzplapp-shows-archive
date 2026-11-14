@@ -1,0 +1,56 @@
+{
+ "id": "PD9228",
+ "title": "2009 서울연극제 - 봄날",
+ "genre": "연극",
+ "from": "2009-04-22",
+ "to": "2009-04-28",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "오현경",
+  "이대연",
+  "장성익",
+  "강진휘",
+  "정만식",
+  "박완규",
+  "유성진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아버지",
+   "name": "오현경"
+  },
+  {
+   "role": "장남",
+   "name": "이대연"
+  },
+  {
+   "role": "차남",
+   "name": "장성익"
+  },
+  {
+   "role": "삼남",
+   "name": "강진휘"
+  },
+  {
+   "role": "사남",
+   "name": "정만식"
+  },
+  {
+   "role": "오남",
+   "name": "박완규"
+  },
+  {
+   "role": "",
+   "name": "유성진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200813112547/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=9228"
+ }
+}

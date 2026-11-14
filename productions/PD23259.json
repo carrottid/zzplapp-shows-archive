@@ -1,0 +1,66 @@
+{
+ "id": "PD23259",
+ "title": "행복한 가족 - 대구",
+ "genre": "연극",
+ "from": "2011-05-20",
+ "to": "2011-06-19",
+ "venue": "아트플러스씨어터",
+ "cast": [
+  "박일룡",
+  "이계준",
+  "김성진",
+  "김재권",
+  "이창건",
+  "우혜림",
+  "김동훈",
+  "최은주",
+  "정가빈"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "허학봉",
+   "name": "박일룡"
+  },
+  {
+   "role": "허학봉",
+   "name": "이계준"
+  },
+  {
+   "role": "실장",
+   "name": "김성진"
+  },
+  {
+   "role": "실장",
+   "name": "김재권"
+  },
+  {
+   "role": "장남",
+   "name": "이창건"
+  },
+  {
+   "role": "며느리",
+   "name": "우혜림"
+  },
+  {
+   "role": "사위",
+   "name": "김동훈"
+  },
+  {
+   "role": "고명딸",
+   "name": "최은주"
+  },
+  {
+   "role": "고명딸",
+   "name": "정가빈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240226084901/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=23259"
+ }
+}

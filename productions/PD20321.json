@@ -1,0 +1,66 @@
+{
+ "id": "PD20321",
+ "title": "연극 친정엄마",
+ "genre": "연극",
+ "from": "2011-01-28",
+ "to": "2011-03-06",
+ "venue": "세종문화회관 M씨어터",
+ "cast": [
+  "정영숙",
+  "연운경",
+  "전원주",
+  "이수나",
+  "배해선",
+  "김지성",
+  "이승희",
+  "윤영걸",
+  "김수현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "친정엄마",
+   "name": "정영숙"
+  },
+  {
+   "role": "친정엄마",
+   "name": "연운경"
+  },
+  {
+   "role": "서울댁",
+   "name": "전원주"
+  },
+  {
+   "role": "서울댁",
+   "name": "이수나"
+  },
+  {
+   "role": "딸",
+   "name": "배해선"
+  },
+  {
+   "role": "딸",
+   "name": "김지성"
+  },
+  {
+   "role": "시어머니",
+   "name": "이승희"
+  },
+  {
+   "role": "집배원,경찰,시아버지",
+   "name": "윤영걸"
+  },
+  {
+   "role": "남편",
+   "name": "김수현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240320200804/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=20321"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "PD94669",
+ "title": "가족",
+ "genre": "연극",
+ "from": "2015-03-20",
+ "to": "2015-03-22",
+ "venue": "대학로 SH 아트홀",
+ "cast": [
+  "강희세",
+  "박보배"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "동생",
+   "name": "강희세"
+  },
+  {
+   "role": "강상배",
+   "name": "박보배"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240206104714/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=94669"
+ }
+}

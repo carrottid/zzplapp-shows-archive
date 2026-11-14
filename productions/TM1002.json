@@ -1,0 +1,64 @@
+{
+ "id": "TM1002",
+ "title": "지킬 앤 하이드",
+ "genre": "뮤지컬",
+ "from": "2006-01-21",
+ "to": "2006-02-05",
+ "venue": "예술의 전당 오페라극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2006 지킬.JPG",
+ "cast": [
+  "류정한",
+  "조승우",
+  "이혜경",
+  "이영미",
+  "김선영",
+  "김봉환",
+  "김도형",
+  "김기순"
+ ],
+ "state": "공연완료",
+ "producer": "오디뮤지컬컴퍼니, CJ엔터테인먼트",
+ "price": "VIP석 12만원/R석 10만원/S석 8만원/A석 5만원/B석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "지킬/하이드",
+   "name": "류정한"
+  },
+  {
+   "role": "지킬/하이드",
+   "name": "조승우"
+  },
+  {
+   "role": "엠마",
+   "name": "이혜경"
+  },
+  {
+   "role": "루시",
+   "name": "이영미"
+  },
+  {
+   "role": "루시",
+   "name": "김선영"
+  },
+  {
+   "role": "덴버스경",
+   "name": "김봉환"
+  },
+  {
+   "role": "어터슨",
+   "name": "김도형"
+  },
+  {
+   "role": "비콘스필드부인",
+   "name": "김기순"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1002"
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "id": "TM2229",
+ "title": "고래고래",
+ "genre": "뮤지컬",
+ "from": "2015-09-11",
+ "to": "2015-11-15",
+ "venue": "광림아트센터 BBCH홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20150827015525W6405OXYJ65650U7.jpg",
+ "cast": [
+  "손호영",
+  "정상윤",
+  "한지상",
+  "김신의",
+  "허규",
+  "김재범",
+  "임병근",
+  "김보강",
+  "박한근",
+  "이창민",
+  "김정모",
+  "문진아",
+  "이정화",
+  "양서윤",
+  "서혜원",
+  "윤경호",
+  "정승준",
+  "강민석"
+ ],
+ "state": "공연완료",
+ "producer": "아시아브릿지컨텐츠",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "민우",
+   "name": "손호영"
+  },
+  {
+   "role": "민우",
+   "name": "정상윤"
+  },
+  {
+   "role": "민우",
+   "name": "한지상"
+  },
+  {
+   "role": "영민",
+   "name": "김신의"
+  },
+  {
+   "role": "영민",
+   "name": "허규"
+  },
+  {
+   "role": "호빈",
+   "name": "김재범"
+  },
+  {
+   "role": "호빈",
+   "name": "임병근"
+  },
+  {
+   "role": "호빈",
+   "name": "김보강"
+  },
+  {
+   "role": "병태",
+   "name": "박한근"
+  },
+  {
+   "role": "병태",
+   "name": "이창민"
+  },
+  {
+   "role": "병태",
+   "name": "김정모"
+  },
+  {
+   "role": "혜경",
+   "name": "문진아"
+  },
+  {
+   "role": "혜경",
+   "name": "이정화"
+  },
+  {
+   "role": "민숙",
+   "name": "양서윤"
+  },
+  {
+   "role": "민숙",
+   "name": "서혜원"
+  },
+  {
+   "role": "준용",
+   "name": "윤경호"
+  },
+  {
+   "role": "준용",
+   "name": "정승준"
+  },
+  {
+   "role": "민석",
+   "name": "강민석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2229"
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "id": "TM2249",
+ "title": "벽을 뚫는 남자",
+ "genre": "뮤지컬",
+ "from": "2015-11-21",
+ "to": "2016-02-14",
+ "venue": "홍익대 대학로 아트센터 대극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20151002060723WOX6L2BEWRRF0KQJ.jpg",
+ "cast": [
+  "이지훈",
+  "유연석",
+  "고창석",
+  "조재윤",
+  "배다해",
+  "문진아",
+  "임철형",
+  "정의욱",
+  "김영주",
+  "이영미",
+  "강연종",
+  "정인지",
+  "이충주",
+  "김세홍",
+  "정동석",
+  "이세령"
+ ],
+ "state": "공연완료",
+ "producer": "쇼노트",
+ "price": "VIP석 11만원, R석 9만9천원, S석 7만원, A석 5만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "듀티율",
+   "name": "이지훈"
+  },
+  {
+   "role": "듀티율",
+   "name": "유연석"
+  },
+  {
+   "role": "듀블/변호사/형무소장/경찰",
+   "name": "고창석"
+  },
+  {
+   "role": "듀블/변호사/형무소장/경찰",
+   "name": "조재윤"
+  },
+  {
+   "role": "이사벨",
+   "name": "배다해"
+  },
+  {
+   "role": "이사벨",
+   "name": "문진아"
+  },
+  {
+   "role": "부장/죄수/검사",
+   "name": "임철형"
+  },
+  {
+   "role": "부장/죄수/검사",
+   "name": "정의욱"
+  },
+  {
+   "role": "야채장사/매춘부",
+   "name": "김영주"
+  },
+  {
+   "role": "야채장사/매춘부",
+   "name": "이영미"
+  },
+  {
+   "role": "화가",
+   "name": "강연종"
+  },
+  {
+   "role": "공무원 M양",
+   "name": "정인지"
+  },
+  {
+   "role": "신문팔이",
+   "name": "이충주"
+  },
+  {
+   "role": "공무원B/경찰/간수/판사",
+   "name": "김세홍"
+  },
+  {
+   "role": "공무원C/간수/파시스트/거지",
+   "name": "정동석"
+  },
+  {
+   "role": "공무원A/공산당원",
+   "name": "이세령"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2249"
+ }
+}

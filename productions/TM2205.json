@@ -1,0 +1,84 @@
+{
+ "id": "TM2205",
+ "title": "사랑은 비를 타고(SABITA)",
+ "genre": "뮤지컬",
+ "from": "2015-06-06",
+ "to": "2015-08-30",
+ "venue": "유니플렉스 2관",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20150629034754WB0Q0H2081C32M8C.jpg",
+ "cast": [
+  "김성기",
+  "조유신",
+  "임기홍",
+  "문세윤",
+  "김규종",
+  "김종선",
+  "임정한",
+  "양동원",
+  "웨이",
+  "장도연",
+  "손예슬",
+  "박현지"
+ ],
+ "state": "공연완료",
+ "producer": "초이스엔터테인먼트",
+ "price": "R석 5만원, S석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "정동욱",
+   "name": "김성기"
+  },
+  {
+   "role": "정동욱",
+   "name": "조유신"
+  },
+  {
+   "role": "정동욱",
+   "name": "임기홍"
+  },
+  {
+   "role": "정동욱",
+   "name": "문세윤"
+  },
+  {
+   "role": "정동현",
+   "name": "김규종"
+  },
+  {
+   "role": "정동현",
+   "name": "김종선"
+  },
+  {
+   "role": "정동현",
+   "name": "임정한"
+  },
+  {
+   "role": "정동현",
+   "name": "양동원"
+  },
+  {
+   "role": "유미리",
+   "name": "웨이"
+  },
+  {
+   "role": "유미리",
+   "name": "장도연"
+  },
+  {
+   "role": "유미리",
+   "name": "손예슬"
+  },
+  {
+   "role": "유미리",
+   "name": "박현지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2205"
+ }
+}

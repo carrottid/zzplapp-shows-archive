@@ -1,0 +1,71 @@
+{
+ "id": "PD123701",
+ "title": "광인일기",
+ "genre": "연극",
+ "from": "2018-05-03",
+ "to": "2018-05-06",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "이종민",
+  "김정훈",
+  "강지연",
+  "하재성",
+  "김선기",
+  "권주영",
+  "김보경",
+  "박승현",
+  "민현기",
+  "권미나"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "광인",
+   "name": "이종민"
+  },
+  {
+   "role": "광인",
+   "name": "김정훈"
+  },
+  {
+   "role": "광인",
+   "name": "강지연"
+  },
+  {
+   "role": "광인",
+   "name": "하재성"
+  },
+  {
+   "role": "",
+   "name": "김선기"
+  },
+  {
+   "role": "",
+   "name": "권주영"
+  },
+  {
+   "role": "",
+   "name": "김보경"
+  },
+  {
+   "role": "",
+   "name": "박승현"
+  },
+  {
+   "role": "",
+   "name": "민현기"
+  },
+  {
+   "role": "",
+   "name": "권미나"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220628115729/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=123701"
+ }
+}

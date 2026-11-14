@@ -1,0 +1,66 @@
+{
+ "id": "PD121823",
+ "title": "카포네 트릴로지",
+ "genre": "연극",
+ "from": "2018-03-20",
+ "to": "2018-06-17",
+ "venue": "홍익대 대학로 아트센터 소극장",
+ "cast": [
+  "이석준",
+  "김종태",
+  "김주헌",
+  "김도빈",
+  "강정우",
+  "윤나무",
+  "김지현",
+  "최유하",
+  "손지윤"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "올드맨",
+   "name": "이석준"
+  },
+  {
+   "role": "올드맨",
+   "name": "김종태"
+  },
+  {
+   "role": "올드맨",
+   "name": "김주헌"
+  },
+  {
+   "role": "영맨",
+   "name": "김도빈"
+  },
+  {
+   "role": "영맨",
+   "name": "강정우"
+  },
+  {
+   "role": "영맨",
+   "name": "윤나무"
+  },
+  {
+   "role": "레이디",
+   "name": "김지현"
+  },
+  {
+   "role": "레이디",
+   "name": "최유하"
+  },
+  {
+   "role": "레이디",
+   "name": "손지윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241106051833/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=121823"
+ }
+}

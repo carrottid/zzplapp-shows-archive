@@ -1,0 +1,31 @@
+{
+ "id": "PD64974",
+ "title": "오래된 기억",
+ "genre": "연극",
+ "from": "2014-08-08",
+ "to": "2014-08-17",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "윤현길",
+  "임호영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "여자",
+   "name": "윤현길"
+  },
+  {
+   "role": "남자",
+   "name": "임호영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251217030246/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=64974"
+ }
+}

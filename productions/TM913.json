@@ -1,0 +1,69 @@
+{
+ "id": "TM913",
+ "title": "19 그리고 80",
+ "genre": "뮤지컬",
+ "from": "2008-01-19",
+ "to": "2008-03-05",
+ "venue": "예술의전당 자유소극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008 19_80.jpg",
+ "cast": [
+  "박정자",
+  "이신성",
+  "서지영",
+  "이건명",
+  "배해선",
+  "심재현",
+  "정선영",
+  "백현주",
+  "최은주"
+ ],
+ "state": "공연완료",
+ "producer": "신시뮤지컬컴퍼니",
+ "price": "R석 4만5천원, S석 3만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "모드",
+   "name": "박정자"
+  },
+  {
+   "role": "해롤드",
+   "name": "이신성"
+  },
+  {
+   "role": "체이슨",
+   "name": "서지영"
+  },
+  {
+   "role": "1인다역",
+   "name": "이건명"
+  },
+  {
+   "role": "1인다역",
+   "name": "배해선"
+  },
+  {
+   "role": "앙상블",
+   "name": "심재현"
+  },
+  {
+   "role": "앙상블",
+   "name": "정선영"
+  },
+  {
+   "role": "앙상블",
+   "name": "백현주"
+  },
+  {
+   "role": "앙상블",
+   "name": "최은주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=913"
+ }
+}

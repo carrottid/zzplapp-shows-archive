@@ -1,0 +1,26 @@
+{
+ "id": "PD26794",
+ "title": "70년전",
+ "genre": "연극",
+ "from": "2011-08-19",
+ "to": "2011-09-11",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "심재현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "마이꼬",
+   "name": "심재현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704022243/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=26794"
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "id": "TM882",
+ "title": "하드락 카페",
+ "genre": "뮤지컬",
+ "from": "2007-11-24",
+ "to": "2007-12-30",
+ "venue": "나루아트센터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200916013533b5a99b6ebbd846de91aa32844f860a39.jpg",
+ "cast": [
+  "송용진",
+  "최윤",
+  "문혜영",
+  "소냐",
+  "최인천",
+  "유나영",
+  "김용호"
+ ],
+ "state": "공연완료",
+ "producer": "서울뮤지컬컴퍼니",
+ "price": "R석 6만원, S석 5만원, A석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "준",
+   "name": "송용진"
+  },
+  {
+   "role": "준",
+   "name": "최윤"
+  },
+  {
+   "role": "세리",
+   "name": "문혜영"
+  },
+  {
+   "role": "세리",
+   "name": "소냐"
+  },
+  {
+   "role": "엘리자베스킴",
+   "name": "최인천"
+  },
+  {
+   "role": "엘리자베스킴",
+   "name": "유나영"
+  },
+  {
+   "role": "앙상블",
+   "name": "김용호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=882"
+ }
+}

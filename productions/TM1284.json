@@ -1,0 +1,89 @@
+{
+ "id": "TM1284",
+ "title": "즐거운 인생",
+ "genre": "뮤지컬",
+ "from": "2008-11-21",
+ "to": "2009-02-08",
+ "venue": "충무아트홀 중극장 블랙",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_happylife2008.gif",
+ "cast": [
+  "유준상",
+  "임춘길",
+  "김무열",
+  "주종혁(라이언)",
+  "정원영",
+  "이영미",
+  "백주희",
+  "김정민",
+  "배윤범",
+  "이건영",
+  "최나래",
+  "이승원",
+  "이반디"
+ ],
+ "state": "공연완료",
+ "producer": "(주)엠뮤지컬 컴퍼니",
+ "price": "R석 5만원, S석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "범진",
+   "name": "유준상"
+  },
+  {
+   "role": "범진",
+   "name": "임춘길"
+  },
+  {
+   "role": "세기",
+   "name": "김무열"
+  },
+  {
+   "role": "세기",
+   "name": "주종혁(라이언)"
+  },
+  {
+   "role": "세기",
+   "name": "정원영"
+  },
+  {
+   "role": "선영",
+   "name": "이영미"
+  },
+  {
+   "role": "선영",
+   "name": "백주희"
+  },
+  {
+   "role": "일인다역",
+   "name": "김정민"
+  },
+  {
+   "role": "일인다역",
+   "name": "배윤범"
+  },
+  {
+   "role": "일인다역",
+   "name": "이건영"
+  },
+  {
+   "role": "일인다역",
+   "name": "최나래"
+  },
+  {
+   "role": "일인다역",
+   "name": "이승원"
+  },
+  {
+   "role": "일인다역",
+   "name": "이반디"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1284"
+ }
+}

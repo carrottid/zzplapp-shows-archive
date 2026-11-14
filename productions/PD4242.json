@@ -1,0 +1,46 @@
+{
+ "id": "PD4242",
+ "title": "2008 서울연극제 - 쿠크 박사의 정원",
+ "genre": "연극",
+ "from": "2008-05-16",
+ "to": "2008-05-25",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "이호재",
+  "김수현",
+  "지자혜",
+  "전진기",
+  "장연익"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "쿠크 박사",
+   "name": "이호재"
+  },
+  {
+   "role": "짐 테니슨",
+   "name": "김수현"
+  },
+  {
+   "role": "도라 루들로우",
+   "name": "지자혜"
+  },
+  {
+   "role": "엘리아스 하트",
+   "name": "전진기"
+  },
+  {
+   "role": "비 슈미트",
+   "name": "장연익"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704031914/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=4242"
+ }
+}

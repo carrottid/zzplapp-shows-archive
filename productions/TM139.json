@@ -1,0 +1,49 @@
+{
+ "id": "TM139",
+ "title": "천국과 지옥",
+ "genre": "뮤지컬",
+ "from": "2004-03-19",
+ "to": "2004-05-02",
+ "venue": "게릴라극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_orp0.gif",
+ "cast": [
+  "박선주",
+  "김동현",
+  "허중혁",
+  "김낙균",
+  "민정기"
+ ],
+ "state": "공연완료",
+ "producer": "극단 연희단 거리패(STT 뮤지컬 컴퍼니)",
+ "price": "S석3만원, 일반2만원, 대학생1만5천원, 중고생1만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "에우리디체",
+   "name": "박선주"
+  },
+  {
+   "role": "에우리디체",
+   "name": "김동현"
+  },
+  {
+   "role": "에우리디체",
+   "name": "허중혁"
+  },
+  {
+   "role": "에우리디체",
+   "name": "김낙균"
+  },
+  {
+   "role": "플루톤",
+   "name": "민정기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=139"
+ }
+}

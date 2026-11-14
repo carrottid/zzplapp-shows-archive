@@ -1,0 +1,41 @@
+{
+ "id": "PD108164",
+ "title": "슬루스",
+ "genre": "연극",
+ "from": "2017-06-02",
+ "to": "2017-07-23",
+ "venue": "예스24스테이지 2관",
+ "cast": [
+  "김종구",
+  "정동화",
+  "정문성",
+  "정욱진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "앤드류",
+   "name": "김종구"
+  },
+  {
+   "role": "앤드류",
+   "name": "정동화"
+  },
+  {
+   "role": "마일로",
+   "name": "정문성"
+  },
+  {
+   "role": "마일로",
+   "name": "정욱진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251116124443/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=108164"
+ }
+}

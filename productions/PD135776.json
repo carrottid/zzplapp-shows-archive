@@ -1,0 +1,51 @@
+{
+ "id": "PD135776",
+ "title": "빌미",
+ "genre": "연극",
+ "from": "2019-01-25",
+ "to": "2019-02-03",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "한규남",
+  "송현서",
+  "김철리",
+  "조수정",
+  "박정순",
+  "홍윤희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "최명광",
+   "name": "한규남"
+  },
+  {
+   "role": "강순옥",
+   "name": "송현서"
+  },
+  {
+   "role": "진성필",
+   "name": "김철리"
+  },
+  {
+   "role": "최승연",
+   "name": "조수정"
+  },
+  {
+   "role": "김철수",
+   "name": "박정순"
+  },
+  {
+   "role": "정애란",
+   "name": "홍윤희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250804213915/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=135776"
+ }
+}

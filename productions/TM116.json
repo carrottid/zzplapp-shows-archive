@@ -1,0 +1,73 @@
+{
+ "id": "TM116",
+ "title": "지하철1호선",
+ "genre": "뮤지컬",
+ "from": "2005-01-14",
+ "to": "2005-07-03",
+ "venue": "학전그린",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_ji1.gif",
+ "cast": [
+  "김무열",
+  "김아선",
+  "김현국",
+  "서오순",
+  "이승원",
+  "이학민",
+  "전문지",
+  "주현종",
+  "최영화",
+  "한혜숙"
+ ],
+ "state": "공연완료",
+ "producer": "극단 학전",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "제비/장애아/단속반/신문 등",
+   "name": "김무열"
+  },
+  {
+   "role": "제비/장애아/단속반/신문 등",
+   "name": "김아선"
+  },
+  {
+   "role": "제비/장애아/단속반/신문 등",
+   "name": "김현국"
+  },
+  {
+   "role": "제비/장애아/단속반/신문 등",
+   "name": "서오순"
+  },
+  {
+   "role": "제비/장애아/단속반/신문 등",
+   "name": "이승원"
+  },
+  {
+   "role": "제비/장애아/단속반/신문 등",
+   "name": "이학민"
+  },
+  {
+   "role": "제비/장애아/단속반/신문 등",
+   "name": "전문지"
+  },
+  {
+   "role": "제비/장애아/단속반/신문 등",
+   "name": "주현종"
+  },
+  {
+   "role": "제비/장애아/단속반/신문 등",
+   "name": "최영화"
+  },
+  {
+   "role": "제비/장애아/단속반/신문 등",
+   "name": "한혜숙"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=116"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "PD136986",
+ "title": "굴레방다리의 소극",
+ "genre": "연극",
+ "from": "2019-03-09",
+ "to": "2019-03-30",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "이상일",
+  "권재원",
+  "성원",
+  "이중현",
+  "구본혁"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아버지",
+   "name": "이상일"
+  },
+  {
+   "role": "아버지",
+   "name": "권재원"
+  },
+  {
+   "role": "한철",
+   "name": "성원"
+  },
+  {
+   "role": "두철",
+   "name": "이중현"
+  },
+  {
+   "role": "두철",
+   "name": "구본혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241110112159/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=136986"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "id": "PD99246",
+ "title": "싸이코패스는 고양이를 죽인다",
+ "genre": "연극",
+ "from": "2016-10-27",
+ "to": "2016-11-20",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "김수보",
+  "이한일",
+  "이황의",
+  "리우진",
+  "최영도",
+  "최명경",
+  "황무영",
+  "곽지숙",
+  "주은",
+  "백운철",
+  "장진향",
+  "심원석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "노인",
+   "name": "김수보"
+  },
+  {
+   "role": "노인",
+   "name": "이한일"
+  },
+  {
+   "role": "선생",
+   "name": "이황의"
+  },
+  {
+   "role": "사내",
+   "name": "리우진"
+  },
+  {
+   "role": "사내",
+   "name": "최영도"
+  },
+  {
+   "role": "남편",
+   "name": "최명경"
+  },
+  {
+   "role": "남편",
+   "name": "황무영"
+  },
+  {
+   "role": "아내",
+   "name": "곽지숙"
+  },
+  {
+   "role": "아줌마",
+   "name": "주은"
+  },
+  {
+   "role": "",
+   "name": "백운철"
+  },
+  {
+   "role": "",
+   "name": "장진향"
+  },
+  {
+   "role": "",
+   "name": "심원석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191021235349/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=99246"
+ }
+}

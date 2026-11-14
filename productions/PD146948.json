@@ -1,0 +1,61 @@
+{
+ "id": "PD146948",
+ "title": "무인도에서 생긴 일",
+ "genre": "연극",
+ "from": "2019-08-29",
+ "to": "2019-09-29",
+ "venue": "예그린씨어터",
+ "cast": [
+  "김현균",
+  "김민수",
+  "주원성",
+  "박형준",
+  "문정미",
+  "구옥분",
+  "채종국",
+  "박병준"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "필립",
+   "name": "김현균"
+  },
+  {
+   "role": "필립",
+   "name": "김민수"
+  },
+  {
+   "role": "앙리",
+   "name": "주원성"
+  },
+  {
+   "role": "앙리",
+   "name": "박형준"
+  },
+  {
+   "role": "수잔",
+   "name": "문정미"
+  },
+  {
+   "role": "수잔",
+   "name": "구옥분"
+  },
+  {
+   "role": "원주민",
+   "name": "채종국"
+  },
+  {
+   "role": "원주민",
+   "name": "박병준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241109163609/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=146948"
+ }
+}

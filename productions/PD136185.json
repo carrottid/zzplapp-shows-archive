@@ -1,0 +1,31 @@
+{
+ "id": "PD136185",
+ "title": "가로수 그늘 아래 서면",
+ "genre": "연극",
+ "from": "2018-07-11",
+ "to": "2018-07-22",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "이다일",
+  "최한"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "남자1",
+   "name": "이다일"
+  },
+  {
+   "role": "남자2",
+   "name": "최한"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241010132815/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=136185"
+ }
+}

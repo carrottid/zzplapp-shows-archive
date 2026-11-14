@@ -1,0 +1,96 @@
+{
+ "id": "PD68444",
+ "title": "1914년 이상협의 눈물",
+ "genre": "연극",
+ "from": "2014-10-29",
+ "to": "2014-11-06",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "김남진",
+  "장영철",
+  "김미란",
+  "박진희",
+  "지성훈",
+  "이현주",
+  "이승현",
+  "이은정",
+  "김성준",
+  "박소아",
+  "서광일",
+  "손성현",
+  "박재만",
+  "조영은",
+  "홍승만"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "소리꾼",
+   "name": "김남진"
+  },
+  {
+   "role": "조필환",
+   "name": "장영철"
+  },
+  {
+   "role": "서씨",
+   "name": "김미란"
+  },
+  {
+   "role": "봉남이",
+   "name": "박진희"
+  },
+  {
+   "role": "장철수",
+   "name": "지성훈"
+  },
+  {
+   "role": "평양댁",
+   "name": "이현주"
+  },
+  {
+   "role": "",
+   "name": "이승현"
+  },
+  {
+   "role": "",
+   "name": "이은정"
+  },
+  {
+   "role": "",
+   "name": "김성준"
+  },
+  {
+   "role": "",
+   "name": "박소아"
+  },
+  {
+   "role": "",
+   "name": "서광일"
+  },
+  {
+   "role": "",
+   "name": "손성현"
+  },
+  {
+   "role": "",
+   "name": "박재만"
+  },
+  {
+   "role": "",
+   "name": "조영은"
+  },
+  {
+   "role": "",
+   "name": "홍승만"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240814071357/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=68444"
+ }
+}

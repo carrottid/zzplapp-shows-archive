@@ -1,0 +1,88 @@
+{
+ "id": "TM633",
+ "title": "청산별곡",
+ "genre": "뮤지컬",
+ "from": "2003-08-28",
+ "to": "2003-08-31",
+ "venue": "문예진흥원예술극장 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_청산별곡.bmp",
+ "cast": [
+  "안재홍",
+  "이채경",
+  "최병규",
+  "민병상",
+  "이종한",
+  "최인형",
+  "홍경수",
+  "도정주",
+  "김동호",
+  "김정렬",
+  "김영철",
+  "이승희",
+  "심정완"
+ ],
+ "state": "공연완료",
+ "producer": "서울예술단",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "몽고병사",
+   "name": "안재홍"
+  },
+  {
+   "role": "몽고병사",
+   "name": "이채경"
+  },
+  {
+   "role": "몽고병사",
+   "name": "최병규"
+  },
+  {
+   "role": "제관",
+   "name": "민병상"
+  },
+  {
+   "role": "제관",
+   "name": "이종한"
+  },
+  {
+   "role": "제관",
+   "name": "최인형"
+  },
+  {
+   "role": "인형극/그림자연극",
+   "name": "홍경수"
+  },
+  {
+   "role": "인형극/그림자연극",
+   "name": "도정주"
+  },
+  {
+   "role": "인형극/그림자연극",
+   "name": "김동호"
+  },
+  {
+   "role": "몽고병사",
+   "name": "김정렬"
+  },
+  {
+   "role": "몽고병사",
+   "name": "김영철"
+  },
+  {
+   "role": "몽고병사",
+   "name": "이승희"
+  },
+  {
+   "role": "인형극/그림자연극",
+   "name": "심정완"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=633"
+ }
+}

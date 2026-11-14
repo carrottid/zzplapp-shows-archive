@@ -1,0 +1,91 @@
+{
+ "id": "PD86112",
+ "title": "드라큘라",
+ "genre": "뮤지컬",
+ "from": "2016-01-23",
+ "to": "2016-02-09",
+ "venue": "세종문화회관 대극장",
+ "cast": [
+  "김준수",
+  "박재윤",
+  "임혜영",
+  "강홍석",
+  "진태화",
+  "이예은",
+  "서도진",
+  "공민섭",
+  "김한재",
+  "윤지인",
+  "손의완",
+  "남궁혜윤",
+  "김지욱",
+  "박규연"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "드라큘라",
+   "name": "김준수"
+  },
+  {
+   "role": "드라큘라",
+   "name": "박재윤"
+  },
+  {
+   "role": "미나 머레이",
+   "name": "임혜영"
+  },
+  {
+   "role": "에이브러햄 반 헬싱",
+   "name": "강홍석"
+  },
+  {
+   "role": "조나단 하커",
+   "name": "진태화"
+  },
+  {
+   "role": "루시 웨스텐라",
+   "name": "이예은"
+  },
+  {
+   "role": "잭 스워드",
+   "name": "서도진"
+  },
+  {
+   "role": "",
+   "name": "공민섭"
+  },
+  {
+   "role": "",
+   "name": "김한재"
+  },
+  {
+   "role": "",
+   "name": "윤지인"
+  },
+  {
+   "role": "",
+   "name": "손의완"
+  },
+  {
+   "role": "",
+   "name": "남궁혜윤"
+  },
+  {
+   "role": "",
+   "name": "김지욱"
+  },
+  {
+   "role": "",
+   "name": "박규연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250220140501/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=86112"
+ }
+}

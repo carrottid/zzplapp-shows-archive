@@ -1,0 +1,56 @@
+{
+ "id": "PD1013",
+ "title": "나생문",
+ "genre": "연극",
+ "from": "2006-06-10",
+ "to": "2006-07-02",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "최용민",
+  "서현철",
+  "최광일",
+  "장영남",
+  "이요성",
+  "황세원",
+  "서지원"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "스님",
+   "name": "최용민"
+  },
+  {
+   "role": "가발장수",
+   "name": "서현철"
+  },
+  {
+   "role": "산적",
+   "name": "최광일"
+  },
+  {
+   "role": "부인",
+   "name": "장영남"
+  },
+  {
+   "role": "무사",
+   "name": "이요성"
+  },
+  {
+   "role": "무녀",
+   "name": "황세원"
+  },
+  {
+   "role": "",
+   "name": "서지원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230724022522/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=1013"
+ }
+}

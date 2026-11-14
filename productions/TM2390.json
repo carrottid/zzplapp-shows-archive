@@ -1,0 +1,94 @@
+{
+ "id": "TM2390",
+ "title": "그 여름, 동물원",
+ "genre": "뮤지컬",
+ "from": "2016-11-08",
+ "to": "2017-01-22",
+ "venue": "한전아트센터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20161012033437I8M4CL0F2J5572JM.jpg",
+ "cast": [
+  "홍경민",
+  "최승열",
+  "임진웅",
+  "이정열",
+  "김준오",
+  "방재호",
+  "유제윤",
+  "최성욱(에이스)",
+  "홍종화",
+  "최신권",
+  "허은미",
+  "이승우",
+  "맹상열",
+  "조훈"
+ ],
+ "state": "공연완료",
+ "producer": "더그룹",
+ "price": "R석 9만 9천원, S석 8만 8천원, A석 6만 6천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "그 친구",
+   "name": "홍경민"
+  },
+  {
+   "role": "그 친구",
+   "name": "최승열"
+  },
+  {
+   "role": "창기",
+   "name": "임진웅"
+  },
+  {
+   "role": "창기",
+   "name": "이정열"
+  },
+  {
+   "role": "기영",
+   "name": "김준오"
+  },
+  {
+   "role": "기영",
+   "name": "방재호"
+  },
+  {
+   "role": "준열",
+   "name": "유제윤"
+  },
+  {
+   "role": "준열",
+   "name": "최성욱(에이스)"
+  },
+  {
+   "role": "경찬",
+   "name": "홍종화"
+  },
+  {
+   "role": "경찬",
+   "name": "최신권"
+  },
+  {
+   "role": "그녀",
+   "name": "허은미"
+  },
+  {
+   "role": "그녀",
+   "name": "이승우"
+  },
+  {
+   "role": "그들",
+   "name": "맹상열"
+  },
+  {
+   "role": "그들",
+   "name": "조훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2390"
+ }
+}

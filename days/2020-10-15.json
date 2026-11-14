@@ -1,0 +1,41 @@
+{
+ "date": "2020-10-15",
+ "sessions": [
+  {
+   "id": "PF166543",
+   "title": "고스트",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#21193B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF167338",
+   "title": "미오 프라텔로",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF167545",
+   "title": "아킬레스",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#21102F",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

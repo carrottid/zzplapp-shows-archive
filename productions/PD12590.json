@@ -1,0 +1,56 @@
+{
+ "id": "PD12590",
+ "title": "피아프",
+ "genre": "연극",
+ "from": "2009-11-05",
+ "to": "2009-11-16",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "최정원",
+  "김수현",
+  "정재은",
+  "한성식",
+  "최아란",
+  "방정식",
+  "김학준"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "피아프",
+   "name": "최정원"
+  },
+  {
+   "role": "마르셀 세르당",
+   "name": "김수현"
+  },
+  {
+   "role": "뜨완",
+   "name": "정재은"
+  },
+  {
+   "role": "",
+   "name": "한성식"
+  },
+  {
+   "role": "",
+   "name": "최아란"
+  },
+  {
+   "role": "",
+   "name": "방정식"
+  },
+  {
+   "role": "",
+   "name": "김학준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191113174223/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=12590"
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "id": "TM1740",
+ "title": "삼총사",
+ "genre": "뮤지컬",
+ "from": "2011-07-22",
+ "to": "2011-07-31",
+ "venue": "세종문화회관 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_three2011.jpg",
+ "cast": [
+  "엄기준",
+  "김진우",
+  "규현",
+  "신성우",
+  "유준상",
+  "민영기",
+  "김법래",
+  "서지영",
+  "백주연",
+  "양준모",
+  "김아선",
+  "김상현"
+ ],
+ "state": "공연완료",
+ "producer": "(주)엠뮤지컬컴퍼니",
+ "price": "삼총사석 150,000원/ VIP석 130,000원/ R석 110,000원/ S석 100,000원/ A석 90,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "달타냥",
+   "name": "엄기준"
+  },
+  {
+   "role": "달타냥",
+   "name": "김진우"
+  },
+  {
+   "role": "달타냥",
+   "name": "규현"
+  },
+  {
+   "role": "아토스",
+   "name": "신성우"
+  },
+  {
+   "role": "아토스",
+   "name": "유준상"
+  },
+  {
+   "role": "아라미스",
+   "name": "민영기"
+  },
+  {
+   "role": "포르토스",
+   "name": "김법래"
+  },
+  {
+   "role": "밀라디",
+   "name": "서지영"
+  },
+  {
+   "role": "밀라디",
+   "name": "백주연"
+  },
+  {
+   "role": "추기경",
+   "name": "양준모"
+  },
+  {
+   "role": "콘스탄스",
+   "name": "김아선"
+  },
+  {
+   "role": "쥬샤크",
+   "name": "김상현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1740"
+ }
+}

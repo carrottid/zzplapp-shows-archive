@@ -1,0 +1,39 @@
+{
+ "id": "TM1471",
+ "title": "한밤의 세레나데",
+ "genre": "뮤지컬",
+ "from": "2009-07-11",
+ "to": "2009-08-16",
+ "venue": "대학로예술극장 소극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_hanbam2009.JPG",
+ "cast": [
+  "김소진",
+  "김명준",
+  "최영준"
+ ],
+ "state": "공연완료",
+ "producer": "극단 오징어, MJ플래닛",
+ "price": "일반/대학생 3만원 중고생 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "박정자",
+   "name": "김소진"
+  },
+  {
+   "role": "도너츠/박봉팔",
+   "name": "김명준"
+  },
+  {
+   "role": "멀티맨",
+   "name": "최영준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1471"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "id": "PD17526",
+ "title": "화랑",
+ "genre": "뮤지컬",
+ "from": "2010-06-11",
+ "to": "2011-02-27",
+ "venue": "대학로 열린극장",
+ "cast": [
+  "김성겸",
+  "임기평",
+  "원성준",
+  "송태윤",
+  "김종선",
+  "김형균",
+  "이찬후",
+  "김태영",
+  "백형훈",
+  "전성우",
+  "안효빈"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "기파랑",
+   "name": "김성겸"
+  },
+  {
+   "role": "기파랑",
+   "name": "임기평"
+  },
+  {
+   "role": "사다함",
+   "name": "원성준"
+  },
+  {
+   "role": "사다함",
+   "name": "송태윤"
+  },
+  {
+   "role": "사다함",
+   "name": "김종선"
+  },
+  {
+   "role": "유오랑",
+   "name": "김형균"
+  },
+  {
+   "role": "유오랑",
+   "name": "이찬후"
+  },
+  {
+   "role": "문노",
+   "name": "김태영"
+  },
+  {
+   "role": "문노",
+   "name": "백형훈"
+  },
+  {
+   "role": "무관랑",
+   "name": "전성우"
+  },
+  {
+   "role": "무관랑",
+   "name": "안효빈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20231004025046/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=17526"
+ }
+}

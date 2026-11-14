@@ -1,0 +1,56 @@
+{
+ "id": "PD144354",
+ "title": "낭랑긔생",
+ "genre": "연극",
+ "from": "2019-07-26",
+ "to": "2019-08-18",
+ "venue": "국립정동극장(서울)",
+ "cast": [
+  "김주연",
+  "홍륜희",
+  "이예지",
+  "박찬양",
+  "이지해",
+  "노희찬",
+  "윤성원"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "강향란",
+   "name": "김주연"
+  },
+  {
+   "role": "차순화",
+   "name": "홍륜희"
+  },
+  {
+   "role": "조정숙",
+   "name": "이예지"
+  },
+  {
+   "role": "이은희",
+   "name": "박찬양"
+  },
+  {
+   "role": "고명순",
+   "name": "이지해"
+  },
+  {
+   "role": "현석윤/마쓰모토",
+   "name": "노희찬"
+  },
+  {
+   "role": "",
+   "name": "윤성원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210418190223/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=144354"
+ }
+}

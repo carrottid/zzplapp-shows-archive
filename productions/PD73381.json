@@ -1,0 +1,61 @@
+{
+ "id": "PD73381",
+ "title": "내 이름은 강",
+ "genre": "연극",
+ "from": "2015-02-26",
+ "to": "2015-03-08",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "유수연",
+  "장애실",
+  "박규진",
+  "정준호",
+  "문하나",
+  "안은혜",
+  "권하늘",
+  "백혜리"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "오늘이",
+   "name": "유수연"
+  },
+  {
+   "role": "오늘이",
+   "name": "장애실"
+  },
+  {
+   "role": "소년(노인)",
+   "name": "박규진"
+  },
+  {
+   "role": "광대1",
+   "name": "정준호"
+  },
+  {
+   "role": "광대2",
+   "name": "문하나"
+  },
+  {
+   "role": "농부",
+   "name": "안은혜"
+  },
+  {
+   "role": "농부",
+   "name": "권하늘"
+  },
+  {
+   "role": "역무원",
+   "name": "백혜리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220928193430/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=73381"
+ }
+}

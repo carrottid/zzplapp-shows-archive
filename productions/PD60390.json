@@ -1,0 +1,71 @@
+{
+ "id": "PD60390",
+ "title": "봄날은 간다",
+ "genre": "뮤지컬",
+ "from": "2014-05-01",
+ "to": "2014-05-25",
+ "venue": "올림픽공원 우리금융아트홀",
+ "cast": [
+  "김자옥",
+  "최주봉",
+  "윤문식",
+  "이윤표",
+  "권민수",
+  "이봄이",
+  "이윤수",
+  "김윤선",
+  "김아름",
+  "도례미"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "명자",
+   "name": "김자옥"
+  },
+  {
+   "role": "동탁",
+   "name": "최주봉"
+  },
+  {
+   "role": "쇼단 단장",
+   "name": "윤문식"
+  },
+  {
+   "role": "난희",
+   "name": "이윤표"
+  },
+  {
+   "role": "범길",
+   "name": "권민수"
+  },
+  {
+   "role": "",
+   "name": "이봄이"
+  },
+  {
+   "role": "",
+   "name": "이윤수"
+  },
+  {
+   "role": "",
+   "name": "김윤선"
+  },
+  {
+   "role": "",
+   "name": "김아름"
+  },
+  {
+   "role": "",
+   "name": "도례미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251129213454/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=60390"
+ }
+}

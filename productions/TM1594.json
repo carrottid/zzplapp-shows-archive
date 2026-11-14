@@ -1,0 +1,59 @@
+{
+ "id": "TM1594",
+ "title": "키스 앤 메이크업!?",
+ "genre": "뮤지컬",
+ "from": "2010-03-20",
+ "to": "2010-07-31",
+ "venue": "더굿씨어터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_kissnmakeup2010.jpg",
+ "cast": [
+  "박해미",
+  "추정화",
+  "주원성",
+  "김도신",
+  "최오식",
+  "이한샘",
+  "임천석"
+ ],
+ "state": "공연완료",
+ "producer": "海美뮤지컬컴퍼니",
+ "price": "R석 5만원/ S석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "강이나",
+   "name": "박해미"
+  },
+  {
+   "role": "강이나",
+   "name": "추정화"
+  },
+  {
+   "role": "하찬은",
+   "name": "주원성"
+  },
+  {
+   "role": "하찬은",
+   "name": "김도신"
+  },
+  {
+   "role": "베드로",
+   "name": "최오식"
+  },
+  {
+   "role": "베드로",
+   "name": "이한샘"
+  },
+  {
+   "role": "샘",
+   "name": "임천석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1594"
+ }
+}

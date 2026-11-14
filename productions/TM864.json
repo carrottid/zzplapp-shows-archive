@@ -1,0 +1,79 @@
+{
+ "id": "TM864",
+ "title": "싱글즈",
+ "genre": "뮤지컬",
+ "from": "2007-10-17",
+ "to": "2007-12-31",
+ "venue": "KT&G 상상아트홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009170154046d094833fd104bd4ae2a7542cc0c2b9d.jpg",
+ "cast": [
+  "구원영",
+  "백주연",
+  "정상훈",
+  "김태한",
+  "전진오",
+  "서현수",
+  "정수한",
+  "박진희",
+  "정현주",
+  "박혜경",
+  "심홍섭"
+ ],
+ "state": "공연완료",
+ "producer": "악어컴퍼니,MBC프로덕션",
+ "price": "기프트석 6만원, 일반석 4만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "나난",
+   "name": "구원영"
+  },
+  {
+   "role": "동미",
+   "name": "백주연"
+  },
+  {
+   "role": "정준",
+   "name": "정상훈"
+  },
+  {
+   "role": "정준",
+   "name": "김태한"
+  },
+  {
+   "role": "수헌",
+   "name": "전진오"
+  },
+  {
+   "role": "수헌",
+   "name": "서현수"
+  },
+  {
+   "role": "앙상블",
+   "name": "정수한"
+  },
+  {
+   "role": "앙상블",
+   "name": "박진희"
+  },
+  {
+   "role": "앙상블",
+   "name": "정현주"
+  },
+  {
+   "role": "앙상블",
+   "name": "박혜경"
+  },
+  {
+   "role": "앙상블",
+   "name": "심홍섭"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=864"
+ }
+}

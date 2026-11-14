@@ -1,0 +1,51 @@
+{
+ "id": "PD133032",
+ "title": "만주전선",
+ "genre": "연극",
+ "from": "2018-10-18",
+ "to": "2018-10-28",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "남호섭",
+  "김수진",
+  "윤국중",
+  "권다림",
+  "배수진",
+  "김민주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아스카",
+   "name": "남호섭"
+  },
+  {
+   "role": "기무라",
+   "name": "김수진"
+  },
+  {
+   "role": "가네다",
+   "name": "윤국중"
+  },
+  {
+   "role": "요시에",
+   "name": "권다림"
+  },
+  {
+   "role": "나오미",
+   "name": "배수진"
+  },
+  {
+   "role": "게이코",
+   "name": "김민주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241010161838/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=133032"
+ }
+}

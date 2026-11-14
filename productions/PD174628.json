@@ -1,0 +1,51 @@
+{
+ "id": "PD174628",
+ "title": "이제 그만 죽어줘",
+ "genre": "연극",
+ "from": "2017-06-21",
+ "to": "2017-06-25",
+ "venue": "소극장 혜화당(구.까망 소극장)",
+ "cast": [
+  "박기륭",
+  "김민중",
+  "이수연",
+  "이은주",
+  "송준석",
+  "이태근"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아버지",
+   "name": "박기륭"
+  },
+  {
+   "role": "아들",
+   "name": "김민중"
+  },
+  {
+   "role": "어머니",
+   "name": "이수연"
+  },
+  {
+   "role": "작은누나",
+   "name": "이은주"
+  },
+  {
+   "role": "매형",
+   "name": "송준석"
+  },
+  {
+   "role": "경찰관/웨이터",
+   "name": "이태근"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250114064407/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=174628"
+ }
+}

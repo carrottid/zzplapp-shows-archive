@@ -1,0 +1,71 @@
+{
+ "id": "PD1299",
+ "title": "홍동지놀이",
+ "genre": "연극",
+ "from": "2007-10-11",
+ "to": "2007-10-19",
+ "venue": "국립극장 달오름극장",
+ "cast": [
+  "서민성",
+  "오대석",
+  "김송일",
+  "김영아",
+  "이진",
+  "박소영",
+  "문정수",
+  "김완",
+  "박민정",
+  "박주영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "왕",
+   "name": "서민성"
+  },
+  {
+   "role": "박첨지",
+   "name": "오대석"
+  },
+  {
+   "role": "영노",
+   "name": "김송일"
+  },
+  {
+   "role": "왕비",
+   "name": "김영아"
+  },
+  {
+   "role": "홍동지",
+   "name": "이진"
+  },
+  {
+   "role": "꼭두각시",
+   "name": "박소영"
+  },
+  {
+   "role": "",
+   "name": "문정수"
+  },
+  {
+   "role": "",
+   "name": "김완"
+  },
+  {
+   "role": "",
+   "name": "박민정"
+  },
+  {
+   "role": "",
+   "name": "박주영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171108123035/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=1299"
+ }
+}

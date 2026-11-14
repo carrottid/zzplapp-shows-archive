@@ -1,0 +1,61 @@
+{
+ "id": "PD97395",
+ "title": "환영",
+ "genre": "연극",
+ "from": "2016-09-16",
+ "to": "2016-10-02",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "김설",
+  "김지원",
+  "노준영",
+  "리우진",
+  "문병주",
+  "문승배",
+  "이인석",
+  "이준희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "윤영",
+   "name": "김설"
+  },
+  {
+   "role": "공판장 여자 외",
+   "name": "김지원"
+  },
+  {
+   "role": "여동생 외",
+   "name": "노준영"
+  },
+  {
+   "role": "왕사장 외",
+   "name": "리우진"
+  },
+  {
+   "role": "남편 외",
+   "name": "문병주"
+  },
+  {
+   "role": "손님 외",
+   "name": "문승배"
+  },
+  {
+   "role": "",
+   "name": "이인석"
+  },
+  {
+   "role": "",
+   "name": "이준희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170616074051/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=97395"
+ }
+}

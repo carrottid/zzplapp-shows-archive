@@ -1,0 +1,66 @@
+{
+ "id": "PD90375",
+ "title": "흑흑흑 희희희",
+ "genre": "연극",
+ "from": "2016-04-08",
+ "to": "2016-04-24",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "우현주",
+  "전미도",
+  "최덕문",
+  "이창훈",
+  "이은",
+  "김대종",
+  "권지숙",
+  "권귀빈",
+  "오범석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "연백희",
+   "name": "우현주"
+  },
+  {
+   "role": "연백희",
+   "name": "전미도"
+  },
+  {
+   "role": "진흑철",
+   "name": "최덕문"
+  },
+  {
+   "role": "진흑철",
+   "name": "이창훈"
+  },
+  {
+   "role": "박태림",
+   "name": "이은"
+  },
+  {
+   "role": "김연소",
+   "name": "김대종"
+  },
+  {
+   "role": "고유순",
+   "name": "권지숙"
+  },
+  {
+   "role": "계일주",
+   "name": "권귀빈"
+  },
+  {
+   "role": "",
+   "name": "오범석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230110180922/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=90375"
+ }
+}

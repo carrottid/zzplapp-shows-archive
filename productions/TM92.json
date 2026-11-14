@@ -1,0 +1,104 @@
+{
+ "id": "TM92",
+ "title": "마리아 마리아",
+ "genre": "뮤지컬",
+ "from": "2005-11-26",
+ "to": "2006-01-08",
+ "venue": "나루아트센터 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2005 마리아01.JPG",
+ "cast": [
+  "윤복희",
+  "강효성",
+  "박완규",
+  "김태형",
+  "오성원",
+  "설재근",
+  "박혜경",
+  "박상우",
+  "김정훈",
+  "김종구",
+  "김선영",
+  "기희진",
+  "이성욱",
+  "장정학",
+  "이찬미",
+  "송욱경"
+ ],
+ "state": "공연완료",
+ "producer": "조아뮤지컬컴퍼니",
+ "price": "R석 55,000원/S석 45,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "마리아엄마",
+   "name": "윤복희"
+  },
+  {
+   "role": "마리아엄마",
+   "name": "강효성"
+  },
+  {
+   "role": "마리아엄마",
+   "name": "박완규"
+  },
+  {
+   "role": "마리아엄마",
+   "name": "김태형"
+  },
+  {
+   "role": "마리아엄마",
+   "name": "오성원"
+  },
+  {
+   "role": "마리아엄마",
+   "name": "설재근"
+  },
+  {
+   "role": "마리아",
+   "name": "박혜경"
+  },
+  {
+   "role": "마리아",
+   "name": "박상우"
+  },
+  {
+   "role": "마리아",
+   "name": "김정훈"
+  },
+  {
+   "role": "마리아",
+   "name": "김종구"
+  },
+  {
+   "role": "마리아",
+   "name": "김선영"
+  },
+  {
+   "role": "제자",
+   "name": "기희진"
+  },
+  {
+   "role": "제자",
+   "name": "이성욱"
+  },
+  {
+   "role": "제자",
+   "name": "장정학"
+  },
+  {
+   "role": "제자",
+   "name": "이찬미"
+  },
+  {
+   "role": "제자",
+   "name": "송욱경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=92"
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "id": "TM1955",
+ "title": "총각네 야채가게",
+ "genre": "뮤지컬",
+ "from": "2013-03-26",
+ "to": "2013-09-01",
+ "venue": "대학로 예술마당 1관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013chonggakne.jpg",
+ "cast": [
+  "무현",
+  "윤나무",
+  "이수용",
+  "강인영",
+  "안창용",
+  "안두호",
+  "손성민",
+  "정가호",
+  "송태윤",
+  "김태경",
+  "황바울",
+  "정현준",
+  "김아영",
+  "박채원",
+  "한세라"
+ ],
+ "state": "공연완료",
+ "producer": "CJ E&M, 라이브㈜",
+ "price": "전석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "태성",
+   "name": "무현"
+  },
+  {
+   "role": "태성",
+   "name": "윤나무"
+  },
+  {
+   "role": "태성",
+   "name": "이수용"
+  },
+  {
+   "role": "민석",
+   "name": "강인영"
+  },
+  {
+   "role": "민석",
+   "name": "안창용"
+  },
+  {
+   "role": "윤민",
+   "name": "안두호"
+  },
+  {
+   "role": "윤민",
+   "name": "손성민"
+  },
+  {
+   "role": "태성",
+   "name": "무현"
+  },
+  {
+   "role": "태성",
+   "name": "정가호"
+  },
+  {
+   "role": "태성",
+   "name": "송태윤"
+  },
+  {
+   "role": "철진",
+   "name": "김태경"
+  },
+  {
+   "role": "철진",
+   "name": "황바울"
+  },
+  {
+   "role": "철진",
+   "name": "정현준"
+  },
+  {
+   "role": "멀티녀1",
+   "name": "김아영"
+  },
+  {
+   "role": "멀티녀2",
+   "name": "박채원"
+  },
+  {
+   "role": "멀티녀2",
+   "name": "한세라"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1955"
+ }
+}

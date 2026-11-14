@@ -1,0 +1,56 @@
+{
+ "id": "PD15749",
+ "title": "7인의 기억",
+ "genre": "연극",
+ "from": "2010-04-09",
+ "to": "2010-04-18",
+ "venue": "세종문화회관 M씨어터",
+ "cast": [
+  "권혁풍",
+  "김기천",
+  "김병순",
+  "고동업",
+  "이창직",
+  "박상종",
+  "김신기"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "서종태",
+   "name": "권혁풍"
+  },
+  {
+   "role": "정낙영",
+   "name": "김기천"
+  },
+  {
+   "role": "김병준",
+   "name": "김병순"
+  },
+  {
+   "role": "민대치",
+   "name": "고동업"
+  },
+  {
+   "role": "추달오",
+   "name": "이창직"
+  },
+  {
+   "role": "변희석",
+   "name": "박상종"
+  },
+  {
+   "role": "",
+   "name": "김신기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704012532/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=15749"
+ }
+}

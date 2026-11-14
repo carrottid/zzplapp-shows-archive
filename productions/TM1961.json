@@ -1,0 +1,69 @@
+{
+ "id": "TM1961",
+ "title": "영웅을 기다리며",
+ "genre": "뮤지컬",
+ "from": "2013-04-27",
+ "to": "2013-09-01",
+ "venue": "해피씨어터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013hero.jpg",
+ "cast": [
+  "박호산",
+  "임기홍",
+  "원종환",
+  "송욱경",
+  "임강성",
+  "진상현",
+  "박혜나",
+  "김지민",
+  "백은혜"
+ ],
+ "state": "공연완료",
+ "producer": "파파프로덕션",
+ "price": "30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이순신",
+   "name": "박호산"
+  },
+  {
+   "role": "이순신",
+   "name": "임기홍"
+  },
+  {
+   "role": "이순신",
+   "name": "원종환"
+  },
+  {
+   "role": "사스케",
+   "name": "송욱경"
+  },
+  {
+   "role": "사스케",
+   "name": "임강성"
+  },
+  {
+   "role": "사스케",
+   "name": "진상현"
+  },
+  {
+   "role": "막딸",
+   "name": "박혜나"
+  },
+  {
+   "role": "막딸",
+   "name": "김지민"
+  },
+  {
+   "role": "막딸",
+   "name": "백은혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1961"
+ }
+}

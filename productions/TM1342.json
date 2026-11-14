@@ -1,0 +1,49 @@
+{
+ "id": "TM1342",
+ "title": "로미오 앤 줄리엣",
+ "genre": "뮤지컬",
+ "from": "2009-01-29",
+ "to": "2009-02-27",
+ "venue": "세종문화회관 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2009rnj.jpg",
+ "cast": [
+  "다미앙 사르그(Damien Sargue)",
+  "조이 에스뗄(Joy Esther)",
+  "씨릴 니꼴라이(Cyril Niccolai)",
+  "존 아이젠(John Eyzen)",
+  "톰 로스(Tom Ross)"
+ ],
+ "state": "공연완료",
+ "producer": "이룸이엔티",
+ "price": "VIP패키지석 20만원/R석 15만원/S석 12만원/A석 9만원/B석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "로미오",
+   "name": "다미앙 사르그(Damien Sargue)"
+  },
+  {
+   "role": "줄리엣",
+   "name": "조이 에스뗄(Joy Esther)"
+  },
+  {
+   "role": "벤볼리오",
+   "name": "씨릴 니꼴라이(Cyril Niccolai)"
+  },
+  {
+   "role": "머큐쇼",
+   "name": "존 아이젠(John Eyzen)"
+  },
+  {
+   "role": "티발트",
+   "name": "톰 로스(Tom Ross)"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1342"
+ }
+}

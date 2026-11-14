@@ -1,0 +1,41 @@
+{
+ "id": "PD147154",
+ "title": "늙은 부부 이야기",
+ "genre": "연극",
+ "from": "2019-09-21",
+ "to": "2019-10-13",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "김명곤",
+  "정한용",
+  "차유경",
+  "이화영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "박동만",
+   "name": "김명곤"
+  },
+  {
+   "role": "박동만",
+   "name": "정한용"
+  },
+  {
+   "role": "이점순",
+   "name": "차유경"
+  },
+  {
+   "role": "이점순",
+   "name": "이화영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191216081139/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=147154"
+ }
+}

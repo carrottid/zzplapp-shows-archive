@@ -1,0 +1,89 @@
+{
+ "id": "TM1567",
+ "title": "그리스",
+ "genre": "뮤지컬",
+ "from": "2010-02-06",
+ "to": "2010-02-28",
+ "venue": "이화여자대학교 삼성홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_grease2010.jpg",
+ "cast": [
+  "김산호",
+  "이현",
+  "강동호",
+  "유하나",
+  "조영주",
+  "손승현",
+  "이태은",
+  "인진우",
+  "맹주영",
+  "박주용",
+  "홍광선",
+  "김가현",
+  "이소영"
+ ],
+ "state": "공연완료",
+ "producer": "㈜오디뮤지컬컴퍼니, CJ엔터테인먼트",
+ "price": "R석 60,000원/ S석 50,000원/ A석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "대니",
+   "name": "김산호"
+  },
+  {
+   "role": "대니",
+   "name": "이현"
+  },
+  {
+   "role": "대니",
+   "name": "강동호"
+  },
+  {
+   "role": "샌디",
+   "name": "유하나"
+  },
+  {
+   "role": "샌디",
+   "name": "조영주"
+  },
+  {
+   "role": "케니키",
+   "name": "손승현"
+  },
+  {
+   "role": "리조",
+   "name": "이태은"
+  },
+  {
+   "role": "두디",
+   "name": "인진우"
+  },
+  {
+   "role": "소니",
+   "name": "맹주영"
+  },
+  {
+   "role": "로저",
+   "name": "박주용"
+  },
+  {
+   "role": "마티",
+   "name": "홍광선"
+  },
+  {
+   "role": "프렌치",
+   "name": "김가현"
+  },
+  {
+   "role": "쟌",
+   "name": "이소영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1567"
+ }
+}

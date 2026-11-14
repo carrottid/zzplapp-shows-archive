@@ -1,0 +1,56 @@
+{
+ "id": "PD19202",
+ "title": "트루웨스트",
+ "genre": "연극",
+ "from": "2010-11-26",
+ "to": "2011-05-01",
+ "venue": "플러스씨어터",
+ "cast": [
+  "배성우",
+  "이건명",
+  "오만석",
+  "조정석",
+  "정동화",
+  "이은형",
+  "임태산"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "리",
+   "name": "배성우"
+  },
+  {
+   "role": "리",
+   "name": "이건명"
+  },
+  {
+   "role": "리",
+   "name": "오만석"
+  },
+  {
+   "role": "오스틴",
+   "name": "조정석"
+  },
+  {
+   "role": "오스틴",
+   "name": "정동화"
+  },
+  {
+   "role": "오스틴",
+   "name": "이은형"
+  },
+  {
+   "role": "사울키머",
+   "name": "임태산"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251013083314/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=19202"
+ }
+}

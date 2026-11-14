@@ -1,0 +1,34 @@
+{
+ "id": "TM1156",
+ "title": "우연히 행복해지다",
+ "genre": "뮤지컬",
+ "from": "2007-10-05",
+ "to": "2007-10-14",
+ "venue": "가나의집 열림홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 우연히 행복.jpg",
+ "cast": [
+  "김경수",
+  "유승현"
+ ],
+ "state": "공연완료",
+ "producer": "감성의 풀을 심는 곳...Pool",
+ "price": "일반 2만원 , 청소년 1만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "배철수",
+   "name": "김경수"
+  },
+  {
+   "role": "김우연",
+   "name": "유승현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1156"
+ }
+}

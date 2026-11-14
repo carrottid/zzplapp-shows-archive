@@ -1,0 +1,71 @@
+{
+ "id": "PD129731",
+ "title": "다윈 영의 악의 기원",
+ "genre": "뮤지컬",
+ "from": "2018-10-02",
+ "to": "2018-10-07",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "최우혁",
+  "박은석",
+  "강상준",
+  "송문선",
+  "금승훈",
+  "신상언",
+  "김백현",
+  "최인형",
+  "이은솔",
+  "강진실"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "다윈",
+   "name": "최우혁"
+  },
+  {
+   "role": "니스",
+   "name": "박은석"
+  },
+  {
+   "role": "레오",
+   "name": "강상준"
+  },
+  {
+   "role": "루미",
+   "name": "송문선"
+  },
+  {
+   "role": "버즈",
+   "name": "금승훈"
+  },
+  {
+   "role": "제이",
+   "name": "신상언"
+  },
+  {
+   "role": "",
+   "name": "김백현"
+  },
+  {
+   "role": "",
+   "name": "최인형"
+  },
+  {
+   "role": "",
+   "name": "이은솔"
+  },
+  {
+   "role": "",
+   "name": "강진실"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240414005812/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=129731"
+ }
+}

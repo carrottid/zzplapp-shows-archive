@@ -1,0 +1,79 @@
+{
+ "id": "TM2480",
+ "title": "앤 ANNE",
+ "genre": "뮤지컬",
+ "from": "2017-08-17",
+ "to": "2017-08-31",
+ "venue": "CJ아지트 대학로",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201707311203082G8W4UYJ0070M0PG.jpg",
+ "cast": [
+  "차준호",
+  "최현미",
+  "송영미",
+  "신정은",
+  "임찬민",
+  "조혜령",
+  "서대흥",
+  "이빛나",
+  "우현용",
+  "유도겸",
+  "조흠"
+ ],
+ "state": "공연완료",
+ "producer": "극단 걸판",
+ "price": "전석 30,000 원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "매슈",
+   "name": "차준호"
+  },
+  {
+   "role": "마릴라",
+   "name": "최현미"
+  },
+  {
+   "role": "앤",
+   "name": "송영미"
+  },
+  {
+   "role": "앤",
+   "name": "신정은"
+  },
+  {
+   "role": "앤",
+   "name": "임찬민"
+  },
+  {
+   "role": "다이애나",
+   "name": "조혜령"
+  },
+  {
+   "role": "길버트",
+   "name": "서대흥"
+  },
+  {
+   "role": "린드부인",
+   "name": "이빛나"
+  },
+  {
+   "role": "블루엣부인",
+   "name": "우현용"
+  },
+  {
+   "role": "필립스 선생",
+   "name": "유도겸"
+  },
+  {
+   "role": "찰리슬론 외",
+   "name": "조흠"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2480"
+ }
+}

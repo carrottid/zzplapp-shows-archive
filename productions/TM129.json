@@ -1,0 +1,59 @@
+{
+ "id": "TM129",
+ "title": "거울공주 평강이야기",
+ "genre": "뮤지컬",
+ "from": "2005-09-27",
+ "to": "2005-10-05",
+ "venue": "게릴라극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_00_a0621.jpg",
+ "cast": [
+  "진선규",
+  "박민정",
+  "오대석",
+  "김지현",
+  "박보경",
+  "이상은",
+  "고승수"
+ ],
+ "state": "공연완료",
+ "producer": "공연배달서비스 간다,축제를 만드는 사람들",
+ "price": "일반 20,000원/대학생 15,000원/청소년 10,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "야생소년",
+   "name": "진선규"
+  },
+  {
+   "role": "야생소년",
+   "name": "박민정"
+  },
+  {
+   "role": "야생소년",
+   "name": "오대석"
+  },
+  {
+   "role": "야생소년",
+   "name": "김지현"
+  },
+  {
+   "role": "야생소년",
+   "name": "박보경"
+  },
+  {
+   "role": "환경전환수 붐",
+   "name": "이상은"
+  },
+  {
+   "role": "환경전환수 붐",
+   "name": "고승수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=129"
+ }
+}

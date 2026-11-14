@@ -1,0 +1,91 @@
+{
+ "id": "PD91445",
+ "title": "국경의 남쪽",
+ "genre": "뮤지컬",
+ "from": "2016-05-31",
+ "to": "2016-06-12",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "최인형",
+  "박영수",
+  "최연우",
+  "송문선",
+  "하선진",
+  "김백현",
+  "고미경",
+  "유경아",
+  "금승훈",
+  "김도빈",
+  "조풍래",
+  "김용한",
+  "정지만",
+  "이혜수"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "선호",
+   "name": "최인형"
+  },
+  {
+   "role": "선호",
+   "name": "박영수"
+  },
+  {
+   "role": "연화",
+   "name": "최연우"
+  },
+  {
+   "role": "연화",
+   "name": "송문선"
+  },
+  {
+   "role": "경주",
+   "name": "하선진"
+  },
+  {
+   "role": "선호 부",
+   "name": "김백현"
+  },
+  {
+   "role": "선호 모",
+   "name": "고미경"
+  },
+  {
+   "role": "선애",
+   "name": "유경아"
+  },
+  {
+   "role": "",
+   "name": "금승훈"
+  },
+  {
+   "role": "",
+   "name": "김도빈"
+  },
+  {
+   "role": "",
+   "name": "조풍래"
+  },
+  {
+   "role": "",
+   "name": "김용한"
+  },
+  {
+   "role": "",
+   "name": "정지만"
+  },
+  {
+   "role": "",
+   "name": "이혜수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210728114108/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=91445"
+ }
+}

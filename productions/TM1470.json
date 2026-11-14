@@ -1,0 +1,29 @@
+{
+ "id": "TM1470",
+ "title": "지킬 앤 하이드",
+ "genre": "뮤지컬",
+ "from": "2009-08-28",
+ "to": "2009-09-20",
+ "venue": "세종문화회관 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_jekyllnhyde2009.png",
+ "cast": [
+  "브래드 리틀(Brad Little)"
+ ],
+ "state": "공연완료",
+ "producer": "㈜트루뮤지컬컴퍼니, TML ENTERPRISES",
+ "price": "[regular day (화,수,목,일저녁)] VIP석 130,000원/R석 110,000원/S석 88,000원/A석 66,000원/B석 22,000원 [peak day (금,토,일낮)] VIP석 140,000원/R석 120,000원/S석 99,000원/A석 66,000원/B석 22,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "지킬/하이드",
+   "name": "브래드 리틀(Brad Little)"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1470"
+ }
+}

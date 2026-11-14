@@ -1,0 +1,31 @@
+{
+ "id": "PD84658",
+ "title": "카르멘",
+ "genre": "뮤지컬",
+ "from": "2015-12-02",
+ "to": "2015-12-06",
+ "venue": "국립극장 KB청소년 하늘극장",
+ "cast": [
+  "정휘린",
+  "김동준"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "카르멘",
+   "name": "정휘린"
+  },
+  {
+   "role": "돈호세",
+   "name": "김동준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171108123059/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=84658"
+ }
+}

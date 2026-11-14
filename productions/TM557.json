@@ -1,0 +1,27 @@
+{
+ "id": "TM557",
+ "title": "안녕 비틀즈",
+ "genre": "뮤지컬",
+ "from": "2000-02-23",
+ "to": "2000-04-02",
+ "venue": "알과핵소극장",
+ "cast": [
+  "김세진"
+ ],
+ "state": "공연완료",
+ "producer": "오디뮤지컬컴퍼니",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "정가람",
+   "name": "김세진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=557"
+ }
+}

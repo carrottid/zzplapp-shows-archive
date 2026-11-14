@@ -1,0 +1,99 @@
+{
+ "id": "TM1953",
+ "title": "지저스 크라이스트 수퍼스타",
+ "genre": "뮤지컬",
+ "from": "2013-04-26",
+ "to": "2013-06-09",
+ "venue": "샤롯데씨어터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013jejus.jpg",
+ "cast": [
+  "마이클 리",
+  "박은태",
+  "윤도현",
+  "김신의",
+  "한지상",
+  "정선아",
+  "장은아",
+  "지현준",
+  "김태한",
+  "조권",
+  "김동현",
+  "조유신",
+  "김태훈",
+  "심정완",
+  "우지원"
+ ],
+ "state": "공연완료",
+ "producer": "롯데엔터테인먼트, CJ E&M, 설앤컴퍼니, RUG",
+ "price": "VIP석 13만원/ R석 10만원/ S석 8만원/ A석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "지저스",
+   "name": "마이클 리"
+  },
+  {
+   "role": "지저스",
+   "name": "박은태"
+  },
+  {
+   "role": "유다",
+   "name": "윤도현"
+  },
+  {
+   "role": "유다",
+   "name": "김신의"
+  },
+  {
+   "role": "유다",
+   "name": "한지상"
+  },
+  {
+   "role": "마리아",
+   "name": "정선아"
+  },
+  {
+   "role": "마리아",
+   "name": "장은아"
+  },
+  {
+   "role": "빌라도",
+   "name": "지현준"
+  },
+  {
+   "role": "빌라도",
+   "name": "김태한"
+  },
+  {
+   "role": "헤롯",
+   "name": "조권"
+  },
+  {
+   "role": "헤롯",
+   "name": "김동현"
+  },
+  {
+   "role": "가야바",
+   "name": "조유신"
+  },
+  {
+   "role": "시몬/유다 언더스터디",
+   "name": "김태훈"
+  },
+  {
+   "role": "베드로",
+   "name": "심정완"
+  },
+  {
+   "role": "안나스",
+   "name": "우지원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1953"
+ }
+}

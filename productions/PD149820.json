@@ -1,0 +1,80 @@
+{
+ "id": "PD149820",
+ "title": "환상동화",
+ "genre": "연극",
+ "from": "2019-12-21",
+ "to": "2020-03-01",
+ "venue": "동덕여대 공연예술센터 코튼홀",
+ "cast": [
+  "강하늘",
+  "송광일",
+  "백동현",
+  "장지후",
+  "기세중",
+  "원종환",
+  "육현욱",
+  "박규원",
+  "최정헌",
+  "한소빈",
+  "윤문선"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "사랑광대",
+   "name": "강하늘"
+  },
+  {
+   "role": "사랑광대",
+   "name": "송광일"
+  },
+  {
+   "role": "사랑광대",
+   "name": "백동현"
+  },
+  {
+   "role": "전쟁광대",
+   "name": "장지후"
+  },
+  {
+   "role": "전쟁광대",
+   "name": "기세중"
+  },
+  {
+   "role": "예술광대",
+   "name": "원종환"
+  },
+  {
+   "role": "예술광대",
+   "name": "육현욱"
+  },
+  {
+   "role": "한스",
+   "name": "박규원"
+  },
+  {
+   "role": "한스",
+   "name": "최정헌"
+  },
+  {
+   "role": "한스",
+   "name": "백동현"
+  },
+  {
+   "role": "마리",
+   "name": "한소빈"
+  },
+  {
+   "role": "마리",
+   "name": "윤문선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250810194826/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=149820"
+ }
+}

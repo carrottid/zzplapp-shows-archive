@@ -1,0 +1,81 @@
+{
+ "id": "PD123792",
+ "title": "용의자 X의 헌신",
+ "genre": "뮤지컬",
+ "from": "2018-05-15",
+ "to": "2018-08-12",
+ "venue": "예스24스테이지 1관",
+ "cast": [
+  "최재웅",
+  "조성윤",
+  "신성록",
+  "에녹",
+  "송원근",
+  "임혜영",
+  "김지유",
+  "조순창",
+  "장대웅",
+  "김찬종",
+  "안소연",
+  "유정훈"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이시가미",
+   "name": "최재웅"
+  },
+  {
+   "role": "이시가미",
+   "name": "조성윤"
+  },
+  {
+   "role": "유카와",
+   "name": "신성록"
+  },
+  {
+   "role": "유카와",
+   "name": "에녹"
+  },
+  {
+   "role": "유카와",
+   "name": "송원근"
+  },
+  {
+   "role": "야스코",
+   "name": "임혜영"
+  },
+  {
+   "role": "야스코",
+   "name": "김지유"
+  },
+  {
+   "role": "쿠사나기",
+   "name": "조순창"
+  },
+  {
+   "role": "쿠사나기",
+   "name": "장대웅"
+  },
+  {
+   "role": "키시야",
+   "name": "김찬종"
+  },
+  {
+   "role": "미사토",
+   "name": "안소연"
+  },
+  {
+   "role": "",
+   "name": "유정훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250208084542/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=123792"
+ }
+}

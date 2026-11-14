@@ -1,0 +1,36 @@
+{
+ "id": "PD90365",
+ "title": "마스터 클래스 - 부산",
+ "genre": "연극",
+ "from": "2016-04-20",
+ "to": "2016-04-21",
+ "venue": "부산시민회관 대극장",
+ "cast": [
+  "윤석화",
+  "구자범",
+  "배해선"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "마리아 칼라스",
+   "name": "윤석화"
+  },
+  {
+   "role": "음악감독 & 반주자",
+   "name": "구자범"
+  },
+  {
+   "role": "소프라노 소피",
+   "name": "배해선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240720095607/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=90365"
+ }
+}

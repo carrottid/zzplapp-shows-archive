@@ -1,0 +1,76 @@
+{
+ "id": "PD130012",
+ "title": "와일드 패밀리",
+ "genre": "연극",
+ "from": "2018-09-14",
+ "to": "2019-01-27",
+ "venue": "미마지 아트센터 풀빛극장",
+ "cast": [
+  "엄현수",
+  "김대영",
+  "이재원",
+  "이은우",
+  "한재웅",
+  "오수혜",
+  "양애란",
+  "류성아",
+  "배혜수",
+  "양승환",
+  "윤석환"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "오민상",
+   "name": "엄현수"
+  },
+  {
+   "role": "오민상",
+   "name": "김대영"
+  },
+  {
+   "role": "오민상",
+   "name": "이재원"
+  },
+  {
+   "role": "오민중",
+   "name": "이은우"
+  },
+  {
+   "role": "오민중",
+   "name": "한재웅"
+  },
+  {
+   "role": "노숙자",
+   "name": "오수혜"
+  },
+  {
+   "role": "노숙자",
+   "name": "양애란"
+  },
+  {
+   "role": "노숙자",
+   "name": "류성아"
+  },
+  {
+   "role": "이순경",
+   "name": "배혜수"
+  },
+  {
+   "role": "들개",
+   "name": "양승환"
+  },
+  {
+   "role": "들개",
+   "name": "윤석환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240910113727/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=130012"
+ }
+}

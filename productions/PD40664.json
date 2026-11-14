@@ -1,0 +1,61 @@
+{
+ "id": "PD40664",
+ "title": "나쁜자석",
+ "genre": "연극",
+ "from": "2012-11-07",
+ "to": "2013-01-27",
+ "venue": "예스24아트원 1관",
+ "cast": [
+  "송용진",
+  "장승조",
+  "정문성",
+  "이동하",
+  "홍우진",
+  "김대현",
+  "이규형",
+  "김보강"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "고든",
+   "name": "송용진"
+  },
+  {
+   "role": "고든",
+   "name": "장승조"
+  },
+  {
+   "role": "프레이저",
+   "name": "정문성"
+  },
+  {
+   "role": "프레이저",
+   "name": "이동하"
+  },
+  {
+   "role": "폴",
+   "name": "홍우진"
+  },
+  {
+   "role": "폴",
+   "name": "김대현"
+  },
+  {
+   "role": "앨런",
+   "name": "이규형"
+  },
+  {
+   "role": "앨런",
+   "name": "김보강"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250223200155/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=40664"
+ }
+}

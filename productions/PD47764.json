@@ -1,0 +1,46 @@
+{
+ "id": "PD47764",
+ "title": "시카고 - 대전",
+ "genre": "뮤지컬",
+ "from": "2013-06-14",
+ "to": "2013-06-16",
+ "venue": "충남대학교 정심화국제문화회관 정심화홀",
+ "cast": [
+  "인순이",
+  "최정원",
+  "이하늬",
+  "오진영",
+  "성기윤"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "벨마 켈리",
+   "name": "인순이"
+  },
+  {
+   "role": "벨마 켈리",
+   "name": "최정원"
+  },
+  {
+   "role": "록시 하트",
+   "name": "이하늬"
+  },
+  {
+   "role": "록시 하트",
+   "name": "오진영"
+  },
+  {
+   "role": "빌리 플린",
+   "name": "성기윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171025124336/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=47764"
+ }
+}

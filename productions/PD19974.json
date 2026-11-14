@@ -1,0 +1,41 @@
+{
+ "id": "PD19974",
+ "title": "뮤지컬 친정엄마 - 수원",
+ "genre": "뮤지컬",
+ "from": "2011-04-02",
+ "to": "2011-04-03",
+ "venue": "경기도문화의전당 행복한대극장",
+ "cast": [
+  "양꽃님",
+  "이유리",
+  "나문희",
+  "김수미"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "딸",
+   "name": "양꽃님"
+  },
+  {
+   "role": "딸",
+   "name": "이유리"
+  },
+  {
+   "role": "엄마",
+   "name": "나문희"
+  },
+  {
+   "role": "엄마",
+   "name": "김수미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20110318122858/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=19974"
+ }
+}

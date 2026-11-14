@@ -1,0 +1,66 @@
+{
+ "id": "PD94591",
+ "title": "보물섬",
+ "genre": "연극",
+ "from": "2016-07-26",
+ "to": "2016-08-28",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "배보람",
+  "김진곤",
+  "김도완",
+  "한인수",
+  "김상보",
+  "유승락",
+  "정현철",
+  "김호준",
+  "황의정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "짐 호킨스",
+   "name": "배보람"
+  },
+  {
+   "role": "벤 건",
+   "name": "김진곤"
+  },
+  {
+   "role": "존 실버",
+   "name": "김도완"
+  },
+  {
+   "role": "그레이, 블랙독",
+   "name": "한인수"
+  },
+  {
+   "role": "빌리 본즈",
+   "name": "김상보"
+  },
+  {
+   "role": "트릴로니 지주",
+   "name": "유승락"
+  },
+  {
+   "role": "",
+   "name": "정현철"
+  },
+  {
+   "role": "",
+   "name": "김호준"
+  },
+  {
+   "role": "",
+   "name": "황의정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241013103041/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=94591"
+ }
+}

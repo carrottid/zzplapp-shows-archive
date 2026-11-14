@@ -1,0 +1,44 @@
+{
+ "id": "TM1919",
+ "title": "13",
+ "genre": "뮤지컬",
+ "from": "2012-12-01",
+ "to": "2012-12-31",
+ "venue": "나루아트센터 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)89.jpg",
+ "cast": [
+  "정진호",
+  "박도연",
+  "이수빈",
+  "김범준"
+ ],
+ "state": "공연완료",
+ "producer": "(주)Thefunfactory, Story P",
+ "price": "R석 7만원 / S석 5만5천원 / A석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "에반",
+   "name": "정진호"
+  },
+  {
+   "role": "패트리스",
+   "name": "박도연"
+  },
+  {
+   "role": "패트리스",
+   "name": "이수빈"
+  },
+  {
+   "role": "아치",
+   "name": "김범준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1919"
+ }
+}

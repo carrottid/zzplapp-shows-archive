@@ -1,0 +1,34 @@
+{
+ "id": "TM833",
+ "title": "언약의 여정",
+ "genre": "뮤지컬",
+ "from": "2007-07-06",
+ "to": "2007-07-22",
+ "venue": "과천시민회관 대극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091812421847bce4a3097644249367a49715e43e9d.jpg",
+ "cast": [
+  "문혜영",
+  "윤선용"
+ ],
+ "state": "공연완료",
+ "producer": "R.W.C.",
+ "price": "R석 5만원 / S석 4만원 / A석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "케린",
+   "name": "문혜영"
+  },
+  {
+   "role": "바로왕",
+   "name": "윤선용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=833"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "PD137099",
+ "title": "투명인간을 찾습니다",
+ "genre": "연극",
+ "from": "2019-03-15",
+ "to": "2019-03-17",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "김국호",
+  "문병재",
+  "정대진",
+  "채군"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김국호",
+   "name": "김국호"
+  },
+  {
+   "role": "문병재",
+   "name": "문병재"
+  },
+  {
+   "role": "정대진",
+   "name": "정대진"
+  },
+  {
+   "role": "채군",
+   "name": "채군"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240423205214/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=137099"
+ }
+}

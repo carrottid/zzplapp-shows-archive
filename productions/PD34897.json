@@ -1,0 +1,81 @@
+{
+ "id": "PD34897",
+ "title": "삼봉이발소",
+ "genre": "연극",
+ "from": "2012-05-02",
+ "to": "2013-01-27",
+ "venue": "한성아트홀 2관",
+ "cast": [
+  "김영확",
+  "박두원",
+  "최미화",
+  "이은지",
+  "이원범",
+  "박지훈",
+  "박소영",
+  "진주영",
+  "김남호",
+  "이성열",
+  "이정원",
+  "조예현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김삼봉",
+   "name": "김영확"
+  },
+  {
+   "role": "김삼봉",
+   "name": "박두원"
+  },
+  {
+   "role": "박장미",
+   "name": "최미화"
+  },
+  {
+   "role": "박장미",
+   "name": "이은지"
+  },
+  {
+   "role": "믹스",
+   "name": "이원범"
+  },
+  {
+   "role": "믹스",
+   "name": "박지훈"
+  },
+  {
+   "role": "이희진",
+   "name": "박소영"
+  },
+  {
+   "role": "이희진",
+   "name": "진주영"
+  },
+  {
+   "role": "우주인",
+   "name": "김남호"
+  },
+  {
+   "role": "우주인",
+   "name": "이성열"
+  },
+  {
+   "role": "이수진",
+   "name": "이정원"
+  },
+  {
+   "role": "이수진",
+   "name": "조예현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170909063446/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=34897"
+ }
+}

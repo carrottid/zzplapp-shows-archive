@@ -1,0 +1,59 @@
+{
+ "id": "TM3003",
+ "title": "조선 삼총사",
+ "genre": "뮤지컬",
+ "from": "2020-09-24",
+ "to": "2020-09-26",
+ "venue": "세종문화회관 대극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200813023929263ea4a39e244aaeaebeed0e7e0f0086.jpg",
+ "cast": [
+  "허도영",
+  "김범준",
+  "한일경",
+  "박성훈",
+  "유미",
+  "이경준",
+  "박태영"
+ ],
+ "state": "공연완료",
+ "producer": "세종문화회관",
+ "price": "VIP석 7만 원 / R석 5만 원 / S석 3만 원 / A석 2만 원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "김선달(김인홍)",
+   "name": "허도영"
+  },
+  {
+   "role": "조진수",
+   "name": "김범준"
+  },
+  {
+   "role": "홍경래",
+   "name": "한일경"
+  },
+  {
+   "role": "조득영",
+   "name": "박성훈"
+  },
+  {
+   "role": "진자임",
+   "name": "유미"
+  },
+  {
+   "role": "박대성",
+   "name": "이경준"
+  },
+  {
+   "role": "순조",
+   "name": "박태영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3003"
+ }
+}

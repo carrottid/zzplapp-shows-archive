@@ -1,0 +1,86 @@
+{
+ "id": "PD122718",
+ "title": "삼총사 - 부산",
+ "genre": "뮤지컬",
+ "from": "2018-06-16",
+ "to": "2018-06-17",
+ "venue": "부산시민회관 대극장",
+ "cast": [
+  "엄기준",
+  "손호영",
+  "신성우",
+  "유준상",
+  "김준현",
+  "민영기",
+  "김법래",
+  "장은아",
+  "제이민",
+  "린지",
+  "홍경수",
+  "조순창",
+  "선재"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "달타냥",
+   "name": "엄기준"
+  },
+  {
+   "role": "달타냥",
+   "name": "손호영"
+  },
+  {
+   "role": "아토스",
+   "name": "신성우"
+  },
+  {
+   "role": "아토스",
+   "name": "유준상"
+  },
+  {
+   "role": "아토스",
+   "name": "김준현"
+  },
+  {
+   "role": "아라미스",
+   "name": "민영기"
+  },
+  {
+   "role": "포르토스",
+   "name": "김법래"
+  },
+  {
+   "role": "밀라디",
+   "name": "장은아"
+  },
+  {
+   "role": "콘스탄스",
+   "name": "제이민"
+  },
+  {
+   "role": "콘스탄스",
+   "name": "린지"
+  },
+  {
+   "role": "",
+   "name": "홍경수"
+  },
+  {
+   "role": "",
+   "name": "조순창"
+  },
+  {
+   "role": "",
+   "name": "선재"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20180321085547/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=122718"
+ }
+}

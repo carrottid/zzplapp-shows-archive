@@ -1,0 +1,111 @@
+{
+ "id": "PD120906",
+ "title": "그 개",
+ "genre": "연극",
+ "from": "2018-10-05",
+ "to": "2018-10-21",
+ "venue": "세종문화회관 M씨어터",
+ "cast": [
+  "유성주",
+  "윤상화",
+  "박선혜",
+  "김훈만",
+  "신정원",
+  "이지혜",
+  "류원준",
+  "장석환",
+  "안다정",
+  "조용진",
+  "김유민",
+  "신정웅",
+  "이나영",
+  "김민재",
+  "오재성",
+  "이경우",
+  "이상승",
+  "김민혜"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "상근",
+   "name": "유성주"
+  },
+  {
+   "role": "장강",
+   "name": "윤상화"
+  },
+  {
+   "role": "",
+   "name": "박선혜"
+  },
+  {
+   "role": "",
+   "name": "김훈만"
+  },
+  {
+   "role": "",
+   "name": "신정원"
+  },
+  {
+   "role": "",
+   "name": "이지혜"
+  },
+  {
+   "role": "",
+   "name": "류원준"
+  },
+  {
+   "role": "",
+   "name": "장석환"
+  },
+  {
+   "role": "",
+   "name": "안다정"
+  },
+  {
+   "role": "",
+   "name": "조용진"
+  },
+  {
+   "role": "",
+   "name": "김유민"
+  },
+  {
+   "role": "",
+   "name": "신정웅"
+  },
+  {
+   "role": "",
+   "name": "이나영"
+  },
+  {
+   "role": "",
+   "name": "김민재"
+  },
+  {
+   "role": "",
+   "name": "오재성"
+  },
+  {
+   "role": "",
+   "name": "이경우"
+  },
+  {
+   "role": "",
+   "name": "이상승"
+  },
+  {
+   "role": "",
+   "name": "김민혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20221001060802/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=120906"
+ }
+}

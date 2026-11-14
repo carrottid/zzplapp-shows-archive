@@ -1,0 +1,31 @@
+{
+ "id": "PD56412",
+ "title": "2014 봄 작가 겨울 무대 - 미사여구없이",
+ "genre": "연극",
+ "from": "2014-01-15",
+ "to": "2014-01-29",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "김태현",
+  "신정원"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "동구",
+   "name": "김태현"
+  },
+  {
+   "role": "서현",
+   "name": "신정원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170627025608/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=56412"
+ }
+}

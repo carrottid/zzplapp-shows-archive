@@ -1,0 +1,61 @@
+{
+ "id": "PD141053",
+ "title": "지킬 앤 하이드 - 대구",
+ "genre": "뮤지컬",
+ "from": "2006-02-10",
+ "to": "2006-02-19",
+ "venue": "대구 오페라하우스",
+ "cast": [
+  "조승우",
+  "류정한",
+  "이혜경",
+  "김선영",
+  "이영미",
+  "김봉환",
+  "김도형",
+  "김기순"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "지킬/하이드",
+   "name": "조승우"
+  },
+  {
+   "role": "지킬/하이드",
+   "name": "류정한"
+  },
+  {
+   "role": "엠마",
+   "name": "이혜경"
+  },
+  {
+   "role": "루시",
+   "name": "김선영"
+  },
+  {
+   "role": "루시",
+   "name": "이영미"
+  },
+  {
+   "role": "덴버스경",
+   "name": "김봉환"
+  },
+  {
+   "role": "어트슨",
+   "name": "김도형"
+  },
+  {
+   "role": "비콘스필드부인",
+   "name": "김기순"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210507141658/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=141053"
+ }
+}

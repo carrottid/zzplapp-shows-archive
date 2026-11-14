@@ -1,0 +1,54 @@
+{
+ "id": "TM920",
+ "title": "마리아 마리아",
+ "genre": "뮤지컬",
+ "from": "2004-09-03",
+ "to": "2004-10-03",
+ "venue": "세우아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_제목 없음0.bmp",
+ "cast": [
+  "김선영",
+  "박상우",
+  "이우승",
+  "김정훈",
+  "김보라",
+  "정동화"
+ ],
+ "state": "공연완료",
+ "producer": "조아 뮤지컬컴퍼니",
+ "price": "일반 25,000원/대학생 20,000원/고등학생 12,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "마리아",
+   "name": "김선영"
+  },
+  {
+   "role": "마리아",
+   "name": "박상우"
+  },
+  {
+   "role": "마리아",
+   "name": "이우승"
+  },
+  {
+   "role": "마리아",
+   "name": "김정훈"
+  },
+  {
+   "role": "마리아",
+   "name": "김보라"
+  },
+  {
+   "role": "마리아",
+   "name": "정동화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=920"
+ }
+}

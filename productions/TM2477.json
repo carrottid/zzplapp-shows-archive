@@ -1,0 +1,74 @@
+{
+ "id": "TM2477",
+ "title": "넌센스2",
+ "genre": "뮤지컬",
+ "from": "2017-07-26",
+ "to": "2017-08-03",
+ "venue": "세종문화회관 M씨어터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201707260219221FCA3X83H0538P42.jpg",
+ "cast": [
+  "박해미",
+  "하은섬",
+  "이미쉘",
+  "조혜련",
+  "박슬기",
+  "김서별",
+  "김예원",
+  "윤나영",
+  "치지",
+  "B.nish"
+ ],
+ "state": "공연완료",
+ "producer": "투헤븐엔터테인먼트",
+ "price": "R석 88,000원 / S석 77,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "메리 레지나",
+   "name": "박해미"
+  },
+  {
+   "role": "허버트",
+   "name": "하은섬"
+  },
+  {
+   "role": "허버트",
+   "name": "이미쉘"
+  },
+  {
+   "role": "로버트 앤",
+   "name": "조혜련"
+  },
+  {
+   "role": "로버트 앤",
+   "name": "박슬기"
+  },
+  {
+   "role": "엠네지아",
+   "name": "김서별"
+  },
+  {
+   "role": "엠네지아",
+   "name": "김예원"
+  },
+  {
+   "role": "메리 레오",
+   "name": "윤나영"
+  },
+  {
+   "role": "신부/래퍼/멀티맨",
+   "name": "치지"
+  },
+  {
+   "role": "신부/래퍼/멀티맨",
+   "name": "B.nish"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2477"
+ }
+}

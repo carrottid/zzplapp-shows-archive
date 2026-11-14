@@ -1,0 +1,76 @@
+{
+ "id": "PD139524",
+ "title": "제40회 서울연극제 공식선정작 - 공주들",
+ "genre": "연극",
+ "from": "2019-05-04",
+ "to": "2019-05-12",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "강주희",
+  "권미나",
+  "김보경",
+  "김선기",
+  "김정화",
+  "김형준",
+  "민현기",
+  "박형범",
+  "양정윤",
+  "이강호",
+  "박미르"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "소공주",
+   "name": "강주희"
+  },
+  {
+   "role": "구공주",
+   "name": "권미나"
+  },
+  {
+   "role": "변공주",
+   "name": "김보경"
+  },
+  {
+   "role": "방공주",
+   "name": "김선기"
+  },
+  {
+   "role": "고공주",
+   "name": "김정화"
+  },
+  {
+   "role": "왕공주",
+   "name": "김형준"
+  },
+  {
+   "role": "",
+   "name": "민현기"
+  },
+  {
+   "role": "",
+   "name": "박형범"
+  },
+  {
+   "role": "",
+   "name": "양정윤"
+  },
+  {
+   "role": "",
+   "name": "이강호"
+  },
+  {
+   "role": "",
+   "name": "박미르"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210418180952/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=139524"
+ }
+}

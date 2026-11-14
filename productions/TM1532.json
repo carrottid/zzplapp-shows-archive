@@ -1,0 +1,64 @@
+{
+ "id": "TM1532",
+ "title": "굿모닝 학교",
+ "genre": "뮤지컬",
+ "from": "2009-11-13",
+ "to": "2009-12-10",
+ "venue": "학전블루",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_goodm2009.JPG",
+ "cast": [
+  "이황의",
+  "조환준",
+  "고수연",
+  "정현철",
+  "김민주",
+  "김국희",
+  "김태경",
+  "이하나"
+ ],
+ "state": "공연완료",
+ "producer": "극단 학전",
+ "price": "일반, 대학생 25,000원/ 청소년 18,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "독사",
+   "name": "이황의"
+  },
+  {
+   "role": "정우/박의원/학생3",
+   "name": "조환준"
+  },
+  {
+   "role": "반장/선생1/강사1/학생4",
+   "name": "고수연"
+  },
+  {
+   "role": "베드로/정우부/교사2",
+   "name": "정현철"
+  },
+  {
+   "role": "공주/캥거루모",
+   "name": "김민주"
+  },
+  {
+   "role": "캥거루/최회장",
+   "name": "김국희"
+  },
+  {
+   "role": "똘/교장",
+   "name": "김태경"
+  },
+  {
+   "role": "민이/사회교사",
+   "name": "이하나"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1532"
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "id": "TM1392",
+ "title": "위대한 SHOW",
+ "genre": "뮤지컬",
+ "from": "2009-03-19",
+ "to": "2009-05-03",
+ "venue": "고양아람누리 새라새극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2009show.JPG",
+ "cast": [
+  "안신우",
+  "안수지",
+  "임선영",
+  "최영화",
+  "이선영",
+  "김진수",
+  "김한성"
+ ],
+ "state": "공연완료",
+ "producer": "고양문화재단, 다비드스타픽쳐스",
+ "price": "일반석 35,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "조동팔",
+   "name": "안신우"
+  },
+  {
+   "role": "럭시",
+   "name": "안수지"
+  },
+  {
+   "role": "럭시",
+   "name": "임선영"
+  },
+  {
+   "role": "럭시",
+   "name": "최영화"
+  },
+  {
+   "role": "피바다",
+   "name": "이선영"
+  },
+  {
+   "role": "방철갑",
+   "name": "김진수"
+  },
+  {
+   "role": "방철갑",
+   "name": "김한성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1392"
+ }
+}

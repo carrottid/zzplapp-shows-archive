@@ -1,0 +1,71 @@
+{
+ "id": "PD96737",
+ "title": "클로저",
+ "genre": "연극",
+ "from": "2016-09-06",
+ "to": "2016-11-13",
+ "venue": "예그린씨어터",
+ "cast": [
+  "이지혜",
+  "박소담",
+  "이동하",
+  "박은석",
+  "김선호",
+  "배성우",
+  "김준원",
+  "서현우",
+  "김소진",
+  "송유현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "앨리스",
+   "name": "이지혜"
+  },
+  {
+   "role": "앨리스",
+   "name": "박소담"
+  },
+  {
+   "role": "댄",
+   "name": "이동하"
+  },
+  {
+   "role": "댄",
+   "name": "박은석"
+  },
+  {
+   "role": "댄",
+   "name": "김선호"
+  },
+  {
+   "role": "래리",
+   "name": "배성우"
+  },
+  {
+   "role": "래리",
+   "name": "김준원"
+  },
+  {
+   "role": "래리",
+   "name": "서현우"
+  },
+  {
+   "role": "안나",
+   "name": "김소진"
+  },
+  {
+   "role": "안나",
+   "name": "송유현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250804220330/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=96737"
+ }
+}

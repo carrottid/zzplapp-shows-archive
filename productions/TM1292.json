@@ -1,0 +1,99 @@
+{
+ "id": "TM1292",
+ "title": "돌아온 고교얄개",
+ "genre": "뮤지컬",
+ "from": "2008-11-04",
+ "to": "2008-12-27",
+ "venue": "이화여고 100주년 기념관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_yalgae2008.JPG",
+ "cast": [
+  "원기준",
+  "오승준",
+  "권정현",
+  "박홍주",
+  "이상현",
+  "임선영",
+  "김진수",
+  "고영진",
+  "김용래",
+  "손지호",
+  "한성용",
+  "권로",
+  "신하나",
+  "오지혜",
+  "윤영은"
+ ],
+ "state": "공연완료",
+ "producer": "(주)트라이프로",
+ "price": "VIP석 8만원/R석 7만원/S석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "19세 나두수",
+   "name": "원기준"
+  },
+  {
+   "role": "19세 나두수",
+   "name": "오승준"
+  },
+  {
+   "role": "오영아",
+   "name": "권정현"
+  },
+  {
+   "role": "오영아",
+   "name": "박홍주"
+  },
+  {
+   "role": "장관우",
+   "name": "이상현"
+  },
+  {
+   "role": "남보라",
+   "name": "임선영"
+  },
+  {
+   "role": "담임선생님",
+   "name": "김진수"
+  },
+  {
+   "role": "앙상블",
+   "name": "고영진"
+  },
+  {
+   "role": "앙상블",
+   "name": "김용래"
+  },
+  {
+   "role": "앙상블",
+   "name": "손지호"
+  },
+  {
+   "role": "앙상블",
+   "name": "한성용"
+  },
+  {
+   "role": "앙상블",
+   "name": "권로"
+  },
+  {
+   "role": "앙상블",
+   "name": "신하나"
+  },
+  {
+   "role": "앙상블",
+   "name": "오지혜"
+  },
+  {
+   "role": "앙상블",
+   "name": "윤영은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1292"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PD130936",
+ "title": "국경시장",
+ "genre": "연극",
+ "from": "2018-09-13",
+ "to": "2018-09-27",
+ "venue": "CJ 아지트 대학로(구 SM아트홀)",
+ "cast": [
+  "임종완",
+  "권다솔",
+  "정완희",
+  "이해원",
+  "이본능",
+  "이훈희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "남자",
+   "name": "임종완"
+  },
+  {
+   "role": "주코",
+   "name": "권다솔"
+  },
+  {
+   "role": "조, 중국인",
+   "name": "정완희"
+  },
+  {
+   "role": "아이3 외",
+   "name": "이해원"
+  },
+  {
+   "role": "",
+   "name": "이본능"
+  },
+  {
+   "role": "",
+   "name": "이훈희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251010021658/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=130936"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "PD114588",
+ "title": "아름답고 스산한 그의 집필일기",
+ "genre": "연극",
+ "from": "2017-08-23",
+ "to": "2017-08-27",
+ "venue": "소극장 혜화당(구.까망 소극장)",
+ "cast": [
+  "이청오",
+  "유일락",
+  "임소형",
+  "오은지",
+  "염수지"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "작가",
+   "name": "이청오"
+  },
+  {
+   "role": "작가",
+   "name": "유일락"
+  },
+  {
+   "role": "첫째",
+   "name": "임소형"
+  },
+  {
+   "role": "둘째",
+   "name": "오은지"
+  },
+  {
+   "role": "셋째",
+   "name": "염수지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200607011127/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=114588"
+ }
+}

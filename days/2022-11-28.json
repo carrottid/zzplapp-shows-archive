@@ -1,0 +1,45 @@
+{
+ "date": "2022-11-28",
+ "sessions": [
+  {
+   "id": "PF200751",
+   "title": "스카팽",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#747372",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF201826",
+   "title": "제2회 두드림페스티벌, 클럽GWEN",
+   "genre": "연극",
+   "venue": "연우소극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF200306",
+   "title": "온 더 비트",
+   "genre": "연극",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#E6A800",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF201987",
+   "title": "혜화동1번지 7기동인 가을페스티벌, GYM기일",
+   "genre": "연극",
+   "venue": "연극실험실 혜화동1번지",
+   "time": "20:00",
+   "castSource": "none"
+  }
+ ]
+}

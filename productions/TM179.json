@@ -1,0 +1,49 @@
+{
+ "id": "TM179",
+ "title": "메노포즈",
+ "genre": "뮤지컬",
+ "from": "2005-05-03",
+ "to": "2005-07-31",
+ "venue": "코엑스 아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_meno.gif",
+ "cast": [
+  "박해미",
+  "전수경",
+  "이경미",
+  "유보영",
+  "이윤표"
+ ],
+ "state": "공연완료",
+ "producer": "(주)에이넷 코리아",
+ "price": "R석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "한물간 연속극 배우",
+   "name": "박해미"
+  },
+  {
+   "role": "한물간 연속극 배우",
+   "name": "전수경"
+  },
+  {
+   "role": "한물간 연속극 배우",
+   "name": "이경미"
+  },
+  {
+   "role": "한물간 연속극 배우",
+   "name": "유보영"
+  },
+  {
+   "role": "한물간 연속극 배우",
+   "name": "이윤표"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=179"
+ }
+}

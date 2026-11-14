@@ -1,0 +1,41 @@
+{
+ "id": "PD105786",
+ "title": "개미식당",
+ "genre": "연극",
+ "from": "2017-03-15",
+ "to": "2017-03-19",
+ "venue": "인터파크 유니플렉스 3관",
+ "cast": [
+  "김소년",
+  "김이선",
+  "이정은",
+  "장석용"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "써머",
+   "name": "김소년"
+  },
+  {
+   "role": "준",
+   "name": "김이선"
+  },
+  {
+   "role": "미미",
+   "name": "이정은"
+  },
+  {
+   "role": "고",
+   "name": "장석용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250516204729/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=105786"
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "id": "PD1362",
+ "title": "과학하는 마음1 - 진화하는 오후",
+ "genre": "연극",
+ "from": "2007-11-29",
+ "to": "2007-12-16",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "김은석",
+  "김보영",
+  "이지현",
+  "이화룡",
+  "박윤석",
+  "이갑선",
+  "정유미",
+  "신정현",
+  "권민영",
+  "김하리"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "오오야마",
+   "name": "김은석"
+  },
+  {
+   "role": "야스오카",
+   "name": "김보영"
+  },
+  {
+   "role": "미나모토",
+   "name": "이지현"
+  },
+  {
+   "role": "다카기",
+   "name": "이화룡"
+  },
+  {
+   "role": "기모토",
+   "name": "박윤석"
+  },
+  {
+   "role": "코지마",
+   "name": "이갑선"
+  },
+  {
+   "role": "",
+   "name": "정유미"
+  },
+  {
+   "role": "",
+   "name": "신정현"
+  },
+  {
+   "role": "",
+   "name": "권민영"
+  },
+  {
+   "role": "",
+   "name": "김하리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171106113158/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=1362"
+ }
+}

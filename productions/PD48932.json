@@ -1,0 +1,31 @@
+{
+ "id": "PD48932",
+ "title": "인간 파우스트",
+ "genre": "연극",
+ "from": "2013-06-14",
+ "to": "2013-06-30",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "박경주",
+  "이정수"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "파우스트, 메피스토",
+   "name": "박경주"
+  },
+  {
+   "role": "특별출연",
+   "name": "이정수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220809194814/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=48932"
+ }
+}

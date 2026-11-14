@@ -1,0 +1,26 @@
+{
+ "id": "PD114899",
+ "title": "나래, 날다!",
+ "genre": "연극",
+ "from": "2017-11-13",
+ "to": "2017-11-13",
+ "venue": "세실극장",
+ "cast": [
+  "황석용"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "DJ뽱",
+   "name": "황석용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220701023810/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=114899"
+ }
+}

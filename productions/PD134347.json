@@ -1,0 +1,71 @@
+{
+ "id": "PD134347",
+ "title": "시카고 - 김해",
+ "genre": "뮤지컬",
+ "from": "2019-01-11",
+ "to": "2019-01-13",
+ "venue": "김해문화의전당 마루홀",
+ "cast": [
+  "최정원",
+  "박칼린",
+  "아이비",
+  "김지우",
+  "남경주",
+  "김경선",
+  "김영주",
+  "차정현",
+  "S.J. KIM",
+  "최원섭"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "벨마 켈리",
+   "name": "최정원"
+  },
+  {
+   "role": "벨마 켈리",
+   "name": "박칼린"
+  },
+  {
+   "role": "록시 하트",
+   "name": "아이비"
+  },
+  {
+   "role": "록시 하트",
+   "name": "김지우"
+  },
+  {
+   "role": "빌리 플린",
+   "name": "남경주"
+  },
+  {
+   "role": "마마 모튼",
+   "name": "김경선"
+  },
+  {
+   "role": "마마 모튼",
+   "name": "김영주"
+  },
+  {
+   "role": "에이모스 하트",
+   "name": "차정현"
+  },
+  {
+   "role": "메리 선샤인",
+   "name": "S.J. KIM"
+  },
+  {
+   "role": "",
+   "name": "최원섭"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250430170227/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=134347"
+ }
+}

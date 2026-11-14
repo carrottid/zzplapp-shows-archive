@@ -1,0 +1,93 @@
+{
+ "id": "TM2315",
+ "title": "친정엄마",
+ "genre": "뮤지컬",
+ "from": "2016-04-07",
+ "to": "2016-06-19",
+ "venue": "두산아트센터 연강홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20160330023815LHLMVM7N640LO543.jpg",
+ "cast": [
+  "박정수",
+  "정애리",
+  "김혜민",
+  "박탐희",
+  "이재은",
+  "장혜리",
+  "김형균",
+  "안두호",
+  "강정임",
+  "최정화",
+  "최윤지",
+  "김예린",
+  "인수연"
+ ],
+ "state": "공연완료",
+ "producer": "아시아브릿지컨텐츠",
+ "price": "R석 8만8천원, S석 6만6천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "엄마",
+   "name": "박정수"
+  },
+  {
+   "role": "엄마",
+   "name": "정애리"
+  },
+  {
+   "role": "엄마",
+   "name": "김혜민"
+  },
+  {
+   "role": "딸 미영",
+   "name": "박탐희"
+  },
+  {
+   "role": "딸 미영",
+   "name": "이재은"
+  },
+  {
+   "role": "서울이모",
+   "name": "김혜민"
+  },
+  {
+   "role": "서울이모",
+   "name": "장혜리"
+  },
+  {
+   "role": "남편",
+   "name": "김형균"
+  },
+  {
+   "role": "남편",
+   "name": "안두호"
+  },
+  {
+   "role": "시어머니",
+   "name": "강정임"
+  },
+  {
+   "role": "시어머니",
+   "name": "최정화"
+  },
+  {
+   "role": "유빈",
+   "name": "최윤지"
+  },
+  {
+   "role": "유빈",
+   "name": "김예린"
+  },
+  {
+   "role": "유빈",
+   "name": "인수연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2315"
+ }
+}

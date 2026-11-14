@@ -1,0 +1,94 @@
+{
+ "id": "TM2519",
+ "title": "홀연했던 사나이",
+ "genre": "뮤지컬",
+ "from": "2018-02-06",
+ "to": "2018-04-15",
+ "venue": "충무아트센터 중극장 블랙",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2017121311362900M171GVD20757S8.jpg",
+ "cast": [
+  "정민",
+  "박민성",
+  "오종혁",
+  "유승현",
+  "박정원",
+  "강영석",
+  "임진아",
+  "임강희",
+  "윤석원",
+  "박정표",
+  "백은혜",
+  "하현지",
+  "김현진",
+  "장민수"
+ ],
+ "state": "공연완료",
+ "producer": "두번째생각",
+ "price": "R석 60,000 원 / S석 40,000 원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "사나이",
+   "name": "정민"
+  },
+  {
+   "role": "사나이",
+   "name": "박민성"
+  },
+  {
+   "role": "사나이",
+   "name": "오종혁"
+  },
+  {
+   "role": "승돌이",
+   "name": "유승현"
+  },
+  {
+   "role": "승돌이",
+   "name": "박정원"
+  },
+  {
+   "role": "승돌이",
+   "name": "강영석"
+  },
+  {
+   "role": "마담 홍미희",
+   "name": "임진아"
+  },
+  {
+   "role": "마담 홍미희",
+   "name": "임강희"
+  },
+  {
+   "role": "황태일",
+   "name": "윤석원"
+  },
+  {
+   "role": "황태일",
+   "name": "박정표"
+  },
+  {
+   "role": "김꽃님",
+   "name": "백은혜"
+  },
+  {
+   "role": "김꽃님",
+   "name": "하현지"
+  },
+  {
+   "role": "고만태",
+   "name": "김현진"
+  },
+  {
+   "role": "고만태",
+   "name": "장민수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2519"
+ }
+}

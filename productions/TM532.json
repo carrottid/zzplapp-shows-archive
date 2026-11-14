@@ -1,0 +1,112 @@
+{
+ "id": "TM532",
+ "title": "로마의 휴일",
+ "genre": "뮤지컬",
+ "from": "2000-10-28",
+ "to": "2000-11-05",
+ "venue": "예술의전당 오페라극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_rh.jpg",
+ "cast": [
+  "김선경",
+  "성기윤",
+  "주원성",
+  "김도형",
+  "이동근",
+  "이건명",
+  "이정완",
+  "전상진",
+  "나성아",
+  "주아",
+  "백주연",
+  "김세우",
+  "김용범",
+  "천효경",
+  "이영미",
+  "오성원",
+  "황원경"
+ ],
+ "state": "공연완료",
+ "producer": "신시뮤지컬컴퍼니,극단 유",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "앤",
+   "name": "김선경"
+  },
+  {
+   "role": "앤",
+   "name": "성기윤"
+  },
+  {
+   "role": "앤",
+   "name": "주원성"
+  },
+  {
+   "role": "앤",
+   "name": "김도형"
+  },
+  {
+   "role": "앤",
+   "name": "김도형"
+  },
+  {
+   "role": "앤",
+   "name": "이동근"
+  },
+  {
+   "role": "앤",
+   "name": "이건명"
+  },
+  {
+   "role": "앤",
+   "name": "이정완"
+  },
+  {
+   "role": "앤",
+   "name": "전상진"
+  },
+  {
+   "role": "앤",
+   "name": "나성아"
+  },
+  {
+   "role": "앤",
+   "name": "주아"
+  },
+  {
+   "role": "앤",
+   "name": "백주연"
+  },
+  {
+   "role": "앤",
+   "name": "김세우"
+  },
+  {
+   "role": "기자",
+   "name": "김용범"
+  },
+  {
+   "role": "기자",
+   "name": "천효경"
+  },
+  {
+   "role": "기자",
+   "name": "이영미"
+  },
+  {
+   "role": "기자",
+   "name": "오성원"
+  },
+  {
+   "role": "기자",
+   "name": "황원경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=532"
+ }
+}

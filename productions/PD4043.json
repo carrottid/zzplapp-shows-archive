@@ -1,0 +1,71 @@
+{
+ "id": "PD4043",
+ "title": "바디클럽",
+ "genre": "뮤지컬",
+ "from": "2008-03-15",
+ "to": "2008-05-18",
+ "venue": "대학로 SH 아트홀",
+ "cast": [
+  "이주현",
+  "김지운",
+  "김옥희",
+  "장지은",
+  "박현주",
+  "김귀례",
+  "엄선미",
+  "나현정",
+  "오지연",
+  "장우진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "티파니 실버",
+   "name": "이주현"
+  },
+  {
+   "role": "티파니 실버",
+   "name": "김지운"
+  },
+  {
+   "role": "리안",
+   "name": "김옥희"
+  },
+  {
+   "role": "리안",
+   "name": "장지은"
+  },
+  {
+   "role": "엔젤린",
+   "name": "박현주"
+  },
+  {
+   "role": "케이샤",
+   "name": "김귀례"
+  },
+  {
+   "role": "케이샤",
+   "name": "엄선미"
+  },
+  {
+   "role": "도리스",
+   "name": "나현정"
+  },
+  {
+   "role": "사만타",
+   "name": "오지연"
+  },
+  {
+   "role": "",
+   "name": "장우진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241203105653/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=4043"
+ }
+}

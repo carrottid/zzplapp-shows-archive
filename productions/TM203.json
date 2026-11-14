@@ -1,0 +1,54 @@
+{
+ "id": "TM203",
+ "title": "더 씽 어바웃 맨",
+ "genre": "뮤지컬",
+ "from": "2005-06-04",
+ "to": "2005-07-31",
+ "venue": "신시뮤지컬극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_TheThing_V.jpg",
+ "cast": [
+  "성기윤",
+  "이정열",
+  "고명석",
+  "송이주",
+  "김경선",
+  "유채정"
+ ],
+ "state": "공연완료",
+ "producer": "신시뮤지컬컴퍼니",
+ "price": "R석 4만원/S석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "톰",
+   "name": "성기윤"
+  },
+  {
+   "role": "톰",
+   "name": "이정열"
+  },
+  {
+   "role": "톰",
+   "name": "고명석"
+  },
+  {
+   "role": "톰",
+   "name": "송이주"
+  },
+  {
+   "role": "톰",
+   "name": "김경선"
+  },
+  {
+   "role": "루시",
+   "name": "유채정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=203"
+ }
+}

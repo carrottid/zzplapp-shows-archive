@@ -1,0 +1,86 @@
+{
+ "id": "PD83765",
+ "title": "택시 드리벌 - 울산",
+ "genre": "연극",
+ "from": "2015-12-18",
+ "to": "2015-12-19",
+ "venue": "울산 현대예술관 대공연장",
+ "cast": [
+  "김민교",
+  "김수로",
+  "박준서",
+  "김동현",
+  "김주연",
+  "이채원",
+  "정상훈",
+  "채동현",
+  "박채원",
+  "류경환",
+  "김국희",
+  "서이진",
+  "정재혁"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "덕배",
+   "name": "김민교"
+  },
+  {
+   "role": "어깨, 회사원",
+   "name": "김수로"
+  },
+  {
+   "role": "어깨, 회사원",
+   "name": "박준서"
+  },
+  {
+   "role": "어깨, 회사원",
+   "name": "김동현"
+  },
+  {
+   "role": "화이",
+   "name": "김주연"
+  },
+  {
+   "role": "화이",
+   "name": "이채원"
+  },
+  {
+   "role": "승객들",
+   "name": "정상훈"
+  },
+  {
+   "role": "승객들",
+   "name": "채동현"
+  },
+  {
+   "role": "승객들",
+   "name": "박채원"
+  },
+  {
+   "role": "승객들",
+   "name": "류경환"
+  },
+  {
+   "role": "",
+   "name": "김국희"
+  },
+  {
+   "role": "",
+   "name": "서이진"
+  },
+  {
+   "role": "",
+   "name": "정재혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230408102130/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=83765"
+ }
+}

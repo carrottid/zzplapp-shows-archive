@@ -1,0 +1,74 @@
+{
+ "id": "TM1693",
+ "title": "오디션",
+ "genre": "뮤지컬",
+ "from": "2011-02-05",
+ "to": "2011-03-27",
+ "venue": "대학로 문화공간 이다1관",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200319062318e9c57d7289354a03aab2458fe1831beb.JPG",
+ "cast": [
+  "오종혁",
+  "최성욱(에이스)",
+  "박승원",
+  "이은",
+  "이석",
+  "정찬희",
+  "정수훈",
+  "한경수",
+  "오미란",
+  "벤"
+ ],
+ "state": "공연완료",
+ "producer": "오픈런뮤지컬컴퍼니, (주)［이다］엔터테인먼트",
+ "price": "R석 40,000원 / S석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "박병태",
+   "name": "오종혁"
+  },
+  {
+   "role": "박병태",
+   "name": "최성욱(에이스)"
+  },
+  {
+   "role": "박병태",
+   "name": "박승원"
+  },
+  {
+   "role": "김선아",
+   "name": "이은"
+  },
+  {
+   "role": "최준철",
+   "name": "이석"
+  },
+  {
+   "role": "정찬희",
+   "name": "정찬희"
+  },
+  {
+   "role": "홍다복",
+   "name": "정수훈"
+  },
+  {
+   "role": "홍다복",
+   "name": "한경수"
+  },
+  {
+   "role": "홍초롱",
+   "name": "오미란"
+  },
+  {
+   "role": "홍초롱",
+   "name": "벤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1693"
+ }
+}

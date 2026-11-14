@@ -1,0 +1,76 @@
+{
+ "id": "PD127410",
+ "title": "오늘을 기억해",
+ "genre": "뮤지컬",
+ "from": "2018-07-14",
+ "to": "2018-09-02",
+ "venue": "예그린씨어터",
+ "cast": [
+  "한현민",
+  "방보용",
+  "최수연",
+  "김찬",
+  "김자미",
+  "박지혜",
+  "전보영",
+  "전대현",
+  "이재형",
+  "최백선",
+  "정진욱"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "최동석",
+   "name": "한현민"
+  },
+  {
+   "role": "최동석",
+   "name": "방보용"
+  },
+  {
+   "role": "이희수",
+   "name": "최수연"
+  },
+  {
+   "role": "마세진",
+   "name": "김찬"
+  },
+  {
+   "role": "장도연",
+   "name": "김자미"
+  },
+  {
+   "role": "장도연",
+   "name": "박지혜"
+  },
+  {
+   "role": "김지민",
+   "name": "전보영"
+  },
+  {
+   "role": "이재형",
+   "name": "전대현"
+  },
+  {
+   "role": "이재형",
+   "name": "이재형"
+  },
+  {
+   "role": "",
+   "name": "최백선"
+  },
+  {
+   "role": "",
+   "name": "정진욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230727204545/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=127410"
+ }
+}

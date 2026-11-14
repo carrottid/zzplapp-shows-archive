@@ -1,0 +1,61 @@
+{
+ "id": "PD19340",
+ "title": "훈남들의 수다",
+ "genre": "연극",
+ "from": "2010-11-17",
+ "to": "2011-02-06",
+ "venue": "나온 씨어터",
+ "cast": [
+  "김도형",
+  "오희중",
+  "유재동",
+  "김태강",
+  "김동박",
+  "유건우",
+  "이기섭",
+  "윤국로"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "희수",
+   "name": "김도형"
+  },
+  {
+   "role": "희수",
+   "name": "오희중"
+  },
+  {
+   "role": "경준",
+   "name": "유재동"
+  },
+  {
+   "role": "경준",
+   "name": "김태강"
+  },
+  {
+   "role": "태기",
+   "name": "김동박"
+  },
+  {
+   "role": "태기",
+   "name": "유건우"
+  },
+  {
+   "role": "성환",
+   "name": "이기섭"
+  },
+  {
+   "role": "성환",
+   "name": "윤국로"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170919230114/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=19340"
+ }
+}

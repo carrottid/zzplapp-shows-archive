@@ -1,0 +1,4498 @@
+{
+ "productions": [
+  {
+   "id": "TM1117",
+   "title": "레딕스 십계",
+   "genre": "뮤지컬",
+   "from": "2007-12-24",
+   "to": "2008-01-18",
+   "venue": "코엑스 대서양홀",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007_레딕스.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#8A4A1E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1472",
+   "title": "랩퍼스 파라다이스",
+   "genre": "뮤지컬",
+   "from": "2007-12-18",
+   "to": "2008-03-30",
+   "venue": "두레홀 4관",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_rappers2007.jpg",
+   "cast": [
+    "이학민",
+    "오지연",
+    "도정주",
+    "채현원",
+    "김준태"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#2B2540",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1037",
+   "title": "애니",
+   "genre": "뮤지컬",
+   "from": "2007-12-15",
+   "to": "2007-12-29",
+   "venue": "세종문화회관 대극장",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 애니.jpg",
+   "cast": [
+    "이아진",
+    "박도연",
+    "박선옥",
+    "전수경",
+    "박철호",
+    "주성중",
+    "이연경"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM1075",
+   "title": "그리스",
+   "genre": "뮤지컬",
+   "from": "2007-12-15",
+   "to": "2008-02-17",
+   "venue": "코엑스 오디토리움 대극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200915044031d96230a441a64024ae188bc109cb4265.jpg",
+   "cast": [
+    "유현수",
+    "김형민",
+    "임혜영",
+    "전재홍",
+    "홍미옥",
+    "홍승아",
+    "조선명",
+    "박민성",
+    "이광섭",
+    "명재환",
+    "민정기",
+    "소정화",
+    "유혜련",
+    "주민진",
+    "김도영",
+    "김종남"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#17191E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM905",
+   "title": "알타보이즈",
+   "genre": "뮤지컬",
+   "from": "2007-12-15",
+   "to": "2008-03-02",
+   "venue": "대학로 문화공간 이다 1관",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009150435288f07369693024785828bea4c8b1b6c78.jpg",
+   "cast": [
+    "정동화",
+    "정민",
+    "주원",
+    "한지상",
+    "무현",
+    "이창희",
+    "에녹",
+    "라준",
+    "육현욱",
+    "윤석원",
+    "이창용"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#4C4B4C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM906",
+   "title": "아이러브유 비코즈",
+   "genre": "뮤지컬",
+   "from": "2007-12-13",
+   "to": "2008-03-02",
+   "venue": "두산아트센터 연강홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200915044618462592ab87b14229bbb8d37f690b4665.jpg",
+   "cast": [
+    "전진오",
+    "서정현",
+    "김태한",
+    "백주희",
+    "장대웅",
+    "최가인"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#0A1047",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM907",
+   "title": "지저스 크라이스트 수퍼스타",
+   "genre": "뮤지컬",
+   "from": "2007-12-12",
+   "to": "2007-12-18",
+   "venue": "슈퍼스타돔(잠실 실내체육관)",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_지저스0.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#050103",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1082",
+   "title": "맘마미아!",
+   "genre": "뮤지컬",
+   "from": "2007-12-11",
+   "to": "2008-05-14",
+   "venue": "샤롯데씨어터",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 맘마미아_샤롯데.jpg",
+   "cast": [
+    "김선경",
+    "최정원",
+    "이재영",
+    "전수경",
+    "황현정",
+    "이경미",
+    "정영주",
+    "이정미",
+    "김보경",
+    "손지원",
+    "성기윤",
+    "박지일",
+    "황만익",
+    "이창원",
+    "이주언",
+    "차정현",
+    "김윤지",
+    "임혜성",
+    "이승조",
+    "유미",
+    "김의신",
+    "정재헌",
+    "곽동욱",
+    "이강빈",
+    "이자영",
+    "김하얀",
+    "이나민",
+    "정혜정",
+    "이영은",
+    "김호진",
+    "최성대",
+    "박한기",
+    "채유정",
+    "고비현"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PD1360",
+   "title": "여름과 연기",
+   "genre": "연극",
+   "from": "2007-12-08",
+   "to": "2007-12-30",
+   "venue": "예술의전당 CJ 토월극장",
+   "cast": [
+    "조민기",
+    "김혜리"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM1125",
+   "title": "솔로의 단계",
+   "genre": "뮤지컬",
+   "from": "2007-12-07",
+   "to": "2007-12-31",
+   "venue": "대학로 성균소극장",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 솔로 01.jpg",
+   "cast": [
+    "김수용",
+    "이광현",
+    "장윤진",
+    "김원식",
+    "김희진",
+    "안승옥",
+    "최윤정",
+    "안나민",
+    "박시범"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM1300",
+   "title": "틱틱붐",
+   "genre": "뮤지컬",
+   "from": "2007-12-07",
+   "to": "2007-12-30",
+   "venue": "아르코예술극장 대극장",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_tick2007.JPG",
+   "cast": [
+    "이건명",
+    "배해선",
+    "김형묵"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#E5D401",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM936",
+   "title": "명성황후",
+   "genre": "뮤지컬",
+   "from": "2007-12-05",
+   "to": "2007-12-28",
+   "venue": "국립극장 해오름 극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009150535419be75584faa24dcbafb1665519fd5636.jpg",
+   "cast": [
+    "이태원",
+    "이상은",
+    "조승룡",
+    "윤영석",
+    "이희정",
+    "김도형",
+    "이종문",
+    "이필승",
+    "지혜근",
+    "김덕환",
+    "이석"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#3D242F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM895",
+   "title": "오디션",
+   "genre": "뮤지컬",
+   "from": "2007-12-01",
+   "to": "2007-12-31",
+   "venue": "백암아트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200915053915a4d9f37a263945e29e9379c51cc389bb.bmp",
+   "cast": [
+    "이승현",
+    "김선아",
+    "김정화",
+    "백은혜",
+    "정찬희",
+    "김승환",
+    "강초롱",
+    "위다복"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#3E3024",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1055",
+   "title": "노트르담 드 파리",
+   "genre": "뮤지컬",
+   "from": "2007-11-30",
+   "to": "2007-12-09",
+   "venue": "고양아람누리 아람극장",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_에스메랄다 배경_SMALL0.jpg",
+   "cast": [
+    "문혜원",
+    "오진영",
+    "김법래",
+    "윤형렬",
+    "서범석",
+    "류창우",
+    "김성민",
+    "김태형",
+    "이정열",
+    "문종원",
+    "박은태",
+    "김태훈",
+    "김정현",
+    "곽선영",
+    "김경엽",
+    "장윤정",
+    "전호준",
+    "김현",
+    "계채영",
+    "김성곤",
+    "한승용"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM879",
+   "title": "청요 앤 화이트",
+   "genre": "뮤지컬",
+   "from": "2007-11-30",
+   "to": "2008-06-01",
+   "venue": "열린극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200915054109ee6720acdd1548489d144c4242274318.jpg",
+   "cast": [
+    "김꽃무리"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#6C6E7A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM880",
+   "title": "밴디트-또 다른 시작",
+   "genre": "뮤지컬",
+   "from": "2007-11-30",
+   "to": "2007-12-31",
+   "venue": "문화일보홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200915054152912868e266b146c287f6b24933deed35.jpg",
+   "cast": [
+    "이소유",
+    "소찬휘",
+    "이영미",
+    "리사",
+    "한지상",
+    "전민준(전역산)"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#E05206",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PD1362",
+   "title": "과학하는 마음1 - 진화하는 오후",
+   "genre": "연극",
+   "from": "2007-11-29",
+   "to": "2007-12-16",
+   "venue": "연우 소극장(대학로)",
+   "cast": [
+    "김은석",
+    "김보영",
+    "이지현",
+    "이화룡",
+    "박윤석",
+    "이갑선",
+    "정유미",
+    "신정현",
+    "권민영",
+    "김하리"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM881",
+   "title": "오르페오",
+   "genre": "뮤지컬",
+   "from": "2007-11-27",
+   "to": "2007-12-02",
+   "venue": "유니버설아트센터",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009150547314da2ee54b6a94d14bd861d7feef6c19b.jpg",
+   "cast": [
+    "전혁진",
+    "장성희",
+    "최인형",
+    "도정주",
+    "이종한"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#5A5C5B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM882",
+   "title": "하드락 카페",
+   "genre": "뮤지컬",
+   "from": "2007-11-24",
+   "to": "2007-12-30",
+   "venue": "나루아트센터",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200916013533b5a99b6ebbd846de91aa32844f860a39.jpg",
+   "cast": [
+    "송용진",
+    "최윤",
+    "문혜영",
+    "소냐",
+    "최인천",
+    "유나영",
+    "김용호"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#700A35",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PD1357",
+   "title": "사랑, 지고지순하다",
+   "genre": "연극",
+   "from": "2007-11-23",
+   "to": "2007-12-23",
+   "venue": "대학로 선돌극장",
+   "cast": [
+    "이현경",
+    "홍성춘",
+    "조주현",
+    "연보라",
+    "박지환",
+    "최석규",
+    "차지성"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM883",
+   "title": "우리동네",
+   "genre": "뮤지컬",
+   "from": "2007-11-22",
+   "to": "2008-01-06",
+   "venue": "예술극장 나무와물",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009160137362924e46aca434d5d8aa38e464a542c69.jpg",
+   "cast": [
+    "최은석",
+    "남궁희",
+    "김선혜",
+    "김도신",
+    "나세나",
+    "김태연",
+    "박상현",
+    "이기영",
+    "박수진",
+    "유다미",
+    "김수정",
+    "한웅희",
+    "강민혜",
+    "김보경"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#B8AF2D",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM884",
+   "title": "벽을 뚫는 남자",
+   "genre": "뮤지컬",
+   "from": "2007-11-17",
+   "to": "2008-02-03",
+   "venue": "동숭아트센터 동숭홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009160141152a2ec1ea70db456aa74c0e888d137b0c.jpg",
+   "cast": [
+    "남경주",
+    "고영빈",
+    "해이",
+    "정명은",
+    "김성기",
+    "강연종",
+    "오세준",
+    "김영주",
+    "최혁주",
+    "김승필",
+    "임철형",
+    "고세원",
+    "조정석"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#9B2F6E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1311",
+   "title": "뷰티풀 게임",
+   "genre": "뮤지컬",
+   "from": "2007-11-16",
+   "to": "2008-01-13",
+   "venue": "LG아트센터",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091602295362506fa1a13843e993a5ca3b67eff39d.jpg",
+   "cast": [
+    "박건형",
+    "김도현",
+    "강동호",
+    "전나혜(난아)",
+    "조진아",
+    "김소향",
+    "김기현",
+    "김세우",
+    "정의욱",
+    "권소현",
+    "명호종",
+    "홍현표",
+    "함승현",
+    "김동현",
+    "하지승",
+    "손승현",
+    "송욱경",
+    "황석진",
+    "정원영",
+    "백수지",
+    "석희연",
+    "장서원",
+    "이은주",
+    "김서노",
+    "최소영"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#252714",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM885",
+   "title": "마리아 마리아",
+   "genre": "뮤지컬",
+   "from": "2007-11-16",
+   "to": "2007-12-31",
+   "venue": "국립중앙박물관 극장 용",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009160200106273d54b7dac4c82bffbac2afed8f822.jpg",
+   "cast": [
+    "윤복희",
+    "강효성",
+    "황지현",
+    "차지연",
+    "김보강",
+    "이필승",
+    "박민성",
+    "김태형",
+    "고경만",
+    "정윤식",
+    "김기상",
+    "김유정",
+    "이재혁",
+    "엄주필",
+    "최미용",
+    "이성미",
+    "김찬호"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#2E1A3D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM888",
+   "title": "헤어스프레이",
+   "genre": "뮤지컬",
+   "from": "2007-11-16",
+   "to": "2008-02-17",
+   "venue": "충무아트홀 대극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200916021928ecf0706504a243db812a6bf50f14a7ce.jpg",
+   "cast": [
+    "방진의",
+    "왕브리타",
+    "김민주",
+    "고명석",
+    "정준하",
+    "김호영",
+    "오승준",
+    "김자경",
+    "이인철",
+    "윤정원",
+    "신영숙",
+    "이계창",
+    "강윤석",
+    "이정완",
+    "김경선",
+    "임수연",
+    "최영화",
+    "윤사봉",
+    "이수영",
+    "김지민",
+    "지은택",
+    "서지훈",
+    "정동석",
+    "유환웅",
+    "이창용",
+    "이동재",
+    "송형은",
+    "고정희",
+    "손제훈"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#E9579B",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM934",
+   "title": "두근두근",
+   "genre": "뮤지컬",
+   "from": "2007-11-15",
+   "to": "2008-05-12",
+   "venue": "대학로 단막극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200916024127a5968b3470364968b88d4c486b192f68.jpg",
+   "cast": [
+    "이규형",
+    "신미영",
+    "윤대열"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#574031",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PD1344",
+   "title": "백무동에서",
+   "genre": "연극",
+   "from": "2007-11-13",
+   "to": "2007-12-02",
+   "venue": "아르코예술극장 소극장",
+   "cast": [
+    "윤제문",
+    "정은경",
+    "김영필",
+    "김주완",
+    "박민규",
+    "고수희",
+    "주인영",
+    "황영희"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PD1363",
+   "title": "너무 가깝고 너무 먼 우리사이",
+   "genre": "연극",
+   "from": "2007-11-13",
+   "to": "2007-11-25",
+   "venue": "연우 소극장(대학로)",
+   "cast": [
+    "김승언",
+    "이명행",
+    "이종무",
+    "김나라",
+    "황건",
+    "최웅재",
+    "선종남",
+    "정의순"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PD1338",
+   "title": "국물있사옵니다",
+   "genre": "연극",
+   "from": "2007-11-10",
+   "to": "2007-11-18",
+   "venue": "삼일로 창고극장",
+   "cast": [
+    "정찬훈",
+    "이희련",
+    "조이행",
+    "한재영",
+    "박진수",
+    "이미선",
+    "김영호",
+    "강주연",
+    "김민선",
+    "최묘견"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM889",
+   "title": "호호",
+   "genre": "뮤지컬",
+   "from": "2007-11-10",
+   "to": "2008-02-03",
+   "venue": "알과핵 소극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200916024308350d178bccaa444f822dd025f9245225.jpg",
+   "cast": [
+    "박문영",
+    "박세준",
+    "김주후",
+    "이봉련",
+    "소재한"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#9C496D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM890",
+   "title": "스펠링 비",
+   "genre": "뮤지컬",
+   "from": "2007-11-09",
+   "to": "2008-03-09",
+   "venue": "충무아트홀 소극장 블랙",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009160244480223ef2207554ffb8ae2e0276fd1cd69.jpg",
+   "cast": [
+    "유나영",
+    "전준성",
+    "홍기주",
+    "성준서",
+    "엄태리",
+    "박주형",
+    "김대종",
+    "전문지",
+    "길성원",
+    "김늘봄",
+    "문태유"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#783C37",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PD1337",
+   "title": "두드리 두드리",
+   "genre": "연극",
+   "from": "2007-11-08",
+   "to": "2007-11-18",
+   "venue": "대학로 예술극장 나무와 물",
+   "cast": [
+    "박종상",
+    "하경화",
+    "박정근",
+    "김태성",
+    "김혁종",
+    "오준범",
+    "김관규",
+    "김윤환",
+    "이종구",
+    "최영규",
+    "소희정",
+    "김선구",
+    "김윤정"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM908",
+   "title": "찬스",
+   "genre": "뮤지컬",
+   "from": "2007-11-08",
+   "to": "2008-03-09",
+   "venue": "창조콘서트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200916024627392fc6f8c54f43bbaf308cbbec75d782.jpg",
+   "cast": [
+    "박민성",
+    "박인배",
+    "안나민",
+    "최현선",
+    "김명준",
+    "이지숙",
+    "김용덕",
+    "박영",
+    "우금지"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#B33355",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM891",
+   "title": "스핀 오디세이",
+   "genre": "뮤지컬",
+   "from": "2007-11-07",
+   "to": "2007-12-30",
+   "venue": "이화여고100주년기념관",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009160248000f24b11d2fc24788a369c80bbb68e7c7.bmp",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#991F13",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM892",
+   "title": "컨페션",
+   "genre": "뮤지컬",
+   "from": "2007-11-06",
+   "to": "2008-02-03",
+   "venue": "충무아트홀 소극장 블루",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091602591462475a6944ff4111b202f383a545ad7a.jpg",
+   "cast": [
+    "윤공주",
+    "김우형",
+    "문성혁",
+    "임은영",
+    "문지원"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#2F3A4F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1317",
+   "title": "샤인",
+   "genre": "뮤지컬",
+   "from": "2007-11-02",
+   "to": "2007-12-30",
+   "venue": "사다리아트센터 세모극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009160259471b007067672744afb14631e9a1abea91.jpg",
+   "cast": [
+    "한성식",
+    "류수화",
+    "최재웅"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#D4121D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1065",
+   "title": "지하철1호선",
+   "genre": "뮤지컬",
+   "from": "2007-11-01",
+   "to": "2008-04-27",
+   "venue": "학전그린",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200916030351b21c4c34a78145668301fbca715034e5.jpg",
+   "cast": [
+    "김기정",
+    "정형호",
+    "이채경",
+    "김대명"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#190F0F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM896",
+   "title": "달고나",
+   "genre": "뮤지컬",
+   "from": "2007-11-01",
+   "to": "2007-12-31",
+   "venue": "한전아트센터",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200916030108381601fffcaf4d16910169ef611336c9.bmp",
+   "cast": [
+    "박형준",
+    "최보영",
+    "이정미",
+    "이동윤",
+    "이장훈"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#0A458C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM902",
+   "title": "버스",
+   "genre": "뮤지컬",
+   "from": "2007-11-01",
+   "to": "2007-11-11",
+   "venue": "대학로 문화공간 엘림홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200916030141670ec42a3d7849d2b95739b9cc8cb234.bmp",
+   "cast": [
+    "박계환",
+    "이승열",
+    "김성웅",
+    "조서희",
+    "허지나",
+    "안나영",
+    "구용완",
+    "김형주",
+    "이종선",
+    "황장현",
+    "황현정"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#712B61",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM858",
+   "title": "인당수 사랑가",
+   "genre": "뮤지컬",
+   "from": "2007-10-31",
+   "to": "2007-12-31",
+   "venue": "원더스페이스 (구 사다리아트센터) 동그라미극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009160310037f1549a8c5ff4c82969e1b161697babe.jpg",
+   "cast": [
+    "황지영",
+    "장덕수",
+    "박정표",
+    "고승수",
+    "손광업",
+    "이승원",
+    "황현빈",
+    "홍우진"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#358CB0",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM859",
+   "title": "풋루스",
+   "genre": "뮤지컬",
+   "from": "2007-10-26",
+   "to": "2007-12-31",
+   "venue": "목동 엔젤씨어터",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009160312416f0231361e46499dbe3cc3cfd74529ad.jpg",
+   "cast": [
+    "채동하",
+    "김진우",
+    "유채정",
+    "조남희",
+    "임선애",
+    "고영진",
+    "박소리",
+    "한다연",
+    "최소현",
+    "윤영은",
+    "정승민",
+    "정동진",
+    "문태권",
+    "김동영",
+    "고효진",
+    "김아름",
+    "윤혜민"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#14111A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM897",
+   "title": "넌센스 Nut Cracker",
+   "genre": "뮤지컬",
+   "from": "2007-10-26",
+   "to": "2008-03-30",
+   "venue": "창조콘서트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009160317386fbbc1deb79545a3b19816e66bfbcf34.jpg",
+   "cast": [
+    "홍미옥",
+    "한서영",
+    "이연성",
+    "김봄",
+    "강유미",
+    "주원성",
+    "배준성",
+    "서홍석",
+    "최호중"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#C91C22",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1079",
+   "title": "김종욱 찾기",
+   "genre": "뮤지컬",
+   "from": "2007-10-23",
+   "to": "2009-04-05",
+   "venue": "대학로 예술마당 1관",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008 김종욱.jpg",
+   "cast": [
+    "박동하",
+    "김무열",
+    "김재범",
+    "성태준",
+    "정민",
+    "신성록",
+    "이율",
+    "강필석",
+    "고세원",
+    "곽병진",
+    "오나라",
+    "한애리",
+    "안유진",
+    "정명은",
+    "곽선영",
+    "조민아",
+    "김지현",
+    "김지우",
+    "이창희",
+    "무현",
+    "조휘",
+    "문용현",
+    "정상훈",
+    "박정표",
+    "진선규",
+    "임기홍"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PD1283",
+   "title": "소설가 구보씨와 경성사람들",
+   "genre": "연극",
+   "from": "2007-10-20",
+   "to": "2007-11-04",
+   "venue": "예술의전당 자유소극장",
+   "cast": [
+    "김종태",
+    "선종남",
+    "백현주",
+    "우정국",
+    "이화룡",
+    "최정인",
+    "이미지"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PD2772",
+   "title": "나쁜자석",
+   "genre": "연극",
+   "from": "2007-10-20",
+   "to": "2007-12-25",
+   "venue": "두산아트센터 Space111",
+   "cast": [
+    "김영민",
+    "정원조",
+    "김동현",
+    "여욱환",
+    "곽자형"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM861",
+   "title": "미스터 마우스",
+   "genre": "뮤지컬",
+   "from": "2007-10-20",
+   "to": "2007-12-31",
+   "venue": "원더스페이스 (구 사다리아트센터) 네모극장",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_미스터마우스 (2)1.jpg",
+   "cast": [
+    "박호산",
+    "김태한",
+    "박홍주",
+    "신문성",
+    "박은영",
+    "이건영",
+    "박명훈",
+    "조찬희",
+    "이지송",
+    "유정은"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM862",
+   "title": "빙고",
+   "genre": "뮤지컬",
+   "from": "2007-10-19",
+   "to": "2007-12-31",
+   "venue": "코엑스아트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009170151507626922ba7eb4e488e9958d4b9732d91.jpg",
+   "cast": [
+    "김현진",
+    "김선영",
+    "한지연",
+    "안현식",
+    "김현숙",
+    "이찬미",
+    "오소연"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#244788",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM863",
+   "title": "번더플로어2",
+   "genre": "뮤지컬",
+   "from": "2007-10-17",
+   "to": "2007-10-27",
+   "venue": "세종문화회관 대극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200917015315348aca664967472b83c951e39e9ee21d.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#010104",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM864",
+   "title": "싱글즈",
+   "genre": "뮤지컬",
+   "from": "2007-10-17",
+   "to": "2007-12-31",
+   "venue": "KT&G 상상아트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009170154046d094833fd104bd4ae2a7542cc0c2b9d.jpg",
+   "cast": [
+    "구원영",
+    "백주연",
+    "정상훈",
+    "김태한",
+    "전진오",
+    "서현수",
+    "정수한",
+    "박진희",
+    "정현주",
+    "박혜경",
+    "심홍섭"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#E30377",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM868",
+   "title": "실연남녀",
+   "genre": "뮤지컬",
+   "from": "2007-10-13",
+   "to": "2007-12-09",
+   "venue": "대학로 문화공간 이다 1관",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200917015547d779c21917ee461c94b553037b2a4146.jpg",
+   "cast": [
+    "변우민",
+    "안신우",
+    "손광업",
+    "김재만",
+    "엄기준",
+    "신성록",
+    "강지우",
+    "양소민",
+    "한애리"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#0D0D0B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PD1320",
+   "title": "해무",
+   "genre": "연극",
+   "from": "2007-10-12",
+   "to": "2007-11-04",
+   "venue": "연우 소극장(대학로)",
+   "cast": [
+    "신철진",
+    "김용준",
+    "유인수",
+    "권태건",
+    "나종민",
+    "송새벽",
+    "조일두"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM869",
+   "title": "햄릿",
+   "genre": "뮤지컬",
+   "from": "2007-10-12",
+   "to": "2007-11-11",
+   "venue": "유니버설 아트센터",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200917015750a557ae99f6e742c78e96c7bd1c8e7bb5.jpg",
+   "cast": [
+    "김수용",
+    "신성록",
+    "성태준",
+    "신주연",
+    "조유신",
+    "이주원",
+    "서지영",
+    "송용태",
+    "남문철",
+    "김승대",
+    "이학민",
+    "손미영",
+    "김상현",
+    "김도원",
+    "조순창",
+    "배석준",
+    "박혜나",
+    "안시하",
+    "최유리"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#8A1F2E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PD1299",
+   "title": "홍동지놀이",
+   "genre": "연극",
+   "from": "2007-10-11",
+   "to": "2007-10-19",
+   "venue": "국립극장 달오름극장",
+   "cast": [
+    "서민성",
+    "오대석",
+    "김송일",
+    "김영아",
+    "이진",
+    "박소영",
+    "문정수",
+    "김완",
+    "박민정",
+    "박주영"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PD1289",
+   "title": "살로메",
+   "genre": "연극",
+   "from": "2007-10-10",
+   "to": "2007-10-11",
+   "venue": "국립극장 해오름극장",
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM867",
+   "title": "화장을 고치고",
+   "genre": "뮤지컬",
+   "from": "2007-10-09",
+   "to": "2008-02-28",
+   "venue": "대학로 라이브극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091702432265afab11eeda4c8db891da072e81a693.jpg",
+   "cast": [
+    "백주희",
+    "전소영",
+    "이주원",
+    "장승조(장현덕)",
+    "최원석",
+    "오대환",
+    "김용철",
+    "김지숙",
+    "이소영"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#4B3A7A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1156",
+   "title": "우연히 행복해지다",
+   "genre": "뮤지컬",
+   "from": "2007-10-05",
+   "to": "2007-10-14",
+   "venue": "가나의집 열림홀",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 우연히 행복.jpg",
+   "cast": [
+    "김경수",
+    "유승현"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM1158",
+   "title": "더 빅팀",
+   "genre": "뮤지컬",
+   "from": "2007-10-05",
+   "to": "2007-10-14",
+   "venue": "예술의전당 자유소극장",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007_더빅팀.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#1F1212",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM870",
+   "title": "피크닉",
+   "genre": "뮤지컬",
+   "from": "2007-10-05",
+   "to": "2007-11-30",
+   "venue": "더굿시어터",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009170244067d7739c0aad34d619e48a110c65f9e00.bmp",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#5D5549",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM982",
+   "title": "사랑에 관한 다섯 개의 소묘",
+   "genre": "뮤지컬",
+   "from": "2007-10-05",
+   "to": "2007-12-31",
+   "venue": "인켈아트홀 2관",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_사랑소묘.bmp",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#915854",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM857",
+   "title": "텔미 온어 선데이",
+   "genre": "뮤지컬",
+   "from": "2007-10-01",
+   "to": "2007-11-25",
+   "venue": "두산아트센터 연강홀",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_tellmeonasunday.jpg",
+   "cast": [
+    "최성희(바다)",
+    "김선영",
+    "정선아"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#1E2F4F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PD1313",
+   "title": "10번타자",
+   "genre": "연극",
+   "from": "2007-09-28",
+   "to": "2007-10-14",
+   "venue": "연극실험실 혜화동 1번지",
+   "cast": [
+    "윤미영",
+    "김진성",
+    "김우성",
+    "한상완",
+    "김정호",
+    "김하리"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PD1276",
+   "title": "미래는 없다",
+   "genre": "연극",
+   "from": "2007-09-22",
+   "to": "2007-10-07",
+   "venue": "연우 소극장(대학로)",
+   "cast": [
+    "홍성경",
+    "강일",
+    "이영민",
+    "김선영",
+    "최지훈",
+    "이은정",
+    "정세라",
+    "정선철",
+    "염선화"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM900",
+   "title": "랩퍼스 파라다이스",
+   "genre": "뮤지컬",
+   "from": "2007-09-21",
+   "to": "2007-11-30",
+   "venue": "대학로 씨어터 SH",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200917024600dd433d70f3374e8183a4867e30117adc.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#4F4B49",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM852",
+   "title": "시카고",
+   "genre": "뮤지컬",
+   "from": "2007-09-18",
+   "to": "2007-09-30",
+   "venue": "세종문화회관 대극장",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 시카고1.jpg",
+   "cast": [
+    "최정원",
+    "배해선",
+    "옥주현",
+    "성기윤",
+    "황만익",
+    "김경선",
+    "김서준",
+    "오승준",
+    "최성대",
+    "정재헌",
+    "차정현",
+    "정선영",
+    "이주언",
+    "고비현",
+    "이자영",
+    "백현주",
+    "유미",
+    "채유정",
+    "최은주",
+    "강웅곤",
+    "장정학",
+    "임휴상",
+    "원소연",
+    "배경미"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM874",
+   "title": "트로트 뮤지컬 차차차",
+   "genre": "뮤지컬",
+   "from": "2007-09-18",
+   "to": "2007-11-04",
+   "venue": "대학로 낙산씨어터",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009170249087dcc121cea1540a7a2846fbca01f0ef5.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#C78C1E",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM832",
+   "title": "스위니 토드",
+   "genre": "뮤지컬",
+   "from": "2007-09-15",
+   "to": "2007-10-18",
+   "venue": "LG아트센터",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091702494544122cb9986343d8b898852f6ae06579.jpg",
+   "cast": [
+    "류정한",
+    "양준모",
+    "박해미",
+    "홍지민",
+    "임태경",
+    "이동명",
+    "유에스더",
+    "홍광호",
+    "한지상",
+    "김봉환",
+    "박완",
+    "정현철",
+    "임문희",
+    "진현희",
+    "배희진",
+    "심재현",
+    "전재홍",
+    "김수영",
+    "김현아",
+    "임재현",
+    "김아영",
+    "한유란"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#1F2A3A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM838",
+   "title": "공길전",
+   "genre": "뮤지컬",
+   "from": "2007-09-15",
+   "to": "2007-09-30",
+   "venue": "충무아트홀 대극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200917025325fd04f2c8777b4413a9b2d4849134d269.jpg",
+   "cast": [
+    "김재범",
+    "홍경수",
+    "심정완",
+    "박원묵",
+    "금승훈",
+    "정유희",
+    "도정주",
+    "박석용",
+    "김백현",
+    "고미경",
+    "민병상",
+    "안재홍",
+    "이종한",
+    "최인형",
+    "리온",
+    "여정옥",
+    "김동호",
+    "유경아",
+    "김은혜",
+    "김혜원"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#442421",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1313",
+   "title": "내래 조선에서 왔습네다",
+   "genre": "뮤지컬",
+   "from": "2007-09-12",
+   "to": "2007-11-25",
+   "venue": "대학로 아트홀 스타시티",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091702564744e129ac996f4741a2fb31aed773f9c5.jpg",
+   "cast": [
+    "서재필",
+    "금한나",
+    "한성용"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#097BDD",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PD1281",
+   "title": "태",
+   "genre": "연극",
+   "from": "2007-09-11",
+   "to": "2007-09-23",
+   "venue": "국립극장 달오름극장",
+   "cast": [
+    "장민호",
+    "김재건",
+    "문영수",
+    "김종구",
+    "이승옥",
+    "오영수",
+    "우상전",
+    "서희승",
+    "이혜경",
+    "이상직",
+    "서상원",
+    "이원재",
+    "김마리아",
+    "조은경",
+    "이은희"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PD1302",
+   "title": "LUV",
+   "genre": "연극",
+   "from": "2007-09-11",
+   "to": "2008-01-20",
+   "venue": "대학로 스타시티 타이니앨리스 (구.아트홀 마리카2관)",
+   "cast": [
+    "김선화",
+    "이용주",
+    "김정호"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM820",
+   "title": "조지엠코핸 투나잇",
+   "genre": "뮤지컬",
+   "from": "2007-09-07",
+   "to": "2007-11-30",
+   "venue": "동양아트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091702581543293b3e0c3e476fac22a7ba4f8e994e.jpg",
+   "cast": [
+    "임춘길",
+    "고영빈",
+    "민영기"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM901",
+   "title": "오! 마이 캡틴!!",
+   "genre": "뮤지컬",
+   "from": "2007-09-07",
+   "to": "2007-12-30",
+   "venue": "로빈아트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091702591721451b2be5e24520993ab986f2915ba8.bmp",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#411911",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PD1269",
+   "title": "멜로드라마",
+   "genre": "연극",
+   "from": "2007-09-06",
+   "to": "2007-12-31",
+   "venue": "대학로 문화공간 필링 2관",
+   "cast": [
+    "박미현",
+    "김지성",
+    "조한철",
+    "이희준",
+    "김진희"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM1150",
+   "title": "러브 인 카푸치노",
+   "genre": "뮤지컬",
+   "from": "2007-09-06",
+   "to": "2007-10-28",
+   "venue": "이화여고100주년기념관",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007_카푸치노0.jpg",
+   "cast": [
+    "유다미",
+    "고세원",
+    "조은별",
+    "김경화",
+    "우창수",
+    "손현주",
+    "왕브리타",
+    "곽동욱",
+    "박정권"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#AF6936",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PD1277",
+   "title": "인간교제",
+   "genre": "연극",
+   "from": "2007-09-05",
+   "to": "2007-09-19",
+   "venue": "연우 소극장(대학로)",
+   "cast": [
+    "장용철",
+    "김은석",
+    "박지호",
+    "이현주",
+    "이지혜"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PD1234",
+   "title": "변",
+   "genre": "연극",
+   "from": "2007-08-31",
+   "to": "2007-09-14",
+   "venue": "아르코예술극장 소극장",
+   "cast": [
+    "신덕호",
+    "문성근",
+    "최용민",
+    "박광정",
+    "민복기",
+    "신영옥",
+    "박지아",
+    "강신일",
+    "정석용",
+    "김승욱",
+    "이희준",
+    "전혜진",
+    "이성민",
+    "서동갑"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM847",
+   "title": "대장금",
+   "genre": "뮤지컬",
+   "from": "2007-08-25",
+   "to": "2007-09-09",
+   "venue": "세종문화회관 대극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009170301329880a4d7d6714daa9cc422b17ef906d6.jpg",
+   "cast": [
+    "김소현",
+    "안유진",
+    "원기준",
+    "김우형",
+    "한애리",
+    "최보영",
+    "손광업",
+    "류수화",
+    "이태원",
+    "한성식",
+    "하은섬"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#88262C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM834",
+   "title": "젊은 베르테르의 슬픔",
+   "genre": "뮤지컬",
+   "from": "2007-08-24",
+   "to": "2007-09-16",
+   "venue": "극장 용",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020030906315565da73dbdd3645679ef1e736a330f299.jpg",
+   "cast": [
+    "서영주",
+    "이혜경",
+    "김법래",
+    "최오식",
+    "최나래",
+    "김일권",
+    "김선미",
+    "추정화",
+    "정의욱",
+    "장이주",
+    "최영우",
+    "황은미",
+    "김상미",
+    "서경수"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#683C31",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM848",
+   "title": "마리아 마리아",
+   "genre": "뮤지컬",
+   "from": "2007-08-23",
+   "to": "2007-08-26",
+   "venue": "충무아트홀 대극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009170303197f1af20e8cef4468ab3b28fe18e72103.jpg",
+   "cast": [
+    "강효성",
+    "김보강",
+    "이승철"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#3A1418",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1273",
+   "title": "비보이 앤 발레리나",
+   "genre": "뮤지컬",
+   "from": "2007-08-22",
+   "to": "2008-09-30",
+   "venue": "메사 고릴라전용관",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_bb0.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#190C19",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1008",
+   "title": "테너를 빌려줘",
+   "genre": "뮤지컬",
+   "from": "2007-08-17",
+   "to": "2007-12-30",
+   "venue": "상상나눔씨어터",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 테너.jpg",
+   "cast": [
+    "안덕용",
+    "박인배",
+    "이혜진",
+    "이찬영"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM839",
+   "title": "발레뮤지컬 심청",
+   "genre": "뮤지컬",
+   "from": "2007-08-16",
+   "to": "2007-08-26",
+   "venue": "유니버설아트센터",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091703045451ae83b2599f4e06a98ffdffb8cbb0e7.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#408FA6",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM877",
+   "title": "랩퍼스 파라다이스",
+   "genre": "뮤지컬",
+   "from": "2007-08-11",
+   "to": "2007-10-07",
+   "venue": "브로딘 아트센터",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009170305393b34ccc0450b40dc818ad405f37a315e.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#4F4B49",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM840",
+   "title": "한밤의 세레나데",
+   "genre": "뮤지컬",
+   "from": "2007-08-10",
+   "to": "2007-10-07",
+   "venue": "충무아트홀 소극장 블루",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200917033009cecb5ae996b644cebe4b4a419603b2d9.jpg",
+   "cast": [
+    "백미라",
+    "김영옥",
+    "장유경",
+    "유정민",
+    "배윤범",
+    "민동환",
+    "김성현"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#665D5B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM855",
+   "title": "위대한 캣츠비",
+   "genre": "뮤지컬",
+   "from": "2007-08-08",
+   "to": "2008-03-31",
+   "venue": "대학로 예술마당 4관",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 캣츠비_예당0.jpg",
+   "cast": [
+    "최성원",
+    "김형범",
+    "김태훈",
+    "배승길",
+    "박일곤",
+    "김경수",
+    "곽병진",
+    "신의정",
+    "김소향",
+    "최유하",
+    "지니",
+    "윤지영",
+    "정광영",
+    "이성재",
+    "김태한",
+    "정상윤",
+    "허중혁",
+    "문용현",
+    "이종한",
+    "곽선영",
+    "우금지",
+    "정단영",
+    "임미현",
+    "장재승",
+    "이용근",
+    "이현진"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM841",
+   "title": "펌프보이즈",
+   "genre": "뮤지컬",
+   "from": "2007-08-04",
+   "to": "2007-10-14",
+   "venue": "대학로 예술마당 1관",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200917033915ac3b77be4da3407cafb66efe8b6b9873.bmp",
+   "cast": [
+    "조정석",
+    "이영미",
+    "홍록기",
+    "송용진",
+    "전혜선",
+    "박웅"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#1CB4CA",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM842",
+   "title": "비애로",
+   "genre": "뮤지컬",
+   "from": "2007-08-04",
+   "to": "2007-10-21",
+   "venue": "충무아트홀 소극장 블랙",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200917034141742c947c1f8841c9a1cb7e9d82710e85.jpg",
+   "cast": [
+    "김늘메",
+    "김도형",
+    "김희원",
+    "전수미",
+    "최오식",
+    "김도신",
+    "김성규",
+    "김지훈",
+    "문용현",
+    "강지연",
+    "김세진"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#2F5D8C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM825",
+   "title": "해어화",
+   "genre": "뮤지컬",
+   "from": "2007-08-03",
+   "to": "2007-10-07",
+   "venue": "한전아트센터",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009170343471665ef5dfb7042d1afafd54cbcc7afd4.jpg",
+   "cast": [
+    "윤복희",
+    "최정연",
+    "박홍주",
+    "김수용",
+    "홍경인",
+    "정선아",
+    "이민아",
+    "이소유",
+    "이상현",
+    "주원성",
+    "홍승아",
+    "조승룡",
+    "김영주",
+    "김준태"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#6F5C8A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM837",
+   "title": "맨 오브 라만차",
+   "genre": "뮤지컬",
+   "from": "2007-08-03",
+   "to": "2007-09-02",
+   "venue": "LG아트센터",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 라만차0.jpg",
+   "cast": [
+    "조승우",
+    "정성화",
+    "김선영",
+    "윤공주",
+    "권형준",
+    "이훈진",
+    "최민철",
+    "민경언",
+    "진용국",
+    "김명희",
+    "정명은",
+    "김호",
+    "오은미",
+    "장은숙",
+    "박시원",
+    "문종원",
+    "배준성",
+    "김사량",
+    "정재헌",
+    "이동재"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM851",
+   "title": "결혼",
+   "genre": "뮤지컬",
+   "from": "2007-08-03",
+   "to": "2007-09-22",
+   "venue": "삼일로 창고극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009181218426b933ac7f959494aabf6ca885d4a6cdd.jpg",
+   "cast": [
+    "조용수",
+    "박영",
+    "신선호"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#A04846",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PD1185",
+   "title": "아이시떼르",
+   "genre": "연극",
+   "from": "2007-07-26",
+   "to": "2007-09-02",
+   "venue": "대학로 스타시티",
+   "cast": [
+    "조성하",
+    "오세준",
+    "김태한",
+    "구혜주",
+    "김진이"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM1106",
+   "title": "오! 당신이 잠든 사이",
+   "genre": "뮤지컬",
+   "from": "2007-07-25",
+   "to": "2008-10-26",
+   "venue": "대학로 르메이에르 소극장",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_오당신0.jpg",
+   "cast": [
+    "원종환",
+    "홍희원",
+    "최진호",
+    "성종완",
+    "박훈",
+    "정문성",
+    "송욱경",
+    "김명준",
+    "안세호",
+    "김경민",
+    "김동박",
+    "이재경",
+    "박혜경",
+    "최정화",
+    "이미영",
+    "유정민",
+    "최선미",
+    "황현빈",
+    "김수정",
+    "손미영",
+    "박영",
+    "박란주",
+    "김여진",
+    "한지혜"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#111A43",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM836",
+   "title": "그리스",
+   "genre": "뮤지컬",
+   "from": "2007-07-20",
+   "to": "2007-09-09",
+   "venue": "호암아트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200918122848ee070eeac30145ffab0792fc4551bfaf.jpg",
+   "cast": [
+    "이신성",
+    "김형민",
+    "김현아",
+    "전나혜(난아)",
+    "박시범",
+    "강동호",
+    "홍미옥",
+    "최우리",
+    "이필승",
+    "이주광",
+    "신미연",
+    "이창희",
+    "이광섭",
+    "박선하",
+    "박주용",
+    "윤동현",
+    "송하나",
+    "이지혜",
+    "배민정"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#1E4A7A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM844",
+   "title": "더 클럽",
+   "genre": "뮤지컬",
+   "from": "2007-07-20",
+   "to": "2007-08-15",
+   "venue": "동국대 예술극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009181231532f48db88ae994f4a833a75650a9b0926.jpg",
+   "cast": [
+    "오수윤",
+    "안덕용",
+    "이재훤",
+    "현순철",
+    "이재식",
+    "채연정"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#530639",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM843",
+   "title": "메노포즈",
+   "genre": "뮤지컬",
+   "from": "2007-07-19",
+   "to": "2007-10-14",
+   "venue": "백암아트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091812340476e49831f0fa4140ad097a3b0b76e1e1.bmp",
+   "cast": [
+    "전수경",
+    "진도희",
+    "홍지민",
+    "이윤표",
+    "이미라",
+    "이영자",
+    "김선화",
+    "조갑경",
+    "홍윤희"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A0916",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PD4425",
+   "title": "대장금 - 대구",
+   "genre": "뮤지컬",
+   "from": "2007-07-10",
+   "to": "2007-07-22",
+   "venue": "대구 오페라하우스",
+   "cast": [
+    "최보영",
+    "안유진",
+    "김소현",
+    "김우형",
+    "이태원",
+    "류수화",
+    "손광업",
+    "한애리"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM1308",
+   "title": "댄싱 섀도우",
+   "genre": "뮤지컬",
+   "from": "2007-07-08",
+   "to": "2007-08-26",
+   "venue": "예술의전당 오페라극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200918123436c3818b988ee94a37bcdbbfcfb3127746.jpg",
+   "cast": [
+    "김성녀",
+    "배해선",
+    "김보경",
+    "신성록",
+    "성기윤",
+    "정영주",
+    "황현정",
+    "이학민",
+    "김경선",
+    "고명석",
+    "김윤지",
+    "원소연",
+    "계채영",
+    "고정희",
+    "김하얀",
+    "채유정",
+    "김태형",
+    "황만익",
+    "문병권",
+    "지은택",
+    "손제훈",
+    "강승완",
+    "오승준"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#724851",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1081",
+   "title": "루나틱",
+   "genre": "뮤지컬",
+   "from": "2007-07-07",
+   "to": "2008-06-22",
+   "venue": "루나틱전용관",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091812372368fb1b83dacb4e01942be6fd0d399eb4.jpg",
+   "cast": [
+    "김도형",
+    "임춘길",
+    "정재민",
+    "김세진",
+    "최선미",
+    "전수미",
+    "강지연",
+    "김자미",
+    "김경룡",
+    "최오식",
+    "백재현",
+    "인성호"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#C81E25",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM808",
+   "title": "캣츠",
+   "genre": "뮤지컬",
+   "from": "2007-07-06",
+   "to": "2007-09-02",
+   "venue": "국립극장 해오름극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200918124032811f7b4484614ff9bd4cea1e86d97249.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM831",
+   "title": "현정아 사랑해",
+   "genre": "뮤지컬",
+   "from": "2007-07-06",
+   "to": "2007-09-23",
+   "venue": "아리랑소극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009181241160110acb147fd448eb077c5d027ffe84e.gif",
+   "cast": [
+    "이지연"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#856162",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM833",
+   "title": "언약의 여정",
+   "genre": "뮤지컬",
+   "from": "2007-07-06",
+   "to": "2007-07-22",
+   "venue": "과천시민회관 대극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091812421847bce4a3097644249367a49715e43e9d.jpg",
+   "cast": [
+    "문혜영",
+    "윤선용"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#442F17",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PD1179",
+   "title": "내 마음의 안나푸르나",
+   "genre": "연극",
+   "from": "2007-07-04",
+   "to": "2007-07-15",
+   "venue": "대학로 스타시티",
+   "cast": [
+    "우지훈",
+    "김지현",
+    "김영철",
+    "박보경",
+    "진선규",
+    "구지선"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM1145",
+   "title": "내래 조선에서 왔습네다",
+   "genre": "뮤지컬",
+   "from": "2007-07-04",
+   "to": "2007-07-29",
+   "venue": "청운글로브극장(구 글로브극장)",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009181244499c8d9e4349e242a0af1f7352895c508b.jpg",
+   "cast": [
+    "김비비"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#533338",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1200",
+   "title": "우리는 친구다",
+   "genre": "뮤지컬",
+   "from": "2007-07-04",
+   "to": "2007-08-26",
+   "venue": "학전블루 소극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091812474694f20ed71c3843929b6c3ceffd64f785.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#543821",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM850",
+   "title": "백조의 호수",
+   "genre": "뮤지컬",
+   "from": "2007-07-04",
+   "to": "2007-07-22",
+   "venue": "LG아트센터",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009181243567efb87b34f3243d7b35da36af9404c8c.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#211B3B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1160",
+   "title": "헝겊인형의 꿈",
+   "genre": "뮤지컬",
+   "from": "2007-07-01",
+   "to": "2007-08-26",
+   "venue": "대학로 인아 소극장",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 헝겊인형0.jpg",
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM849",
+   "title": "오디션",
+   "genre": "뮤지컬",
+   "from": "2007-07-01",
+   "to": "2007-09-02",
+   "venue": "열린극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200918124848fe7c3cad88c645d6a338008db898fce7.jpg",
+   "cast": [
+    "박호산",
+    "이승현",
+    "윤석원",
+    "강초롱",
+    "백은혜",
+    "정찬희"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#000101",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM821",
+   "title": "시스터 소울",
+   "genre": "뮤지컬",
+   "from": "2007-06-30",
+   "to": "2007-09-09",
+   "venue": "서강대학교 메리홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200918125110b9a5e6cfae9d437e8dd5d6b3f8ec40fe.jpg",
+   "cast": [
+    "신영숙",
+    "김미려",
+    "서지영",
+    "임은영",
+    "남문철",
+    "김병춘",
+    "장고운",
+    "최고운",
+    "나정숙",
+    "이수영",
+    "박혜경",
+    "손미영",
+    "황성대"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1302",
+   "title": "찬스",
+   "genre": "뮤지컬",
+   "from": "2007-06-29",
+   "to": "2007-10-14",
+   "venue": "코엑스아트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009181256434d040fceaeca4d86962e2e5c52a55741.bmp",
+   "cast": [
+    "박인배",
+    "박민성",
+    "임선애",
+    "추정화",
+    "손홍민",
+    "배승길",
+    "김영환",
+    "김진희",
+    "유미",
+    "김아주",
+    "박주형",
+    "김만희",
+    "김자경",
+    "박영"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#9F0F38",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM822",
+   "title": "젊음의 행진",
+   "genre": "뮤지컬",
+   "from": "2007-06-29",
+   "to": "2007-08-12",
+   "venue": "나루아트센터 대공연장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091812522638dd45ca59fd43fc8a3ed31e8f1ce4c2.jpg",
+   "cast": [
+    "이정미",
+    "박민정",
+    "송용진",
+    "정동화",
+    "임기홍",
+    "하지승",
+    "최가인",
+    "전민준(전역산)",
+    "오대석",
+    "박은희",
+    "이윤희",
+    "임혜성",
+    "황세준",
+    "함승현",
+    "최선희",
+    "육현욱",
+    "박소리"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#603958",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM878",
+   "title": "블루다이아몬드",
+   "genre": "뮤지컬",
+   "from": "2007-06-29",
+   "to": "2007-12-30",
+   "venue": "신연아트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200918125555e67ea207f119409fb11acb9c9aec6893.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#473632",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1164",
+   "title": "어처구니 이야기",
+   "genre": "뮤지컬",
+   "from": "2007-06-27",
+   "to": "2007-10-07",
+   "venue": "한양레퍼토리씨어터",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 어처구니 이야기.jpg",
+   "cast": [
+    "이정연"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM819",
+   "title": "드라마틱댄스뮤지컬 오디션",
+   "genre": "뮤지컬",
+   "from": "2007-06-26",
+   "to": "2007-08-19",
+   "venue": "대학로문화공간 이다1관(구 신시뮤지컬극장)",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_db-audition(2007).jpg",
+   "cast": [
+    "강인영",
+    "최대철",
+    "유광준",
+    "김은주",
+    "유인선",
+    "김주희",
+    "홍지현",
+    "박소영",
+    "곽대성",
+    "이제훈",
+    "강신구"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#24131B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM823",
+   "title": "프린세스 낙랑",
+   "genre": "뮤지컬",
+   "from": "2007-06-23",
+   "to": "2007-07-22",
+   "venue": "극장 용",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091801031725793249a8f84ca39e8fabaca44f238a.jpg",
+   "cast": [
+    "송혜영",
+    "이은혜",
+    "지영",
+    "고영욱",
+    "이강빈",
+    "양정열",
+    "남궁민영",
+    "최낙희",
+    "이종성",
+    "김영민",
+    "서윤진",
+    "문지원",
+    "손현수",
+    "이현주",
+    "김그린",
+    "이미애",
+    "정선영"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#C71E25",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM835",
+   "title": "Why",
+   "genre": "뮤지컬",
+   "from": "2007-06-22",
+   "to": "2007-07-22",
+   "venue": "아룽구지 소극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009180104027154ca4cb0b747b69471efa505dfe2ae.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#85535E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM947",
+   "title": "마리오네트",
+   "genre": "뮤지컬",
+   "from": "2007-06-22",
+   "to": "2007-09-30",
+   "venue": "더굿씨어터(구,씨어터일)",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009180104390e3e7b9958014de6bcd6515ff73bd999.gif",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#411653",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1187",
+   "title": "배고파",
+   "genre": "뮤지컬",
+   "from": "2007-06-19",
+   "to": "2007-07-29",
+   "venue": "챔프예술극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009150432508f88668869d540bf9c18bb436e264dfd.jpg",
+   "cast": [
+    "김현국",
+    "박지현"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#A4424F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM830",
+   "title": "어느 락커의 바지 속 고백",
+   "genre": "뮤지컬",
+   "from": "2007-06-16",
+   "to": "2007-07-15",
+   "venue": "꿈꾸는 공작소 성균소극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200918010510bc6743c97d984b8e9341173160fb132d.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#160A0D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PD1150",
+   "title": "한여름밤의 꿈",
+   "genre": "연극",
+   "from": "2007-06-15",
+   "to": "2007-07-08",
+   "venue": "아르코예술극장 대극장",
+   "cast": [
+    "김준호",
+    "정해균",
+    "채국희",
+    "김진곤",
+    "이진",
+    "김지령",
+    "이성환",
+    "박소영"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM827",
+   "title": "귀천",
+   "genre": "뮤지컬",
+   "from": "2007-06-15",
+   "to": "2007-06-24",
+   "venue": "웅진싱크빅아트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009180105517cc176d63f2242a8b4d6ef87816a42bf.jpg",
+   "cast": [
+    "전지석",
+    "임재청",
+    "최윤정",
+    "최승렬",
+    "이정철",
+    "이보라"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#06A2C8",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM932",
+   "title": "킹 앤 아이",
+   "genre": "뮤지컬",
+   "from": "2007-06-15",
+   "to": "2007-06-24",
+   "venue": "성남아트센터 오페라하우스",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009180107119ad6fc75dacd4834800c7df2b5e068c6.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#C7AD1E",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PD1167",
+   "title": "연인들의 유토피아",
+   "genre": "연극",
+   "from": "2007-06-12",
+   "to": "2007-08-12",
+   "venue": "산울림 소극장",
+   "cast": [
+    "이명호",
+    "전현아",
+    "이일화",
+    "민지오"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM1165",
+   "title": "신데렐라",
+   "genre": "뮤지컬",
+   "from": "2007-06-12",
+   "to": "2007-07-17",
+   "venue": "르 메이에르 김형곤 홀(구 게릴라 극장)",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007_신데렐라.jpg",
+   "cast": [
+    "김정미"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#6A6181",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM817",
+   "title": "싱글즈",
+   "genre": "뮤지컬",
+   "from": "2007-06-09",
+   "to": "2007-09-09",
+   "venue": "동숭아트센터 동숭홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091801080222d70ff3825e4ea48c0e18709de7e505.jpg",
+   "cast": [
+    "오나라",
+    "구원영",
+    "백주연",
+    "서현수",
+    "김도현",
+    "이현우",
+    "조진아",
+    "정수한"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#ABC025",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM829",
+   "title": "그리스",
+   "genre": "뮤지컬",
+   "from": "2007-06-07",
+   "to": "2007-07-08",
+   "venue": "유니버설아트센터 대극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200918010940481cc0ea380a493b8f1942d4401524b6.jpg",
+   "cast": [
+    "이신성",
+    "강동호",
+    "정명은",
+    "윤공주",
+    "박시범",
+    "홍미옥",
+    "최우리",
+    "이필승",
+    "정재헌",
+    "신미연",
+    "이창희",
+    "배진성",
+    "박선하",
+    "전이화",
+    "박주용",
+    "유혜련",
+    "송하나",
+    "이지혜"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#377AAE",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1163",
+   "title": "헝겊인형의 꿈",
+   "genre": "뮤지컬",
+   "from": "2007-06-06",
+   "to": "2007-07-01",
+   "venue": "아츠플레이씨어터",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 헝겊인형_동숭1.jpg",
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM933",
+   "title": "킹 앤 아이",
+   "genre": "뮤지컬",
+   "from": "2007-06-02",
+   "to": "2007-06-09",
+   "venue": "고양아람누리 아람극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091801131356b2eb211a524e229a56b0c3596a9d8f.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#C7AD1E",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM826",
+   "title": "미라클",
+   "genre": "뮤지컬",
+   "from": "2007-06-01",
+   "to": "2013-02-17",
+   "venue": "미라클씨어터",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200918011458bc8aa3879b08476b8157a01acd2dcd11.jpg",
+   "cast": [
+    "이수나",
+    "윤덕현",
+    "김명"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#050608",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PD3327",
+   "title": "캣츠 - 대구",
+   "genre": "뮤지컬",
+   "from": "2007-05-31",
+   "to": "2007-07-01",
+   "venue": "대구 오페라하우스",
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM745",
+   "title": "대장금",
+   "genre": "뮤지컬",
+   "from": "2007-05-26",
+   "to": "2007-06-17",
+   "venue": "예술의전당 오페라하우스",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009180118422f22209617fd465caa3ceb24da14a8a8.jpg",
+   "cast": [
+    "김소현",
+    "안유진",
+    "최보영",
+    "원기준",
+    "김우형",
+    "손광업",
+    "한애리",
+    "류수화",
+    "이태원",
+    "한성식",
+    "하은섬",
+    "박영옥",
+    "권근용",
+    "김일우",
+    "김승필",
+    "김권군",
+    "명호종",
+    "김의신",
+    "김동현",
+    "이기영",
+    "박지원",
+    "홍현표",
+    "홍관표",
+    "서만석",
+    "신두보",
+    "이창원",
+    "김늘봄",
+    "오경희",
+    "안나민",
+    "최영화",
+    "엄태리",
+    "정원일",
+    "정원영",
+    "박현서",
+    "안승옥",
+    "박수진",
+    "채유리",
+    "김선혜",
+    "박주희",
+    "연보라",
+    "최윤정"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#A9031F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM811",
+   "title": "웨스트 사이드 스토리",
+   "genre": "뮤지컬",
+   "from": "2007-05-26",
+   "to": "2007-08-11",
+   "venue": "충무아트홀 대극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009220535276f8ae0136ab148e8966502303c35a4ad.jpg",
+   "cast": [
+    "윤영석",
+    "장승조(장현덕)",
+    "김아선",
+    "소냐",
+    "유나영",
+    "김소향",
+    "하동준",
+    "홍록기",
+    "이태희",
+    "배준성",
+    "송용태",
+    "김덕환",
+    "강웅곤",
+    "김경엽",
+    "김미정",
+    "김서노",
+    "민세희",
+    "박용환",
+    "배경미",
+    "송진우",
+    "신다영",
+    "오지혜",
+    "유승정",
+    "유환웅",
+    "이미림",
+    "이상태",
+    "이선영",
+    "이우승",
+    "이은주",
+    "이주언",
+    "임지상",
+    "장서원",
+    "정선영",
+    "차정현",
+    "천은성",
+    "최건용",
+    "최경훈",
+    "한연주"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#CD1106",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM812",
+   "title": "피크닉",
+   "genre": "뮤지컬",
+   "from": "2007-05-26",
+   "to": "2007-07-22",
+   "venue": "충무아트홀 소극장 블랙",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200922054032a9811c427b85490e96b14a32b707a01c.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#4D2A24",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1166",
+   "title": "사랑",
+   "genre": "뮤지컬",
+   "from": "2007-05-24",
+   "to": "2007-06-02",
+   "venue": "가나의집",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007_사랑.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#F2DC6B",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM1274",
+   "title": "쓰릴 미",
+   "genre": "뮤지컬",
+   "from": "2007-05-22",
+   "to": "2007-07-22",
+   "venue": "대학로 예술마당 1관",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200922054243dedd95b82ba04fd195cd9c63a0aae6e8.jpg",
+   "cast": [
+    "류정한",
+    "최재웅",
+    "강필석",
+    "김무열",
+    "이율"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#080C09",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM814",
+   "title": "킹 앤 아이",
+   "genre": "뮤지컬",
+   "from": "2007-05-18",
+   "to": "2007-05-29",
+   "venue": "국립극장 해오름극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200922054306d2e3ddb3660a445fb149f4fa0cfe9f06.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#8E1B1F",
+    "fg": "#F2C14E"
+   }
+  },
+  {
+   "id": "TM809",
+   "title": "스핏파이어그릴",
+   "genre": "뮤지컬",
+   "from": "2007-05-12",
+   "to": "2007-08-05",
+   "venue": "충무아트홀 소극장블루",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009230414537a30773a8e774a859b0ac733a36e6148.jpg",
+   "cast": [
+    "조정은",
+    "이혜경",
+    "조유신",
+    "송영규",
+    "이주실",
+    "최나래"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#8F5F56",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM898",
+   "title": "아리랑 파티",
+   "genre": "뮤지컬",
+   "from": "2007-05-10",
+   "to": "2007-09-30",
+   "venue": "대학로 라이브극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200923041536ca785673ecd04347810b219b97e1950e.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#060606",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM810",
+   "title": "바람의 나라",
+   "genre": "뮤지컬",
+   "from": "2007-05-05",
+   "to": "2007-05-25",
+   "venue": "예술의전당 토월극장",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_br2007.jpg",
+   "cast": [
+    "고영빈",
+    "홍경수",
+    "문예신",
+    "김호영",
+    "도정주",
+    "김혜원",
+    "여정옥",
+    "신영숙",
+    "김산호",
+    "이채경"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#CE7D17",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM813",
+   "title": "두근두근",
+   "genre": "뮤지컬",
+   "from": "2007-05-04",
+   "to": "2007-07-01",
+   "venue": "샘터 파랑새 극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020092304291245101d5556704478b34b633fc130509e.jpg",
+   "cast": [
+    "이규형",
+    "신미영"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#7FAC39",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM1064",
+   "title": "지하철1호선",
+   "genre": "뮤지컬",
+   "from": "2007-05-03",
+   "to": "2007-10-28",
+   "venue": "학전그린",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200923043110051ab490d05847c1b41b88fd3dd81cd9.jpg",
+   "cast": [
+    "김태형",
+    "임진아",
+    "김종구",
+    "이은지",
+    "이성욱",
+    "정문성",
+    "박학주",
+    "손현정",
+    "김명준"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#190F0F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PD1057",
+   "title": "필로우맨",
+   "genre": "연극",
+   "from": "2007-05-01",
+   "to": "2007-05-20",
+   "venue": "LG아트센터",
+   "cast": [
+    "윤제문",
+    "이대연",
+    "최정우",
+    "최민식"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM1247",
+   "title": "사랑은 비를 타고",
+   "genre": "뮤지컬",
+   "from": "2007-05-01",
+   "to": "2009-12-31",
+   "venue": "인켈아트홀 1관",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008_사비타.jpg",
+   "cast": [
+    "김장섭",
+    "김정민",
+    "손광업",
+    "윤영석",
+    "김법래",
+    "임춘길",
+    "안신우",
+    "박완규",
+    "서영주",
+    "정의욱",
+    "김윤태",
+    "엄기준",
+    "최성원",
+    "김무열",
+    "리치",
+    "정민",
+    "정상윤",
+    "이신성",
+    "강지우",
+    "김태한",
+    "김승대",
+    "정원영",
+    "김경수",
+    "박은태",
+    "박인배",
+    "서지훈",
+    "백주연",
+    "김소현",
+    "양소민",
+    "윤공주",
+    "노현희",
+    "최보영",
+    "이여울",
+    "김소향",
+    "임혜영",
+    "김지우",
+    "조민아",
+    "양보미",
+    "신의정",
+    "정수영",
+    "슈",
+    "이민경",
+    "손미영",
+    "백주희",
+    "김여진",
+    "정현주",
+    "윤현아",
+    "오수인",
+    "박소향"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#4082A6",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM824",
+   "title": "스트리트 가이즈",
+   "genre": "뮤지컬",
+   "from": "2007-05-01",
+   "to": "2007-09-30",
+   "venue": "마당세실극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009230431476626c26fcfe84d27a0c5b1766d935ab4.jpg",
+   "cast": [
+    "서재필"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#503739",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM787",
+   "title": "달려라 하니",
+   "genre": "뮤지컬",
+   "from": "2007-04-28",
+   "to": "2007-05-05",
+   "venue": "세종문화회관 대극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020092304410705ede702ee8e4bd8b793b7f143beda49.jpg",
+   "cast": [
+    "이찬미",
+    "이정열",
+    "박성훈",
+    "김현숙",
+    "권명현"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#D7380F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1167",
+   "title": "헝겊인형의 꿈",
+   "genre": "뮤지컬",
+   "from": "2007-04-26",
+   "to": "2007-05-20",
+   "venue": "아츠플레이씨어터",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 헝겊인형_동숭0.jpg",
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM796",
+   "title": "동키쇼",
+   "genre": "뮤지컬",
+   "from": "2007-04-25",
+   "to": "2008-01-06",
+   "venue": "대학로 동키쇼 전용홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200923044205670d2fe1c0f446b7a35c368644751291.jpg",
+   "cast": [
+    "양보미",
+    "라미란",
+    "나성아",
+    "김은식",
+    "모지민"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#DD0981",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM801",
+   "title": "달콤한 안녕",
+   "genre": "뮤지컬",
+   "from": "2007-04-20",
+   "to": "2007-06-30",
+   "venue": "알과 핵",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009230450442f9fef05320b43b7b34f4ec08b198bfb.jpg",
+   "cast": [
+    "김지우",
+    "임강희",
+    "민영기",
+    "김태한",
+    "정목화",
+    "박명훈",
+    "장혜리",
+    "권우경",
+    "신문성"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#443434",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM871",
+   "title": "펑키펑키",
+   "genre": "뮤지컬",
+   "from": "2007-04-18",
+   "to": "2007-12-31",
+   "venue": "명동 우림 펑키하우스",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009230452041e029f7ba507440b8a415f2d852e1c59.bmp",
+   "cast": [
+    "오상원",
+    "이상준"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#6B2232",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PD1110",
+   "title": "귀신의 집으로 오세요",
+   "genre": "연극",
+   "from": "2007-04-10",
+   "to": "2007-05-27",
+   "venue": "국립정동극장 세실",
+   "cast": [
+    "유지태",
+    "박명신",
+    "김태한",
+    "방진의",
+    "김대명",
+    "조슬기"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM807",
+   "title": "찰리 브라운",
+   "genre": "뮤지컬",
+   "from": "2007-04-07",
+   "to": "2007-05-06",
+   "venue": "대학로 씨어터 일",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200923045318c161866f534e446bb78c65b0ce9967b2.jpg",
+   "cast": [
+    "하강웅",
+    "성준서",
+    "오소연"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#C28423",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM805",
+   "title": "듀엣",
+   "genre": "뮤지컬",
+   "from": "2007-04-06",
+   "to": "2007-05-03",
+   "venue": "나루아트센터 대공연장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200923045554f9744996dae14e2d98d55e4074da1c9e.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#D75F0E",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PD1102",
+   "title": "환상동화",
+   "genre": "연극",
+   "from": "2007-04-05",
+   "to": "2007-07-01",
+   "venue": "대학로 문화공간 필링 2관",
+   "cast": [
+    "송재룡",
+    "최요한",
+    "오용",
+    "최대훈",
+    "송희진"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM802",
+   "title": "우모자",
+   "genre": "뮤지컬",
+   "from": "2007-04-05",
+   "to": "2007-04-14",
+   "venue": "예술의전당 오페라극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200923051911ee6481dd677142b390e02b1ca49b94fa.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#412C20",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PD1112",
+   "title": "아름다운 지옥",
+   "genre": "연극",
+   "from": "2007-04-04",
+   "to": "2007-04-15",
+   "venue": "연극실험실 혜화동 1번지",
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM788",
+   "title": "댄서의 순정",
+   "genre": "뮤지컬",
+   "from": "2007-03-29",
+   "to": "2007-07-01",
+   "venue": "백암아트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020092305384308783f92e9f74b8da2db1a6efbafdefa.jpg",
+   "cast": [
+    "유진",
+    "양소민",
+    "최성원",
+    "최대철",
+    "임춘길",
+    "김정렬",
+    "박은영",
+    "유미",
+    "박용",
+    "김진수",
+    "김도신",
+    "유보영",
+    "고영진",
+    "홍륜희",
+    "조재은",
+    "이수현",
+    "김진우",
+    "이봉균"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#F3E3D3",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM803",
+   "title": "퀴담",
+   "genre": "뮤지컬",
+   "from": "2007-03-29",
+   "to": "2007-06-03",
+   "venue": "잠실종합운동장 광장 내 빅탑",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200923054041232d01bcdac24e40b0d349d1797d01a2.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#8B3A2E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM786",
+   "title": "첫사랑",
+   "genre": "뮤지컬",
+   "from": "2007-03-27",
+   "to": "2007-06-17",
+   "venue": "대학로 문화공간 이다 1관",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200924023715f87ae67c2148463db871c9a6324ba745.jpg",
+   "cast": [
+    "조정석",
+    "홍광호",
+    "해이",
+    "전효은",
+    "김성기",
+    "임철형"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#509676",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM800",
+   "title": "찬스",
+   "genre": "뮤지컬",
+   "from": "2007-03-23",
+   "to": "2007-06-10",
+   "venue": "코엑스아트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009240243394c7c44a3c5754a24acb8ec1a033ff6cd.jpg",
+   "cast": [
+    "임선애",
+    "추정화",
+    "박민성",
+    "박인배",
+    "유미",
+    "김아주",
+    "배승길",
+    "손홍민",
+    "박영",
+    "김자경",
+    "김영환",
+    "박주형"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#A4093B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM785",
+   "title": "쓰릴 미",
+   "genre": "뮤지컬",
+   "from": "2007-03-17",
+   "to": "2007-05-13",
+   "venue": "충무아트홀 소극장 블랙",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020092403023320900ddc55b84928b6b8f3b818b2baed.jpg",
+   "cast": [
+    "류정한",
+    "최재웅",
+    "김무열",
+    "이율"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#DC0A15",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM790",
+   "title": "화성에서 꿈꾸다",
+   "genre": "뮤지컬",
+   "from": "2007-03-15",
+   "to": "2007-03-22",
+   "venue": "예술의전당 오페라하우스",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007_화성 01.jpg",
+   "cast": [
+    "민영기",
+    "임강희",
+    "김순택",
+    "고미경",
+    "곽은태",
+    "허민희",
+    "한상민",
+    "이정욱"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM1080",
+   "title": "루나틱",
+   "genre": "뮤지컬",
+   "from": "2007-03-14",
+   "to": "2007-09-03",
+   "venue": "동양아트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200924031828c93ed2f8ffdd4193aad13eedd64189ee.jpg",
+   "cast": [
+    "강지연",
+    "전수미",
+    "소찬휘",
+    "임춘길",
+    "김도형",
+    "정재민",
+    "김자미",
+    "추정화",
+    "김세진",
+    "인성호",
+    "최오식",
+    "이성원",
+    "김도신",
+    "김현국",
+    "김성일",
+    "배진성"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#745447",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1161",
+   "title": "헝겊인형의 꿈",
+   "genre": "뮤지컬",
+   "from": "2007-03-14",
+   "to": "2007-04-14",
+   "venue": "동숭무대 소극장",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 헝겊인형_동숭.jpg",
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM791",
+   "title": "컨츄리보이 스캣",
+   "genre": "뮤지컬",
+   "from": "2007-03-13",
+   "to": "2007-05-05",
+   "venue": "동숭아트센터 동숭홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200924035114c1e2ee22bc35463493513064f69f74a2.jpg",
+   "cast": [
+    "서현철",
+    "김수용",
+    "홍상진",
+    "정동화",
+    "박계환",
+    "이영윤"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#5A8B8A",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM784",
+   "title": "랩퍼스 파라다이스",
+   "genre": "뮤지컬",
+   "from": "2007-03-09",
+   "to": "2007-06-30",
+   "venue": "홍대 래퍼스 파라다이스 전용관",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009240404586d24a877889d4fddb35d6a8eec29b91c.JPG",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM793",
+   "title": "위대한 캣츠비",
+   "genre": "뮤지컬",
+   "from": "2007-03-09",
+   "to": "2007-07-31",
+   "venue": "원더스페이스 (구 사다리아트센터) 네모극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200924040615d9dbde927fcb417f8c309d9abd5b83bc.jpg",
+   "cast": [
+    "최성원",
+    "김형범",
+    "김태훈",
+    "배승길",
+    "정인지",
+    "신의정",
+    "서범석",
+    "김태한",
+    "정상윤",
+    "허중혁",
+    "곽선영",
+    "우금지",
+    "장재승",
+    "이용근",
+    "이성재",
+    "이현진"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#4B0EA5",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM798",
+   "title": "우리동네",
+   "genre": "뮤지컬",
+   "from": "2007-03-09",
+   "to": "2007-06-03",
+   "venue": "예술극장 나무와물",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020092404150342b31eaa4aee453891bdcea14cc2184f.jpg",
+   "cast": [
+    "권홍석",
+    "김도신",
+    "이동준",
+    "이선영",
+    "김상윤",
+    "신동은",
+    "강승완",
+    "김유진",
+    "오지숙",
+    "배희진",
+    "김선혜",
+    "정영미",
+    "김경민"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#B98C2C",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM937",
+   "title": "한밤의 세레나데",
+   "genre": "뮤지컬",
+   "from": "2007-03-06",
+   "to": "2007-03-17",
+   "venue": "예술의전당 자유소극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009240438554680235cfe444be28efe9bac437096de.bmp",
+   "cast": [
+    "백미라",
+    "장유경",
+    "배윤범",
+    "김성현"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#3A2D23",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM794",
+   "title": "크로스오버 비보잉 아가씨와 건달들",
+   "genre": "뮤지컬",
+   "from": "2007-03-03",
+   "to": "2007-06-30",
+   "venue": "메사 비보이 씨어터",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200924043939f902f43517694986b7ed8645f2fc52a7.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#810E65",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PD1092",
+   "title": "염소 혹은 실비아는 누구인가 ?",
+   "genre": "연극",
+   "from": "2007-03-01",
+   "to": "2007-03-25",
+   "venue": "아르코예술극장 소극장",
+   "cast": [
+    "임선희",
+    "김정호",
+    "방승구",
+    "정청민"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM783",
+   "title": "젤소미나",
+   "genre": "뮤지컬",
+   "from": "2007-03-01",
+   "to": "2007-04-01",
+   "venue": "유시어터",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009240440291bf4039ea2c046a4be02f17dab7670a7.jpg",
+   "cast": [
+    "추정화",
+    "강유",
+    "노창섭",
+    "박진",
+    "임지상"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#78583F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM789",
+   "title": "아시아 인 러브 판판판",
+   "genre": "뮤지컬",
+   "from": "2007-02-24",
+   "to": "2007-04-08",
+   "venue": "서울퍼포밍아트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009240446082e0af12bfd154f16b6fcd9721ae0830f.JPG",
+   "cast": [
+    "최낙희",
+    "차순배",
+    "나정숙"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#030304",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM795",
+   "title": "명성황후",
+   "genre": "뮤지컬",
+   "from": "2007-02-17",
+   "to": "2007-03-08",
+   "venue": "예술의전당 오페라극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200925023517377f38b2cc734cb4b652a6b821d8a3c2.jpg",
+   "cast": [
+    "이상은",
+    "이태원",
+    "조승룡",
+    "윤영석",
+    "이희정",
+    "지혜근",
+    "서범석",
+    "김법래",
+    "이종문"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#B3202A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM782",
+   "title": "지하철1호선",
+   "genre": "뮤지컬",
+   "from": "2007-02-15",
+   "to": "2007-04-29",
+   "venue": "학전그린",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200925023720b808ef2010ed496fab519f352469b15e.jpg",
+   "cast": [
+    "김학준",
+    "박은영",
+    "장이주",
+    "이주원",
+    "황지영",
+    "김희창",
+    "김상현",
+    "박정표",
+    "정인애",
+    "최원석"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#190F0F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM771",
+   "title": "더 굿",
+   "genre": "뮤지컬",
+   "from": "2007-02-06",
+   "to": "2007-03-04",
+   "venue": "멜론 악스홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200925024058f0e22a22bb7149e39642ec4a9ea9301c.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#B72D17",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM776",
+   "title": "옵세션",
+   "genre": "뮤지컬",
+   "from": "2007-02-03",
+   "to": "2007-04-01",
+   "venue": "아룽구지 소극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200925024132174b027e40f1472d972ffdedee5c52b0.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#8A2A3A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1038",
+   "title": "올슉업",
+   "genre": "뮤지컬",
+   "from": "2007-01-30",
+   "to": "2007-04-22",
+   "venue": "충무아트홀 대극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200925024251f311f2f2fb144ebdb8b2283ab74bb810.jpg",
+   "cast": [
+    "조정석",
+    "김우형",
+    "윤공주",
+    "이소은",
+    "김봉환",
+    "이소유",
+    "정성화",
+    "백주연",
+    "최나래",
+    "양승호",
+    "전나혜(난아)",
+    "유다미",
+    "강대윤",
+    "이동재",
+    "이주광",
+    "이광섭",
+    "장은숙",
+    "문지원",
+    "이정미",
+    "김민주"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#D6322A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM779",
+   "title": "발랄 High",
+   "genre": "뮤지컬",
+   "from": "2007-01-26",
+   "to": "2007-04-15",
+   "venue": "올림픽 공원 발랄 High 전용극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020092502445136c576adcebe4afcb48a1e66e64bf8f1.gif",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#F2A33A"
+   }
+  },
+  {
+   "id": "PD2877",
+   "title": "미스사이공 - 대구",
+   "genre": "뮤지컬",
+   "from": "2007-01-23",
+   "to": "2007-02-28",
+   "venue": "대구 오페라하우스",
+   "cast": [
+    "마이클 리",
+    "김아선",
+    "김보경",
+    "류창우",
+    "김도형",
+    "이건명",
+    "하지원",
+    "김선영"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM781",
+   "title": "천사의 발톱",
+   "genre": "뮤지컬",
+   "from": "2007-01-23",
+   "to": "2007-03-04",
+   "venue": "예술의전당 토월극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200925024522c15413e8425045f886d9cb556e9dc5b6.jpg",
+   "cast": [
+    "유준상",
+    "김도현",
+    "양준모",
+    "구원영",
+    "이신성",
+    "이찬미",
+    "최선희",
+    "황두하",
+    "한일경",
+    "오성민",
+    "홍희승",
+    "최유리",
+    "노재경",
+    "유혜련",
+    "정재헌"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#0C2A29",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PD1065",
+   "title": "오늘의 책은 어디로 사라졌을까?",
+   "genre": "연극",
+   "from": "2007-01-22",
+   "to": "2007-01-31",
+   "venue": "아르코예술극장 소극장",
+   "cast": [
+    "이갑선"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM761",
+   "title": "콘보이쇼-아톰",
+   "genre": "뮤지컬",
+   "from": "2007-01-20",
+   "to": "2007-03-11",
+   "venue": "백암아트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200925024753d4c33c7982aa46d481128f45cce49a71.jpg",
+   "cast": [
+    "조용수",
+    "신선호",
+    "우원호",
+    "강인영",
+    "이병권",
+    "육현욱"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#790009",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM769",
+   "title": "맘마미아!",
+   "genre": "뮤지컬",
+   "from": "2007-01-20",
+   "to": "2007-03-25",
+   "venue": "성남아트센터 오페라하우스",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 맘마미아_성남020.JPG",
+   "cast": [
+    "이태원",
+    "최정원",
+    "전수경",
+    "이경미",
+    "성기윤",
+    "박지일",
+    "이정열",
+    "이정미",
+    "이학민",
+    "정영주",
+    "황현정",
+    "황만익",
+    "김호진",
+    "박시원",
+    "정철호",
+    "김윤지",
+    "임혜성",
+    "문병권",
+    "안시하",
+    "정혜정",
+    "오승준",
+    "김하얀",
+    "오석원",
+    "이자영",
+    "김의신",
+    "김태형",
+    "송욱경",
+    "이승조",
+    "최유하"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "TM774",
+   "title": "로미오 앤 줄리엣",
+   "genre": "뮤지컬",
+   "from": "2007-01-20",
+   "to": "2007-02-27",
+   "venue": "세종문화회관 대극장",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_07rnj.JPG",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#3D0707",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM792",
+   "title": "한밤의 세레나데",
+   "genre": "뮤지컬",
+   "from": "2007-01-20",
+   "to": "2007-02-25",
+   "venue": "문화일보홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200925024909c5f2a96a68204c3ead6b2e5ba7b8f97e.jpg",
+   "cast": [
+    "백미라",
+    "장유경",
+    "배윤범",
+    "김성현"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#090909",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1193",
+   "title": "오세암",
+   "genre": "뮤지컬",
+   "from": "2007-01-17",
+   "to": "2007-02-04",
+   "venue": "성동구 소월 아트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200925025004b76dda2399664c7bb559c61275445240.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#31302F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM777",
+   "title": "바운서",
+   "genre": "뮤지컬",
+   "from": "2007-01-16",
+   "to": "2007-02-28",
+   "venue": "씽크아트홀",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200925025040c42d79bce2724a44bc4e7abe77398ed9.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#020522",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1169",
+   "title": "마스크",
+   "genre": "뮤지컬",
+   "from": "2007-01-12",
+   "to": "2007-01-28",
+   "venue": "게릴라극장",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007_마스크.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#8A835C",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM751",
+   "title": "토요일밤의 열기",
+   "genre": "뮤지컬",
+   "from": "2007-01-12",
+   "to": "2007-03-03",
+   "venue": "국립극장 해오름극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020092502511660f48d16ed9c4cec9db0e4b686509d8f.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#DD4108",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "TM764",
+   "title": "마리오네트",
+   "genre": "뮤지컬",
+   "from": "2007-01-12",
+   "to": "2007-03-11",
+   "venue": "충무아트홀 소극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009250251516c9b91a6804944bcb22d5e08f0e8cb68.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#220D37",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM766",
+   "title": "렌트",
+   "genre": "뮤지컬",
+   "from": "2007-01-07",
+   "to": "2007-03-18",
+   "venue": "신시뮤지컬극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009250252414574c954f7b648209d50ecd31630447e.jpg",
+   "cast": [
+    "조승우",
+    "신동엽",
+    "나성호",
+    "고명석",
+    "조서연",
+    "전문지",
+    "최민철",
+    "김호영",
+    "박민성",
+    "김명준",
+    "임기정",
+    "홍희원",
+    "고현경",
+    "성종완",
+    "신의정",
+    "최소영",
+    "최혜림"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM741",
+   "title": "하루",
+   "genre": "뮤지컬",
+   "from": "2007-01-06",
+   "to": "2007-02-04",
+   "venue": "유니버설 아트센터",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009250302316f3d24e42e2d43d4ae9137d356c5b8e2.jpg",
+   "cast": [
+    "오만석",
+    "최성원",
+    "김소현",
+    "윤공주",
+    "엄기준",
+    "서범석",
+    "김선경",
+    "양소민",
+    "이여울",
+    "김재만",
+    "손광업",
+    "고경만",
+    "이훈진"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#6B4E35",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM763",
+   "title": "하드락 카페",
+   "genre": "뮤지컬",
+   "from": "2007-01-06",
+   "to": "2007-02-16",
+   "venue": "국립중앙박물관 극장 용",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200925031228809fe821e7fc4e79b20f66109acc3c04.jpg",
+   "cast": [
+    "강효성",
+    "웅산",
+    "문혜영",
+    "송용진",
+    "최윤",
+    "조한철",
+    "진수현"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#700A35",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM973",
+   "title": "오! 당신이 잠든 사이",
+   "genre": "뮤지컬",
+   "from": "2007-01-06",
+   "to": "2007-07-22",
+   "venue": "대학로 예술마당 4관",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020092503203923f94d3750b1479cac27b14f01714d5e.jpg",
+   "cast": [
+    "정의욱",
+    "박훈",
+    "김문성",
+    "안세호",
+    "박보경",
+    "이진희",
+    "유하나",
+    "김나정",
+    "김지성",
+    "김진희",
+    "김재범",
+    "성태준"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#101321",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM765",
+   "title": "7인의 천사",
+   "genre": "뮤지컬",
+   "from": "2007-01-05",
+   "to": "2007-02-28",
+   "venue": "설치극장 정미소",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009250323110f030840ea2548dd986d151a9ad22da2.jpg",
+   "cast": [
+    "김태한",
+    "김준겸",
+    "이재훤",
+    "신문성",
+    "박지아",
+    "안덕용",
+    "백성혜",
+    "김종원",
+    "채연정",
+    "문영욱"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#1D1D20",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM770",
+   "title": "인당수 사랑가",
+   "genre": "뮤지컬",
+   "from": "2007-01-05",
+   "to": "2007-02-25",
+   "venue": "원더스페이스(구.사다리아트센터) 네모극장",
+   "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009250324371ba41fda30ee40faa96ef5b25df09f99.jpg",
+   "cast": [
+    "이지은",
+    "김승대",
+    "고승수",
+    "남문철",
+    "이상은",
+    "오대환"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#AD3963",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

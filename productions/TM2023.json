@@ -1,0 +1,89 @@
+{
+ "id": "TM2023",
+ "title": "막돼먹은 영애씨",
+ "genre": "뮤지컬",
+ "from": "2013-11-15",
+ "to": "2014-01-12",
+ "venue": "KT&G 상상아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013youngae2.jpg",
+ "cast": [
+  "김현숙",
+  "오수인",
+  "김정산",
+  "성연",
+  "장대웅",
+  "서성종",
+  "임기홍",
+  "이원",
+  "백주희",
+  "강유미",
+  "임진아",
+  "은혜정",
+  "진희"
+ ],
+ "state": "공연완료",
+ "producer": "CJ E&M",
+ "price": "전석 66,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "영애",
+   "name": "김현숙"
+  },
+  {
+   "role": "영애",
+   "name": "오수인"
+  },
+  {
+   "role": "원준",
+   "name": "김정산"
+  },
+  {
+   "role": "원준",
+   "name": "성연"
+  },
+  {
+   "role": "사장",
+   "name": "장대웅"
+  },
+  {
+   "role": "사장",
+   "name": "서성종"
+  },
+  {
+   "role": "과장",
+   "name": "임기홍"
+  },
+  {
+   "role": "과장",
+   "name": "이원"
+  },
+  {
+   "role": "지원",
+   "name": "백주희"
+  },
+  {
+   "role": "지원",
+   "name": "강유미"
+  },
+  {
+   "role": "지원",
+   "name": "임진아"
+  },
+  {
+   "role": "태희",
+   "name": "은혜정"
+  },
+  {
+   "role": "태희",
+   "name": "진희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2023"
+ }
+}

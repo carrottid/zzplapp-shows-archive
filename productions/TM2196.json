@@ -1,0 +1,99 @@
+{
+ "id": "TM2196",
+ "title": "체스",
+ "genre": "뮤지컬",
+ "from": "2015-06-19",
+ "to": "2015-07-19",
+ "venue": "세종문화회관 대극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20150601115034XX5457M2AV08P8YL.jpg",
+ "cast": [
+  "조권",
+  "키",
+  "신우(신동우)",
+  "켄(이재환)",
+  "신성우",
+  "이건명",
+  "안시하",
+  "이정화",
+  "김장섭",
+  "김법래",
+  "박선우",
+  "박진우",
+  "홍경수",
+  "김금나",
+  "유성현"
+ ],
+ "state": "공연완료",
+ "producer": "엠뮤지컬아트",
+ "price": "VIP석 13만원, R석 11만원, S석 9만원, A석 7만원, B석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "아나톨리",
+   "name": "조권"
+  },
+  {
+   "role": "아나톨리",
+   "name": "키"
+  },
+  {
+   "role": "아나톨리",
+   "name": "신우(신동우)"
+  },
+  {
+   "role": "아나톨리",
+   "name": "켄(이재환)"
+  },
+  {
+   "role": "프레디",
+   "name": "신성우"
+  },
+  {
+   "role": "프레디",
+   "name": "이건명"
+  },
+  {
+   "role": "플로렌스",
+   "name": "안시하"
+  },
+  {
+   "role": "플로렌스",
+   "name": "이정화"
+  },
+  {
+   "role": "몰로코프",
+   "name": "김장섭"
+  },
+  {
+   "role": "몰로코프",
+   "name": "김법래"
+  },
+  {
+   "role": "월터",
+   "name": "박선우"
+  },
+  {
+   "role": "월터",
+   "name": "박진우"
+  },
+  {
+   "role": "위원장",
+   "name": "홍경수"
+  },
+  {
+   "role": "스베틀라나",
+   "name": "김금나"
+  },
+  {
+   "role": "그레고르",
+   "name": "유성현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2196"
+ }
+}

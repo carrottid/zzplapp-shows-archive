@@ -1,0 +1,56 @@
+{
+ "id": "PD17463",
+ "title": "자유종",
+ "genre": "연극",
+ "from": "2010-06-30",
+ "to": "2010-07-11",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "권경희",
+  "이정용",
+  "문경희",
+  "류진",
+  "조부현",
+  "민윤영",
+  "박문수"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김자실",
+   "name": "권경희"
+  },
+  {
+   "role": "조한민",
+   "name": "이정용"
+  },
+  {
+   "role": "박숙자",
+   "name": "문경희"
+  },
+  {
+   "role": "김현숙",
+   "name": "류진"
+  },
+  {
+   "role": "백기자",
+   "name": "조부현"
+  },
+  {
+   "role": "이아현",
+   "name": "민윤영"
+  },
+  {
+   "role": "",
+   "name": "박문수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704023506/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=17463"
+ }
+}

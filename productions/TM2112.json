@@ -1,0 +1,64 @@
+{
+ "id": "TM2112",
+ "title": "완전보험주식회사",
+ "genre": "뮤지컬",
+ "from": "2014-09-11",
+ "to": "2014-11-02",
+ "venue": "대학로뮤지컬센터 공간 피꼴로",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201408250445345CJ5HQF37P0IV3O2.jpg",
+ "cast": [
+  "정상훈",
+  "박훈",
+  "홍지민",
+  "김현진",
+  "임기홍",
+  "백주희",
+  "김효연",
+  "정재헌"
+ ],
+ "state": "공연완료",
+ "producer": "샘컴퍼니",
+ "price": "R석 55,000원 / S석 44,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "한보장",
+   "name": "정상훈"
+  },
+  {
+   "role": "한보장",
+   "name": "박훈"
+  },
+  {
+   "role": "전지현",
+   "name": "홍지민"
+  },
+  {
+   "role": "전지현",
+   "name": "김현진"
+  },
+  {
+   "role": "장동빈 외",
+   "name": "임기홍"
+  },
+  {
+   "role": "구가혜 외",
+   "name": "백주희"
+  },
+  {
+   "role": "신다정",
+   "name": "김효연"
+  },
+  {
+   "role": "차민준",
+   "name": "정재헌"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2112"
+ }
+}

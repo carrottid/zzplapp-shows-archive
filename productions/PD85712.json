@@ -1,0 +1,86 @@
+{
+ "id": "PD85712",
+ "title": "바람직한 청소년",
+ "genre": "뮤지컬",
+ "from": "2015-12-04",
+ "to": "2015-12-20",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "김보강",
+  "조풍래",
+  "오인하",
+  "정동화",
+  "김대현",
+  "박정원",
+  "배두훈",
+  "최은석",
+  "김지훈",
+  "구도균",
+  "류경환",
+  "차용학",
+  "양경원"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "현신",
+   "name": "김보강"
+  },
+  {
+   "role": "현신",
+   "name": "조풍래"
+  },
+  {
+   "role": "현신",
+   "name": "오인하"
+  },
+  {
+   "role": "이레",
+   "name": "정동화"
+  },
+  {
+   "role": "이레",
+   "name": "김대현"
+  },
+  {
+   "role": "지훈",
+   "name": "박정원"
+  },
+  {
+   "role": "지훈",
+   "name": "배두훈"
+  },
+  {
+   "role": "봉수",
+   "name": "최은석"
+  },
+  {
+   "role": "봉수",
+   "name": "김지훈"
+  },
+  {
+   "role": "재범,기태",
+   "name": "구도균"
+  },
+  {
+   "role": "재범,기태",
+   "name": "류경환"
+  },
+  {
+   "role": "체육선생님,종철",
+   "name": "차용학"
+  },
+  {
+   "role": "체육선생님,종철",
+   "name": "양경원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171105091125/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=85712"
+ }
+}

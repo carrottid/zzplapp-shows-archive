@@ -1,0 +1,91 @@
+{
+ "id": "PD128453",
+ "title": "이갈리아의 딸들",
+ "genre": "연극",
+ "from": "2018-07-19",
+ "to": "2018-07-21",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "김선기",
+  "김형준",
+  "김정화",
+  "김보경",
+  "권미나",
+  "하재성",
+  "안기영",
+  "민현기",
+  "강지연",
+  "김정훈",
+  "이종민",
+  "강주희",
+  "이은정",
+  "이강호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "루스 브램",
+   "name": "김선기"
+  },
+  {
+   "role": "크리스토퍼 브램",
+   "name": "김형준"
+  },
+  {
+   "role": "페트로니우스 브램",
+   "name": "김정화"
+  },
+  {
+   "role": "바 브램",
+   "name": "김보경"
+  },
+  {
+   "role": "리즈 배러스커리",
+   "name": "권미나"
+  },
+  {
+   "role": "브리토베르트 배러스커리",
+   "name": "하재성"
+  },
+  {
+   "role": "",
+   "name": "안기영"
+  },
+  {
+   "role": "",
+   "name": "민현기"
+  },
+  {
+   "role": "",
+   "name": "강지연"
+  },
+  {
+   "role": "",
+   "name": "김정훈"
+  },
+  {
+   "role": "",
+   "name": "이종민"
+  },
+  {
+   "role": "",
+   "name": "강주희"
+  },
+  {
+   "role": "",
+   "name": "이은정"
+  },
+  {
+   "role": "",
+   "name": "이강호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210412221121/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=128453"
+ }
+}

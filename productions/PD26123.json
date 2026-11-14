@@ -1,0 +1,41 @@
+{
+ "id": "PD26123",
+ "title": "헤드윅 - 수원",
+ "genre": "뮤지컬",
+ "from": "2011-08-27",
+ "to": "2011-08-27",
+ "venue": "경기도문화의전당 행복한대극장",
+ "cast": [
+  "최재웅",
+  "김동완",
+  "전혜선",
+  "앵그리인치 밴드"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "헤드윅",
+   "name": "최재웅"
+  },
+  {
+   "role": "헤드윅",
+   "name": "김동완"
+  },
+  {
+   "role": "이츠학",
+   "name": "전혜선"
+  },
+  {
+   "role": "",
+   "name": "앵그리인치 밴드"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20140605063731/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=26123"
+ }
+}

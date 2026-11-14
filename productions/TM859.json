@@ -1,0 +1,109 @@
+{
+ "id": "TM859",
+ "title": "풋루스",
+ "genre": "뮤지컬",
+ "from": "2007-10-26",
+ "to": "2007-12-31",
+ "venue": "목동 엔젤씨어터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009160312416f0231361e46499dbe3cc3cfd74529ad.jpg",
+ "cast": [
+  "채동하",
+  "김진우",
+  "유채정",
+  "조남희",
+  "임선애",
+  "고영진",
+  "박소리",
+  "한다연",
+  "최소현",
+  "윤영은",
+  "정승민",
+  "정동진",
+  "문태권",
+  "김동영",
+  "고효진",
+  "김아름",
+  "윤혜민"
+ ],
+ "state": "공연완료",
+ "producer": "(주)플랜위즈",
+ "price": "R석 6만원, S석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "렌",
+   "name": "채동하"
+  },
+  {
+   "role": "렌",
+   "name": "김진우"
+  },
+  {
+   "role": "에리엘",
+   "name": "유채정"
+  },
+  {
+   "role": "목사",
+   "name": "조남희"
+  },
+  {
+   "role": "에델",
+   "name": "임선애"
+  },
+  {
+   "role": "윌라드",
+   "name": "고영진"
+  },
+  {
+   "role": "러스티",
+   "name": "박소리"
+  },
+  {
+   "role": "얼린",
+   "name": "한다연"
+  },
+  {
+   "role": "아이린",
+   "name": "최소현"
+  },
+  {
+   "role": "웬디 조",
+   "name": "윤영은"
+  },
+  {
+   "role": "라일/카우보이",
+   "name": "정승민"
+  },
+  {
+   "role": "트레비스/카우보이",
+   "name": "정동진"
+  },
+  {
+   "role": "지터",
+   "name": "문태권"
+  },
+  {
+   "role": "카우보이 봅",
+   "name": "김동영"
+  },
+  {
+   "role": "엘레너",
+   "name": "고효진"
+  },
+  {
+   "role": "비키/컨트리키커1",
+   "name": "김아름"
+  },
+  {
+   "role": "컨트리키커2",
+   "name": "윤혜민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=859"
+ }
+}

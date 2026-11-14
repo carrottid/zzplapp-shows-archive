@@ -1,0 +1,66 @@
+{
+ "id": "PD57287",
+ "title": "정의의 사람들",
+ "genre": "연극",
+ "from": "2013-12-25",
+ "to": "2013-12-29",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "김욱헌",
+  "서혜경",
+  "박세정",
+  "탁승빈",
+  "조환",
+  "박현욱",
+  "김승민",
+  "이대한",
+  "라선영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아넨코프",
+   "name": "김욱헌"
+  },
+  {
+   "role": "도라",
+   "name": "서혜경"
+  },
+  {
+   "role": "스쿠라토프",
+   "name": "박세정"
+  },
+  {
+   "role": "간수",
+   "name": "탁승빈"
+  },
+  {
+   "role": "칼리아예프",
+   "name": "조환"
+  },
+  {
+   "role": "스테판",
+   "name": "박현욱"
+  },
+  {
+   "role": "",
+   "name": "김승민"
+  },
+  {
+   "role": "",
+   "name": "이대한"
+  },
+  {
+   "role": "",
+   "name": "라선영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200814014011/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=57287"
+ }
+}

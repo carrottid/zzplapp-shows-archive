@@ -1,0 +1,66 @@
+{
+ "id": "PD133973",
+ "title": "사흘만 볼 수 있다면",
+ "genre": "연극",
+ "from": "2018-11-13",
+ "to": "2018-11-25",
+ "venue": "국립정동극장 세실",
+ "cast": [
+  "정아미",
+  "하민우",
+  "오현지",
+  "권미혜",
+  "한소영",
+  "정미숙",
+  "이율빈",
+  "배성우",
+  "김지찬"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "앤 설리반",
+   "name": "정아미"
+  },
+  {
+   "role": "앤 설리반",
+   "name": "하민우"
+  },
+  {
+   "role": "헬렌 켈러",
+   "name": "오현지"
+  },
+  {
+   "role": "수잔 랜든",
+   "name": "권미혜"
+  },
+  {
+   "role": "로라 샤론",
+   "name": "한소영"
+  },
+  {
+   "role": "이브 고모",
+   "name": "정미숙"
+  },
+  {
+   "role": "제임스 켈러",
+   "name": "이율빈"
+  },
+  {
+   "role": "제임스 켈러",
+   "name": "배성우"
+  },
+  {
+   "role": "",
+   "name": "김지찬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250207184944/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=133973"
+ }
+}

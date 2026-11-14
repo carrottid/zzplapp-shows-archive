@@ -1,0 +1,61 @@
+{
+ "id": "PD3901",
+ "title": "나생문",
+ "genre": "연극",
+ "from": "2008-05-09",
+ "to": "2008-06-29",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "양보람",
+  "김대건",
+  "데니안",
+  "이건명",
+  "이승호",
+  "최용민",
+  "서지원",
+  "서현철"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "부인",
+   "name": "양보람"
+  },
+  {
+   "role": "산적",
+   "name": "김대건"
+  },
+  {
+   "role": "무사",
+   "name": "데니안"
+  },
+  {
+   "role": "무사",
+   "name": "이건명"
+  },
+  {
+   "role": "나무꾼",
+   "name": "이승호"
+  },
+  {
+   "role": "스님",
+   "name": "최용민"
+  },
+  {
+   "role": "스님",
+   "name": "서지원"
+  },
+  {
+   "role": "가발장수",
+   "name": "서현철"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200814050616/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=3901"
+ }
+}

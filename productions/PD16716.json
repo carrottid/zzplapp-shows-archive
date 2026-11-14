@@ -1,0 +1,76 @@
+{
+ "id": "PD16716",
+ "title": "연애특강 - 충무아트홀",
+ "genre": "연극",
+ "from": "2010-05-27",
+ "to": "2010-06-20",
+ "venue": "충무아트센터 중극장 블랙",
+ "cast": [
+  "유건",
+  "변진완",
+  "임태빈",
+  "지인호",
+  "이주현",
+  "이희진",
+  "금소연",
+  "박하연",
+  "홍리나",
+  "이명주",
+  "이정현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "남",
+   "name": "유건"
+  },
+  {
+   "role": "남",
+   "name": "변진완"
+  },
+  {
+   "role": "남",
+   "name": "임태빈"
+  },
+  {
+   "role": "남",
+   "name": "지인호"
+  },
+  {
+   "role": "",
+   "name": "이주현"
+  },
+  {
+   "role": "여",
+   "name": "이희진"
+  },
+  {
+   "role": "여",
+   "name": "금소연"
+  },
+  {
+   "role": "여",
+   "name": "박하연"
+  },
+  {
+   "role": "여",
+   "name": "홍리나"
+  },
+  {
+   "role": "강사",
+   "name": "이명주"
+  },
+  {
+   "role": "강사",
+   "name": "이정현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250427074015/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=16716"
+ }
+}

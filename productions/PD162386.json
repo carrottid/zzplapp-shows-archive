@@ -1,0 +1,71 @@
+{
+ "id": "PD162386",
+ "title": "굿모닝 씨어터",
+ "genre": "연극",
+ "from": "2017-07-15",
+ "to": "2017-07-16",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "오태은",
+  "김정훈",
+  "민준호",
+  "김대우",
+  "임영란",
+  "전지혜",
+  "권세봉",
+  "이상찬",
+  "이윤필",
+  "강현아"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "동숙 (나나)",
+   "name": "오태은"
+  },
+  {
+   "role": "기택",
+   "name": "김정훈"
+  },
+  {
+   "role": "남작가 (종대)",
+   "name": "민준호"
+  },
+  {
+   "role": "남작가 (종대)",
+   "name": "김대우"
+  },
+  {
+   "role": "성숙",
+   "name": "임영란"
+  },
+  {
+   "role": "유나 (미미)",
+   "name": "전지혜"
+  },
+  {
+   "role": "장훈 (종민)",
+   "name": "권세봉"
+  },
+  {
+   "role": "",
+   "name": "이상찬"
+  },
+  {
+   "role": "",
+   "name": "이윤필"
+  },
+  {
+   "role": "",
+   "name": "강현아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250320143255/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162386"
+ }
+}

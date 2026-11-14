@@ -1,0 +1,29 @@
+{
+ "id": "TM232",
+ "title": "그녀만의 축복",
+ "genre": "뮤지컬",
+ "from": "2005-10-07",
+ "to": "2005-11-06",
+ "venue": "코엑스아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_she.gif",
+ "cast": [
+  "김선경"
+ ],
+ "state": "공연완료",
+ "producer": "씨앤커뮤니케이션, 에이넷 코리아",
+ "price": "R석 55,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "1인7역",
+   "name": "김선경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=232"
+ }
+}

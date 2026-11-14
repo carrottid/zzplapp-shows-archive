@@ -1,0 +1,61 @@
+{
+ "id": "PD16258",
+ "title": "짬뽕",
+ "genre": "연극",
+ "from": "2010-04-28",
+ "to": "2010-06-06",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "김원해",
+  "최재섭",
+  "정경호",
+  "임진웅",
+  "장재권",
+  "채연정",
+  "서성종",
+  "오동욱"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "신작로",
+   "name": "김원해"
+  },
+  {
+   "role": "신작로",
+   "name": "최재섭"
+  },
+  {
+   "role": "신작로",
+   "name": "정경호"
+  },
+  {
+   "role": "일병,달풍,요원1",
+   "name": "임진웅"
+  },
+  {
+   "role": "백만식",
+   "name": "장재권"
+  },
+  {
+   "role": "오미란",
+   "name": "채연정"
+  },
+  {
+   "role": "이병,광팔,요원2",
+   "name": "서성종"
+  },
+  {
+   "role": "스님,앵커,요원3",
+   "name": "오동욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20110916081016/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=16258"
+ }
+}

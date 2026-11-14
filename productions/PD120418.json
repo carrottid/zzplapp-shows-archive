@@ -1,0 +1,41 @@
+{
+ "id": "PD120418",
+ "title": "찰리찰리",
+ "genre": "뮤지컬",
+ "from": "2018-02-24",
+ "to": "2018-03-11",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "문진아",
+  "윤지온",
+  "호효훈",
+  "강윤정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아일린",
+   "name": "문진아"
+  },
+  {
+   "role": "찰리",
+   "name": "윤지온"
+  },
+  {
+   "role": "피터",
+   "name": "호효훈"
+  },
+  {
+   "role": "리비",
+   "name": "강윤정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240730194331/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=120418"
+ }
+}

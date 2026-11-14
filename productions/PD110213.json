@@ -1,0 +1,51 @@
+{
+ "id": "PD110213",
+ "title": "하모니 - 고양",
+ "genre": "뮤지컬",
+ "from": "2017-07-13",
+ "to": "2017-07-15",
+ "venue": "고양 어울림누리 어울림극장",
+ "cast": [
+  "윤복희",
+  "강효성",
+  "진도희",
+  "최지이",
+  "김새하",
+  "이혜정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김문옥",
+   "name": "윤복희"
+  },
+  {
+   "role": "홍정혜",
+   "name": "강효성"
+  },
+  {
+   "role": "지화자",
+   "name": "진도희"
+  },
+  {
+   "role": "강유미",
+   "name": "최지이"
+  },
+  {
+   "role": "나꽃순",
+   "name": "김새하"
+  },
+  {
+   "role": "",
+   "name": "이혜정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20221216043733/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=110213"
+ }
+}

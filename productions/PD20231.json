@@ -1,0 +1,56 @@
+{
+ "id": "PD20231",
+ "title": "맘마미아 - 부산",
+ "genre": "뮤지컬",
+ "from": "2011-02-04",
+ "to": "2011-02-13",
+ "venue": "부산시민회관 대극장",
+ "cast": [
+  "최정원",
+  "황현정",
+  "이경미",
+  "남경주",
+  "성기윤",
+  "이석",
+  "박지연"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "도나",
+   "name": "최정원"
+  },
+  {
+   "role": "타냐",
+   "name": "황현정"
+  },
+  {
+   "role": "로지",
+   "name": "이경미"
+  },
+  {
+   "role": "샘",
+   "name": "남경주"
+  },
+  {
+   "role": "빌",
+   "name": "성기윤"
+  },
+  {
+   "role": "해리",
+   "name": "이석"
+  },
+  {
+   "role": "",
+   "name": "박지연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171025011638/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=20231"
+ }
+}

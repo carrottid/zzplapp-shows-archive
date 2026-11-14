@@ -1,0 +1,89 @@
+{
+ "id": "TM2265",
+ "title": "머더 발라드",
+ "genre": "뮤지컬",
+ "from": "2015-11-21",
+ "to": "2016-02-06",
+ "venue": "충무아트홀 중극장 블랙",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2015113004560703H4728YM25SD6HL.jpg",
+ "cast": [
+  "김신의",
+  "강태을",
+  "주종혁(라이언)",
+  "가희",
+  "이정화",
+  "박서하",
+  "박한근",
+  "이시안",
+  "임별",
+  "홍륜희",
+  "정연",
+  "장은아",
+  "소정화"
+ ],
+ "state": "공연완료",
+ "producer": "아시아브릿지컨텐츠",
+ "price": "스테이지석 6만6천원, 일반석 5만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "탐",
+   "name": "김신의"
+  },
+  {
+   "role": "탐",
+   "name": "강태을"
+  },
+  {
+   "role": "탐",
+   "name": "주종혁(라이언)"
+  },
+  {
+   "role": "세라",
+   "name": "가희"
+  },
+  {
+   "role": "세라",
+   "name": "이정화"
+  },
+  {
+   "role": "세라",
+   "name": "박서하"
+  },
+  {
+   "role": "마이클",
+   "name": "박한근"
+  },
+  {
+   "role": "마이클",
+   "name": "이시안"
+  },
+  {
+   "role": "마이클",
+   "name": "임별"
+  },
+  {
+   "role": "나레이터",
+   "name": "홍륜희"
+  },
+  {
+   "role": "나레이터",
+   "name": "정연"
+  },
+  {
+   "role": "나레이터",
+   "name": "장은아"
+  },
+  {
+   "role": "나레이터",
+   "name": "소정화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2265"
+ }
+}

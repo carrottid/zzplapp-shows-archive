@@ -1,0 +1,104 @@
+{
+ "id": "TM1973",
+ "title": "달을 품은 슈퍼맨",
+ "genre": "뮤지컬",
+ "from": "2013-05-10",
+ "to": "2013-09-01",
+ "venue": "대학로 공간아울 아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013dal.jpg",
+ "cast": [
+  "홍희원",
+  "박준후(박영필)",
+  "이경욱",
+  "육현욱",
+  "오의식",
+  "박태성",
+  "손성민",
+  "안창용",
+  "문혜원",
+  "이명화",
+  "윤차영",
+  "박명훈",
+  "황호진",
+  "류경환",
+  "김해정",
+  "이현진"
+ ],
+ "state": "공연완료",
+ "producer": "YD뮤지컬컴퍼니",
+ "price": "전석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "우현",
+   "name": "홍희원"
+  },
+  {
+   "role": "우현",
+   "name": "박준후(박영필)"
+  },
+  {
+   "role": "우현",
+   "name": "이경욱"
+  },
+  {
+   "role": "도현",
+   "name": "육현욱"
+  },
+  {
+   "role": "도현",
+   "name": "오의식"
+  },
+  {
+   "role": "안경",
+   "name": "박태성"
+  },
+  {
+   "role": "안경",
+   "name": "손성민"
+  },
+  {
+   "role": "안경",
+   "name": "안창용"
+  },
+  {
+   "role": "써니",
+   "name": "문혜원"
+  },
+  {
+   "role": "써니",
+   "name": "이명화"
+  },
+  {
+   "role": "써니",
+   "name": "윤차영"
+  },
+  {
+   "role": "도요타",
+   "name": "박명훈"
+  },
+  {
+   "role": "도요타",
+   "name": "황호진"
+  },
+  {
+   "role": "도요타",
+   "name": "류경환"
+  },
+  {
+   "role": "장순옥여사",
+   "name": "김해정"
+  },
+  {
+   "role": "장순옥여사",
+   "name": "이현진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1973"
+ }
+}

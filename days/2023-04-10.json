@@ -1,0 +1,49 @@
+{
+ "date": "2023-04-10",
+ "sessions": [
+  {
+   "id": "PF214187",
+   "title": "쇄골에 천사가 잠들고 있다",
+   "genre": "연극",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#112A29",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF214537",
+   "title": "쉐이크",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#8E5BA6",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF213209",
+   "title": "광염 소나타",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2A1A0E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF215363",
+   "title": "비극보다 더 비극적인",
+   "genre": "연극",
+   "venue": "나온씨어터",
+   "time": "20:00",
+   "castSource": "none"
+  }
+ ]
+}

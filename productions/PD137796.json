@@ -1,0 +1,81 @@
+{
+ "id": "PD137796",
+ "title": "배소고지 이야기",
+ "genre": "연극",
+ "from": "2019-03-01",
+ "to": "2019-03-10",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "백현주",
+  "황세원",
+  "레지나",
+  "구시연",
+  "김수아",
+  "조하나",
+  "박동욱",
+  "임영우",
+  "이섬",
+  "이승현",
+  "임승범",
+  "어시용"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김순희",
+   "name": "백현주"
+  },
+  {
+   "role": "백소녀",
+   "name": "황세원"
+  },
+  {
+   "role": "정입분",
+   "name": "레지나"
+  },
+  {
+   "role": "어린순희, 코러스",
+   "name": "구시연"
+  },
+  {
+   "role": "박막동, 코러스",
+   "name": "김수아"
+  },
+  {
+   "role": "어린입분, 코러스",
+   "name": "조하나"
+  },
+  {
+   "role": "",
+   "name": "박동욱"
+  },
+  {
+   "role": "",
+   "name": "임영우"
+  },
+  {
+   "role": "",
+   "name": "이섬"
+  },
+  {
+   "role": "",
+   "name": "이승현"
+  },
+  {
+   "role": "",
+   "name": "임승범"
+  },
+  {
+   "role": "",
+   "name": "어시용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230526223721/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=137796"
+ }
+}

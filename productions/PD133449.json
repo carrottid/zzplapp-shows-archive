@@ -1,0 +1,61 @@
+{
+ "id": "PD133449",
+ "title": "내 모든 걸",
+ "genre": "연극",
+ "from": "2018-11-01",
+ "to": "2018-12-16",
+ "venue": "한성아트홀 2관",
+ "cast": [
+  "지인호",
+  "김기정",
+  "김대우",
+  "한이연",
+  "임잔디",
+  "정다운",
+  "김영민",
+  "김진만"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "건우",
+   "name": "지인호"
+  },
+  {
+   "role": "건우",
+   "name": "김기정"
+  },
+  {
+   "role": "건우",
+   "name": "김대우"
+  },
+  {
+   "role": "이유",
+   "name": "한이연"
+  },
+  {
+   "role": "이유",
+   "name": "임잔디"
+  },
+  {
+   "role": "이유",
+   "name": "정다운"
+  },
+  {
+   "role": "아빠 외 다",
+   "name": "김영민"
+  },
+  {
+   "role": "아빠 외 다",
+   "name": "김진만"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20221005215246/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=133449"
+ }
+}

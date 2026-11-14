@@ -1,0 +1,81 @@
+{
+ "id": "PD81095",
+ "title": "아브라소",
+ "genre": "연극",
+ "from": "2015-09-04",
+ "to": "2015-10-04",
+ "venue": "충무아트센터 소극장 블루",
+ "cast": [
+  "박아름",
+  "강기연",
+  "이호성",
+  "박상현",
+  "오화라",
+  "김수현",
+  "최창락",
+  "신현호",
+  "이소금",
+  "이규린",
+  "홍성희",
+  "김지아"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "한여인",
+   "name": "박아름"
+  },
+  {
+   "role": "한여인",
+   "name": "강기연"
+  },
+  {
+   "role": "저승사자",
+   "name": "이호성"
+  },
+  {
+   "role": "저승사자",
+   "name": "박상현"
+  },
+  {
+   "role": "주은",
+   "name": "오화라"
+  },
+  {
+   "role": "주은",
+   "name": "김수현"
+  },
+  {
+   "role": "휘호",
+   "name": "최창락"
+  },
+  {
+   "role": "휘호",
+   "name": "신현호"
+  },
+  {
+   "role": "남편",
+   "name": "이소금"
+  },
+  {
+   "role": "한소녀",
+   "name": "이규린"
+  },
+  {
+   "role": "한소녀",
+   "name": "홍성희"
+  },
+  {
+   "role": "",
+   "name": "김지아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240620084445/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=81095"
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "id": "TM1332",
+ "title": "그리스",
+ "genre": "뮤지컬",
+ "from": "2008-12-20",
+ "to": "2009-03-01",
+ "venue": "나루아트센터 대공연장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008grease.jpg",
+ "cast": [
+  "장지우",
+  "박정민",
+  "유하나",
+  "최보영",
+  "손승현",
+  "이민아",
+  "주원",
+  "이정우",
+  "이현동",
+  "장서원",
+  "김경수",
+  "이소영",
+  "임대석",
+  "이태은",
+  "하늘",
+  "최윤형"
+ ],
+ "state": "공연완료",
+ "producer": "오디뮤지컬컴퍼니, CJ엔터테인먼트",
+ "price": "S석 60,000원/A석 50,000원/B석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "대니",
+   "name": "장지우"
+  },
+  {
+   "role": "대니",
+   "name": "박정민"
+  },
+  {
+   "role": "샌디",
+   "name": "유하나"
+  },
+  {
+   "role": "샌디",
+   "name": "최보영"
+  },
+  {
+   "role": "케니키",
+   "name": "손승현"
+  },
+  {
+   "role": "리조",
+   "name": "이민아"
+  },
+  {
+   "role": "두디",
+   "name": "주원"
+  },
+  {
+   "role": "프렌치",
+   "name": "이정우"
+  },
+  {
+   "role": "소니",
+   "name": "이현동"
+  },
+  {
+   "role": "마티",
+   "name": "장서원"
+  },
+  {
+   "role": "로저",
+   "name": "김경수"
+  },
+  {
+   "role": "잔",
+   "name": "이소영"
+  },
+  {
+   "role": "유진",
+   "name": "임대석"
+  },
+  {
+   "role": "패티",
+   "name": "이태은"
+  },
+  {
+   "role": "미스린치",
+   "name": "하늘"
+  },
+  {
+   "role": "차차",
+   "name": "최윤형"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1332"
+ }
+}

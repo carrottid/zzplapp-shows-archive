@@ -1,0 +1,26 @@
+{
+ "id": "PD132764",
+ "title": "2018 봄 작가 겨울 무대 - 어제의 당신이 나를 가로지를 때",
+ "genre": "연극",
+ "from": "2018-11-23",
+ "to": "2018-11-25",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "안창현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "윤태일",
+   "name": "안창현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20190823124248/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=132764"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "id": "PD103536",
+ "title": "비스티",
+ "genre": "뮤지컬",
+ "from": "2017-02-24",
+ "to": "2017-05-07",
+ "venue": "예스24스테이지 1관",
+ "cast": [
+  "김종구",
+  "정동화",
+  "정민",
+  "주종혁",
+  "김보강",
+  "고훈정",
+  "배승길",
+  "박정원",
+  "송유택",
+  "송광일",
+  "김대현",
+  "고상호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이재현",
+   "name": "김종구"
+  },
+  {
+   "role": "이재현",
+   "name": "정동화"
+  },
+  {
+   "role": "김주노",
+   "name": "정민"
+  },
+  {
+   "role": "김주노",
+   "name": "주종혁"
+  },
+  {
+   "role": "김주노",
+   "name": "김보강"
+  },
+  {
+   "role": "알렉스",
+   "name": "고훈정"
+  },
+  {
+   "role": "알렉스",
+   "name": "배승길"
+  },
+  {
+   "role": "강민혁",
+   "name": "박정원"
+  },
+  {
+   "role": "강민혁",
+   "name": "송유택"
+  },
+  {
+   "role": "강민혁",
+   "name": "송광일"
+  },
+  {
+   "role": "이승우",
+   "name": "김대현"
+  },
+  {
+   "role": "이승우",
+   "name": "고상호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251011232817/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=103536"
+ }
+}

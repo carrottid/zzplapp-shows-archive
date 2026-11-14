@@ -1,0 +1,17 @@
+{
+ "date": "2021-06-21",
+ "sessions": [
+  {
+   "id": "PF175483",
+   "title": "SWEAT 스웨트: 땀, 힘겨운 노동",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#737373",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

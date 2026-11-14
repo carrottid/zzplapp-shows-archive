@@ -1,0 +1,99 @@
+{
+ "id": "TM1755",
+ "title": "미녀는 괴로워",
+ "genre": "뮤지컬",
+ "from": "2011-12-06",
+ "to": "2012-02-05",
+ "venue": "충무아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)21.jpg",
+ "cast": [
+  "이종혁",
+  "오만석",
+  "최성희(바다)",
+  "박규리",
+  "전혜선",
+  "이병준",
+  "김태균",
+  "임형준",
+  "송영규",
+  "안성빈",
+  "이호경",
+  "이영은",
+  "한연주",
+  "김보늬",
+  "정동석"
+ ],
+ "state": "공연완료",
+ "producer": "KM컬쳐, 쇼노트, CJ E&M",
+ "price": "금, 토, 일 낮, 공휴일 공연 R석 9만9천원, S석 7만7천원, A석 5만5천원 / 화, 수, 목, 일 저녁 공연 R석 9만원, S석 7만원, A석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "한상준",
+   "name": "이종혁"
+  },
+  {
+   "role": "한상준",
+   "name": "오만석"
+  },
+  {
+   "role": "강한별/제니",
+   "name": "최성희(바다)"
+  },
+  {
+   "role": "강한별/제니",
+   "name": "박규리"
+  },
+  {
+   "role": "강한별/제니",
+   "name": "전혜선"
+  },
+  {
+   "role": "이공학",
+   "name": "이병준"
+  },
+  {
+   "role": "이공학",
+   "name": "김태균"
+  },
+  {
+   "role": "이공학",
+   "name": "임형준"
+  },
+  {
+   "role": "최사장",
+   "name": "송영규"
+  },
+  {
+   "role": "최사장",
+   "name": "안성빈"
+  },
+  {
+   "role": "아빠",
+   "name": "이호경"
+  },
+  {
+   "role": "아미",
+   "name": "이영은"
+  },
+  {
+   "role": "수경",
+   "name": "한연주"
+  },
+  {
+   "role": "수경",
+   "name": "김보늬"
+  },
+  {
+   "role": "멀티맨",
+   "name": "정동석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1755"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "id": "PD63722",
+ "title": "사물의 안타까움성",
+ "genre": "연극",
+ "from": "2014-07-10",
+ "to": "2014-07-20",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "전운종",
+  "윤정로",
+  "송철호",
+  "고영민",
+  "장률",
+  "김수아",
+  "김보경"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아버지",
+   "name": "전운종"
+  },
+  {
+   "role": "헤르만, 이란인",
+   "name": "윤정로"
+  },
+  {
+   "role": "안드레, 즈바린",
+   "name": "송철호"
+  },
+  {
+   "role": "포트럴",
+   "name": "고영민"
+  },
+  {
+   "role": "디미트리",
+   "name": "장률"
+  },
+  {
+   "role": "조모, 고모",
+   "name": "김수아"
+  },
+  {
+   "role": "",
+   "name": "김보경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240622003547/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=63722"
+ }
+}

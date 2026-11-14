@@ -1,0 +1,51 @@
+{
+ "id": "PD130590",
+ "title": "9월",
+ "genre": "연극",
+ "from": "2018-09-14",
+ "to": "2018-09-20",
+ "venue": "홍익대 대학로 아트센터 소극장",
+ "cast": [
+  "박지아",
+  "황순미",
+  "류경인",
+  "곽지숙",
+  "심완준",
+  "정대용"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "선희",
+   "name": "박지아"
+  },
+  {
+   "role": "해리",
+   "name": "황순미"
+  },
+  {
+   "role": "리아",
+   "name": "류경인"
+  },
+  {
+   "role": "영주",
+   "name": "곽지숙"
+  },
+  {
+   "role": "근호",
+   "name": "심완준"
+  },
+  {
+   "role": "역무원",
+   "name": "정대용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240725130542/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=130590"
+ }
+}

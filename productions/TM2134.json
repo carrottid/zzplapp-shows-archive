@@ -1,0 +1,69 @@
+{
+ "id": "TM2134",
+ "title": "쓰릴 미",
+ "genre": "뮤지컬",
+ "from": "2014-12-10",
+ "to": "2015-03-01",
+ "venue": "대명문화공장 2관 라이프웨이홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2014102906243381K127433Y0URV7H.jpg",
+ "cast": [
+  "강필석",
+  "정동화",
+  "신성민",
+  "백형훈",
+  "김재범",
+  "에녹",
+  "송원근",
+  "김도빈",
+  "문성일"
+ ],
+ "state": "공연완료",
+ "producer": "(주) 뮤지컬해븐, 달 컴퍼니",
+ "price": "R석 60,000원 / S석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "나",
+   "name": "강필석"
+  },
+  {
+   "role": "나",
+   "name": "정동화"
+  },
+  {
+   "role": "나",
+   "name": "신성민"
+  },
+  {
+   "role": "나",
+   "name": "백형훈"
+  },
+  {
+   "role": "그",
+   "name": "김재범"
+  },
+  {
+   "role": "그",
+   "name": "에녹"
+  },
+  {
+   "role": "그",
+   "name": "송원근"
+  },
+  {
+   "role": "그",
+   "name": "김도빈"
+  },
+  {
+   "role": "그",
+   "name": "문성일"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2134"
+ }
+}

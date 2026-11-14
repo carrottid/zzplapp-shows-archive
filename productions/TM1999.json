@@ -1,0 +1,79 @@
+{
+ "id": "TM1999",
+ "title": "분홍병사",
+ "genre": "뮤지컬",
+ "from": "2013-08-01",
+ "to": "2013-09-22",
+ "venue": "학전블루 소극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_soldatrose2013.jpg",
+ "cast": [
+  "김동규",
+  "윤우영",
+  "문서윤",
+  "방진의",
+  "방진수",
+  "조유신",
+  "김효숙",
+  "전문지",
+  "임호준",
+  "김태경",
+  "김재은"
+ ],
+ "state": "공연완료",
+ "producer": "극단 학전",
+ "price": "전석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "분홍병사",
+   "name": "김동규"
+  },
+  {
+   "role": "푸름이",
+   "name": "윤우영"
+  },
+  {
+   "role": "푸름이",
+   "name": "문서윤"
+  },
+  {
+   "role": "메이드 인 아시아/아이언맨",
+   "name": "방진의"
+  },
+  {
+   "role": "메이드 인 아시아/아이언맨",
+   "name": "방진수"
+  },
+  {
+   "role": "경비원1/해적/분침",
+   "name": "조유신"
+  },
+  {
+   "role": "백설공주/시침/퍼즐",
+   "name": "김효숙"
+  },
+  {
+   "role": "시조새/청소부",
+   "name": "전문지"
+  },
+  {
+   "role": "티라노/아인슈타인",
+   "name": "임호준"
+  },
+  {
+   "role": "경비원2/소방수/기관사",
+   "name": "김태경"
+  },
+  {
+   "role": "바코드",
+   "name": "김재은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1999"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "id": "PD112109",
+ "title": "더 가이즈",
+ "genre": "연극",
+ "from": "2017-07-25",
+ "to": "2017-09-24",
+ "venue": "유니플렉스 3관",
+ "cast": [
+  "김종석",
+  "백종민",
+  "하성훈",
+  "이하늬",
+  "김세중",
+  "노수빈",
+  "민진홍",
+  "한영준",
+  "윤혁준",
+  "구옥분",
+  "박소윤",
+  "서은혜"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "레용",
+   "name": "김종석"
+  },
+  {
+   "role": "레용",
+   "name": "백종민"
+  },
+  {
+   "role": "고윤발",
+   "name": "하성훈"
+  },
+  {
+   "role": "고윤발",
+   "name": "이하늬"
+  },
+  {
+   "role": "고윤발",
+   "name": "김세중"
+  },
+  {
+   "role": "이슨기",
+   "name": "노수빈"
+  },
+  {
+   "role": "이슨기",
+   "name": "민진홍"
+  },
+  {
+   "role": "주니뎁",
+   "name": "한영준"
+  },
+  {
+   "role": "주니뎁",
+   "name": "윤혁준"
+  },
+  {
+   "role": "마털다",
+   "name": "구옥분"
+  },
+  {
+   "role": "마털다",
+   "name": "박소윤"
+  },
+  {
+   "role": "마털다",
+   "name": "서은혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230609022316/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=112109"
+ }
+}

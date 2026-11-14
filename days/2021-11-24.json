@@ -1,0 +1,545 @@
+{
+ "date": "2021-11-24",
+ "sessions": [
+  {
+   "id": "PF181077",
+   "title": "레베카",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1B2433",
+    "fg": "#F2A33A"
+   }
+  },
+  {
+   "id": "PF179943",
+   "title": "프랑켄슈타인",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "14:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF180838",
+   "title": "젠틀맨스 가이드: 사랑과 살인 편",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#711817",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF180729",
+   "title": "친정엄마와 2박3일",
+   "genre": "연극",
+   "venue": "이화여자대학교 삼성홀",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#806E56",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF181208",
+   "title": "메이사의 노래",
+   "genre": "뮤지컬",
+   "venue": "올림픽공원 (우리금융아트홀(역도경기장))",
+   "time": "15:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#1F2B4D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178417",
+   "title": "V 에버 애프터",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#3E2A5C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF177846",
+   "title": "미인",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#111010",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF180831",
+   "title": "엔딩 노트",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#593E35",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF180659",
+   "title": "월컴대학로, 블랙메리포핀스",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#08041B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178072",
+   "title": "창업",
+   "genre": "뮤지컬",
+   "venue": "SH아트홀",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#191C23",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF181530",
+   "title": "쿠로이 저택엔 누가 살고 있을까?",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1F4A2E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF181077",
+   "title": "레베카",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1B2433",
+    "fg": "#F2A33A"
+   }
+  },
+  {
+   "id": "PF183290",
+   "title": "리어왕: KING LEAR (앵콜)",
+   "genre": "연극",
+   "venue": "예술의전당 [서울] (CJ 토월극장)",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#3A3532",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF183297",
+   "title": "팩트 FACT",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF182821",
+   "title": "고전이 전래전래",
+   "genre": "연극",
+   "venue": "세종문화회관 (세종M씨어터)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#1299A2",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF182849",
+   "title": "노동가 Ⅱ: 우리가 이 세상을 살아가는 법",
+   "genre": "연극",
+   "venue": "나온씨어터",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF180141",
+   "title": "노트르담 드 파리 프렌치 오리지널",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종대극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#1F2A3A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF183511",
+   "title": "누누속속",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF180934",
+   "title": "더 드레서",
+   "genre": "연극",
+   "venue": "국립정동극장",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#0F1218",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF181715",
+   "title": "무지개의 끝",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#877C5F",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF181612",
+   "title": "바바리맨: 킬라이크아이두",
+   "genre": "뮤지컬",
+   "venue": "두산아트센터 (Space111)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#A17345",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF175711",
+   "title": "빌리 엘리어트",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#9C232D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF180452",
+   "title": "우리들의 사랑",
+   "genre": "뮤지컬",
+   "venue": "예그린씨어터",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#4D100E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF179548",
+   "title": "이른 봄, 늦은 겨울",
+   "genre": "뮤지컬",
+   "venue": "국립극장 (달오름극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#3B3838",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF180838",
+   "title": "젠틀맨스 가이드: 사랑과 살인 편",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#711817",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178981",
+   "title": "지킬 앤 하이드",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF180729",
+   "title": "친정엄마와 2박3일",
+   "genre": "연극",
+   "venue": "이화여자대학교 삼성홀",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#806E56",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF179943",
+   "title": "프랑켄슈타인",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF176020",
+   "title": "하데스타운",
+   "genre": "뮤지컬",
+   "venue": "구. LG아트센터",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#19130F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178417",
+   "title": "V 에버 애프터",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#3E2A5C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178234",
+   "title": "개와 고양이의 시간",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2D272B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF180742",
+   "title": "마우스피스",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#017475",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF181208",
+   "title": "메이사의 노래",
+   "genre": "뮤지컬",
+   "venue": "올림픽공원 (우리금융아트홀(역도경기장))",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1F2B4D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178868",
+   "title": "멸화군",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#A77B3E",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF178933",
+   "title": "미스터쇼(Mr.SHOW)",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (동양생명홀)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#683732",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF177846",
+   "title": "미인",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#111010",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF180314",
+   "title": "뱀파이어 아더",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A2A30",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF180831",
+   "title": "엔딩 노트",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#593E35",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF180659",
+   "title": "월컴대학로, 블랙메리포핀스",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#08041B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178072",
+   "title": "창업",
+   "genre": "뮤지컬",
+   "venue": "SH아트홀",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#191C23",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF180296",
+   "title": "천사에 관하여: 타락천사 편",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#646682",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF181356",
+   "title": "칠칠",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#746A62",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF181530",
+   "title": "쿠로이 저택엔 누가 살고 있을까?",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1F4A2E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178564",
+   "title": "클림트",
+   "genre": "뮤지컬",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1F1A12",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178322",
+   "title": "트레이스 유",
+   "genre": "뮤지컬",
+   "venue": "백암아트홀",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#121314",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF182297",
+   "title": "행복리",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#C8B43C",
+    "fg": "#111111"
+   }
+  }
+ ]
+}

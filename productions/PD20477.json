@@ -1,0 +1,41 @@
+{
+ "id": "PD20477",
+ "title": "교수와 여제자2",
+ "genre": "연극",
+ "from": "2011-01-27",
+ "to": "2011-04-30",
+ "venue": "한성아트홀 2관",
+ "cast": [
+  "엄다혜",
+  "장신애",
+  "한동희",
+  "최진우"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "여제자",
+   "name": "엄다혜"
+  },
+  {
+   "role": "부인",
+   "name": "장신애"
+  },
+  {
+   "role": "교수",
+   "name": "한동희"
+  },
+  {
+   "role": "멀티맨",
+   "name": "최진우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20110906113329/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=20477"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "id": "PD35856",
+ "title": "뻘",
+ "genre": "연극",
+ "from": "2012-06-26",
+ "to": "2012-07-28",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "선종남",
+  "윤상화",
+  "추귀정",
+  "이지현",
+  "김종태",
+  "강말금",
+  "이수현",
+  "전석찬",
+  "유제윤",
+  "신정원",
+  "배선희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "조활식",
+   "name": "선종남"
+  },
+  {
+   "role": "박용락",
+   "name": "윤상화"
+  },
+  {
+   "role": "송동백",
+   "name": "추귀정"
+  },
+  {
+   "role": "나조금",
+   "name": "이지현"
+  },
+  {
+   "role": "백도일",
+   "name": "김종태"
+  },
+  {
+   "role": "지막이",
+   "name": "강말금"
+  },
+  {
+   "role": "",
+   "name": "이수현"
+  },
+  {
+   "role": "",
+   "name": "전석찬"
+  },
+  {
+   "role": "",
+   "name": "유제윤"
+  },
+  {
+   "role": "",
+   "name": "신정원"
+  },
+  {
+   "role": "",
+   "name": "배선희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210430113940/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=35856"
+ }
+}

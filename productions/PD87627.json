@@ -1,0 +1,51 @@
+{
+ "id": "PD87627",
+ "title": "에어포트 베이비",
+ "genre": "뮤지컬",
+ "from": "2016-02-23",
+ "to": "2016-03-06",
+ "venue": "예스24아트원 1관",
+ "cast": [
+  "최재림",
+  "강윤석",
+  "황성현",
+  "오정훈",
+  "지새롬",
+  "김바다"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "조씨 코헨",
+   "name": "최재림"
+  },
+  {
+   "role": "딜리아",
+   "name": "강윤석"
+  },
+  {
+   "role": "마이키",
+   "name": "황성현"
+  },
+  {
+   "role": "준수",
+   "name": "오정훈"
+  },
+  {
+   "role": "멀티",
+   "name": "지새롬"
+  },
+  {
+   "role": "멀티",
+   "name": "김바다"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250612194852/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=87627"
+ }
+}

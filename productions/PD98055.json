@@ -1,0 +1,56 @@
+{
+ "id": "PD98055",
+ "title": "파리넬리 - 진주",
+ "genre": "뮤지컬",
+ "from": "2016-12-02",
+ "to": "2016-12-03",
+ "venue": "경상남도문화예술회관 대공연장",
+ "cast": [
+  "루이스초이",
+  "이주광",
+  "이준혁",
+  "김경수",
+  "박소연",
+  "김태훈",
+  "최연동"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "파리넬리",
+   "name": "루이스초이"
+  },
+  {
+   "role": "파리넬리",
+   "name": "이주광"
+  },
+  {
+   "role": "리카르도",
+   "name": "이준혁"
+  },
+  {
+   "role": "리카르도",
+   "name": "김경수"
+  },
+  {
+   "role": "안젤로",
+   "name": "박소연"
+  },
+  {
+   "role": "래리펀치",
+   "name": "김태훈"
+  },
+  {
+   "role": "헨델",
+   "name": "최연동"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170908140206/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=98055"
+ }
+}

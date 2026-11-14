@@ -1,0 +1,29 @@
+{
+ "id": "TM1821",
+ "title": "노래 불러주는 남자",
+ "genre": "뮤지컬",
+ "from": "2012-02-14",
+ "to": "2012-02-25",
+ "venue": "문화예술 공간 I have a dream",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)36.jpg",
+ "cast": [
+  "송용진"
+ ],
+ "state": "공연완료",
+ "producer": "㈜위네트웍스, I have a dream, 음악창작단 해적",
+ "price": "일반 4만4천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "송용진",
+   "name": "송용진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1821"
+ }
+}

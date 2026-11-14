@@ -1,0 +1,51 @@
+{
+ "id": "PD32572",
+ "title": "인생",
+ "genre": "연극",
+ "from": "2012-01-19",
+ "to": "2012-01-21",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "마광현",
+  "장재호",
+  "김영조",
+  "박기덕",
+  "서재영",
+  "윤종훈"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "박헌영",
+   "name": "마광현"
+  },
+  {
+   "role": "김단야",
+   "name": "장재호"
+  },
+  {
+   "role": "김삼룡",
+   "name": "김영조"
+  },
+  {
+   "role": "방학세",
+   "name": "박기덕"
+  },
+  {
+   "role": "김태준",
+   "name": "서재영"
+  },
+  {
+   "role": "이관술",
+   "name": "윤종훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20150421194304/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=32572"
+ }
+}

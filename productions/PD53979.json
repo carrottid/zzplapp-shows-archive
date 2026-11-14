@@ -1,0 +1,56 @@
+{
+ "id": "PD53979",
+ "title": "팬지",
+ "genre": "연극",
+ "from": "2013-11-05",
+ "to": "2013-11-10",
+ "venue": "한성아트홀 1관",
+ "cast": [
+  "최정화",
+  "홍성춘",
+  "임정선",
+  "김태리",
+  "나종민",
+  "조주현",
+  "강승호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "보경",
+   "name": "최정화"
+  },
+  {
+   "role": "순경",
+   "name": "홍성춘"
+  },
+  {
+   "role": "은경",
+   "name": "임정선"
+  },
+  {
+   "role": "민희",
+   "name": "김태리"
+  },
+  {
+   "role": "철수",
+   "name": "나종민"
+  },
+  {
+   "role": "영식",
+   "name": "조주현"
+  },
+  {
+   "role": "",
+   "name": "강승호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171106113817/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=53979"
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "id": "TM836",
+ "title": "그리스",
+ "genre": "뮤지컬",
+ "from": "2007-07-20",
+ "to": "2007-09-09",
+ "venue": "호암아트홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200918122848ee070eeac30145ffab0792fc4551bfaf.jpg",
+ "cast": [
+  "이신성",
+  "김형민",
+  "김현아",
+  "전나혜(난아)",
+  "박시범",
+  "강동호",
+  "홍미옥",
+  "최우리",
+  "이필승",
+  "이주광",
+  "신미연",
+  "이창희",
+  "이광섭",
+  "박선하",
+  "박주용",
+  "윤동현",
+  "송하나",
+  "이지혜",
+  "배민정"
+ ],
+ "state": "공연완료",
+ "producer": "오디뮤지컬컴퍼니",
+ "price": "VIP석 7만원 / R석 6만원 / S석 4만원 / A석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "대니",
+   "name": "이신성"
+  },
+  {
+   "role": "대니",
+   "name": "김형민"
+  },
+  {
+   "role": "샌디",
+   "name": "김현아"
+  },
+  {
+   "role": "샌디",
+   "name": "전나혜(난아)"
+  },
+  {
+   "role": "케니키",
+   "name": "박시범"
+  },
+  {
+   "role": "케니키",
+   "name": "강동호"
+  },
+  {
+   "role": "리조",
+   "name": "홍미옥"
+  },
+  {
+   "role": "마티",
+   "name": "최우리"
+  },
+  {
+   "role": "두디",
+   "name": "이필승"
+  },
+  {
+   "role": "두디",
+   "name": "이주광"
+  },
+  {
+   "role": "잔",
+   "name": "신미연"
+  },
+  {
+   "role": "로저",
+   "name": "이창희"
+  },
+  {
+   "role": "유진",
+   "name": "이광섭"
+  },
+  {
+   "role": "패티",
+   "name": "박선하"
+  },
+  {
+   "role": "앙상블",
+   "name": "박주용"
+  },
+  {
+   "role": "앙상블",
+   "name": "윤동현"
+  },
+  {
+   "role": "앙상블",
+   "name": "송하나"
+  },
+  {
+   "role": "앙상블",
+   "name": "이지혜"
+  },
+  {
+   "role": "앙상블",
+   "name": "배민정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=836"
+ }
+}

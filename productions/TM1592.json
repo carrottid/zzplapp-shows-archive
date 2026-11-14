@@ -1,0 +1,79 @@
+{
+ "id": "TM1592",
+ "title": "마리아 마리아",
+ "genre": "뮤지컬",
+ "from": "2010-03-24",
+ "to": "2010-07-04",
+ "venue": "명보아트홀 가온홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2010maria.jpg",
+ "cast": [
+  "강효성",
+  "소냐",
+  "류승주",
+  "이필승",
+  "조지훈",
+  "김태형",
+  "김준겸",
+  "류창우",
+  "조영태",
+  "임현빈",
+  "이민수"
+ ],
+ "state": "공연완료",
+ "producer": "조아뮤지컬컴퍼니",
+ "price": "R석 50,000원/ S석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "마리아",
+   "name": "강효성"
+  },
+  {
+   "role": "마리아",
+   "name": "소냐"
+  },
+  {
+   "role": "마리아(얼터)",
+   "name": "류승주"
+  },
+  {
+   "role": "예수",
+   "name": "이필승"
+  },
+  {
+   "role": "예수",
+   "name": "조지훈"
+  },
+  {
+   "role": "대제사장",
+   "name": "김태형"
+  },
+  {
+   "role": "바리새인",
+   "name": "김준겸"
+  },
+  {
+   "role": "대제사장",
+   "name": "류창우"
+  },
+  {
+   "role": "베드로",
+   "name": "조영태"
+  },
+  {
+   "role": "제자/마리아엄마",
+   "name": "임현빈"
+  },
+  {
+   "role": "제자/안티바스",
+   "name": "이민수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1592"
+ }
+}

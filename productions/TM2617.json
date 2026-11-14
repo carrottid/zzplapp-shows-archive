@@ -1,0 +1,84 @@
+{
+ "id": "TM2617",
+ "title": "창문너머 어렴풋이",
+ "genre": "뮤지컬",
+ "from": "2018-09-22",
+ "to": "2018-11-04",
+ "venue": "예그린씨어터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201808211118591079ba38983049cdbf6cd9bf42e6a96e.jpg",
+ "cast": [
+  "우지원",
+  "나현우",
+  "엄태형",
+  "박재한",
+  "이설",
+  "김빛나",
+  "최병철",
+  "이민준",
+  "김민정",
+  "박수야",
+  "김성수",
+  "이기웅"
+ ],
+ "state": "공연완료",
+ "producer": "극단 써미튠즈",
+ "price": "전석 6만 원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "종필",
+   "name": "우지원"
+  },
+  {
+   "role": "종필",
+   "name": "나현우"
+  },
+  {
+   "role": "창식",
+   "name": "엄태형"
+  },
+  {
+   "role": "창식",
+   "name": "박재한"
+  },
+  {
+   "role": "정화",
+   "name": "이설"
+  },
+  {
+   "role": "정화",
+   "name": "김빛나"
+  },
+  {
+   "role": "춘섭",
+   "name": "최병철"
+  },
+  {
+   "role": "춘섭",
+   "name": "이민준"
+  },
+  {
+   "role": "호순",
+   "name": "김민정"
+  },
+  {
+   "role": "호순",
+   "name": "박수야"
+  },
+  {
+   "role": "필구",
+   "name": "김성수"
+  },
+  {
+   "role": "필구",
+   "name": "이기웅"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2617"
+ }
+}

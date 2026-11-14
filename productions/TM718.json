@@ -1,0 +1,74 @@
+{
+ "id": "TM718",
+ "title": "헤드윅",
+ "genre": "뮤지컬",
+ "from": "2006-10-14",
+ "to": "2007-05-13",
+ "venue": "대학로 클럽SH",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_db-hedwig(2006).jpg",
+ "cast": [
+  "이석준",
+  "서문탁",
+  "김수용",
+  "전혜선",
+  "송용진",
+  "안유진",
+  "조정석",
+  "이영미",
+  "김다현",
+  "조승우"
+ ],
+ "state": "공연완료",
+ "producer": "쇼노트,CJ엔터테인먼트",
+ "price": "R석 4만5천원 / S석 3만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "헤드윅",
+   "name": "이석준"
+  },
+  {
+   "role": "헤드윅",
+   "name": "서문탁"
+  },
+  {
+   "role": "헤드윅",
+   "name": "김수용"
+  },
+  {
+   "role": "헤드윅",
+   "name": "전혜선"
+  },
+  {
+   "role": "헤드윅",
+   "name": "송용진"
+  },
+  {
+   "role": "헤드윅",
+   "name": "안유진"
+  },
+  {
+   "role": "헤드윅",
+   "name": "조정석"
+  },
+  {
+   "role": "헤드윅",
+   "name": "이영미"
+  },
+  {
+   "role": "헤드윅",
+   "name": "김다현"
+  },
+  {
+   "role": "헤드윅",
+   "name": "조승우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=718"
+ }
+}

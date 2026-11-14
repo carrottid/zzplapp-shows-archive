@@ -1,0 +1,66 @@
+{
+ "id": "PD28420",
+ "title": "아가씨와 건달들 - 대전",
+ "genre": "뮤지컬",
+ "from": "2011-12-02",
+ "to": "2011-12-04",
+ "venue": "충남대학교 정심화국제문화회관 정심화홀",
+ "cast": [
+  "이용우",
+  "김무열",
+  "정선아",
+  "진구",
+  "이율",
+  "김영주",
+  "옥주현",
+  "임춘길",
+  "김태한"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "스카이",
+   "name": "이용우"
+  },
+  {
+   "role": "스카이",
+   "name": "김무열"
+  },
+  {
+   "role": "사라",
+   "name": "정선아"
+  },
+  {
+   "role": "네이슨",
+   "name": "진구"
+  },
+  {
+   "role": "네이슨",
+   "name": "이율"
+  },
+  {
+   "role": "아들레이드",
+   "name": "김영주"
+  },
+  {
+   "role": "아들레이드",
+   "name": "옥주현"
+  },
+  {
+   "role": "베니",
+   "name": "임춘길"
+  },
+  {
+   "role": "나이슬리",
+   "name": "김태한"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20150924121846/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=28420"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "id": "PD108775",
+ "title": "그리스의 여인들 안티고네",
+ "genre": "연극",
+ "from": "2017-06-01",
+ "to": "2017-06-25",
+ "venue": "나온 씨어터",
+ "cast": [
+  "송흥진",
+  "이춘희",
+  "이길",
+  "고애리",
+  "윤대홍",
+  "장승연",
+  "엄태훈"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "크레온",
+   "name": "송흥진"
+  },
+  {
+   "role": "에우리디케",
+   "name": "이춘희"
+  },
+  {
+   "role": "테이레시아스",
+   "name": "이길"
+  },
+  {
+   "role": "안티고네",
+   "name": "고애리"
+  },
+  {
+   "role": "하이몬",
+   "name": "윤대홍"
+  },
+  {
+   "role": "이스메네",
+   "name": "장승연"
+  },
+  {
+   "role": "",
+   "name": "엄태훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170911132416/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=108775"
+ }
+}

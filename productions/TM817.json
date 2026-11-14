@@ -1,0 +1,64 @@
+{
+ "id": "TM817",
+ "title": "싱글즈",
+ "genre": "뮤지컬",
+ "from": "2007-06-09",
+ "to": "2007-09-09",
+ "venue": "동숭아트센터 동숭홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091801080222d70ff3825e4ea48c0e18709de7e505.jpg",
+ "cast": [
+  "오나라",
+  "구원영",
+  "백주연",
+  "서현수",
+  "김도현",
+  "이현우",
+  "조진아",
+  "정수한"
+ ],
+ "state": "공연완료",
+ "producer": "악어컴퍼니,오디뮤지컬컴퍼니",
+ "price": "R석 5만원/S석 3만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "나난",
+   "name": "오나라"
+  },
+  {
+   "role": "나난",
+   "name": "구원영"
+  },
+  {
+   "role": "이동미",
+   "name": "백주연"
+  },
+  {
+   "role": "이동미",
+   "name": "서현수"
+  },
+  {
+   "role": "임정준",
+   "name": "김도현"
+  },
+  {
+   "role": "박수헌",
+   "name": "이현우"
+  },
+  {
+   "role": "한지혜",
+   "name": "조진아"
+  },
+  {
+   "role": "천부장/마실장",
+   "name": "정수한"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=817"
+ }
+}

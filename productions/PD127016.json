@@ -1,0 +1,71 @@
+{
+ "id": "PD127016",
+ "title": "땡큐 베리 스트로베리",
+ "genre": "뮤지컬",
+ "from": "2018-08-01",
+ "to": "2018-10-28",
+ "venue": "예스24아트원 2관",
+ "cast": [
+  "정영주",
+  "유연",
+  "정연",
+  "이율",
+  "고상호",
+  "이휘종",
+  "임예슬",
+  "표지은",
+  "최석진",
+  "이상운"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "엠마",
+   "name": "정영주"
+  },
+  {
+   "role": "엠마",
+   "name": "유연"
+  },
+  {
+   "role": "엠마",
+   "name": "정연"
+  },
+  {
+   "role": "스톤",
+   "name": "이율"
+  },
+  {
+   "role": "스톤",
+   "name": "고상호"
+  },
+  {
+   "role": "스톤",
+   "name": "이휘종"
+  },
+  {
+   "role": "미아",
+   "name": "임예슬"
+  },
+  {
+   "role": "미아",
+   "name": "표지은"
+  },
+  {
+   "role": "버나드",
+   "name": "최석진"
+  },
+  {
+   "role": "버나드",
+   "name": "이상운"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250125002057/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=127016"
+ }
+}

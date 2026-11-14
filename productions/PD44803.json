@@ -1,0 +1,56 @@
+{
+ "id": "PD44803",
+ "title": "두뇌수술",
+ "genre": "연극",
+ "from": "2013-02-27",
+ "to": "2013-03-17",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "곽동현",
+  "박기원",
+  "박하늘",
+  "신재환",
+  "유성진",
+  "이동영",
+  "이정호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "백운양상도의 부친",
+   "name": "곽동현"
+  },
+  {
+   "role": "무길절눔바리 남자",
+   "name": "박기원"
+  },
+  {
+   "role": "인순무길의 약혼자",
+   "name": "박하늘"
+  },
+  {
+   "role": "오영호의학박사",
+   "name": "신재환"
+  },
+  {
+   "role": "한서방소사",
+   "name": "유성진"
+  },
+  {
+   "role": "안선달무길의 부친",
+   "name": "이동영"
+  },
+  {
+   "role": "",
+   "name": "이정호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250623034624/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=44803"
+ }
+}

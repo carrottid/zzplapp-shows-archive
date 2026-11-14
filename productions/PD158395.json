@@ -1,0 +1,41 @@
+{
+ "id": "PD158395",
+ "title": "산울림 고전극장 - 시라노 컴플렉스",
+ "genre": "연극",
+ "from": "2020-07-22",
+ "to": "2020-08-02",
+ "venue": "산울림 소극장",
+ "cast": [
+  "이호철",
+  "최엄지",
+  "전호현",
+  "오문강"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "시라노",
+   "name": "이호철"
+  },
+  {
+   "role": "록산느",
+   "name": "최엄지"
+  },
+  {
+   "role": "크리스티앙",
+   "name": "전호현"
+  },
+  {
+   "role": "드 기슈",
+   "name": "오문강"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240617064337/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=158395"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "id": "PD144870",
+ "title": "블랙슈트",
+ "genre": "뮤지컬",
+ "from": "2019-08-02",
+ "to": "2019-10-13",
+ "venue": "대학로 자유극장",
+ "cast": [
+  "이승현",
+  "유성재",
+  "왕시명",
+  "조풍래",
+  "양지원",
+  "이승헌",
+  "김순택",
+  "박규원",
+  "최민우",
+  "김상협",
+  "최문석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "최광열",
+   "name": "이승현"
+  },
+  {
+   "role": "최광열",
+   "name": "유성재"
+  },
+  {
+   "role": "최광열",
+   "name": "왕시명"
+  },
+  {
+   "role": "차민혁",
+   "name": "조풍래"
+  },
+  {
+   "role": "차민혁",
+   "name": "양지원"
+  },
+  {
+   "role": "차민혁",
+   "name": "이승헌"
+  },
+  {
+   "role": "김한수",
+   "name": "김순택"
+  },
+  {
+   "role": "김한수",
+   "name": "박규원"
+  },
+  {
+   "role": "김한수",
+   "name": "최민우"
+  },
+  {
+   "role": "멀티",
+   "name": "김상협"
+  },
+  {
+   "role": "멀티",
+   "name": "최문석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250908030925/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=144870"
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "TM1150",
+ "title": "러브 인 카푸치노",
+ "genre": "뮤지컬",
+ "from": "2007-09-06",
+ "to": "2007-10-28",
+ "venue": "이화여고100주년기념관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007_카푸치노0.jpg",
+ "cast": [
+  "유다미",
+  "고세원",
+  "조은별",
+  "김경화",
+  "우창수",
+  "손현주",
+  "왕브리타",
+  "곽동욱",
+  "박정권"
+ ],
+ "state": "공연완료",
+ "producer": "아티카",
+ "price": "VIP석 6만6천원 / R석 5만5천원 / S석 4만4천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "제일",
+   "name": "유다미"
+  },
+  {
+   "role": "제일",
+   "name": "고세원"
+  },
+  {
+   "role": "연우",
+   "name": "조은별"
+  },
+  {
+   "role": "연우",
+   "name": "김경화"
+  },
+  {
+   "role": "매니저",
+   "name": "우창수"
+  },
+  {
+   "role": "다이어트녀",
+   "name": "손현주"
+  },
+  {
+   "role": "미스테리녀",
+   "name": "왕브리타"
+  },
+  {
+   "role": "김",
+   "name": "곽동욱"
+  },
+  {
+   "role": "박",
+   "name": "박정권"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1150"
+ }
+}

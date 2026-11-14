@@ -1,0 +1,59 @@
+{
+ "id": "TM840",
+ "title": "한밤의 세레나데",
+ "genre": "뮤지컬",
+ "from": "2007-08-10",
+ "to": "2007-10-07",
+ "venue": "충무아트홀 소극장 블루",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200917033009cecb5ae996b644cebe4b4a419603b2d9.jpg",
+ "cast": [
+  "백미라",
+  "김영옥",
+  "장유경",
+  "유정민",
+  "배윤범",
+  "민동환",
+  "김성현"
+ ],
+ "state": "공연완료",
+ "producer": "명랑씨어터 수박",
+ "price": "R석 3만원 / S석 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "박지선",
+   "name": "백미라"
+  },
+  {
+   "role": "박지선",
+   "name": "김영옥"
+  },
+  {
+   "role": "박정자",
+   "name": "장유경"
+  },
+  {
+   "role": "박정자",
+   "name": "유정민"
+  },
+  {
+   "role": "박봉팔",
+   "name": "배윤범"
+  },
+  {
+   "role": "박봉팔",
+   "name": "민동환"
+  },
+  {
+   "role": "멀티맨",
+   "name": "김성현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=840"
+ }
+}

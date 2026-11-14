@@ -1,0 +1,74 @@
+{
+ "id": "TM1886",
+ "title": "언더니스 메모리",
+ "genre": "뮤지컬",
+ "from": "2012-08-31",
+ "to": "2012-10-14",
+ "venue": "충무아트홀 소극장 블루",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster (s)8.JPG",
+ "cast": [
+  "전승현",
+  "임성지",
+  "김덕규",
+  "최아름",
+  "하미미",
+  "김현지",
+  "조수경",
+  "최형우",
+  "박종현",
+  "강명환"
+ ],
+ "state": "공연완료",
+ "producer": "㈜스컹크웍스",
+ "price": "4만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "한민",
+   "name": "전승현"
+  },
+  {
+   "role": "한민",
+   "name": "임성지"
+  },
+  {
+   "role": "준",
+   "name": "김덕규"
+  },
+  {
+   "role": "유리",
+   "name": "최아름"
+  },
+  {
+   "role": "유리",
+   "name": "하미미"
+  },
+  {
+   "role": "효정",
+   "name": "김현지"
+  },
+  {
+   "role": "효정",
+   "name": "조수경"
+  },
+  {
+   "role": "장교수",
+   "name": "최형우"
+  },
+  {
+   "role": "윤식",
+   "name": "박종현"
+  },
+  {
+   "role": "양형사/죄수/정민",
+   "name": "강명환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1886"
+ }
+}

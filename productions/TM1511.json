@@ -1,0 +1,64 @@
+{
+ "id": "TM1511",
+ "title": "메노포즈",
+ "genre": "뮤지컬",
+ "from": "2009-11-14",
+ "to": "2010-01-31",
+ "venue": "해치홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_menopause2009_2.JPG",
+ "cast": [
+  "이윤표",
+  "김기순",
+  "진도희",
+  "최혁주",
+  "김현진",
+  "구혜령",
+  "김숙",
+  "고혜미"
+ ],
+ "state": "공연완료",
+ "producer": "㈜뮤지컬해븐, ㈜쇼틱커뮤니케이션즈",
+ "price": "전석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "한물간 연속극 배우",
+   "name": "이윤표"
+  },
+  {
+   "role": "한물간 연속극 배우",
+   "name": "김기순"
+  },
+  {
+   "role": "전문직 여성",
+   "name": "진도희"
+  },
+  {
+   "role": "전문직 여성",
+   "name": "최혁주"
+  },
+  {
+   "role": "웰빙주부",
+   "name": "김현진"
+  },
+  {
+   "role": "전업주부",
+   "name": "구혜령"
+  },
+  {
+   "role": "전업주부",
+   "name": "김숙"
+  },
+  {
+   "role": "전업주부",
+   "name": "고혜미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1511"
+ }
+}

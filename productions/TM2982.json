@@ -1,0 +1,54 @@
+{
+ "id": "TM2982",
+ "title": "라 루미에르",
+ "genre": "뮤지컬",
+ "from": "2020-09-17",
+ "to": "2020-10-25",
+ "venue": "유니플렉스 2관",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200629093212c3e5aa1a9dfb402996aa06fb17756c6a.jpg",
+ "cast": [
+  "이무현",
+  "이석준",
+  "이진우",
+  "강연정",
+  "금조",
+  "홍나현"
+ ],
+ "state": "공연완료",
+ "producer": "벨라뮤즈",
+ "price": "루미에르석 6만 6천 원 / 로즈우드석 5만 5천 원 / 봉쥬르석 4만 4천 원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "한스",
+   "name": "이무현"
+  },
+  {
+   "role": "한스",
+   "name": "이석준"
+  },
+  {
+   "role": "한스",
+   "name": "이진우"
+  },
+  {
+   "role": "소피",
+   "name": "강연정"
+  },
+  {
+   "role": "소피",
+   "name": "금조"
+  },
+  {
+   "role": "소피",
+   "name": "홍나현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2982"
+ }
+}

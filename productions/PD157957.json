@@ -1,0 +1,56 @@
+{
+ "id": "PD157957",
+ "title": "제12회 개판페스티벌 - 인류의 희망",
+ "genre": "연극",
+ "from": "2020-07-21",
+ "to": "2020-07-26",
+ "venue": "후암스테이지",
+ "cast": [
+  "강지수",
+  "김선영",
+  "장명훈",
+  "양은정",
+  "김윤지",
+  "강지유",
+  "강종현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "데미우르",
+   "name": "강지수"
+  },
+  {
+   "role": "카코에",
+   "name": "김선영"
+  },
+  {
+   "role": "히카노스",
+   "name": "장명훈"
+  },
+  {
+   "role": "디알로",
+   "name": "양은정"
+  },
+  {
+   "role": "크레마",
+   "name": "김윤지"
+  },
+  {
+   "role": "둘로스",
+   "name": "강지유"
+  },
+  {
+   "role": "",
+   "name": "강종현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240620165602/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=157957"
+ }
+}

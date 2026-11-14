@@ -1,0 +1,29 @@
+{
+ "id": "TM1165",
+ "title": "신데렐라",
+ "genre": "뮤지컬",
+ "from": "2007-06-12",
+ "to": "2007-07-17",
+ "venue": "르 메이에르 김형곤 홀(구 게릴라 극장)",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007_신데렐라.jpg",
+ "cast": [
+  "김정미"
+ ],
+ "state": "공연완료",
+ "producer": "극단 예지인",
+ "price": "R석: 3만원 / S석: 2만5천원 / A석: 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "안나",
+   "name": "김정미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1165"
+ }
+}

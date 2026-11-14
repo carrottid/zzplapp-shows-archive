@@ -1,0 +1,69 @@
+{
+ "id": "TM1895",
+ "title": "식구를 찾아서",
+ "genre": "뮤지컬",
+ "from": "2012-08-29",
+ "to": "2012-12-02",
+ "venue": "대학로 예술마당 4관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)77.jpg",
+ "cast": [
+  "주은",
+  "백현주",
+  "유정민",
+  "이상은",
+  "문민형",
+  "남정우",
+  "이경욱",
+  "김성현",
+  "김태경"
+ ],
+ "state": "공연완료",
+ "producer": "극단오징어, MJ플래닛",
+ "price": "평일 2만5천원 / 주말 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "박복녀",
+   "name": "주은"
+  },
+  {
+   "role": "박복녀",
+   "name": "백현주"
+  },
+  {
+   "role": "지화자",
+   "name": "유정민"
+  },
+  {
+   "role": "꼬",
+   "name": "이상은"
+  },
+  {
+   "role": "꼬",
+   "name": "문민형"
+  },
+  {
+   "role": "몽",
+   "name": "남정우"
+  },
+  {
+   "role": "몽",
+   "name": "이경욱"
+  },
+  {
+   "role": "냥",
+   "name": "김성현"
+  },
+  {
+   "role": "냥",
+   "name": "김태경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1895"
+ }
+}

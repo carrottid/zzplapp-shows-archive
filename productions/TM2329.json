@@ -1,0 +1,59 @@
+{
+ "id": "TM2329",
+ "title": "도리안 그레이",
+ "genre": "뮤지컬",
+ "from": "2016-09-03",
+ "to": "2016-10-29",
+ "venue": "성남아트센터 오페라하우스",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20160701033328G5A2K3AMC5PDI7F1.jpg",
+ "cast": [
+  "김준수",
+  "박은태",
+  "홍금비",
+  "최재웅",
+  "김태한",
+  "구원영",
+  "진태화"
+ ],
+ "state": "공연완료",
+ "producer": "씨제스컬쳐",
+ "price": "VIP석 14만원, R석 12만원, S석 9만원, A석 7만원, B석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "도리안 그레이",
+   "name": "김준수"
+  },
+  {
+   "role": "헨리 워튼",
+   "name": "박은태"
+  },
+  {
+   "role": "시빌 베인",
+   "name": "홍금비"
+  },
+  {
+   "role": "배질 홀워드",
+   "name": "최재웅"
+  },
+  {
+   "role": "앨런 켐벨",
+   "name": "김태한"
+  },
+  {
+   "role": "브랜든 부인",
+   "name": "구원영"
+  },
+  {
+   "role": "초상화",
+   "name": "진태화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2329"
+ }
+}

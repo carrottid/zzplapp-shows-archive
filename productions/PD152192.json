@@ -1,0 +1,31 @@
+{
+ "id": "PD152192",
+ "title": "안테모사",
+ "genre": "뮤지컬",
+ "from": "2019-12-21",
+ "to": "2020-01-05",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "김찬종",
+  "김대호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "제논",
+   "name": "김찬종"
+  },
+  {
+   "role": "시장",
+   "name": "김대호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200923041610/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=152192"
+ }
+}

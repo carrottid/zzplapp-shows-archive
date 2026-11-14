@@ -1,0 +1,89 @@
+{
+ "id": "TM2312",
+ "title": "위키드-대구",
+ "genre": "뮤지컬",
+ "from": "2016-05-18",
+ "to": "2016-06-19",
+ "venue": "계명대학교 계명아트센터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201602260204208PM5450Q8E8F6ST5.jpg",
+ "cast": [
+  "차지연",
+  "박혜나",
+  "정선아",
+  "아이비",
+  "민우혁",
+  "고은성",
+  "남경주",
+  "이상준",
+  "이소유",
+  "김영주",
+  "지혜근",
+  "이예은",
+  "이우종"
+ ],
+ "state": "공연완료",
+ "producer": "알앤디웍스",
+ "price": "VIP석 14만원, OP석 13만원, R석 12만원, S석 10만원, A석 8만원, B석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "엘파바",
+   "name": "차지연"
+  },
+  {
+   "role": "엘파바",
+   "name": "박혜나"
+  },
+  {
+   "role": "글린다",
+   "name": "정선아"
+  },
+  {
+   "role": "글린다",
+   "name": "아이비"
+  },
+  {
+   "role": "피에로",
+   "name": "민우혁"
+  },
+  {
+   "role": "피에로",
+   "name": "고은성"
+  },
+  {
+   "role": "마법사",
+   "name": "남경주"
+  },
+  {
+   "role": "마법사",
+   "name": "이상준"
+  },
+  {
+   "role": "모리블 학장",
+   "name": "이소유"
+  },
+  {
+   "role": "모리블 학장",
+   "name": "김영주"
+  },
+  {
+   "role": "딜라몬드 교수",
+   "name": "지혜근"
+  },
+  {
+   "role": "네사로즈",
+   "name": "이예은"
+  },
+  {
+   "role": "보크",
+   "name": "이우종"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2312"
+ }
+}

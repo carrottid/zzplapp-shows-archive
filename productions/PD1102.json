@@ -1,0 +1,46 @@
+{
+ "id": "PD1102",
+ "title": "환상동화",
+ "genre": "연극",
+ "from": "2007-04-05",
+ "to": "2007-07-01",
+ "venue": "대학로 문화공간 필링 2관",
+ "cast": [
+  "송재룡",
+  "최요한",
+  "오용",
+  "최대훈",
+  "송희진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "예술광대",
+   "name": "송재룡"
+  },
+  {
+   "role": "사랑광대",
+   "name": "최요한"
+  },
+  {
+   "role": "예술광대",
+   "name": "오용"
+  },
+  {
+   "role": "전쟁광대",
+   "name": "최대훈"
+  },
+  {
+   "role": "마리",
+   "name": "송희진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20110911055216/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=1102"
+ }
+}

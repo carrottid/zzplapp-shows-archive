@@ -1,0 +1,41 @@
+{
+ "id": "PD83489",
+ "title": "상업극 - 마카다미아, 표절, 메르스 그리고 맨스플레인",
+ "genre": "연극",
+ "from": "2015-10-07",
+ "to": "2015-10-11",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "이리",
+  "박경구",
+  "최순진",
+  "권정훈"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "촌평자",
+   "name": "이리"
+  },
+  {
+   "role": "메르스 / 맨스플레인",
+   "name": "박경구"
+  },
+  {
+   "role": "조현아",
+   "name": "최순진"
+  },
+  {
+   "role": "신경숙",
+   "name": "권정훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250519202615/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=83489"
+ }
+}

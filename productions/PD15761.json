@@ -1,0 +1,41 @@
+{
+ "id": "PD15761",
+ "title": "한번만 더 사랑할 수 있다면",
+ "genre": "연극",
+ "from": "2010-03-23",
+ "to": "2010-05-02",
+ "venue": "산울림 소극장",
+ "cast": [
+  "손봉숙",
+  "이호성",
+  "이인철",
+  "권성덕"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "홍여사",
+   "name": "손봉숙"
+  },
+  {
+   "role": "이영호",
+   "name": "이호성"
+  },
+  {
+   "role": "서우만",
+   "name": "이인철"
+  },
+  {
+   "role": "나상일",
+   "name": "권성덕"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704023429/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=15761"
+ }
+}

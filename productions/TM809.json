@@ -1,0 +1,54 @@
+{
+ "id": "TM809",
+ "title": "스핏파이어그릴",
+ "genre": "뮤지컬",
+ "from": "2007-05-12",
+ "to": "2007-08-05",
+ "venue": "충무아트홀 소극장블루",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009230414537a30773a8e774a859b0ac733a36e6148.jpg",
+ "cast": [
+  "조정은",
+  "이혜경",
+  "조유신",
+  "송영규",
+  "이주실",
+  "최나래"
+ ],
+ "state": "공연완료",
+ "producer": "쇼노트,CJ엔터테인먼트",
+ "price": "R석 4만5천원 / S석 3만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "펄시",
+   "name": "조정은"
+  },
+  {
+   "role": "쉘비",
+   "name": "이혜경"
+  },
+  {
+   "role": "조",
+   "name": "조유신"
+  },
+  {
+   "role": "케일럽",
+   "name": "송영규"
+  },
+  {
+   "role": "한나",
+   "name": "이주실"
+  },
+  {
+   "role": "에피",
+   "name": "최나래"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=809"
+ }
+}

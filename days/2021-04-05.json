@@ -1,0 +1,29 @@
+{
+ "date": "2021-04-05",
+ "sessions": [
+  {
+   "id": "PF172477",
+   "title": "가면을 벗다",
+   "genre": "연극",
+   "venue": "SH아트홀",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#2F2F33",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF172158",
+   "title": "온에어: 비밀계약",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#4925C0",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

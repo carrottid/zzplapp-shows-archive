@@ -1,0 +1,54 @@
+{
+ "id": "TM161",
+ "title": "찰리 브라운",
+ "genre": "뮤지컬",
+ "from": "2005-04-07",
+ "to": "2005-07-10",
+ "venue": "한양레퍼토리씨어터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_chal0.gif",
+ "cast": [
+  "전진오",
+  "오소연",
+  "안시하",
+  "성준서",
+  "이준혁",
+  "강인영"
+ ],
+ "state": "공연완료",
+ "producer": "극단 한양레퍼토리",
+ "price": "일반,대학생 3만원/청소년 1만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "스누피",
+   "name": "전진오"
+  },
+  {
+   "role": "스누피",
+   "name": "오소연"
+  },
+  {
+   "role": "루시",
+   "name": "안시하"
+  },
+  {
+   "role": "루시",
+   "name": "성준서"
+  },
+  {
+   "role": "루시",
+   "name": "이준혁"
+  },
+  {
+   "role": "루시",
+   "name": "강인영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=161"
+ }
+}

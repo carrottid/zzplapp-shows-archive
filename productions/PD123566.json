@@ -1,0 +1,56 @@
+{
+ "id": "PD123566",
+ "title": "그녀의 그네",
+ "genre": "연극",
+ "from": "2018-04-11",
+ "to": "2018-04-15",
+ "venue": "소극장 혜화당(구.까망 소극장)",
+ "cast": [
+  "박승희",
+  "오형준",
+  "이채",
+  "강선애",
+  "이승언",
+  "박정근",
+  "김선구"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "수아엄마",
+   "name": "박승희"
+  },
+  {
+   "role": "수아아빠",
+   "name": "오형준"
+  },
+  {
+   "role": "주민1, 여자1",
+   "name": "이채"
+  },
+  {
+   "role": "주민2, 여자2, 연인 여",
+   "name": "강선애"
+  },
+  {
+   "role": "PD, 연인 남",
+   "name": "이승언"
+  },
+  {
+   "role": "경찰, 카메라맨",
+   "name": "박정근"
+  },
+  {
+   "role": "",
+   "name": "김선구"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240330233236/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=123566"
+ }
+}

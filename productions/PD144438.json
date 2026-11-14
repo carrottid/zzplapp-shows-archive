@@ -1,0 +1,51 @@
+{
+ "id": "PD144438",
+ "title": "제11회 개판페스티벌 - 일등급인간",
+ "genre": "연극",
+ "from": "2019-08-20",
+ "to": "2019-08-25",
+ "venue": "후암스테이지",
+ "cast": [
+  "정현욱",
+  "김진주",
+  "하보연",
+  "한태준",
+  "여동윤",
+  "가람"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아빠",
+   "name": "정현욱"
+  },
+  {
+   "role": "엄마",
+   "name": "김진주"
+  },
+  {
+   "role": "엄마",
+   "name": "하보연"
+  },
+  {
+   "role": "아들",
+   "name": "한태준"
+  },
+  {
+   "role": "사장",
+   "name": "여동윤"
+  },
+  {
+   "role": "사장",
+   "name": "가람"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250612145602/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=144438"
+ }
+}

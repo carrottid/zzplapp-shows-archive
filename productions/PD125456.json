@@ -1,0 +1,46 @@
+{
+ "id": "PD125456",
+ "title": "제9회 개판페스티벌 - 템프파일",
+ "genre": "연극",
+ "from": "2018-05-29",
+ "to": "2018-06-03",
+ "venue": "후암스테이지",
+ "cast": [
+  "승의열",
+  "윤상호",
+  "서지유",
+  "장태민",
+  "최현섭"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "오한구",
+   "name": "승의열"
+  },
+  {
+   "role": "신팀장",
+   "name": "윤상호"
+  },
+  {
+   "role": "김수정",
+   "name": "서지유"
+  },
+  {
+   "role": "최철민",
+   "name": "장태민"
+  },
+  {
+   "role": "장형사",
+   "name": "최현섭"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241103192737/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=125456"
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "id": "PD50508",
+ "title": "달링",
+ "genre": "연극",
+ "from": "2013-07-03",
+ "to": "2013-08-31",
+ "venue": "소극장 혜화당(구.까망 소극장)",
+ "cast": [
+  "전세희",
+  "최정필",
+  "김명일",
+  "이동건",
+  "김병섭",
+  "남영선",
+  "김도연",
+  "김세정",
+  "황아름별",
+  "곽수지"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "제리",
+   "name": "전세희"
+  },
+  {
+   "role": "제리",
+   "name": "최정필"
+  },
+  {
+   "role": "톰",
+   "name": "김명일"
+  },
+  {
+   "role": "톰",
+   "name": "이동건"
+  },
+  {
+   "role": "잭",
+   "name": "김병섭"
+  },
+  {
+   "role": "잭",
+   "name": "남영선"
+  },
+  {
+   "role": "수",
+   "name": "김도연"
+  },
+  {
+   "role": "비비안",
+   "name": "김세정"
+  },
+  {
+   "role": "디디",
+   "name": "황아름별"
+  },
+  {
+   "role": "",
+   "name": "곽수지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240714045229/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=50508"
+ }
+}

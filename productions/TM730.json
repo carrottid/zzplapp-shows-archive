@@ -1,0 +1,54 @@
+{
+ "id": "TM730",
+ "title": "프로포즈",
+ "genre": "뮤지컬",
+ "from": "2006-09-15",
+ "to": "2006-12-31",
+ "venue": "소극장 축제",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_db-propose(2006).jpg",
+ "cast": [
+  "김학준",
+  "이현철",
+  "이주원",
+  "오세준",
+  "최인천",
+  "황지영"
+ ],
+ "state": "공연완료",
+ "producer": "축제를 만드는 사람들,지니 컴퍼니",
+ "price": "일반 3만원 / 청소년 1만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "민호",
+   "name": "김학준"
+  },
+  {
+   "role": "민호",
+   "name": "이현철"
+  },
+  {
+   "role": "민호",
+   "name": "이주원"
+  },
+  {
+   "role": "민호",
+   "name": "오세준"
+  },
+  {
+   "role": "민호",
+   "name": "최인천"
+  },
+  {
+   "role": "은경",
+   "name": "황지영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=730"
+ }
+}

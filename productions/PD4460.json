@@ -1,0 +1,96 @@
+{
+ "id": "PD4460",
+ "title": "침향",
+ "genre": "연극",
+ "from": "2008-06-11",
+ "to": "2008-06-29",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "박인환",
+  "손숙",
+  "정동환",
+  "김길호",
+  "성기윤",
+  "박정자",
+  "이경미",
+  "박웅",
+  "길해연",
+  "이지하",
+  "홍성경",
+  "심영민",
+  "황만익",
+  "김호영",
+  "곽성은"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "강수",
+   "name": "박인환"
+  },
+  {
+   "role": "애숙(강수의 처)",
+   "name": "손숙"
+  },
+  {
+   "role": "택성",
+   "name": "정동환"
+  },
+  {
+   "role": "강득",
+   "name": "김길호"
+  },
+  {
+   "role": "영범",
+   "name": "성기윤"
+  },
+  {
+   "role": "",
+   "name": "박정자"
+  },
+  {
+   "role": "",
+   "name": "이경미"
+  },
+  {
+   "role": "",
+   "name": "박웅"
+  },
+  {
+   "role": "",
+   "name": "길해연"
+  },
+  {
+   "role": "",
+   "name": "이지하"
+  },
+  {
+   "role": "",
+   "name": "홍성경"
+  },
+  {
+   "role": "",
+   "name": "심영민"
+  },
+  {
+   "role": "",
+   "name": "황만익"
+  },
+  {
+   "role": "",
+   "name": "김호영"
+  },
+  {
+   "role": "",
+   "name": "곽성은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171106120427/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=4460"
+ }
+}

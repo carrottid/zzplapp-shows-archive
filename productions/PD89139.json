@@ -1,0 +1,56 @@
+{
+ "id": "PD89139",
+ "title": "헬로마마",
+ "genre": "뮤지컬",
+ "from": "2016-02-17",
+ "to": "2016-02-29",
+ "venue": "한성아트홀 1관",
+ "cast": [
+  "박기선",
+  "한인수",
+  "권혁풍",
+  "이혜근",
+  "강신혜",
+  "한주연",
+  "이은애"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "안병권",
+   "name": "박기선"
+  },
+  {
+   "role": "안병권",
+   "name": "한인수"
+  },
+  {
+   "role": "강고동",
+   "name": "권혁풍"
+  },
+  {
+   "role": "양미선",
+   "name": "이혜근"
+  },
+  {
+   "role": "강혜정",
+   "name": "강신혜"
+  },
+  {
+   "role": "강혜정",
+   "name": "한주연"
+  },
+  {
+   "role": "강혜정",
+   "name": "이은애"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241015210353/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=89139"
+ }
+}

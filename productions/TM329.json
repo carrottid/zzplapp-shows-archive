@@ -1,0 +1,28 @@
+{
+ "id": "TM329",
+ "title": "러브 파티",
+ "genre": "뮤지컬",
+ "from": "2004-06-01",
+ "to": "2004-07-25",
+ "venue": "정보소극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_loveparty.gif",
+ "cast": [
+  "최우리"
+ ],
+ "state": "공연완료",
+ "producer": "극단 MET",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "스타 지망생",
+   "name": "최우리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=329"
+ }
+}

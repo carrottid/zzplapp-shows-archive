@@ -1,0 +1,101 @@
+{
+ "id": "PD72510",
+ "title": "런웨이 비트",
+ "genre": "뮤지컬",
+ "from": "2015-01-31",
+ "to": "2015-02-08",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "김지온",
+  "고상호",
+  "강지혜",
+  "박혜미",
+  "송형은",
+  "이세령",
+  "이봄이",
+  "허민형",
+  "이상이",
+  "한수림",
+  "가희",
+  "박찬양",
+  "조연정",
+  "손미희",
+  "김우정",
+  "서요한"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "비트",
+   "name": "김지온"
+  },
+  {
+   "role": "완규",
+   "name": "고상호"
+  },
+  {
+   "role": "지수",
+   "name": "강지혜"
+  },
+  {
+   "role": "미니",
+   "name": "박혜미"
+  },
+  {
+   "role": "태봉",
+   "name": "송형은"
+  },
+  {
+   "role": "이나미",
+   "name": "이세령"
+  },
+  {
+   "role": "",
+   "name": "이봄이"
+  },
+  {
+   "role": "",
+   "name": "허민형"
+  },
+  {
+   "role": "",
+   "name": "이상이"
+  },
+  {
+   "role": "",
+   "name": "한수림"
+  },
+  {
+   "role": "",
+   "name": "가희"
+  },
+  {
+   "role": "",
+   "name": "박찬양"
+  },
+  {
+   "role": "",
+   "name": "조연정"
+  },
+  {
+   "role": "",
+   "name": "손미희"
+  },
+  {
+   "role": "",
+   "name": "김우정"
+  },
+  {
+   "role": "",
+   "name": "서요한"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250814043955/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=72510"
+ }
+}

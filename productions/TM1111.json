@@ -1,0 +1,49 @@
+{
+ "id": "TM1111",
+ "title": "아름다운 세상을 위하여",
+ "genre": "뮤지컬",
+ "from": "2006-11-25",
+ "to": "2006-12-31",
+ "venue": "국립중앙박물관 극장 용",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2006 아름다운세상.jpg",
+ "cast": [
+  "박상우",
+  "노우진",
+  "김희원",
+  "민경언",
+  "신미연"
+ ],
+ "state": "공연완료",
+ "producer": "국립중앙박물관문화재단, 뮤지컬창작공작소 레히",
+ "price": "VIP석평일:40,000 / R석평일:24000 / S석평일:16000 / VIP석주말:50,000 / R석주말:30,000 / S석주말:20,000",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이집",
+   "name": "박상우"
+  },
+  {
+   "role": "이집",
+   "name": "노우진"
+  },
+  {
+   "role": "정인",
+   "name": "김희원"
+  },
+  {
+   "role": "장봉",
+   "name": "민경언"
+  },
+  {
+   "role": "다리",
+   "name": "신미연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1111"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "PD61764",
+ "title": "수탉들의 싸움",
+ "genre": "연극",
+ "from": "2014-07-11",
+ "to": "2014-08-03",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "박은석",
+  "김준원",
+  "손지윤",
+  "선종남"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "존",
+   "name": "박은석"
+  },
+  {
+   "role": "M",
+   "name": "김준원"
+  },
+  {
+   "role": "W",
+   "name": "손지윤"
+  },
+  {
+   "role": "F",
+   "name": "선종남"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240423105208/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=61764"
+ }
+}

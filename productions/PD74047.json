@@ -1,0 +1,86 @@
+{
+ "id": "PD74047",
+ "title": "두근두근 내 인생",
+ "genre": "연극",
+ "from": "2015-03-13",
+ "to": "2015-05-25",
+ "venue": "유니플렉스 2관",
+ "cast": [
+  "오용",
+  "정문성",
+  "이율",
+  "이규형",
+  "최정인",
+  "곽선영",
+  "김지훈",
+  "김대곤",
+  "이하준",
+  "김기창",
+  "김아영",
+  "김은주",
+  "강연정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "한아름",
+   "name": "오용"
+  },
+  {
+   "role": "한아름",
+   "name": "정문성"
+  },
+  {
+   "role": "한대수",
+   "name": "이율"
+  },
+  {
+   "role": "한대수",
+   "name": "이규형"
+  },
+  {
+   "role": "최미라",
+   "name": "최정인"
+  },
+  {
+   "role": "최미라",
+   "name": "곽선영"
+  },
+  {
+   "role": "할아버지",
+   "name": "김지훈"
+  },
+  {
+   "role": "할아버지",
+   "name": "김대곤"
+  },
+  {
+   "role": "PD",
+   "name": "이하준"
+  },
+  {
+   "role": "PD",
+   "name": "김기창"
+  },
+  {
+   "role": "작가",
+   "name": "김아영"
+  },
+  {
+   "role": "작가",
+   "name": "김은주"
+  },
+  {
+   "role": "",
+   "name": "강연정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230421043303/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=74047"
+ }
+}

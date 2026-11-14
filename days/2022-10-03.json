@@ -1,0 +1,85 @@
+{
+ "date": "2022-10-03",
+ "sessions": [
+  {
+   "id": "PF197464",
+   "title": "트레드밀",
+   "genre": "뮤지컬",
+   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF196329",
+   "title": "As always, Summer like U",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리WON뱅킹홀(구. SOL트래블홀) )",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#2A2222",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF196620",
+   "title": "디어 마이 라이카",
+   "genre": "뮤지컬",
+   "venue": "KT&G 상상마당 대치아트홀",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#010E23",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF196199",
+   "title": "브론테",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#784E50",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF197464",
+   "title": "트레드밀",
+   "genre": "뮤지컬",
+   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF196113",
+   "title": "헤르츠클란",
+   "genre": "연극",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#3B1F2B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF198279",
+   "title": "혜화동1번지 7기동인 가을페스티벌, 정희정",
+   "genre": "연극",
+   "venue": "연극실험실 혜화동1번지",
+   "time": "20:00",
+   "castSource": "none"
+  }
+ ]
+}

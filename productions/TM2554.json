@@ -1,0 +1,89 @@
+{
+ "id": "TM2554",
+ "title": "쿵짝",
+ "genre": "뮤지컬",
+ "from": "2018-04-06",
+ "to": "2018-04-29",
+ "venue": "대학로 자유극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20180327053517f27e801b2c7e484abf8dab6a48d828d0.jpg",
+ "cast": [
+  "김보정",
+  "한수림",
+  "김은영",
+  "윤차영",
+  "이석",
+  "조용민",
+  "신창주",
+  "박정민",
+  "백지예",
+  "오주원",
+  "김방언",
+  "안세호",
+  "조훈"
+ ],
+ "state": "공연완료",
+ "producer": "아시아문화원, 공연배달서비스 간다, ㈜창작하는공간",
+ "price": "전석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "옥희",
+   "name": "김보정"
+  },
+  {
+   "role": "옥희",
+   "name": "한수림"
+  },
+  {
+   "role": "어머니",
+   "name": "김은영"
+  },
+  {
+   "role": "어머니",
+   "name": "윤차영"
+  },
+  {
+   "role": "손님",
+   "name": "이석"
+  },
+  {
+   "role": "손님",
+   "name": "조용민"
+  },
+  {
+   "role": "나",
+   "name": "신창주"
+  },
+  {
+   "role": "나",
+   "name": "박정민"
+  },
+  {
+   "role": "점순",
+   "name": "백지예"
+  },
+  {
+   "role": "점순 닭",
+   "name": "오주원"
+  },
+  {
+   "role": "점순 닭",
+   "name": "김방언"
+  },
+  {
+   "role": "김첨지",
+   "name": "안세호"
+  },
+  {
+   "role": "김첨지",
+   "name": "조훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2554"
+ }
+}

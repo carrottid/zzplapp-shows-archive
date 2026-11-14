@@ -1,0 +1,84 @@
+{
+ "id": "TM1098",
+ "title": "로미오 앤 베르나뎃",
+ "genre": "뮤지컬",
+ "from": "2008-07-04",
+ "to": "2008-08-10",
+ "venue": "나루아트센터 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008 베르나뎃 01.jpg",
+ "cast": [
+  "김태훈",
+  "원종환",
+  "오진영",
+  "최성원",
+  "김법래",
+  "오지연",
+  "이지수",
+  "장대웅",
+  "김태형",
+  "라미란",
+  "이봉련",
+  "박태성"
+ ],
+ "state": "공연완료",
+ "producer": "MBC",
+ "price": "R 55,000원/ S 45,000원/ A 35,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "로미오",
+   "name": "김태훈"
+  },
+  {
+   "role": "로미오/디노",
+   "name": "원종환"
+  },
+  {
+   "role": "베르나뎃",
+   "name": "오진영"
+  },
+  {
+   "role": "디노/브루클린 남자",
+   "name": "최성원"
+  },
+  {
+   "role": "펜자",
+   "name": "김법래"
+  },
+  {
+   "role": "도나/브루클린 여자",
+   "name": "오지연"
+  },
+  {
+   "role": "델칸토",
+   "name": "이지수"
+  },
+  {
+   "role": "티토",
+   "name": "장대웅"
+  },
+  {
+   "role": "커닐리신부/아덴",
+   "name": "김태형"
+  },
+  {
+   "role": "카밀",
+   "name": "라미란"
+  },
+  {
+   "role": "바이올라/로즈",
+   "name": "이봉련"
+  },
+  {
+   "role": "립스",
+   "name": "박태성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1098"
+ }
+}

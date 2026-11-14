@@ -1,0 +1,74 @@
+{
+ "id": "TM765",
+ "title": "7인의 천사",
+ "genre": "뮤지컬",
+ "from": "2007-01-05",
+ "to": "2007-02-28",
+ "venue": "설치극장 정미소",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009250323110f030840ea2548dd986d151a9ad22da2.jpg",
+ "cast": [
+  "김태한",
+  "김준겸",
+  "이재훤",
+  "신문성",
+  "박지아",
+  "안덕용",
+  "백성혜",
+  "김종원",
+  "채연정",
+  "문영욱"
+ ],
+ "state": "공연완료",
+ "producer": "극단 모시는사람들",
+ "price": "성인 2만원, 청소년 1만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "천사럭키",
+   "name": "김태한"
+  },
+  {
+   "role": "천사럭키",
+   "name": "김준겸"
+  },
+  {
+   "role": "천사라이언",
+   "name": "이재훤"
+  },
+  {
+   "role": "천사Q",
+   "name": "신문성"
+  },
+  {
+   "role": "천사마미",
+   "name": "박지아"
+  },
+  {
+   "role": "천사율리",
+   "name": "안덕용"
+  },
+  {
+   "role": "천사희",
+   "name": "백성혜"
+  },
+  {
+   "role": "천사조이",
+   "name": "김종원"
+  },
+  {
+   "role": "아기어머니/여자",
+   "name": "채연정"
+  },
+  {
+   "role": "아기아버지/남자",
+   "name": "문영욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=765"
+ }
+}

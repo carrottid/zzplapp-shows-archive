@@ -1,0 +1,99 @@
+{
+ "id": "TM1548",
+ "title": "내 마음의 풍금",
+ "genre": "뮤지컬",
+ "from": "2010-01-16",
+ "to": "2010-02-21",
+ "venue": "예술의전당 토월극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2010organ.jpg",
+ "cast": [
+  "이지훈",
+  "강필석",
+  "정운선",
+  "임강희",
+  "김재만",
+  "정철호",
+  "배문주",
+  "이수정",
+  "배근영",
+  "김용덕",
+  "이나민",
+  "정재헌",
+  "김준기",
+  "김시온",
+  "오윤재"
+ ],
+ "state": "공연완료",
+ "producer": "㈜쇼틱커뮤니케이션즈",
+ "price": "R석 60,000원/ S석 40,000원/ A석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "강동수",
+   "name": "이지훈"
+  },
+  {
+   "role": "강동수",
+   "name": "강필석"
+  },
+  {
+   "role": "최홍연",
+   "name": "정운선"
+  },
+  {
+   "role": "양수정",
+   "name": "임강희"
+  },
+  {
+   "role": "박봉대",
+   "name": "김재만"
+  },
+  {
+   "role": "손정복",
+   "name": "정철호"
+  },
+  {
+   "role": "앙상블",
+   "name": "배문주"
+  },
+  {
+   "role": "앙상블",
+   "name": "이수정"
+  },
+  {
+   "role": "앙상블",
+   "name": "배근영"
+  },
+  {
+   "role": "앙상블",
+   "name": "김용덕"
+  },
+  {
+   "role": "앙상블",
+   "name": "이나민"
+  },
+  {
+   "role": "앙상블",
+   "name": "정재헌"
+  },
+  {
+   "role": "앙상블",
+   "name": "김준기"
+  },
+  {
+   "role": "앙상블",
+   "name": "김시온"
+  },
+  {
+   "role": "앙상블",
+   "name": "오윤재"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1548"
+ }
+}

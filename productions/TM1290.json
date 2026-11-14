@@ -1,0 +1,44 @@
+{
+ "id": "TM1290",
+ "title": "카페인",
+ "genre": "뮤지컬",
+ "from": "2008-11-11",
+ "to": "2009-02-28",
+ "venue": "대학로 라이브극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_cafein.gif",
+ "cast": [
+  "임철형",
+  "김태한",
+  "구원영",
+  "전나혜(난아)"
+ ],
+ "state": "공연완료",
+ "producer": "(주)트라이프로",
+ "price": "R석 45,000원/S석 35,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "강지민/정민",
+   "name": "임철형"
+  },
+  {
+   "role": "강지민/정민",
+   "name": "김태한"
+  },
+  {
+   "role": "김세진",
+   "name": "구원영"
+  },
+  {
+   "role": "김세진",
+   "name": "전나혜(난아)"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1290"
+ }
+}

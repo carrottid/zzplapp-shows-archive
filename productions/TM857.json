@@ -1,0 +1,39 @@
+{
+ "id": "TM857",
+ "title": "텔미 온어 선데이",
+ "genre": "뮤지컬",
+ "from": "2007-10-01",
+ "to": "2007-11-25",
+ "venue": "두산아트센터 연강홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_tellmeonasunday.jpg",
+ "cast": [
+  "최성희(바다)",
+  "김선영",
+  "정선아"
+ ],
+ "state": "공연완료",
+ "producer": "설앤컴퍼니,CJ엔터테인먼트,RUC",
+ "price": "R석 5만원 / S석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "데니스",
+   "name": "최성희(바다)"
+  },
+  {
+   "role": "데니스",
+   "name": "김선영"
+  },
+  {
+   "role": "데니스",
+   "name": "정선아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=857"
+ }
+}

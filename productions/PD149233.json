@@ -1,0 +1,76 @@
+{
+ "id": "PD149233",
+ "title": "아이다 쇼케이스",
+ "genre": "뮤지컬",
+ "from": "2019-10-28",
+ "to": "2019-10-28",
+ "venue": "블루스퀘어 마스터카드홀",
+ "cast": [
+  "윤공주",
+  "전나영",
+  "김우형",
+  "최재림",
+  "정선아",
+  "아이비",
+  "박시원",
+  "박성환",
+  "김선동",
+  "오세준",
+  "유승엽"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아이다",
+   "name": "윤공주"
+  },
+  {
+   "role": "아이다",
+   "name": "전나영"
+  },
+  {
+   "role": "라다메스",
+   "name": "김우형"
+  },
+  {
+   "role": "라다메스",
+   "name": "최재림"
+  },
+  {
+   "role": "암네리스",
+   "name": "정선아"
+  },
+  {
+   "role": "암네리스",
+   "name": "아이비"
+  },
+  {
+   "role": "조세르",
+   "name": "박시원"
+  },
+  {
+   "role": "조세르",
+   "name": "박성환"
+  },
+  {
+   "role": "파라오",
+   "name": "김선동"
+  },
+  {
+   "role": "아모나스로",
+   "name": "오세준"
+  },
+  {
+   "role": "",
+   "name": "유승엽"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240615110133/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=149233"
+ }
+}

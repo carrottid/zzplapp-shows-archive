@@ -1,0 +1,128 @@
+{
+ "id": "TM838",
+ "title": "공길전",
+ "genre": "뮤지컬",
+ "from": "2007-09-15",
+ "to": "2007-09-30",
+ "venue": "충무아트홀 대극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200917025325fd04f2c8777b4413a9b2d4849134d269.jpg",
+ "cast": [
+  "김재범",
+  "홍경수",
+  "심정완",
+  "박원묵",
+  "금승훈",
+  "정유희",
+  "도정주",
+  "박석용",
+  "김백현",
+  "고미경",
+  "민병상",
+  "안재홍",
+  "이종한",
+  "최인형",
+  "리온",
+  "여정옥",
+  "김동호",
+  "유경아",
+  "김은혜",
+  "김혜원"
+ ],
+ "state": "공연완료",
+ "producer": "서울예술단",
+ "price": "R석 6만원 / S석 5만원 / A석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "공길",
+   "name": "김재범"
+  },
+  {
+   "role": "장생",
+   "name": "홍경수"
+  },
+  {
+   "role": "장생",
+   "name": "심정완"
+  },
+  {
+   "role": "연산",
+   "name": "박원묵"
+  },
+  {
+   "role": "연산",
+   "name": "금승훈"
+  },
+  {
+   "role": "녹수",
+   "name": "정유희"
+  },
+  {
+   "role": "녹수",
+   "name": "도정주"
+  },
+  {
+   "role": "홍내관",
+   "name": "박석용"
+  },
+  {
+   "role": "박원종",
+   "name": "금승훈"
+  },
+  {
+   "role": "박원종/윤지상",
+   "name": "김백현"
+  },
+  {
+   "role": "우인",
+   "name": "고미경"
+  },
+  {
+   "role": "우인",
+   "name": "민병상"
+  },
+  {
+   "role": "우인",
+   "name": "안재홍"
+  },
+  {
+   "role": "우인",
+   "name": "이종한"
+  },
+  {
+   "role": "우인",
+   "name": "최인형"
+  },
+  {
+   "role": "우인",
+   "name": "리온"
+  },
+  {
+   "role": "우인",
+   "name": "여정옥"
+  },
+  {
+   "role": "우인",
+   "name": "김동호"
+  },
+  {
+   "role": "우인",
+   "name": "유경아"
+  },
+  {
+   "role": "우인",
+   "name": "김은혜"
+  },
+  {
+   "role": "우인",
+   "name": "김혜원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=838"
+ }
+}

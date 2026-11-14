@@ -1,0 +1,95 @@
+{
+ "id": "PD97205",
+ "title": "당신의 아름다운 시절",
+ "genre": "뮤지컬",
+ "from": "2016-11-26",
+ "to": "2016-11-30",
+ "venue": "국립극장 달오름극장",
+ "cast": [
+  "정욱진",
+  "박화홍",
+  "이지은",
+  "안덕용",
+  "이경미",
+  "이상민",
+  "김민철",
+  "정수훈",
+  "이경수",
+  "김서언",
+  "홍태훈",
+  "이승하",
+  "이하린",
+  "김나희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "용생",
+   "name": "정욱진"
+  },
+  {
+   "role": "용생",
+   "name": "박화홍"
+  },
+  {
+   "role": "연희",
+   "name": "이지은"
+  },
+  {
+   "role": "용국",
+   "name": "안덕용"
+  },
+  {
+   "role": "큰어머니",
+   "name": "이경미"
+  },
+  {
+   "role": "용미",
+   "name": "이지은"
+  },
+  {
+   "role": "종현",
+   "name": "이상민"
+  },
+  {
+   "role": "",
+   "name": "김민철"
+  },
+  {
+   "role": "",
+   "name": "정수훈"
+  },
+  {
+   "role": "",
+   "name": "이경수"
+  },
+  {
+   "role": "",
+   "name": "김서언"
+  },
+  {
+   "role": "",
+   "name": "홍태훈"
+  },
+  {
+   "role": "",
+   "name": "이승하"
+  },
+  {
+   "role": "",
+   "name": "이하린"
+  },
+  {
+   "role": "",
+   "name": "김나희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171025133505/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=97205"
+ }
+}

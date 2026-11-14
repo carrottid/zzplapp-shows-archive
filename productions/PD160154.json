@@ -1,0 +1,41 @@
+{
+ "id": "PD160154",
+ "title": "미스매치",
+ "genre": "뮤지컬",
+ "from": "2020-09-21",
+ "to": "2020-09-22",
+ "venue": "브릭스씨어터",
+ "cast": [
+  "신예준",
+  "문남권",
+  "노현창",
+  "신창주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "한치수",
+   "name": "신예준"
+  },
+  {
+   "role": "나성민",
+   "name": "문남권"
+  },
+  {
+   "role": "이주형",
+   "name": "노현창"
+  },
+  {
+   "role": "지문",
+   "name": "신창주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260310094813/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=160154"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "id": "TM2043",
+ "title": "덕혜옹주",
+ "genre": "뮤지컬",
+ "from": "2013-12-20",
+ "to": "2013-12-29",
+ "venue": "대학로 뮤지컬 센터 공간 피꼴로",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013princess.jpg",
+ "cast": [
+  "문혜영",
+  "전재홍",
+  "남궁인",
+  "윤정섭",
+  "정미금"
+ ],
+ "state": "공연완료",
+ "producer": "극단 그愛생각",
+ "price": "R석 30,000원/ S석 20,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "덕혜/정혜",
+   "name": "문혜영"
+  },
+  {
+   "role": "소 다케유키",
+   "name": "전재홍"
+  },
+  {
+   "role": "멀티남",
+   "name": "남궁인"
+  },
+  {
+   "role": "멀티남",
+   "name": "윤정섭"
+  },
+  {
+   "role": "멀티녀",
+   "name": "정미금"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2043"
+ }
+}

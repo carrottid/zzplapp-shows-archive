@@ -1,0 +1,56 @@
+{
+ "id": "PD119461",
+ "title": "산울림 고전극장 - 줄리엣과 줄리엣",
+ "genre": "연극",
+ "from": "2018-03-21",
+ "to": "2018-04-01",
+ "venue": "산울림 소극장",
+ "cast": [
+  "한송희",
+  "김희연",
+  "이강우",
+  "조용경",
+  "조영규",
+  "김하리",
+  "장세환"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "줄리엣 몬테규",
+   "name": "한송희"
+  },
+  {
+   "role": "줄리엣 캐플렛",
+   "name": "김희연"
+  },
+  {
+   "role": "티볼트 캐플렛",
+   "name": "이강우"
+  },
+  {
+   "role": "로미오 몬테규",
+   "name": "조용경"
+  },
+  {
+   "role": "캐플렛",
+   "name": "조영규"
+  },
+  {
+   "role": "네릿서",
+   "name": "김하리"
+  },
+  {
+   "role": "",
+   "name": "장세환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240911222853/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=119461"
+ }
+}

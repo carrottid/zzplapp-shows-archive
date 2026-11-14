@@ -1,0 +1,33 @@
+{
+ "id": "TM1602",
+ "title": "비애비",
+ "genre": "뮤지컬",
+ "from": "2010-04-08",
+ "to": "2010-04-20",
+ "venue": "동덕여대 공연예술센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_bi2010.jpg",
+ "cast": [
+  "오진영",
+  "선영"
+ ],
+ "state": "공연완료",
+ "price": "R석 70,000원/ A석 50,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "정순왕후",
+   "name": "오진영"
+  },
+  {
+   "role": "정순왕후",
+   "name": "선영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1602"
+ }
+}

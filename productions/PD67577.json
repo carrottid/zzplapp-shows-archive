@@ -1,0 +1,96 @@
+{
+ "id": "PD67577",
+ "title": "히즈 피아노 온 브로드웨이",
+ "genre": "뮤지컬",
+ "from": "2014-10-17",
+ "to": "2014-10-19",
+ "venue": "충무아트센터 중극장 블랙",
+ "cast": [
+  "박준면",
+  "강필석",
+  "이석준",
+  "조정은",
+  "고영빈",
+  "이창용",
+  "이정권",
+  "백형훈",
+  "최성원",
+  "김리",
+  "변희석",
+  "신지호",
+  "윤한",
+  "이범재",
+  "KoN"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "",
+   "name": "박준면"
+  },
+  {
+   "role": "",
+   "name": "강필석"
+  },
+  {
+   "role": "",
+   "name": "이석준"
+  },
+  {
+   "role": "",
+   "name": "조정은"
+  },
+  {
+   "role": "",
+   "name": "고영빈"
+  },
+  {
+   "role": "",
+   "name": "이창용"
+  },
+  {
+   "role": "",
+   "name": "이정권"
+  },
+  {
+   "role": "",
+   "name": "백형훈"
+  },
+  {
+   "role": "",
+   "name": "최성원"
+  },
+  {
+   "role": "",
+   "name": "김리"
+  },
+  {
+   "role": "피아노",
+   "name": "변희석"
+  },
+  {
+   "role": "피아노",
+   "name": "신지호"
+  },
+  {
+   "role": "피아노",
+   "name": "윤한"
+  },
+  {
+   "role": "피아노",
+   "name": "이범재"
+  },
+  {
+   "role": "바이올린",
+   "name": "KoN"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250209052249/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=67577"
+ }
+}

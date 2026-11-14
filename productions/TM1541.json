@@ -1,0 +1,29 @@
+{
+ "id": "TM1541",
+ "title": "크리스마스 캐롤",
+ "genre": "뮤지컬",
+ "from": "2009-12-19",
+ "to": "2009-12-31",
+ "venue": "올림픽공원 우리금융아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_christmas2009.jpg",
+ "cast": [
+  "박석용"
+ ],
+ "state": "공연완료",
+ "producer": "㈜나인컬처, 서울예술단",
+ "price": "VIP석 7만원/ R석 5만원/ S석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "스크루지",
+   "name": "박석용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1541"
+ }
+}

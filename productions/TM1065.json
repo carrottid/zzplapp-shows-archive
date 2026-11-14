@@ -1,0 +1,44 @@
+{
+ "id": "TM1065",
+ "title": "지하철1호선",
+ "genre": "뮤지컬",
+ "from": "2007-11-01",
+ "to": "2008-04-27",
+ "venue": "학전그린",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200916030351b21c4c34a78145668301fbca715034e5.jpg",
+ "cast": [
+  "김기정",
+  "정형호",
+  "이채경",
+  "김대명"
+ ],
+ "state": "공연완료",
+ "producer": "극단 학전",
+ "price": "일반 3만원 / 대학생 2만4천원 / 청소년 1만8천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "곰보할매/엄마/창녀/여대생 등",
+   "name": "김기정"
+  },
+  {
+   "role": "철수/과부/노인/전도사 등",
+   "name": "정형호"
+  },
+  {
+   "role": "걸레/노파/단속반/여사원 등",
+   "name": "이채경"
+  },
+  {
+   "role": "땅쇠/병태/과부/작은놈 등",
+   "name": "김대명"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1065"
+ }
+}

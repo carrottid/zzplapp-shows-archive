@@ -1,0 +1,86 @@
+{
+ "id": "PD39906",
+ "title": "쌍화별곡 - 대구",
+ "genre": "뮤지컬",
+ "from": "2012-10-20",
+ "to": "2012-10-21",
+ "venue": "영남대학교 천마아트센터 그랜드홀",
+ "cast": [
+  "김다현",
+  "박완",
+  "김호영",
+  "김순택",
+  "정선아",
+  "이은율",
+  "정영주",
+  "이종성",
+  "이성훈",
+  "남궁민희",
+  "황장호",
+  "정재희",
+  "권기중"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "원효",
+   "name": "김다현"
+  },
+  {
+   "role": "원효",
+   "name": "박완"
+  },
+  {
+   "role": "의상",
+   "name": "김호영"
+  },
+  {
+   "role": "의상",
+   "name": "김순택"
+  },
+  {
+   "role": "요석공주, 선묘낭자",
+   "name": "정선아"
+  },
+  {
+   "role": "요석공주, 선묘낭자",
+   "name": "이은율"
+  },
+  {
+   "role": "진덕여왕",
+   "name": "정영주"
+  },
+  {
+   "role": "김춘추",
+   "name": "이종성"
+  },
+  {
+   "role": "술이",
+   "name": "이성훈"
+  },
+  {
+   "role": "",
+   "name": "남궁민희"
+  },
+  {
+   "role": "",
+   "name": "황장호"
+  },
+  {
+   "role": "",
+   "name": "정재희"
+  },
+  {
+   "role": "",
+   "name": "권기중"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250127001459/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=39906"
+ }
+}

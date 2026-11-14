@@ -1,0 +1,66 @@
+{
+ "id": "PD70253",
+ "title": "사운드 오브 뮤직 - 용인",
+ "genre": "뮤지컬",
+ "from": "2015-02-12",
+ "to": "2015-02-15",
+ "venue": "용인 포은아트홀",
+ "cast": [
+  "최윤정",
+  "유태웅",
+  "김형묵",
+  "양희경",
+  "민경옥",
+  "김빈우",
+  "김가희",
+  "김대운",
+  "배문주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "마리아",
+   "name": "최윤정"
+  },
+  {
+   "role": "폰 트랍 대령",
+   "name": "유태웅"
+  },
+  {
+   "role": "폰 트랍 대령",
+   "name": "김형묵"
+  },
+  {
+   "role": "원장 수녀",
+   "name": "양희경"
+  },
+  {
+   "role": "원장 수녀",
+   "name": "민경옥"
+  },
+  {
+   "role": "엘자 쉬래더 자작부인",
+   "name": "김빈우"
+  },
+  {
+   "role": "엘자 쉬래더 자작부인",
+   "name": "김가희"
+  },
+  {
+   "role": "프란츠 집사",
+   "name": "김대운"
+  },
+  {
+   "role": "쉬미트 부인",
+   "name": "배문주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20160914161736/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=70253"
+ }
+}

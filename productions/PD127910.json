@@ -1,0 +1,61 @@
+{
+ "id": "PD127910",
+ "title": "주목받고 싶은 생",
+ "genre": "뮤지컬",
+ "from": "1989-11-21",
+ "to": "1989-11-24",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "이희정",
+  "이소유",
+  "남경읍",
+  "박원묵",
+  "노동원",
+  "조승룡",
+  "고미경",
+  "정유희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "만삭",
+   "name": "이희정"
+  },
+  {
+   "role": "진세실",
+   "name": "이소유"
+  },
+  {
+   "role": "단장",
+   "name": "남경읍"
+  },
+  {
+   "role": "지리산",
+   "name": "박원묵"
+  },
+  {
+   "role": "금강산",
+   "name": "노동원"
+  },
+  {
+   "role": "오소공",
+   "name": "조승룡"
+  },
+  {
+   "role": "",
+   "name": "고미경"
+  },
+  {
+   "role": "",
+   "name": "정유희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210115150108/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=127910"
+ }
+}

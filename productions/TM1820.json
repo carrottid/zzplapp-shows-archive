@@ -1,0 +1,44 @@
+{
+ "id": "TM1820",
+ "title": "카페인",
+ "genre": "뮤지컬",
+ "from": "2012-02-02",
+ "to": "2012-04-08",
+ "venue": "컬처스페이스 엔유",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202003190317593ccbcadc874447abbad163b0d00eb8b0.jpg",
+ "cast": [
+  "정상훈",
+  "김산호",
+  "윤공주",
+  "김지현"
+ ],
+ "state": "공연완료",
+ "producer": "CJ E&M",
+ "price": "R석 5만원 / S석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "강지민",
+   "name": "정상훈"
+  },
+  {
+   "role": "강지민",
+   "name": "김산호"
+  },
+  {
+   "role": "김세진",
+   "name": "윤공주"
+  },
+  {
+   "role": "김세진",
+   "name": "김지현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1820"
+ }
+}

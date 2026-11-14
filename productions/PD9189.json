@@ -1,0 +1,51 @@
+{
+ "id": "PD9189",
+ "title": "레인맨",
+ "genre": "연극",
+ "from": "2009-04-24",
+ "to": "2009-08-02",
+ "venue": "CJ 아지트 대학로(구 SM아트홀)",
+ "cast": [
+  "김성기",
+  "김영민",
+  "손진환",
+  "오세준",
+  "김마리아",
+  "정보름"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "레이몬드 바비트",
+   "name": "김성기"
+  },
+  {
+   "role": "찰리 바비트",
+   "name": "김영민"
+  },
+  {
+   "role": "부르너 월터",
+   "name": "손진환"
+  },
+  {
+   "role": "부르너 월터",
+   "name": "오세준"
+  },
+  {
+   "role": "수잔나 팔미에리",
+   "name": "김마리아"
+  },
+  {
+   "role": "수잔나 팔미에리",
+   "name": "정보름"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240911053924/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=9189"
+ }
+}

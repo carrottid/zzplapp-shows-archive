@@ -1,0 +1,89 @@
+{
+ "id": "TM741",
+ "title": "하루",
+ "genre": "뮤지컬",
+ "from": "2007-01-06",
+ "to": "2007-02-04",
+ "venue": "유니버설 아트센터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009250302316f3d24e42e2d43d4ae9137d356c5b8e2.jpg",
+ "cast": [
+  "오만석",
+  "최성원",
+  "김소현",
+  "윤공주",
+  "엄기준",
+  "서범석",
+  "김선경",
+  "양소민",
+  "이여울",
+  "김재만",
+  "손광업",
+  "고경만",
+  "이훈진"
+ ],
+ "state": "공연완료",
+ "producer": "엠뮤지컬컴퍼니",
+ "price": "VIP석 9만원, R석 7만원, S석 6만원, A석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "강영원",
+   "name": "오만석"
+  },
+  {
+   "role": "강영원",
+   "name": "최성원"
+  },
+  {
+   "role": "민연두",
+   "name": "김소현"
+  },
+  {
+   "role": "민연두",
+   "name": "윤공주"
+  },
+  {
+   "role": "한민호",
+   "name": "엄기준"
+  },
+  {
+   "role": "플루토",
+   "name": "서범석"
+  },
+  {
+   "role": "정은우",
+   "name": "김선경"
+  },
+  {
+   "role": "정은우",
+   "name": "양소민"
+  },
+  {
+   "role": "유다영",
+   "name": "이여울"
+  },
+  {
+   "role": "삼총사",
+   "name": "김재만"
+  },
+  {
+   "role": "삼총사",
+   "name": "손광업"
+  },
+  {
+   "role": "삼총사",
+   "name": "고경만"
+  },
+  {
+   "role": "삼총사",
+   "name": "이훈진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=741"
+ }
+}

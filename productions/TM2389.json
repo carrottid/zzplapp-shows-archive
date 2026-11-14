@@ -1,0 +1,49 @@
+{
+ "id": "TM2389",
+ "title": "아폴로니아",
+ "genre": "뮤지컬",
+ "from": "2016-10-30",
+ "to": "2017-01-15",
+ "venue": "충무아트센터 소극장 블루",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201610121118215BNMI1KOVQF7PXS6.jpg",
+ "cast": [
+  "김광섭",
+  "기세중",
+  "권오성",
+  "백기범",
+  "박규원"
+ ],
+ "state": "공연완료",
+ "producer": "MJStarfish",
+ "price": "전석 5만 5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "리차드",
+   "name": "김광섭"
+  },
+  {
+   "role": "리차드",
+   "name": "기세중"
+  },
+  {
+   "role": "오스카",
+   "name": "권오성"
+  },
+  {
+   "role": "오스카",
+   "name": "백기범"
+  },
+  {
+   "role": "로잘린",
+   "name": "박규원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2389"
+ }
+}

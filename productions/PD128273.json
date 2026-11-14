@@ -1,0 +1,31 @@
+{
+ "id": "PD128273",
+ "title": "제3회 늘푸른연극제 - 세일즈맨의 죽음",
+ "genre": "연극",
+ "from": "2018-08-17",
+ "to": "2018-08-26",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "전무송",
+  "문종영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "윌리 로먼",
+   "name": "전무송"
+  },
+  {
+   "role": "",
+   "name": "문종영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250716205017/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=128273"
+ }
+}

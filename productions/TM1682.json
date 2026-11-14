@@ -1,0 +1,44 @@
+{
+ "id": "TM1682",
+ "title": "플라이 보이",
+ "genre": "뮤지컬",
+ "from": "2010-12-03",
+ "to": "2011-04-03",
+ "venue": "한성아트홀 1관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_s-flyboy2010.jpg",
+ "cast": [
+  "박시범",
+  "김미려",
+  "박정권",
+  "김민수"
+ ],
+ "state": "공연완료",
+ "producer": "티타임엔터테인먼트(주), 극단 올댓엔터테인먼트",
+ "price": "R석 50,000원 / S석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이수일",
+   "name": "박시범"
+  },
+  {
+   "role": "심순애",
+   "name": "김미려"
+  },
+  {
+   "role": "김중배",
+   "name": "박정권"
+  },
+  {
+   "role": "김중배",
+   "name": "김민수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1682"
+ }
+}

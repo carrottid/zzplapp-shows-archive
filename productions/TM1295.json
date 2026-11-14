@@ -1,0 +1,74 @@
+{
+ "id": "TM1295",
+ "title": "루나틱",
+ "genre": "뮤지컬",
+ "from": "2008-10-31",
+ "to": "2009-01-04",
+ "venue": "신도림 테크노마트 프라임아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_super2008.jpg",
+ "cast": [
+  "이윤표",
+  "정영주",
+  "김도형",
+  "정재민",
+  "임춘길",
+  "김세진",
+  "김자미",
+  "백재현",
+  "최오식",
+  "김학재"
+ ],
+ "state": "공연완료",
+ "producer": "(주)루나틱컴퍼니",
+ "price": "VIP석 6만원/R석 5만원/S석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "굿닥터",
+   "name": "이윤표"
+  },
+  {
+   "role": "굿닥터",
+   "name": "정영주"
+  },
+  {
+   "role": "나제비",
+   "name": "김도형"
+  },
+  {
+   "role": "나제비",
+   "name": "정재민"
+  },
+  {
+   "role": "나제비",
+   "name": "임춘길"
+  },
+  {
+   "role": "고독해",
+   "name": "김세진"
+  },
+  {
+   "role": "고독해",
+   "name": "김자미"
+  },
+  {
+   "role": "무대포",
+   "name": "백재현"
+  },
+  {
+   "role": "무대포",
+   "name": "최오식"
+  },
+  {
+   "role": "무대포",
+   "name": "김학재"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1295"
+ }
+}

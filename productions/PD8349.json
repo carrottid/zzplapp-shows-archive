@@ -1,0 +1,56 @@
+{
+ "id": "PD8349",
+ "title": "세자매",
+ "genre": "연극",
+ "from": "2009-02-11",
+ "to": "2009-02-22",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "손봉숙",
+  "박종상",
+  "남명렬",
+  "권남희",
+  "윤복인",
+  "하경화",
+  "소희정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "먀샤",
+   "name": "손봉숙"
+  },
+  {
+   "role": "안드레이",
+   "name": "박종상"
+  },
+  {
+   "role": "베르쉬닌",
+   "name": "남명렬"
+  },
+  {
+   "role": "올가",
+   "name": "권남희"
+  },
+  {
+   "role": "이리나",
+   "name": "윤복인"
+  },
+  {
+   "role": "안피샤",
+   "name": "하경화"
+  },
+  {
+   "role": "",
+   "name": "소희정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220521135448/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=8349"
+ }
+}

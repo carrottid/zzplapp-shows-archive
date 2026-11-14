@@ -1,0 +1,79 @@
+{
+ "id": "TM87",
+ "title": "루나틱",
+ "genre": "뮤지컬",
+ "from": "2005-07-01",
+ "to": "2005-09-04",
+ "venue": "씨어터일",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_lunatic1.gif",
+ "cast": [
+  "김선경",
+  "주원성",
+  "류수화",
+  "김법래",
+  "최혁주",
+  "김도형",
+  "인성호",
+  "김세진",
+  "곽영신",
+  "이재경",
+  "정재민"
+ ],
+ "state": "공연완료",
+ "producer": "JH팩토리",
+ "price": "우울증석(R) 5만원/편집증석(S) 3만원/강박증석(A) 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "의사",
+   "name": "김선경"
+  },
+  {
+   "role": "의사",
+   "name": "주원성"
+  },
+  {
+   "role": "의사",
+   "name": "류수화"
+  },
+  {
+   "role": "의사",
+   "name": "김법래"
+  },
+  {
+   "role": "의사",
+   "name": "최혁주"
+  },
+  {
+   "role": "의사",
+   "name": "김도형"
+  },
+  {
+   "role": "의사",
+   "name": "인성호"
+  },
+  {
+   "role": "의사",
+   "name": "김세진"
+  },
+  {
+   "role": "의사",
+   "name": "곽영신"
+  },
+  {
+   "role": "의사",
+   "name": "이재경"
+  },
+  {
+   "role": "의사",
+   "name": "정재민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=87"
+ }
+}

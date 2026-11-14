@@ -1,0 +1,59 @@
+{
+ "id": "TM1473",
+ "title": "오디션",
+ "genre": "뮤지컬",
+ "from": "2009-07-17",
+ "to": "2009-08-16",
+ "venue": "충무아트홀 소극장 블루",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2009audition3.jpg",
+ "cast": [
+  "허규",
+  "이승현",
+  "이영윤",
+  "김승환",
+  "정찬희",
+  "정수훈",
+  "강초롱"
+ ],
+ "state": "공연완료",
+ "producer": "오픈런뮤지컬컴퍼니",
+ "price": "일반 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "박병태",
+   "name": "허규"
+  },
+  {
+   "role": "박병태",
+   "name": "이승현"
+  },
+  {
+   "role": "김선아",
+   "name": "이영윤"
+  },
+  {
+   "role": "최준철",
+   "name": "김승환"
+  },
+  {
+   "role": "정찬희",
+   "name": "정찬희"
+  },
+  {
+   "role": "홍다복",
+   "name": "정수훈"
+  },
+  {
+   "role": "홍초롱",
+   "name": "강초롱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1473"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "id": "TM1399",
+ "title": "SING, SING, SING",
+ "genre": "뮤지컬",
+ "from": "2009-04-07",
+ "to": "2009-05-03",
+ "venue": "예술의전당 자유소극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_sing2009.jpg",
+ "cast": [
+  "윤영석",
+  "전진오",
+  "문혜영",
+  "유나영"
+ ],
+ "state": "공연완료",
+ "producer": "서울뮤지컬컴퍼니",
+ "price": "R석 45,000원ㅣS석 35,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이송",
+   "name": "윤영석"
+  },
+  {
+   "role": "이송",
+   "name": "전진오"
+  },
+  {
+   "role": "유나",
+   "name": "문혜영"
+  },
+  {
+   "role": "해나",
+   "name": "유나영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1399"
+ }
+}

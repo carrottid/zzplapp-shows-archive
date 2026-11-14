@@ -1,0 +1,36 @@
+{
+ "id": "PD102396",
+ "title": "지킬 앤 하이드 월드 투어 - 수원",
+ "genre": "뮤지컬",
+ "from": "2017-02-10",
+ "to": "2017-02-12",
+ "venue": "경기도문화의전당 대극장",
+ "cast": [
+  "브래들리 딘",
+  "다이애나 디가모",
+  "린지 블리븐"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "지킬 & 하이드",
+   "name": "브래들리 딘"
+  },
+  {
+   "role": "루시",
+   "name": "다이애나 디가모"
+  },
+  {
+   "role": "엠마",
+   "name": "린지 블리븐"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171104155659/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=102396"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "PD105848",
+ "title": "넌센스2 - 부산",
+ "genre": "뮤지컬",
+ "from": "2017-04-08",
+ "to": "2017-04-09",
+ "venue": "센텀시티 소향씨어터 신한카드홀",
+ "cast": [
+  "박해미",
+  "이미쉘",
+  "조혜련",
+  "박슬기"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "메리 레지나",
+   "name": "박해미"
+  },
+  {
+   "role": "허버트",
+   "name": "이미쉘"
+  },
+  {
+   "role": "로버트 앤",
+   "name": "조혜련"
+  },
+  {
+   "role": "로버트 앤",
+   "name": "박슬기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171025184537/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=105848"
+ }
+}

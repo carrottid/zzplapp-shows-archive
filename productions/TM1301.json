@@ -1,0 +1,59 @@
+{
+ "id": "TM1301",
+ "title": "찬스",
+ "genre": "뮤지컬",
+ "from": "2008-03-19",
+ "to": "2008-04-20",
+ "venue": "코엑스아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_찬스.bmp",
+ "cast": [
+  "하도권",
+  "안나민",
+  "최현선",
+  "배승길",
+  "김자경",
+  "이지숙",
+  "김용덕"
+ ],
+ "state": "공연완료",
+ "producer": "(주)에이넷·코리아",
+ "price": "R석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "앙리",
+   "name": "하도권"
+  },
+  {
+   "role": "안네스",
+   "name": "안나민"
+  },
+  {
+   "role": "안네스",
+   "name": "최현선"
+  },
+  {
+   "role": "에띠엔느",
+   "name": "배승길"
+  },
+  {
+   "role": "니나",
+   "name": "김자경"
+  },
+  {
+   "role": "케이트",
+   "name": "이지숙"
+  },
+  {
+   "role": "프레드",
+   "name": "김용덕"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1301"
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "id": "TM1388",
+ "title": "시간에..",
+ "genre": "뮤지컬",
+ "from": "2009-03-13",
+ "to": "2009-07-05",
+ "venue": "아티스탄홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2009times2.jpg",
+ "cast": [
+  "윤덕현",
+  "권정현",
+  "전승혜",
+  "윤사봉",
+  "주홍균",
+  "차혜정",
+  "김중기",
+  "김준겸"
+ ],
+ "state": "공연완료",
+ "producer": "아티스탄",
+ "price": "전석 35,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "김시현",
+   "name": "윤덕현"
+  },
+  {
+   "role": "서지수",
+   "name": "권정현"
+  },
+  {
+   "role": "이팔자",
+   "name": "전승혜"
+  },
+  {
+   "role": "이팔자",
+   "name": "윤사봉"
+  },
+  {
+   "role": "이명운",
+   "name": "주홍균"
+  },
+  {
+   "role": "오현실",
+   "name": "차혜정"
+  },
+  {
+   "role": "판매원/멀티역",
+   "name": "김중기"
+  },
+  {
+   "role": "판매원/멀티역",
+   "name": "김준겸"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1388"
+ }
+}

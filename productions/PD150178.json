@@ -1,0 +1,71 @@
+{
+ "id": "PD150178",
+ "title": "창문 넘어 도망친 100세 노인",
+ "genre": "연극",
+ "from": "2019-11-26",
+ "to": "2020-02-02",
+ "venue": "예스24아트원 2관",
+ "cast": [
+  "오용",
+  "배해선",
+  "김아영",
+  "오소연",
+  "오종혁",
+  "이형훈",
+  "최호승",
+  "김보정",
+  "임진아",
+  "전민준"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "알란",
+   "name": "오용"
+  },
+  {
+   "role": "알란",
+   "name": "배해선"
+  },
+  {
+   "role": "알란 1",
+   "name": "김아영"
+  },
+  {
+   "role": "알란 1",
+   "name": "오소연"
+  },
+  {
+   "role": "알란 2",
+   "name": "오종혁"
+  },
+  {
+   "role": "알란 2",
+   "name": "이형훈"
+  },
+  {
+   "role": "알란 3",
+   "name": "최호승"
+  },
+  {
+   "role": "알란 3",
+   "name": "김보정"
+  },
+  {
+   "role": "알란 4",
+   "name": "임진아"
+  },
+  {
+   "role": "알란 4",
+   "name": "전민준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622153116/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=150178"
+ }
+}

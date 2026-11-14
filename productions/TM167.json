@@ -1,0 +1,69 @@
+{
+ "id": "TM167",
+ "title": "달고나",
+ "genre": "뮤지컬",
+ "from": "2004-07-11",
+ "to": "2004-09-05",
+ "venue": "극장 아룽구지",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_logo.gif",
+ "cast": [
+  "임선애",
+  "이계창",
+  "유보영",
+  "오만석",
+  "정수한",
+  "김태한",
+  "최나래",
+  "안시하",
+  "오지은"
+ ],
+ "state": "공연완료",
+ "producer": "(주)PMC프로덕션",
+ "price": "일반 35,000원 / 학생 25,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "오지희",
+   "name": "임선애"
+  },
+  {
+   "role": "오지희",
+   "name": "이계창"
+  },
+  {
+   "role": "오지희",
+   "name": "유보영"
+  },
+  {
+   "role": "오지희",
+   "name": "오만석"
+  },
+  {
+   "role": "오지희",
+   "name": "정수한"
+  },
+  {
+   "role": "오지희",
+   "name": "김태한"
+  },
+  {
+   "role": "오지희",
+   "name": "최나래"
+  },
+  {
+   "role": "오지희",
+   "name": "안시하"
+  },
+  {
+   "role": "오지희",
+   "name": "오지은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=167"
+ }
+}

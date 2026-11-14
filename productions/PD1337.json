@@ -1,0 +1,86 @@
+{
+ "id": "PD1337",
+ "title": "두드리 두드리",
+ "genre": "연극",
+ "from": "2007-11-08",
+ "to": "2007-11-18",
+ "venue": "대학로 예술극장 나무와 물",
+ "cast": [
+  "박종상",
+  "하경화",
+  "박정근",
+  "김태성",
+  "김혁종",
+  "오준범",
+  "김관규",
+  "김윤환",
+  "이종구",
+  "최영규",
+  "소희정",
+  "김선구",
+  "김윤정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "악사",
+   "name": "박종상"
+  },
+  {
+   "role": "할머니",
+   "name": "하경화"
+  },
+  {
+   "role": "병사",
+   "name": "박정근"
+  },
+  {
+   "role": "병사",
+   "name": "김태성"
+  },
+  {
+   "role": "병사",
+   "name": "김혁종"
+  },
+  {
+   "role": "병사",
+   "name": "오준범"
+  },
+  {
+   "role": "",
+   "name": "김관규"
+  },
+  {
+   "role": "",
+   "name": "김윤환"
+  },
+  {
+   "role": "",
+   "name": "이종구"
+  },
+  {
+   "role": "",
+   "name": "최영규"
+  },
+  {
+   "role": "어머니",
+   "name": "소희정"
+  },
+  {
+   "role": "큰외삼촌",
+   "name": "김선구"
+  },
+  {
+   "role": "사진사",
+   "name": "김윤정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220521135446/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=1337"
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "id": "PD76858",
+ "title": "모범생들",
+ "genre": "연극",
+ "from": "2015-05-08",
+ "to": "2015-08-02",
+ "venue": "대학로 자유극장",
+ "cast": [
+  "강기둥",
+  "박성훈",
+  "김현준",
+  "김지휘",
+  "최대훈",
+  "양승리",
+  "오인하",
+  "강정우",
+  "문성일",
+  "강영석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "명준",
+   "name": "강기둥"
+  },
+  {
+   "role": "명준",
+   "name": "박성훈"
+  },
+  {
+   "role": "수환",
+   "name": "김현준"
+  },
+  {
+   "role": "수환",
+   "name": "김지휘"
+  },
+  {
+   "role": "종태",
+   "name": "최대훈"
+  },
+  {
+   "role": "종태",
+   "name": "양승리"
+  },
+  {
+   "role": "종태",
+   "name": "오인하"
+  },
+  {
+   "role": "민영",
+   "name": "강정우"
+  },
+  {
+   "role": "민영",
+   "name": "문성일"
+  },
+  {
+   "role": "민영",
+   "name": "강영석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230414113814/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=76858"
+ }
+}

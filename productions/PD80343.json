@@ -1,0 +1,56 @@
+{
+ "id": "PD80343",
+ "title": "잃어버린 얼굴 1895",
+ "genre": "뮤지컬",
+ "from": "2015-08-29",
+ "to": "2015-09-10",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "차지연",
+  "조풍래",
+  "정원영",
+  "고훈정",
+  "박영수",
+  "금승훈",
+  "김도빈"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "명성황후",
+   "name": "차지연"
+  },
+  {
+   "role": "민영익",
+   "name": "조풍래"
+  },
+  {
+   "role": "휘",
+   "name": "정원영"
+  },
+  {
+   "role": "휘",
+   "name": "고훈정"
+  },
+  {
+   "role": "고종",
+   "name": "박영수"
+  },
+  {
+   "role": "대원군",
+   "name": "금승훈"
+  },
+  {
+   "role": "김옥균",
+   "name": "김도빈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20211202224233/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=80343"
+ }
+}

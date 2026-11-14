@@ -1,0 +1,79 @@
+{
+ "id": "TM1",
+ "title": "미스터 마우스",
+ "genre": "뮤지컬",
+ "from": "2006-01-21",
+ "to": "2006-04-02",
+ "venue": "사다리아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_mm.jpg",
+ "cast": [
+  "서범석",
+  "임강희",
+  "신문성",
+  "박명훈",
+  "이건영",
+  "조찬희",
+  "오수인",
+  "이지송",
+  "정목화",
+  "박혜나",
+  "김태한"
+ ],
+ "state": "공연완료",
+ "producer": "파파프로덕션",
+ "price": "전석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "인후",
+   "name": "서범석"
+  },
+  {
+   "role": "인후",
+   "name": "임강희"
+  },
+  {
+   "role": "인후",
+   "name": "신문성"
+  },
+  {
+   "role": "인후",
+   "name": "박명훈"
+  },
+  {
+   "role": "인후",
+   "name": "이건영"
+  },
+  {
+   "role": "인후",
+   "name": "조찬희"
+  },
+  {
+   "role": "인후",
+   "name": "오수인"
+  },
+  {
+   "role": "인후",
+   "name": "이지송"
+  },
+  {
+   "role": "인후",
+   "name": "정목화"
+  },
+  {
+   "role": "인후",
+   "name": "박혜나"
+  },
+  {
+   "role": "인후",
+   "name": "김태한"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1"
+ }
+}

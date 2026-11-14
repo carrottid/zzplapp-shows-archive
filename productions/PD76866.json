@@ -1,0 +1,66 @@
+{
+ "id": "PD76866",
+ "title": "사랑은 비를 타고",
+ "genre": "뮤지컬",
+ "from": "2015-05-01",
+ "to": "2015-05-31",
+ "venue": "한성아트홀 1관",
+ "cast": [
+  "박소연",
+  "김미라",
+  "조지훈",
+  "이현재",
+  "금호석",
+  "주호",
+  "조명호",
+  "최은유",
+  "정화"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "박하",
+   "name": "박소연"
+  },
+  {
+   "role": "박하",
+   "name": "김미라"
+  },
+  {
+   "role": "지후",
+   "name": "조지훈"
+  },
+  {
+   "role": "지후",
+   "name": "이현재"
+  },
+  {
+   "role": "요한",
+   "name": "금호석"
+  },
+  {
+   "role": "요한",
+   "name": "주호"
+  },
+  {
+   "role": "샘",
+   "name": "조명호"
+  },
+  {
+   "role": "유나",
+   "name": "최은유"
+  },
+  {
+   "role": "유나",
+   "name": "정화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240720125255/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=76866"
+ }
+}

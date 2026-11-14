@@ -1,0 +1,61 @@
+{
+ "id": "PD19042",
+ "title": "그리스 - 인천",
+ "genre": "뮤지컬",
+ "from": "2010-12-24",
+ "to": "2010-12-26",
+ "venue": "인천문화예술회관 대공연장",
+ "cast": [
+  "김산호",
+  "박준후",
+  "손승현",
+  "박주용",
+  "조형균",
+  "정승조",
+  "김수정",
+  "장혜민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "대니",
+   "name": "김산호"
+  },
+  {
+   "role": "대니",
+   "name": "박준후"
+  },
+  {
+   "role": "케니키",
+   "name": "손승현"
+  },
+  {
+   "role": "로저",
+   "name": "박주용"
+  },
+  {
+   "role": "두디",
+   "name": "조형균"
+  },
+  {
+   "role": "쏘니",
+   "name": "정승조"
+  },
+  {
+   "role": "샌디",
+   "name": "김수정"
+  },
+  {
+   "role": "샌디",
+   "name": "장혜민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220102091617/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=19042"
+ }
+}

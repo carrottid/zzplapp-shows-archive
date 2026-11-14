@@ -1,0 +1,56 @@
+{
+ "id": "PD34544",
+ "title": "콜라소녀",
+ "genre": "연극",
+ "from": "2012-04-19",
+ "to": "2012-04-22",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "김용선",
+  "남기애",
+  "장용철",
+  "박기륭",
+  "김남진",
+  "정세라",
+  "성노진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "할머니",
+   "name": "김용선"
+  },
+  {
+   "role": "큰며느리",
+   "name": "남기애"
+  },
+  {
+   "role": "큰아들",
+   "name": "장용철"
+  },
+  {
+   "role": "둘째아들",
+   "name": "박기륭"
+  },
+  {
+   "role": "둘째며느리",
+   "name": "김남진"
+  },
+  {
+   "role": "손녀",
+   "name": "정세라"
+  },
+  {
+   "role": "",
+   "name": "성노진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704034549/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=34544"
+ }
+}

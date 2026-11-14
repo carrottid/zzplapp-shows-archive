@@ -1,0 +1,76 @@
+{
+ "id": "PD48475",
+ "title": "벚나무 그늘 아래에서 벌어지는 한 가문의 몰락사",
+ "genre": "연극",
+ "from": "2013-06-20",
+ "to": "2013-06-30",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "김성일",
+  "이경성",
+  "박시내",
+  "이형주",
+  "서삼석",
+  "한보람",
+  "김관장",
+  "박상석",
+  "김민태",
+  "이진복",
+  "한아름"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "가예프",
+   "name": "김성일"
+  },
+  {
+   "role": "바랴",
+   "name": "이경성"
+  },
+  {
+   "role": "아냐",
+   "name": "박시내"
+  },
+  {
+   "role": "로빠힌",
+   "name": "이형주"
+  },
+  {
+   "role": "뜨로피모프",
+   "name": "서삼석"
+  },
+  {
+   "role": "샤를로따",
+   "name": "한보람"
+  },
+  {
+   "role": "",
+   "name": "김관장"
+  },
+  {
+   "role": "",
+   "name": "박상석"
+  },
+  {
+   "role": "",
+   "name": "김민태"
+  },
+  {
+   "role": "",
+   "name": "이진복"
+  },
+  {
+   "role": "",
+   "name": "한아름"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20221207141322/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=48475"
+ }
+}

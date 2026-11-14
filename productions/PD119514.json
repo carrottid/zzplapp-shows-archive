@@ -1,0 +1,56 @@
+{
+ "id": "PD119514",
+ "title": "미저리",
+ "genre": "연극",
+ "from": "2018-02-09",
+ "to": "2018-04-15",
+ "venue": "두산아트센터 연강홀",
+ "cast": [
+  "김상중",
+  "김승우",
+  "이건명",
+  "길해연",
+  "이지하",
+  "고수희",
+  "고인배"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "폴",
+   "name": "김상중"
+  },
+  {
+   "role": "폴",
+   "name": "김승우"
+  },
+  {
+   "role": "폴",
+   "name": "이건명"
+  },
+  {
+   "role": "애니",
+   "name": "길해연"
+  },
+  {
+   "role": "애니",
+   "name": "이지하"
+  },
+  {
+   "role": "애니",
+   "name": "고수희"
+  },
+  {
+   "role": "버스터",
+   "name": "고인배"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250814113215/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=119514"
+ }
+}

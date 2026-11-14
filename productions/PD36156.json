@@ -1,0 +1,56 @@
+{
+ "id": "PD36156",
+ "title": "큰아들",
+ "genre": "연극",
+ "from": "2012-06-06",
+ "to": "2012-07-01",
+ "venue": "대학로 스타시티",
+ "cast": [
+  "김병순",
+  "박상훈",
+  "조문홍",
+  "정진희",
+  "박현덕",
+  "신준철",
+  "빈혜경"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "사라파노프",
+   "name": "김병순"
+  },
+  {
+   "role": "부쉬긴",
+   "name": "박상훈"
+  },
+  {
+   "role": "실버",
+   "name": "조문홍"
+  },
+  {
+   "role": "니나",
+   "name": "정진희"
+  },
+  {
+   "role": "바신까",
+   "name": "박현덕"
+  },
+  {
+   "role": "꾸지모프",
+   "name": "신준철"
+  },
+  {
+   "role": "",
+   "name": "빈혜경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240911191134/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=36156"
+ }
+}

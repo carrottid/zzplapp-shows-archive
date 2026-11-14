@@ -1,0 +1,45 @@
+{
+ "date": "2021-10-04",
+ "sessions": [
+  {
+   "id": "PF179193",
+   "title": "제4회 1번출구 연극제, 서울맨숀 & 그린을 기다리며 & 눈 오는 봄날",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#846C62",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178933",
+   "title": "미스터쇼(Mr.SHOW)",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (동양생명홀)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#683732",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF180292",
+   "title": "비극보다 더 비극적인",
+   "genre": "연극",
+   "venue": "나온씨어터",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF179975",
+   "title": "우주대스타 (앵콜)",
+   "genre": "뮤지컬",
+   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+   "time": "20:00",
+   "castSource": "none"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "id": "PD90984",
+ "title": "퍼펙트 라이프",
+ "genre": "연극",
+ "from": "2016-04-14",
+ "to": "2016-06-19",
+ "venue": "한성아트홀 1관",
+ "cast": [
+  "이지영",
+  "남상우",
+  "김현아",
+  "이효윤",
+  "이광재",
+  "김서이",
+  "최은경",
+  "김대경",
+  "조용환",
+  "김지혜",
+  "김화인"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "어머니",
+   "name": "이지영"
+  },
+  {
+   "role": "대성",
+   "name": "남상우"
+  },
+  {
+   "role": "아영",
+   "name": "김현아"
+  },
+  {
+   "role": "정선생",
+   "name": "이효윤"
+  },
+  {
+   "role": "곽선생",
+   "name": "이광재"
+  },
+  {
+   "role": "서이",
+   "name": "김서이"
+  },
+  {
+   "role": "",
+   "name": "최은경"
+  },
+  {
+   "role": "",
+   "name": "김대경"
+  },
+  {
+   "role": "",
+   "name": "조용환"
+  },
+  {
+   "role": "",
+   "name": "김지혜"
+  },
+  {
+   "role": "",
+   "name": "김화인"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20231201201606/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=90984"
+ }
+}

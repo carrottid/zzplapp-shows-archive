@@ -1,0 +1,26 @@
+{
+ "id": "PD61130",
+ "title": "매직타임",
+ "genre": "연극",
+ "from": "2006-03-31",
+ "to": "2006-04-16",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "신현실"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "조언 더글러스",
+   "name": "신현실"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171108103135/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=61130"
+ }
+}

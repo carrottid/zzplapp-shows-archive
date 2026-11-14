@@ -1,0 +1,56 @@
+{
+ "id": "PD71740",
+ "title": "2014 CJ크리에이티브마인즈 연극 창작지원작 - 하드보일드 멜랑콜리아",
+ "genre": "연극",
+ "from": "2015-01-02",
+ "to": "2015-01-18",
+ "venue": "컬처스페이스 엔유 (구, 쁘띠첼 씨어터)",
+ "cast": [
+  "황택하",
+  "최명경",
+  "이시훈",
+  "이지현",
+  "백진철",
+  "김희연",
+  "김수안"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "형사",
+   "name": "황택하"
+  },
+  {
+   "role": "취조자",
+   "name": "최명경"
+  },
+  {
+   "role": "유괴범",
+   "name": "이시훈"
+  },
+  {
+   "role": "소녀",
+   "name": "이지현"
+  },
+  {
+   "role": "학살범",
+   "name": "백진철"
+  },
+  {
+   "role": "여대생",
+   "name": "김희연"
+  },
+  {
+   "role": "",
+   "name": "김수안"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191122070719/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=71740"
+ }
+}

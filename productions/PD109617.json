@@ -1,0 +1,41 @@
+{
+ "id": "PD109617",
+ "title": "비너스 인 퍼",
+ "genre": "연극",
+ "from": "2017-07-25",
+ "to": "2017-08-27",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "이도엽",
+  "지현준",
+  "방진의",
+  "이경미"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "토마스",
+   "name": "이도엽"
+  },
+  {
+   "role": "토마스",
+   "name": "지현준"
+  },
+  {
+   "role": "벤다",
+   "name": "방진의"
+  },
+  {
+   "role": "벤다",
+   "name": "이경미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230330114111/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=109617"
+ }
+}

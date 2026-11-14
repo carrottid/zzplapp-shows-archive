@@ -1,0 +1,49 @@
+{
+ "id": "TM697",
+ "title": "락 햄릿",
+ "genre": "뮤지컬",
+ "from": "2006-07-28",
+ "to": "2006-10-08",
+ "venue": "대학로 세우아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_db-rockham(2006).jpg",
+ "cast": [
+  "유다미",
+  "장덕수",
+  "김선아",
+  "김용현",
+  "배은지"
+ ],
+ "state": "공연완료",
+ "producer": "서울뮤지컬컴퍼니",
+ "price": "전석 2만 5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "햄릿",
+   "name": "유다미"
+  },
+  {
+   "role": "햄릿",
+   "name": "장덕수"
+  },
+  {
+   "role": "햄릿",
+   "name": "김선아"
+  },
+  {
+   "role": "햄릿",
+   "name": "김용현"
+  },
+  {
+   "role": "햄릿",
+   "name": "배은지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=697"
+ }
+}

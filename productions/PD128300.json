@@ -1,0 +1,56 @@
+{
+ "id": "PD128300",
+ "title": "키다리 아저씨",
+ "genre": "뮤지컬",
+ "from": "2018-08-31",
+ "to": "2018-11-18",
+ "venue": "백암아트홀",
+ "cast": [
+  "임혜영",
+  "이지숙",
+  "유리아",
+  "강지혜",
+  "신성록",
+  "송원근",
+  "김동호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "제루샤 애봇",
+   "name": "임혜영"
+  },
+  {
+   "role": "제루샤 애봇",
+   "name": "이지숙"
+  },
+  {
+   "role": "제루샤 애봇",
+   "name": "유리아"
+  },
+  {
+   "role": "제루샤 애봇",
+   "name": "강지혜"
+  },
+  {
+   "role": "제르비스 펜들턴",
+   "name": "신성록"
+  },
+  {
+   "role": "제르비스 펜들턴",
+   "name": "송원근"
+  },
+  {
+   "role": "제르비스 펜들턴",
+   "name": "김동호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251119173305/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=128300"
+ }
+}

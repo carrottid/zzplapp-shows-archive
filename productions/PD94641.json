@@ -1,0 +1,46 @@
+{
+ "id": "PD94641",
+ "title": "놀이",
+ "genre": "뮤지컬",
+ "from": "2016-08-09",
+ "to": "2016-08-21",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "금승훈",
+  "박영수",
+  "김도빈",
+  "조풍래",
+  "이정호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "인구",
+   "name": "금승훈"
+  },
+  {
+   "role": "상현",
+   "name": "박영수"
+  },
+  {
+   "role": "영두",
+   "name": "김도빈"
+  },
+  {
+   "role": "영신",
+   "name": "조풍래"
+  },
+  {
+   "role": "",
+   "name": "이정호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171025075821/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=94641"
+ }
+}

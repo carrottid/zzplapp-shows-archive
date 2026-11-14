@@ -1,0 +1,74 @@
+{
+ "id": "TM127",
+ "title": "거울공주 평강이야기",
+ "genre": "뮤지컬",
+ "from": "2005-03-01",
+ "to": "2005-03-27",
+ "venue": "소극장축제",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_00_a0620.jpg",
+ "cast": [
+  "김지현",
+  "진선규",
+  "오대석",
+  "박보경",
+  "이상은",
+  "조현식",
+  "성준서",
+  "박민정",
+  "고승수",
+  "김태한"
+ ],
+ "state": "공연완료",
+ "producer": "공연배달서비스 간다,축제를 만드는 사람들",
+ "price": "일반 20,000원/청소년 12,000원/쌍쌍티켓 35,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "연이",
+   "name": "김지현"
+  },
+  {
+   "role": "연이",
+   "name": "진선규"
+  },
+  {
+   "role": "연이",
+   "name": "오대석"
+  },
+  {
+   "role": "연이",
+   "name": "박보경"
+  },
+  {
+   "role": "연이",
+   "name": "이상은"
+  },
+  {
+   "role": "연이",
+   "name": "조현식"
+  },
+  {
+   "role": "연이",
+   "name": "성준서"
+  },
+  {
+   "role": "연이",
+   "name": "박민정"
+  },
+  {
+   "role": "연이",
+   "name": "고승수"
+  },
+  {
+   "role": "연이",
+   "name": "김태한"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=127"
+ }
+}

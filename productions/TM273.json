@@ -1,0 +1,74 @@
+{
+ "id": "TM273",
+ "title": "미녀와 야수",
+ "genre": "뮤지컬",
+ "from": "2004-08-08",
+ "to": "2005-01-23",
+ "venue": "LG아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_미녀와야수30.JPG",
+ "cast": [
+  "조정은",
+  "현광원",
+  "이정용",
+  "박계환",
+  "이인철",
+  "성기윤",
+  "송용태",
+  "문희경",
+  "김기순",
+  "정영주"
+ ],
+ "state": "공연완료",
+ "producer": "제미로,설앤컴퍼니",
+ "price": "R석 100,000원/S석 80,000원/A석 60,000원/B석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "벨",
+   "name": "조정은"
+  },
+  {
+   "role": "벨",
+   "name": "현광원"
+  },
+  {
+   "role": "벨",
+   "name": "이정용"
+  },
+  {
+   "role": "벨",
+   "name": "박계환"
+  },
+  {
+   "role": "벨",
+   "name": "이인철"
+  },
+  {
+   "role": "벨",
+   "name": "성기윤"
+  },
+  {
+   "role": "벨",
+   "name": "송용태"
+  },
+  {
+   "role": "벨",
+   "name": "문희경"
+  },
+  {
+   "role": "벨",
+   "name": "김기순"
+  },
+  {
+   "role": "벨",
+   "name": "정영주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=273"
+ }
+}

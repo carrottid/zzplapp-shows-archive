@@ -1,0 +1,104 @@
+{
+ "id": "TM715",
+ "title": "루나틱",
+ "genre": "뮤지컬",
+ "from": "2006-06-30",
+ "to": "2006-11-26",
+ "venue": "대학로 예술마당",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_lunatic poster.jpg",
+ "cast": [
+  "김선경",
+  "김성일",
+  "백재현",
+  "최병로",
+  "강지연",
+  "김도형",
+  "전수미",
+  "배진성",
+  "윤선희",
+  "정재민",
+  "인성호",
+  "이지원",
+  "김자미",
+  "김경룡",
+  "김세진",
+  "최오식"
+ ],
+ "state": "공연완료",
+ "producer": "JH팩토리",
+ "price": "R석 4만4천원 / S석 3만3천원 / A석 2만2천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "굿닥터",
+   "name": "김선경"
+  },
+  {
+   "role": "굿닥터",
+   "name": "김성일"
+  },
+  {
+   "role": "굿닥터",
+   "name": "백재현"
+  },
+  {
+   "role": "굿닥터",
+   "name": "최병로"
+  },
+  {
+   "role": "굿닥터",
+   "name": "강지연"
+  },
+  {
+   "role": "굿닥터",
+   "name": "김도형"
+  },
+  {
+   "role": "굿닥터",
+   "name": "전수미"
+  },
+  {
+   "role": "굿닥터",
+   "name": "배진성"
+  },
+  {
+   "role": "굿닥터",
+   "name": "윤선희"
+  },
+  {
+   "role": "굿닥터",
+   "name": "정재민"
+  },
+  {
+   "role": "굿닥터",
+   "name": "인성호"
+  },
+  {
+   "role": "굿닥터",
+   "name": "이지원"
+  },
+  {
+   "role": "굿닥터",
+   "name": "김자미"
+  },
+  {
+   "role": "굿닥터",
+   "name": "김경룡"
+  },
+  {
+   "role": "고독해",
+   "name": "김세진"
+  },
+  {
+   "role": "고독해",
+   "name": "최오식"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=715"
+ }
+}

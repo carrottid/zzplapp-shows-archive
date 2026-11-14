@@ -1,0 +1,56 @@
+{
+ "id": "PD101074",
+ "title": "스토리 오브 마이 라이프",
+ "genre": "뮤지컬",
+ "from": "2016-12-06",
+ "to": "2017-02-05",
+ "venue": "백암아트홀",
+ "cast": [
+  "고영빈",
+  "강필석",
+  "김다현",
+  "조성윤",
+  "김종구",
+  "홍우진",
+  "이창용"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "토마스",
+   "name": "고영빈"
+  },
+  {
+   "role": "토마스",
+   "name": "강필석"
+  },
+  {
+   "role": "토마스",
+   "name": "김다현"
+  },
+  {
+   "role": "토마스",
+   "name": "조성윤"
+  },
+  {
+   "role": "앨빈",
+   "name": "김종구"
+  },
+  {
+   "role": "앨빈",
+   "name": "홍우진"
+  },
+  {
+   "role": "앨빈",
+   "name": "이창용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250223200220/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=101074"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "id": "TM1516",
+ "title": "청 이야기",
+ "genre": "뮤지컬",
+ "from": "2009-11-14",
+ "to": "2009-11-22",
+ "venue": "국립극장 해오름극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2009chung.jpg",
+ "cast": [
+  "장승조(장현덕)",
+  "임병근",
+  "김혜원",
+  "박영수",
+  "박석용",
+  "고미경"
+ ],
+ "state": "공연완료",
+ "producer": "(재)서울예술단",
+ "price": "VIP석 100,000원/ R석 60,000원/ S석 40,000원/ A석 20,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "희원",
+   "name": "장승조(장현덕)"
+  },
+  {
+   "role": "희원",
+   "name": "임병근"
+  },
+  {
+   "role": "청",
+   "name": "김혜원"
+  },
+  {
+   "role": "덕이",
+   "name": "박영수"
+  },
+  {
+   "role": "심봉사",
+   "name": "박석용"
+  },
+  {
+   "role": "가수",
+   "name": "고미경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1516"
+ }
+}

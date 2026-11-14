@@ -1,0 +1,66 @@
+{
+ "id": "PD154853",
+ "title": "프리스트",
+ "genre": "뮤지컬",
+ "from": "2020-03-24",
+ "to": "2020-06-07",
+ "venue": "NOL 서경스퀘어 스콘 2관",
+ "cast": [
+  "에녹",
+  "김대현",
+  "기세중",
+  "강찬",
+  "백기범",
+  "이지숙",
+  "김국희",
+  "최호승",
+  "박건"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "마르코",
+   "name": "에녹"
+  },
+  {
+   "role": "마르코",
+   "name": "김대현"
+  },
+  {
+   "role": "마르코",
+   "name": "기세중"
+  },
+  {
+   "role": "요한",
+   "name": "강찬"
+  },
+  {
+   "role": "요한",
+   "name": "백기범"
+  },
+  {
+   "role": "서유정",
+   "name": "이지숙"
+  },
+  {
+   "role": "서유정",
+   "name": "김국희"
+  },
+  {
+   "role": "바텐더",
+   "name": "최호승"
+  },
+  {
+   "role": "바텐더",
+   "name": "박건"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251116235856/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=154853"
+ }
+}

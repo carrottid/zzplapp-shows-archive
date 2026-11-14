@@ -1,0 +1,59 @@
+{
+ "id": "TM266",
+ "title": "소나기",
+ "genre": "뮤지컬",
+ "from": "2004-09-01",
+ "to": "2004-10-24",
+ "venue": "건국대학교 새천년관 대공연장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_sona.gif",
+ "cast": [
+  "홍경인",
+  "최보영",
+  "김다현",
+  "임강희",
+  "주성중",
+  "최성원",
+  "이준혁"
+ ],
+ "state": "공연완료",
+ "producer": "소나기 아츠",
+ "price": "R석 60,000원/S석 50,000원/A석 35,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "소년",
+   "name": "홍경인"
+  },
+  {
+   "role": "소년",
+   "name": "최보영"
+  },
+  {
+   "role": "소년",
+   "name": "김다현"
+  },
+  {
+   "role": "소년",
+   "name": "임강희"
+  },
+  {
+   "role": "소년",
+   "name": "주성중"
+  },
+  {
+   "role": "소년",
+   "name": "최성원"
+  },
+  {
+   "role": "소년",
+   "name": "이준혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=266"
+ }
+}

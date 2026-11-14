@@ -1,0 +1,41 @@
+{
+ "id": "PD64754",
+ "title": "그녀들만 아는 공소시효",
+ "genre": "연극",
+ "from": "2014-07-15",
+ "to": "2014-08-10",
+ "venue": "나온 씨어터",
+ "cast": [
+  "김곽경희",
+  "우진식",
+  "김소영",
+  "강유미"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "순이네",
+   "name": "김곽경희"
+  },
+  {
+   "role": "동진네",
+   "name": "우진식"
+  },
+  {
+   "role": "미나네",
+   "name": "김소영"
+  },
+  {
+   "role": "영실네",
+   "name": "강유미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241214190605/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=64754"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "PD108400",
+ "title": "천덕구씨가 사는 법",
+ "genre": "연극",
+ "from": "2017-06-08",
+ "to": "2017-06-18",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "오영수",
+  "차유경",
+  "유정기",
+  "강인철",
+  "김예림"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "천덕구",
+   "name": "오영수"
+  },
+  {
+   "role": "아내",
+   "name": "차유경"
+  },
+  {
+   "role": "춘길",
+   "name": "유정기"
+  },
+  {
+   "role": "찬호",
+   "name": "강인철"
+  },
+  {
+   "role": "텔레마케터",
+   "name": "김예림"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220528012259/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=108400"
+ }
+}

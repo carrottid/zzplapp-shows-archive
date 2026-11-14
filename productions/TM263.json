@@ -1,0 +1,34 @@
+{
+ "id": "TM263",
+ "title": "수천",
+ "genre": "뮤지컬",
+ "from": "2005-07-07",
+ "to": "2005-07-17",
+ "venue": "문예진흥원 예술극장 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_su.gif",
+ "cast": [
+  "김선호",
+  "손광업"
+ ],
+ "state": "공연완료",
+ "producer": "극단 수천",
+ "price": "R석 5만원/ S석 3만원/ A석 2만원/ 중고생 1만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "수천",
+   "name": "김선호"
+  },
+  {
+   "role": "수천",
+   "name": "손광업"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=263"
+ }
+}

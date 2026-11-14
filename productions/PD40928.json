@@ -1,0 +1,81 @@
+{
+ "id": "PD40928",
+ "title": "그리스 - 광주",
+ "genre": "뮤지컬",
+ "from": "2012-11-23",
+ "to": "2012-11-24",
+ "venue": "남한산성아트홀 (광주 문화스포츠센터)",
+ "cast": [
+  "정민",
+  "고은성",
+  "김보선",
+  "김용규",
+  "인진우",
+  "이형진",
+  "이지윤",
+  "정연",
+  "문희라",
+  "이지은",
+  "권소현",
+  "김예진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "대니",
+   "name": "정민"
+  },
+  {
+   "role": "대니",
+   "name": "고은성"
+  },
+  {
+   "role": "케니키",
+   "name": "김보선"
+  },
+  {
+   "role": "소니",
+   "name": "김용규"
+  },
+  {
+   "role": "두디",
+   "name": "인진우"
+  },
+  {
+   "role": "로저",
+   "name": "이형진"
+  },
+  {
+   "role": "샌디",
+   "name": "이지윤"
+  },
+  {
+   "role": "",
+   "name": "정연"
+  },
+  {
+   "role": "",
+   "name": "문희라"
+  },
+  {
+   "role": "",
+   "name": "이지은"
+  },
+  {
+   "role": "",
+   "name": "권소현"
+  },
+  {
+   "role": "",
+   "name": "김예진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170918173911/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=40928"
+ }
+}

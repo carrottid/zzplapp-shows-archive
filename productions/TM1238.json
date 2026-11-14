@@ -1,0 +1,59 @@
+{
+ "id": "TM1238",
+ "title": "시간에..",
+ "genre": "뮤지컬",
+ "from": "2008-08-22",
+ "to": "2008-09-21",
+ "venue": "인켈아트홀 2관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_시간에.jpg",
+ "cast": [
+  "박형준",
+  "서홍석",
+  "최보영",
+  "윤사봉",
+  "안세호",
+  "박유정",
+  "김중기"
+ ],
+ "state": "공연완료",
+ "producer": "뮤지컬 스토리",
+ "price": "일반석 3만5천원/학생 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "김시현",
+   "name": "박형준"
+  },
+  {
+   "role": "김시현",
+   "name": "서홍석"
+  },
+  {
+   "role": "서지수",
+   "name": "최보영"
+  },
+  {
+   "role": "이팔자",
+   "name": "윤사봉"
+  },
+  {
+   "role": "이명운",
+   "name": "안세호"
+  },
+  {
+   "role": "오현실",
+   "name": "박유정"
+  },
+  {
+   "role": "판매원",
+   "name": "김중기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1238"
+ }
+}

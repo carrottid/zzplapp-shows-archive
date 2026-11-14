@@ -1,0 +1,31 @@
+{
+ "id": "PD91177",
+ "title": "인디아 블로그",
+ "genre": "연극",
+ "from": "2016-04-15",
+ "to": "2016-06-12",
+ "venue": "홍익대 대학로 아트센터 소극장",
+ "cast": [
+  "김다흰",
+  "임승범"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "다흰",
+   "name": "김다흰"
+  },
+  {
+   "role": "승범",
+   "name": "임승범"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170616115915/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=91177"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "id": "TM2326",
+ "title": "별이 빛나는 밤에",
+ "genre": "뮤지컬",
+ "from": "2016-05-07",
+ "to": "2016-05-15",
+ "venue": "올림픽공원 올림픽홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20160330043353U73WE74VEKBI0417.jpg",
+ "cast": [
+  "홍경민",
+  "조권",
+  "김바다",
+  "이세준",
+  "다나",
+  "채송화 (타니아)"
+ ],
+ "state": "공연완료",
+ "producer": "팍스컬쳐",
+ "price": "VVIP석 13만원, VIP석 12만원, R석 9만9천원, S석 7만7천원, A석 6만6천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "임건",
+   "name": "홍경민"
+  },
+  {
+   "role": "최성곤",
+   "name": "조권"
+  },
+  {
+   "role": "김버드",
+   "name": "김바다"
+  },
+  {
+   "role": "한찬민",
+   "name": "이세준"
+  },
+  {
+   "role": "한주리",
+   "name": "다나"
+  },
+  {
+   "role": "이하얀",
+   "name": "채송화 (타니아)"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2326"
+ }
+}

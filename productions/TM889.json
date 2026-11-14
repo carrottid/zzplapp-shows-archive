@@ -1,0 +1,49 @@
+{
+ "id": "TM889",
+ "title": "호호",
+ "genre": "뮤지컬",
+ "from": "2007-11-10",
+ "to": "2008-02-03",
+ "venue": "알과핵 소극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200916024308350d178bccaa444f822dd025f9245225.jpg",
+ "cast": [
+  "박문영",
+  "박세준",
+  "김주후",
+  "이봉련",
+  "소재한"
+ ],
+ "state": "공연완료",
+ "producer": "CE Production",
+ "price": "R석 4만원, S석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "강은주",
+   "name": "박문영"
+  },
+  {
+   "role": "박보인",
+   "name": "박세준"
+  },
+  {
+   "role": "박보인",
+   "name": "김주후"
+  },
+  {
+   "role": "진정",
+   "name": "이봉련"
+  },
+  {
+   "role": "진심",
+   "name": "소재한"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=889"
+ }
+}

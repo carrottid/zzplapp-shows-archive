@@ -1,0 +1,54 @@
+{
+ "id": "TM2261",
+ "title": "스토리 오브 마이 라이프",
+ "genre": "뮤지컬",
+ "from": "2015-12-01",
+ "to": "2016-02-28",
+ "venue": "백암아트홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20151008114501517KK145A08E0757.jpg",
+ "cast": [
+  "고영빈",
+  "강필석",
+  "조성윤",
+  "이석준",
+  "김종구",
+  "홍우진"
+ ],
+ "state": "공연완료",
+ "producer": "오디컴퍼니, 롯데엔터테인먼트",
+ "price": "R석 6만6천원, S석 4만4천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "토마스 위버",
+   "name": "고영빈"
+  },
+  {
+   "role": "토마스 위버",
+   "name": "강필석"
+  },
+  {
+   "role": "토마스 위버",
+   "name": "조성윤"
+  },
+  {
+   "role": "앨빈 켈비",
+   "name": "이석준"
+  },
+  {
+   "role": "앨빈 켈비",
+   "name": "김종구"
+  },
+  {
+   "role": "앨빈 켈비",
+   "name": "홍우진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2261"
+ }
+}

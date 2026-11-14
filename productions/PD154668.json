@@ -1,0 +1,46 @@
+{
+ "id": "PD154668",
+ "title": "리마인드",
+ "genre": "연극",
+ "from": "2020-02-20",
+ "to": "2020-03-03",
+ "venue": "후암스테이지 1관",
+ "cast": [
+  "유아름",
+  "김수정",
+  "여시현",
+  "황바울",
+  "박도욱"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "유아름",
+   "name": "유아름"
+  },
+  {
+   "role": "김수정",
+   "name": "김수정"
+  },
+  {
+   "role": "여시현",
+   "name": "여시현"
+  },
+  {
+   "role": "황바울 (멀티)",
+   "name": "황바울"
+  },
+  {
+   "role": "박도욱 (멀티)",
+   "name": "박도욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260521010834/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=154668"
+ }
+}

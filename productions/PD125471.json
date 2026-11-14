@@ -1,0 +1,76 @@
+{
+ "id": "PD125471",
+ "title": "판",
+ "genre": "뮤지컬",
+ "from": "2018-06-12",
+ "to": "2018-07-22",
+ "venue": "국립정동극장(서울)",
+ "cast": [
+  "류제윤",
+  "김지철",
+  "김지훈",
+  "김대곤",
+  "최유하",
+  "김아영",
+  "박란주",
+  "유주혜",
+  "윤진영",
+  "임소라",
+  "신광희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "달수",
+   "name": "류제윤"
+  },
+  {
+   "role": "달수",
+   "name": "김지철"
+  },
+  {
+   "role": "호태",
+   "name": "김지훈"
+  },
+  {
+   "role": "호태",
+   "name": "김대곤"
+  },
+  {
+   "role": "춘섬",
+   "name": "최유하"
+  },
+  {
+   "role": "춘섬",
+   "name": "김아영"
+  },
+  {
+   "role": "이덕",
+   "name": "박란주"
+  },
+  {
+   "role": "이덕",
+   "name": "유주혜"
+  },
+  {
+   "role": "사또 외",
+   "name": "윤진영"
+  },
+  {
+   "role": "분이 외",
+   "name": "임소라"
+  },
+  {
+   "role": "",
+   "name": "신광희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20211204065220/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=125471"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "PD115373",
+ "title": "제3회 극페스티벌 채움 with 산울림 2주차",
+ "genre": "연극",
+ "from": "2017-10-18",
+ "to": "2017-10-22",
+ "venue": "산울림 소극장",
+ "cast": [
+  "윤희정",
+  "박한울",
+  "김영훈"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "어둠속의 빛 - 조",
+   "name": "윤희정"
+  },
+  {
+   "role": "어둠속의 빛 - 조수",
+   "name": "박한울"
+  },
+  {
+   "role": "어둠속의 빛 - 멀티",
+   "name": "김영훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20231204010458/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=115373"
+ }
+}

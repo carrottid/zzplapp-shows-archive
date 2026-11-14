@@ -1,0 +1,71 @@
+{
+ "id": "PD46754",
+ "title": "레베카 - 고양",
+ "genre": "뮤지컬",
+ "from": "2013-06-01",
+ "to": "2013-06-02",
+ "venue": "고양아람누리 아람극장",
+ "cast": [
+  "류정한",
+  "오만석",
+  "옥주현",
+  "신영숙",
+  "임혜영",
+  "김보경",
+  "최민철",
+  "에녹",
+  "이경미",
+  "이정화"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "막심 드 윈터",
+   "name": "류정한"
+  },
+  {
+   "role": "막심 드 윈터",
+   "name": "오만석"
+  },
+  {
+   "role": "댄버스 부인",
+   "name": "옥주현"
+  },
+  {
+   "role": "댄버스 부인",
+   "name": "신영숙"
+  },
+  {
+   "role": "나",
+   "name": "임혜영"
+  },
+  {
+   "role": "나",
+   "name": "김보경"
+  },
+  {
+   "role": "잭 파벨",
+   "name": "최민철"
+  },
+  {
+   "role": "잭 파벨",
+   "name": "에녹"
+  },
+  {
+   "role": "반 호퍼 부인",
+   "name": "이경미"
+  },
+  {
+   "role": "베아트리체",
+   "name": "이정화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20150515112544/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=46754"
+ }
+}

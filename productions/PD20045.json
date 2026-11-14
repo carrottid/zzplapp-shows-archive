@@ -1,0 +1,61 @@
+{
+ "id": "PD20045",
+ "title": "메노포즈 - 대구",
+ "genre": "뮤지컬",
+ "from": "2011-02-04",
+ "to": "2011-02-13",
+ "venue": "대구 수성아트피아 용지홀",
+ "cast": [
+  "홍지민",
+  "진아라",
+  "혜은이",
+  "이윤표",
+  "이영자",
+  "김숙",
+  "김현진",
+  "유보영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "전문직 여성",
+   "name": "홍지민"
+  },
+  {
+   "role": "전문직 여성",
+   "name": "진아라"
+  },
+  {
+   "role": "한물간 연속극 배우",
+   "name": "혜은이"
+  },
+  {
+   "role": "한물간 연속극 배우",
+   "name": "이윤표"
+  },
+  {
+   "role": "전업주부",
+   "name": "이영자"
+  },
+  {
+   "role": "전업주부",
+   "name": "김숙"
+  },
+  {
+   "role": "웰빙주부",
+   "name": "김현진"
+  },
+  {
+   "role": "웰빙주부",
+   "name": "유보영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191019083032/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=20045"
+ }
+}

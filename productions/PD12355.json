@@ -1,0 +1,46 @@
+{
+ "id": "PD12355",
+ "title": "뱃사람",
+ "genre": "연극",
+ "from": "2009-10-08",
+ "to": "2009-10-18",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "이호재",
+  "정동환",
+  "이대연",
+  "이남희",
+  "이명호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "리차드 하킨",
+   "name": "이호재"
+  },
+  {
+   "role": "록하르트",
+   "name": "정동환"
+  },
+  {
+   "role": "아이반 커리",
+   "name": "이대연"
+  },
+  {
+   "role": "제임스 샤키 하킨",
+   "name": "이남희"
+  },
+  {
+   "role": "니키 지블린",
+   "name": "이명호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220813101038/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=12355"
+ }
+}

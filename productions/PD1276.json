@@ -1,0 +1,66 @@
+{
+ "id": "PD1276",
+ "title": "미래는 없다",
+ "genre": "연극",
+ "from": "2007-09-22",
+ "to": "2007-10-07",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "홍성경",
+  "강일",
+  "이영민",
+  "김선영",
+  "최지훈",
+  "이은정",
+  "정세라",
+  "정선철",
+  "염선화"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "장영숙",
+   "name": "홍성경"
+  },
+  {
+   "role": "장나목",
+   "name": "강일"
+  },
+  {
+   "role": "유미래",
+   "name": "이영민"
+  },
+  {
+   "role": "박은지",
+   "name": "김선영"
+  },
+  {
+   "role": "남자",
+   "name": "최지훈"
+  },
+  {
+   "role": "이연화.여인",
+   "name": "이은정"
+  },
+  {
+   "role": "이연화.여인",
+   "name": "정세라"
+  },
+  {
+   "role": "",
+   "name": "정선철"
+  },
+  {
+   "role": "",
+   "name": "염선화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241013095241/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=1276"
+ }
+}

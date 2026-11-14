@@ -1,0 +1,46 @@
+{
+ "id": "PD37656",
+ "title": "지금해라",
+ "genre": "뮤지컬",
+ "from": "2012-07-23",
+ "to": "2012-08-19",
+ "venue": "대학로 예술극장 나무와 물",
+ "cast": [
+  "박지훈",
+  "장인혁",
+  "홍수진",
+  "윤영일",
+  "양현석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "박무현",
+   "name": "박지훈"
+  },
+  {
+   "role": "장두한",
+   "name": "장인혁"
+  },
+  {
+   "role": "홍정희",
+   "name": "홍수진"
+  },
+  {
+   "role": "윤대중",
+   "name": "윤영일"
+  },
+  {
+   "role": "양태우",
+   "name": "양현석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240521045021/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=37656"
+ }
+}

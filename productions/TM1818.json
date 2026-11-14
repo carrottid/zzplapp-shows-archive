@@ -1,0 +1,89 @@
+{
+ "id": "TM1818",
+ "title": "페이스 오프",
+ "genre": "뮤지컬",
+ "from": "2012-02-07",
+ "to": "2012-07-29",
+ "venue": "대학로 SH아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster (s)3.JPG",
+ "cast": [
+  "최성원",
+  "김도현",
+  "정민",
+  "김윤하",
+  "백주연",
+  "이은율",
+  "송윤희",
+  "백주희",
+  "최가인",
+  "양시은",
+  "김상윤",
+  "김도원",
+  "임기정"
+ ],
+ "state": "공연완료",
+ "producer": "㈜에스피티컴퍼니",
+ "price": "R석 5만5천원 / S석 4만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "태준/영준",
+   "name": "최성원"
+  },
+  {
+   "role": "태준/영준",
+   "name": "김도현"
+  },
+  {
+   "role": "태준/영준",
+   "name": "정민"
+  },
+  {
+   "role": "태준/영준",
+   "name": "김윤하"
+  },
+  {
+   "role": "윤서",
+   "name": "백주연"
+  },
+  {
+   "role": "윤서",
+   "name": "이은율"
+  },
+  {
+   "role": "윤서",
+   "name": "송윤희"
+  },
+  {
+   "role": "소영",
+   "name": "백주희"
+  },
+  {
+   "role": "소영",
+   "name": "최가인"
+  },
+  {
+   "role": "소영",
+   "name": "양시은"
+  },
+  {
+   "role": "다니홍",
+   "name": "김상윤"
+  },
+  {
+   "role": "다니홍",
+   "name": "김도원"
+  },
+  {
+   "role": "다니홍",
+   "name": "임기정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1818"
+ }
+}

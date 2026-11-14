@@ -1,0 +1,104 @@
+{
+ "id": "TM793",
+ "title": "위대한 캣츠비",
+ "genre": "뮤지컬",
+ "from": "2007-03-09",
+ "to": "2007-07-31",
+ "venue": "원더스페이스 (구 사다리아트센터) 네모극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200924040615d9dbde927fcb417f8c309d9abd5b83bc.jpg",
+ "cast": [
+  "최성원",
+  "김형범",
+  "김태훈",
+  "배승길",
+  "정인지",
+  "신의정",
+  "서범석",
+  "김태한",
+  "정상윤",
+  "허중혁",
+  "곽선영",
+  "우금지",
+  "장재승",
+  "이용근",
+  "이성재",
+  "이현진"
+ ],
+ "state": "공연완료",
+ "producer": "다온커뮤니케이션",
+ "price": "R석 4만5천원 / S석 3만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "캣츠비",
+   "name": "최성원"
+  },
+  {
+   "role": "캣츠비",
+   "name": "김형범"
+  },
+  {
+   "role": "캣츠비",
+   "name": "김태훈"
+  },
+  {
+   "role": "캣츠비",
+   "name": "배승길"
+  },
+  {
+   "role": "페르수",
+   "name": "정인지"
+  },
+  {
+   "role": "페르수",
+   "name": "신의정"
+  },
+  {
+   "role": "하운두",
+   "name": "서범석"
+  },
+  {
+   "role": "하운두",
+   "name": "김태한"
+  },
+  {
+   "role": "하운두",
+   "name": "정상윤"
+  },
+  {
+   "role": "하운두",
+   "name": "허중혁"
+  },
+  {
+   "role": "선",
+   "name": "곽선영"
+  },
+  {
+   "role": "선",
+   "name": "우금지"
+  },
+  {
+   "role": "부르독",
+   "name": "장재승"
+  },
+  {
+   "role": "몽영감",
+   "name": "이용근"
+  },
+  {
+   "role": "몽영감",
+   "name": "이성재"
+  },
+  {
+   "role": "몽부인",
+   "name": "이현진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=793"
+ }
+}

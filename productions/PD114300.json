@@ -1,0 +1,81 @@
+{
+ "id": "PD114300",
+ "title": "여보 나도 할말있어",
+ "genre": "연극",
+ "from": "2017-10-21",
+ "to": "2018-01-28",
+ "venue": "대학로 자유극장",
+ "cast": [
+  "이홍렬",
+  "유형관",
+  "안정훈",
+  "김태향",
+  "우상민",
+  "반혜라",
+  "김정하",
+  "권기선",
+  "허인영",
+  "김윤주",
+  "이수미",
+  "권혜영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "영호",
+   "name": "이홍렬"
+  },
+  {
+   "role": "영호",
+   "name": "유형관"
+  },
+  {
+   "role": "종수",
+   "name": "안정훈"
+  },
+  {
+   "role": "종수",
+   "name": "김태향"
+  },
+  {
+   "role": "말복",
+   "name": "우상민"
+  },
+  {
+   "role": "말복",
+   "name": "반혜라"
+  },
+  {
+   "role": "영자",
+   "name": "김정하"
+  },
+  {
+   "role": "영자",
+   "name": "권기선"
+  },
+  {
+   "role": "춘자",
+   "name": "허인영"
+  },
+  {
+   "role": "춘자",
+   "name": "김윤주"
+  },
+  {
+   "role": "오목",
+   "name": "이수미"
+  },
+  {
+   "role": "오목",
+   "name": "권혜영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241009054828/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=114300"
+ }
+}

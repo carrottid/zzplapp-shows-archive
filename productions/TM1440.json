@@ -1,0 +1,104 @@
+{
+ "id": "TM1440",
+ "title": "클레오파트라",
+ "genre": "뮤지컬",
+ "from": "2009-05-26",
+ "to": "2009-07-12",
+ "venue": "극장 용",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2009kleopatra.jpg",
+ "cast": [
+  "전수미",
+  "박란",
+  "정찬우",
+  "여운",
+  "조휘",
+  "최성원",
+  "정현철",
+  "안성빈",
+  "이은율",
+  "김유연",
+  "김도원",
+  "박태성",
+  "남상욱",
+  "최은석",
+  "모지민",
+  "이정임"
+ ],
+ "state": "공연완료",
+ "producer": "극장용, (주)사춘기",
+ "price": "VIP석 10만원 / R석 6만원 / S석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "클레오파트라",
+   "name": "전수미"
+  },
+  {
+   "role": "클레오파트라",
+   "name": "박란"
+  },
+  {
+   "role": "시저",
+   "name": "정찬우"
+  },
+  {
+   "role": "시저",
+   "name": "여운"
+  },
+  {
+   "role": "안토니우스",
+   "name": "조휘"
+  },
+  {
+   "role": "옥타비아누스",
+   "name": "최성원"
+  },
+  {
+   "role": "옥타비아누스",
+   "name": "정현철"
+  },
+  {
+   "role": "아폴로도로스",
+   "name": "안성빈"
+  },
+  {
+   "role": "플루비아",
+   "name": "이은율"
+  },
+  {
+   "role": "플루비아",
+   "name": "김유연"
+  },
+  {
+   "role": "쥬피터",
+   "name": "김도원"
+  },
+  {
+   "role": "루피우스",
+   "name": "박태성"
+  },
+  {
+   "role": "포티누스",
+   "name": "남상욱"
+  },
+  {
+   "role": "프톨레마이오스",
+   "name": "최은석"
+  },
+  {
+   "role": "뱀",
+   "name": "모지민"
+  },
+  {
+   "role": "뱀",
+   "name": "이정임"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1440"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "id": "TM1980",
+ "title": "해를 품은 달",
+ "genre": "뮤지컬",
+ "from": "2013-06-08",
+ "to": "2013-06-23",
+ "venue": "용인 포은아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013haedal.jpg",
+ "cast": [
+  "김다현",
+  "전동석",
+  "성태준",
+  "조성윤",
+  "전미도",
+  "안시하",
+  "송영창",
+  "지혜근",
+  "성연",
+  "이한솔",
+  "최보영",
+  "최현선",
+  "서홍석"
+ ],
+ "state": "공연완료",
+ "producer": "㈜쇼플레이, ㈜이다엔터테인먼트",
+ "price": "R석 100,000원 / S석 80,000원 / A석 60,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이훤",
+   "name": "김다현"
+  },
+  {
+   "role": "이훤",
+   "name": "전동석"
+  },
+  {
+   "role": "양명",
+   "name": "성태준"
+  },
+  {
+   "role": "양명",
+   "name": "조성윤"
+  },
+  {
+   "role": "연우",
+   "name": "전미도"
+  },
+  {
+   "role": "연우",
+   "name": "안시하"
+  },
+  {
+   "role": "부왕",
+   "name": "송영창"
+  },
+  {
+   "role": "윤대형",
+   "name": "지혜근"
+  },
+  {
+   "role": "허염",
+   "name": "성연"
+  },
+  {
+   "role": "민화공주",
+   "name": "이한솔"
+  },
+  {
+   "role": "설",
+   "name": "최보영"
+  },
+  {
+   "role": "장씨",
+   "name": "최현선"
+  },
+  {
+   "role": "운",
+   "name": "서홍석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1980"
+ }
+}

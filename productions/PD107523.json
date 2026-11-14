@@ -1,0 +1,76 @@
+{
+ "id": "PD107523",
+ "title": "리멤버",
+ "genre": "뮤지컬",
+ "from": "2017-05-10",
+ "to": "2017-05-24",
+ "venue": "강동아트센터 대극장 한강",
+ "cast": [
+  "서동진",
+  "김일교",
+  "이서아",
+  "유라선",
+  "서승원",
+  "김승환",
+  "지새롬",
+  "장한얼",
+  "한수희",
+  "정재혁",
+  "정창민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "배철수",
+   "name": "서동진"
+  },
+  {
+   "role": "배철수",
+   "name": "김일교"
+  },
+  {
+   "role": "강영희&공주",
+   "name": "이서아"
+  },
+  {
+   "role": "강영희&공주",
+   "name": "유라선"
+  },
+  {
+   "role": "자로푸스",
+   "name": "서승원"
+  },
+  {
+   "role": "자로푸스",
+   "name": "김승환"
+  },
+  {
+   "role": "해설자",
+   "name": "지새롬"
+  },
+  {
+   "role": "아찌",
+   "name": "장한얼"
+  },
+  {
+   "role": "카메라맨",
+   "name": "한수희"
+  },
+  {
+   "role": "",
+   "name": "정재혁"
+  },
+  {
+   "role": "",
+   "name": "정창민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250521023842/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=107523"
+ }
+}

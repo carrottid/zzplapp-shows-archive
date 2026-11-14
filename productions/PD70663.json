@@ -1,0 +1,61 @@
+{
+ "id": "PD70663",
+ "title": "온조 - 전주",
+ "genre": "뮤지컬",
+ "from": "2014-11-29",
+ "to": "2014-11-30",
+ "venue": "한국소리문화의전당 모악당",
+ "cast": [
+  "박혜미",
+  "이윤표",
+  "이상현",
+  "김민수",
+  "윤정섭",
+  "김상윤",
+  "유상화",
+  "유효진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "수",
+   "name": "박혜미"
+  },
+  {
+   "role": "소서노",
+   "name": "이윤표"
+  },
+  {
+   "role": "비류",
+   "name": "이상현"
+  },
+  {
+   "role": "항조",
+   "name": "김민수"
+  },
+  {
+   "role": "오간",
+   "name": "윤정섭"
+  },
+  {
+   "role": "걸인비",
+   "name": "김상윤"
+  },
+  {
+   "role": "",
+   "name": "유상화"
+  },
+  {
+   "role": "",
+   "name": "유효진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230727202947/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=70663"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "PD27267",
+ "title": "강남의 역사 - 우리들의 스펙 태클 대서사시",
+ "genre": "연극",
+ "from": "2011-09-15",
+ "to": "2011-09-18",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "신선우",
+  "오의택"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "미아동 거주자",
+   "name": "신선우"
+  },
+  {
+   "role": "",
+   "name": "오의택"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704042202/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=27267"
+ }
+}

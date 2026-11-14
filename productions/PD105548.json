@@ -1,0 +1,61 @@
+{
+ "id": "PD105548",
+ "title": "오늘 처음 만드는 뮤지컬",
+ "genre": "뮤지컬",
+ "from": "2017-04-14",
+ "to": "2017-05-14",
+ "venue": "예스24아트원 3관",
+ "cast": [
+  "김태형",
+  "민준호",
+  "이영미",
+  "정다희",
+  "이정수",
+  "김현준",
+  "박정표",
+  "홍우진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "연출",
+   "name": "김태형"
+  },
+  {
+   "role": "연출",
+   "name": "민준호"
+  },
+  {
+   "role": "이영미",
+   "name": "이영미"
+  },
+  {
+   "role": "정다희",
+   "name": "정다희"
+  },
+  {
+   "role": "이정수",
+   "name": "이정수"
+  },
+  {
+   "role": "김슬기",
+   "name": "김현준"
+  },
+  {
+   "role": "박정표, 홍우진",
+   "name": "박정표"
+  },
+  {
+   "role": "박정표, 홍우진",
+   "name": "홍우진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251118214522/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=105548"
+ }
+}

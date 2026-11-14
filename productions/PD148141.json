@@ -1,0 +1,71 @@
+{
+ "id": "PD148141",
+ "title": "헤드윅 - 대구",
+ "genre": "뮤지컬",
+ "from": "2019-11-15",
+ "to": "2019-11-17",
+ "venue": "대구 계명아트센터",
+ "cast": [
+  "마이클 리",
+  "정문성",
+  "이규형",
+  "전동석",
+  "제이민",
+  "유리아",
+  "홍금비",
+  "김민기",
+  "ZAKKY",
+  "이준"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "헤드윅",
+   "name": "마이클 리"
+  },
+  {
+   "role": "헤드윅",
+   "name": "정문성"
+  },
+  {
+   "role": "헤드윅",
+   "name": "이규형"
+  },
+  {
+   "role": "헤드윅",
+   "name": "전동석"
+  },
+  {
+   "role": "이츠학",
+   "name": "제이민"
+  },
+  {
+   "role": "이츠학",
+   "name": "유리아"
+  },
+  {
+   "role": "이츠학",
+   "name": "홍금비"
+  },
+  {
+   "role": "디앵그리인치",
+   "name": "김민기"
+  },
+  {
+   "role": "디앵그리인치",
+   "name": "ZAKKY"
+  },
+  {
+   "role": "디앵그리인치",
+   "name": "이준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20190917234912/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=148141"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "PD98335",
+ "title": "두 개의 방",
+ "genre": "연극",
+ "from": "2016-10-20",
+ "to": "2016-11-13",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "전수지",
+  "이승주",
+  "배해선",
+  "이태구"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "레이니",
+   "name": "전수지"
+  },
+  {
+   "role": "마이클",
+   "name": "이승주"
+  },
+  {
+   "role": "엘렌",
+   "name": "배해선"
+  },
+  {
+   "role": "워커",
+   "name": "이태구"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170908114803/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=98335"
+ }
+}

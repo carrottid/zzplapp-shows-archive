@@ -1,0 +1,89 @@
+{
+ "id": "TM1985",
+ "title": "하이스쿨뮤지컬",
+ "genre": "뮤지컬",
+ "from": "2013-07-02",
+ "to": "2013-09-01",
+ "venue": "블루스퀘어 삼성카드홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013high.jpg",
+ "cast": [
+  "강동호",
+  "려욱",
+  "이재진",
+  "오소연",
+  "루나",
+  "초아(박초아)",
+  "선데이",
+  "린지",
+  "유승엽",
+  "김영주",
+  "임선애",
+  "김태한",
+  "이정용"
+ ],
+ "state": "공연완료",
+ "producer": "CJ E&M, (주)인터파크씨어터",
+ "price": "VIP 120,000원 / R 100,000원 / S 80,000원 / A 60,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "트로이",
+   "name": "강동호"
+  },
+  {
+   "role": "트로이",
+   "name": "려욱"
+  },
+  {
+   "role": "트로이",
+   "name": "이재진"
+  },
+  {
+   "role": "가브리엘라",
+   "name": "오소연"
+  },
+  {
+   "role": "가브리엘라",
+   "name": "루나"
+  },
+  {
+   "role": "가브리엘라",
+   "name": "초아(박초아)"
+  },
+  {
+   "role": "샤페이",
+   "name": "선데이"
+  },
+  {
+   "role": "샤페이",
+   "name": "린지"
+  },
+  {
+   "role": "라이언",
+   "name": "유승엽"
+  },
+  {
+   "role": "다버스 선생",
+   "name": "김영주"
+  },
+  {
+   "role": "다버스 선생",
+   "name": "임선애"
+  },
+  {
+   "role": "볼튼 코치",
+   "name": "김태한"
+  },
+  {
+   "role": "볼튼 코치",
+   "name": "이정용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1985"
+ }
+}

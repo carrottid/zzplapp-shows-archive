@@ -1,0 +1,91 @@
+{
+ "id": "PD98755",
+ "title": "젊음의 행진",
+ "genre": "뮤지컬",
+ "from": "2016-11-10",
+ "to": "2017-01-22",
+ "venue": "홍익대 대학로 아트센터 대극장",
+ "cast": [
+  "신보라",
+  "정가희",
+  "강정우",
+  "한희준",
+  "원종환",
+  "김세중",
+  "정영아",
+  "전민준",
+  "이후림",
+  "조은솔",
+  "박경진",
+  "남혜현",
+  "김종년",
+  "김강진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "오영심",
+   "name": "신보라"
+  },
+  {
+   "role": "오영심",
+   "name": "정가희"
+  },
+  {
+   "role": "왕경태",
+   "name": "강정우"
+  },
+  {
+   "role": "왕경태",
+   "name": "한희준"
+  },
+  {
+   "role": "형부,학주",
+   "name": "원종환"
+  },
+  {
+   "role": "형부,학주",
+   "name": "김세중"
+  },
+  {
+   "role": "담임",
+   "name": "정영아"
+  },
+  {
+   "role": "상남이",
+   "name": "전민준"
+  },
+  {
+   "role": "상남이",
+   "name": "이후림"
+  },
+  {
+   "role": "교생",
+   "name": "조은솔"
+  },
+  {
+   "role": "",
+   "name": "박경진"
+  },
+  {
+   "role": "",
+   "name": "남혜현"
+  },
+  {
+   "role": "",
+   "name": "김종년"
+  },
+  {
+   "role": "",
+   "name": "김강진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250804224056/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=98755"
+ }
+}

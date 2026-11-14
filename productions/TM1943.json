@@ -1,0 +1,54 @@
+{
+ "id": "TM1943",
+ "title": "트레이스 유",
+ "genre": "뮤지컬",
+ "from": "2013-02-05",
+ "to": "2013-04-28",
+ "venue": "대학로 아트원씨어터 1관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_trace u2013.jpg",
+ "cast": [
+  "최재웅",
+  "이창용",
+  "김대현",
+  "이율",
+  "손승원",
+  "윤소호"
+ ],
+ "state": "공연완료",
+ "producer": "장인엔터테인먼트",
+ "price": "R석 55,000원 / S석 35,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이우빈",
+   "name": "최재웅"
+  },
+  {
+   "role": "이우빈",
+   "name": "이창용"
+  },
+  {
+   "role": "이우빈",
+   "name": "김대현"
+  },
+  {
+   "role": "구본하",
+   "name": "이율"
+  },
+  {
+   "role": "구본하",
+   "name": "손승원"
+  },
+  {
+   "role": "구본하",
+   "name": "윤소호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1943"
+ }
+}

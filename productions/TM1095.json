@@ -1,0 +1,54 @@
+{
+ "id": "TM1095",
+ "title": "파이브 코스 러브",
+ "genre": "뮤지컬",
+ "from": "2008-05-10",
+ "to": "2008-07-06",
+ "venue": "두레홀 4관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008 파코럽_두레홀.jpg",
+ "cast": [
+  "이학민",
+  "김태한",
+  "김도원",
+  "심정완",
+  "김선아",
+  "박홍주"
+ ],
+ "state": "공연완료",
+ "producer": "(주)아츠플레이, 극단 두레",
+ "price": "일반석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "남자1",
+   "name": "이학민"
+  },
+  {
+   "role": "남자1",
+   "name": "김태한"
+  },
+  {
+   "role": "남자2",
+   "name": "김도원"
+  },
+  {
+   "role": "남자2",
+   "name": "심정완"
+  },
+  {
+   "role": "여자",
+   "name": "김선아"
+  },
+  {
+   "role": "여자",
+   "name": "박홍주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1095"
+ }
+}

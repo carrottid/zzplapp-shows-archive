@@ -1,0 +1,74 @@
+{
+ "id": "TM678",
+ "title": "명성황후",
+ "genre": "뮤지컬",
+ "from": "2006-12-02",
+ "to": "2006-12-24",
+ "venue": "국립극장 해오름극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200928032708687fc35b3a89471a930ef1bf30a2e0a1.jpg",
+ "cast": [
+  "이태원",
+  "이상은",
+  "윤영석",
+  "조승룡",
+  "이희정",
+  "김법래",
+  "이종문",
+  "서범석",
+  "지혜근",
+  "김덕환"
+ ],
+ "state": "공연완료",
+ "producer": "(주)에이콤인터내셔날",
+ "price": "Vip석 12만원/R석 9만원/S석 7만원/A석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "명성황후",
+   "name": "이태원"
+  },
+  {
+   "role": "명성황후",
+   "name": "이상은"
+  },
+  {
+   "role": "고종",
+   "name": "윤영석"
+  },
+  {
+   "role": "고종",
+   "name": "조승룡"
+  },
+  {
+   "role": "대원군",
+   "name": "이희정"
+  },
+  {
+   "role": "미우라",
+   "name": "김법래"
+  },
+  {
+   "role": "미우라",
+   "name": "이종문"
+  },
+  {
+   "role": "홍계훈",
+   "name": "서범석"
+  },
+  {
+   "role": "홍계훈",
+   "name": "지혜근"
+  },
+  {
+   "role": "이노우에",
+   "name": "김덕환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=678"
+ }
+}

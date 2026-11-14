@@ -1,0 +1,51 @@
+{
+ "id": "PD78157",
+ "title": "한국근대문학극장",
+ "genre": "연극",
+ "from": "2015-06-10",
+ "to": "2015-06-14",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "나하나",
+  "신상훈",
+  "방선혁",
+  "한규정",
+  "이유성",
+  "최수호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "B사감과 러브레터 - 교감",
+   "name": "나하나"
+  },
+  {
+   "role": "치숙 - 나",
+   "name": "신상훈"
+  },
+  {
+   "role": "B사감과 러브레터 - 문,훈",
+   "name": "방선혁"
+  },
+  {
+   "role": "",
+   "name": "한규정"
+  },
+  {
+   "role": "",
+   "name": "이유성"
+  },
+  {
+   "role": "",
+   "name": "최수호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200925030026/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=78157"
+ }
+}

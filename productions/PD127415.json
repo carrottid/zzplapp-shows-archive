@@ -1,0 +1,76 @@
+{
+ "id": "PD127415",
+ "title": "시카고 - 부산",
+ "genre": "뮤지컬",
+ "from": "2018-08-31",
+ "to": "2018-09-09",
+ "venue": "센텀시티 소향씨어터 신한카드홀",
+ "cast": [
+  "최정원",
+  "박칼린",
+  "아이비",
+  "김지우",
+  "남경주",
+  "안재욱",
+  "김경선",
+  "김영주",
+  "임동섭",
+  "정설웅",
+  "최원섭"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "벨마 켈리",
+   "name": "최정원"
+  },
+  {
+   "role": "벨마 켈리",
+   "name": "박칼린"
+  },
+  {
+   "role": "록시 하트",
+   "name": "아이비"
+  },
+  {
+   "role": "록시 하트",
+   "name": "김지우"
+  },
+  {
+   "role": "빌리 플린",
+   "name": "남경주"
+  },
+  {
+   "role": "빌리 플린",
+   "name": "안재욱"
+  },
+  {
+   "role": "마마 모튼",
+   "name": "김경선"
+  },
+  {
+   "role": "마마 모튼",
+   "name": "김영주"
+  },
+  {
+   "role": "",
+   "name": "임동섭"
+  },
+  {
+   "role": "",
+   "name": "정설웅"
+  },
+  {
+   "role": "",
+   "name": "최원섭"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210116001331/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=127415"
+ }
+}

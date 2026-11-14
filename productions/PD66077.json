@@ -1,0 +1,51 @@
+{
+ "id": "PD66077",
+ "title": "슬픈연극",
+ "genre": "연극",
+ "from": "2014-09-03",
+ "to": "2014-11-02",
+ "venue": "예스24아트원 3관",
+ "cast": [
+  "김중기",
+  "강신일",
+  "김학선",
+  "이지현",
+  "김정영",
+  "남기애"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "장만호",
+   "name": "김중기"
+  },
+  {
+   "role": "장만호",
+   "name": "강신일"
+  },
+  {
+   "role": "장만호",
+   "name": "김학선"
+  },
+  {
+   "role": "심숙자",
+   "name": "이지현"
+  },
+  {
+   "role": "심숙자",
+   "name": "김정영"
+  },
+  {
+   "role": "심숙자",
+   "name": "남기애"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241106200632/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=66077"
+ }
+}

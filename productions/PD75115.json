@@ -1,0 +1,66 @@
+{
+ "id": "PD75115",
+ "title": "바람과 함께 사라지다 - 진주",
+ "genre": "뮤지컬",
+ "from": "2015-04-11",
+ "to": "2015-04-12",
+ "venue": "경상남도문화예술회관 대공연장",
+ "cast": [
+  "김법래",
+  "임태경",
+  "바다",
+  "마이클 리",
+  "정상윤",
+  "김보경",
+  "정영주",
+  "박준면",
+  "박시원"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "레트 버틀러",
+   "name": "김법래"
+  },
+  {
+   "role": "레트 버틀러",
+   "name": "임태경"
+  },
+  {
+   "role": "스칼렛 오하라",
+   "name": "바다"
+  },
+  {
+   "role": "애슐리 윌크스",
+   "name": "마이클 리"
+  },
+  {
+   "role": "애슐리 윌크스",
+   "name": "정상윤"
+  },
+  {
+   "role": "멜라니 해밀튼",
+   "name": "김보경"
+  },
+  {
+   "role": "마마",
+   "name": "정영주"
+  },
+  {
+   "role": "마마",
+   "name": "박준면"
+  },
+  {
+   "role": "노예의 장",
+   "name": "박시원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250124193858/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=75115"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "TM696",
+ "title": "화성에서 꿈꾸다",
+ "genre": "뮤지컬",
+ "from": "2006-07-08",
+ "to": "2006-07-17",
+ "venue": "경기도문화의전당 대공연장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_db-hoasung(2006).gif",
+ "cast": [
+  "민영기",
+  "조정은",
+  "최윤정"
+ ],
+ "state": "공연완료",
+ "producer": "경기도문화의전당",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "정조",
+   "name": "민영기"
+  },
+  {
+   "role": "정조",
+   "name": "조정은"
+  },
+  {
+   "role": "빙허각 커버",
+   "name": "최윤정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=696"
+ }
+}

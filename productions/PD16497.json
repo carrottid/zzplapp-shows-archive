@@ -1,0 +1,51 @@
+{
+ "id": "PD16497",
+ "title": "맘마미아 - 진주",
+ "genre": "뮤지컬",
+ "from": "2010-06-19",
+ "to": "2010-06-20",
+ "venue": "한국소리문화의전당 모악당",
+ "cast": [
+  "최정원",
+  "전수경",
+  "이경미",
+  "남경주",
+  "성기윤",
+  "이석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "Donna",
+   "name": "최정원"
+  },
+  {
+   "role": "Tanya",
+   "name": "전수경"
+  },
+  {
+   "role": "Rossie",
+   "name": "이경미"
+  },
+  {
+   "role": "SAM",
+   "name": "남경주"
+  },
+  {
+   "role": "Bill",
+   "name": "성기윤"
+  },
+  {
+   "role": "Harry",
+   "name": "이석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20160307075016/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=16497"
+ }
+}

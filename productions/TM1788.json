@@ -1,0 +1,69 @@
+{
+ "id": "TM1788",
+ "title": "명성황후",
+ "genre": "뮤지컬",
+ "from": "2011-10-29",
+ "to": "2011-11-20",
+ "venue": "충무아트홀 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster (s).JPG",
+ "cast": [
+  "이상은",
+  "서영주",
+  "김순택",
+  "이희정",
+  "김도형",
+  "김선동",
+  "지혜근",
+  "김태형",
+  "김덕환"
+ ],
+ "state": "공연완료",
+ "producer": "에이콤",
+ "price": "VIP석 12만원 / R석 10만원 / S석 7만원 / A석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "명성황후",
+   "name": "이상은"
+  },
+  {
+   "role": "고종",
+   "name": "서영주"
+  },
+  {
+   "role": "고종",
+   "name": "김순택"
+  },
+  {
+   "role": "대원군",
+   "name": "이희정"
+  },
+  {
+   "role": "미우라",
+   "name": "김도형"
+  },
+  {
+   "role": "미우라",
+   "name": "김선동"
+  },
+  {
+   "role": "홍계훈",
+   "name": "지혜근"
+  },
+  {
+   "role": "홍계훈",
+   "name": "김태형"
+  },
+  {
+   "role": "이노우에",
+   "name": "김덕환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1788"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "PD79497",
+ "title": "필로우맨",
+ "genre": "연극",
+ "from": "2015-08-01",
+ "to": "2015-08-30",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "정원조",
+  "윤상화",
+  "김수현",
+  "이형훈"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "카투리안",
+   "name": "정원조"
+  },
+  {
+   "role": "투폴스키",
+   "name": "윤상화"
+  },
+  {
+   "role": "에리얼",
+   "name": "김수현"
+  },
+  {
+   "role": "마이클",
+   "name": "이형훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251107165345/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=79497"
+ }
+}

@@ -1,0 +1,437 @@
+{
+ "date": "2022-03-09",
+ "sessions": [
+  {
+   "id": "PF184882",
+   "title": "엑스칼리버",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종대극장)",
+   "time": "14:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#1D2230",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF185604",
+   "title": "노트르담 드 파리 프렌치 오리지널 (앵콜)",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2B3A55",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186168",
+   "title": "프리다: The Last Night Show",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종S씨어터)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#057828",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186979",
+   "title": "웨스턴 스토리",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "15:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#7D2219",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186525",
+   "title": "그날의 타이밍 시즌 2",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#25161F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF185688",
+   "title": "나르치스와 골드문트",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#12130C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF183835",
+   "title": "디아길레프",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#5A4E60",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186645",
+   "title": "미오 프라텔로",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF182052",
+   "title": "팬레터",
+   "genre": "뮤지컬",
+   "venue": "코엑스아티움(Coex Artium)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#4C3E3A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF183630",
+   "title": "라스트 세션",
+   "genre": "연극",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "17:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0D1436",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF185604",
+   "title": "노트르담 드 파리 프렌치 오리지널 (앵콜)",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#2B3A55",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF183486",
+   "title": "라이온 킹 인터내셔널 투어",
+   "genre": "뮤지컬",
+   "venue": "예술의전당 [서울] (오페라극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#661802",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186286",
+   "title": "레베카",
+   "genre": "뮤지컬",
+   "venue": "드림씨어터 [부산]",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#0B0429",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186735",
+   "title": "미스 줄리",
+   "genre": "연극",
+   "venue": "소극장 혜화당 (구. 까망소극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF186401",
+   "title": "싯다르타",
+   "genre": "뮤지컬",
+   "venue": "올림픽공원 (우리금융아트홀(역도경기장))",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#E6BE00",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF183199",
+   "title": "썸씽로튼",
+   "genre": "뮤지컬",
+   "venue": "유니버설아트센터",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#CB1A20",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF184882",
+   "title": "엑스칼리버",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종대극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#1D2230",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186508",
+   "title": "엔젤스 인 아메리카, 파트 투: 페레스트로이카",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#747372",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF187653",
+   "title": "왓츠 유어 컬러",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF185835",
+   "title": "잃어버린 얼굴 1895",
+   "genre": "뮤지컬",
+   "venue": "예술의전당 [서울] (CJ 토월극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#6E605E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178981",
+   "title": "지킬 앤 하이드",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186820",
+   "title": "창작공감: 작가, 본 공연: 밤의 사막 너머",
+   "genre": "연극",
+   "venue": "국립극단 [용산] (백성희장민호극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF186168",
+   "title": "프리다: The Last Night Show",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종S씨어터)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#057828",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186548",
+   "title": "회란기",
+   "genre": "연극",
+   "venue": "예술의전당 [서울] (자유소극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186525",
+   "title": "그날의 타이밍 시즌 2",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#25161F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF185688",
+   "title": "나르치스와 골드문트",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#12130C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF184932",
+   "title": "난쟁이들",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#82646B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF185900",
+   "title": "더 테일 에이프릴 풀스",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2C0006",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF183835",
+   "title": "디아길레프",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#5A4E60",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186601",
+   "title": "또! 오해영",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#262FC0",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186645",
+   "title": "미오 프라텔로",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186237",
+   "title": "비클래스",
+   "genre": "연극",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#79736C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186600",
+   "title": "스메르쟈코프",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1617",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186272",
+   "title": "스톤",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#322726",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186116",
+   "title": "용욱이의 편지",
+   "genre": "뮤지컬",
+   "venue": "열린극장",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#89725C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186979",
+   "title": "웨스턴 스토리",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#7D2219",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF182052",
+   "title": "팬레터",
+   "genre": "뮤지컬",
+   "venue": "코엑스아티움(Coex Artium)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#4C3E3A",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

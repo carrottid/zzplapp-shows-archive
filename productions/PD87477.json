@@ -1,0 +1,51 @@
+{
+ "id": "PD87477",
+ "title": "웨딩 판타지",
+ "genre": "연극",
+ "from": "2016-01-02",
+ "to": "2016-01-31",
+ "venue": "대학로 스타시티 카지노 전용관(구, 타이니앨리스)",
+ "cast": [
+  "조춘호",
+  "이은지",
+  "신현수",
+  "한훈",
+  "오은혜",
+  "권진란"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "고귀남",
+   "name": "조춘호"
+  },
+  {
+   "role": "왕여사",
+   "name": "이은지"
+  },
+  {
+   "role": "김철수",
+   "name": "신현수"
+  },
+  {
+   "role": "김철수",
+   "name": "한훈"
+  },
+  {
+   "role": "조영희",
+   "name": "오은혜"
+  },
+  {
+   "role": "조영희",
+   "name": "권진란"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240911222811/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=87477"
+ }
+}

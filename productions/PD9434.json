@@ -1,0 +1,61 @@
+{
+ "id": "PD9434",
+ "title": "감포 사는 분이，덕이，열수",
+ "genre": "연극",
+ "from": "2009-03-16",
+ "to": "2009-05-17",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "우미화",
+  "장정애",
+  "조주현",
+  "윤상화",
+  "홍성춘",
+  "정승길",
+  "김명식",
+  "염혜란"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "분이",
+   "name": "우미화"
+  },
+  {
+   "role": "덕이",
+   "name": "장정애"
+  },
+  {
+   "role": "열수",
+   "name": "조주현"
+  },
+  {
+   "role": "단씨",
+   "name": "윤상화"
+  },
+  {
+   "role": "한사장",
+   "name": "홍성춘"
+  },
+  {
+   "role": "설씨",
+   "name": "정승길"
+  },
+  {
+   "role": "",
+   "name": "김명식"
+  },
+  {
+   "role": "",
+   "name": "염혜란"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704015808/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=9434"
+ }
+}

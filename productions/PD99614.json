@@ -1,0 +1,91 @@
+{
+ "id": "PD99614",
+ "title": "일리아드",
+ "genre": "연극",
+ "from": "2016-11-04",
+ "to": "2016-11-20",
+ "venue": "CJ 아지트 대학로(구 SM아트홀)",
+ "cast": [
+  "강인성",
+  "구시연",
+  "남태훈",
+  "박훈규",
+  "신동선",
+  "염순식",
+  "이기석",
+  "임준식",
+  "전신영",
+  "정지은",
+  "조운",
+  "한아름솔",
+  "한혜진",
+  "황다솔"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아이아스,아레스",
+   "name": "강인성"
+  },
+  {
+   "role": "안드로마케,아테네",
+   "name": "구시연"
+  },
+  {
+   "role": "디오메데스",
+   "name": "남태훈"
+  },
+  {
+   "role": "오딧세우스",
+   "name": "박훈규"
+  },
+  {
+   "role": "제우스,프리아모스",
+   "name": "신동선"
+  },
+  {
+   "role": "아킬레스,포세이돈",
+   "name": "염순식"
+  },
+  {
+   "role": "",
+   "name": "이기석"
+  },
+  {
+   "role": "",
+   "name": "임준식"
+  },
+  {
+   "role": "",
+   "name": "전신영"
+  },
+  {
+   "role": "",
+   "name": "정지은"
+  },
+  {
+   "role": "",
+   "name": "조운"
+  },
+  {
+   "role": "",
+   "name": "한아름솔"
+  },
+  {
+   "role": "",
+   "name": "한혜진"
+  },
+  {
+   "role": "",
+   "name": "황다솔"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240813152742/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=99614"
+ }
+}

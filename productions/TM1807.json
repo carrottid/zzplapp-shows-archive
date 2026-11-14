@@ -1,0 +1,54 @@
+{
+ "id": "TM1807",
+ "title": "러브 인 뉴욕-올 댓 재즈",
+ "genre": "뮤지컬",
+ "from": "2011-11-19",
+ "to": "2011-12-31",
+ "venue": "백암아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)8.jpg",
+ "cast": [
+  "최성원",
+  "조지훈",
+  "오대성",
+  "백주연",
+  "김도신",
+  "문예신"
+ ],
+ "state": "공연완료",
+ "producer": "(주)팍스컬쳐",
+ "price": "R석 6만원 / S석 4만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "유태민",
+   "name": "최성원"
+  },
+  {
+   "role": "유태민",
+   "name": "조지훈"
+  },
+  {
+   "role": "유태민",
+   "name": "오대성"
+  },
+  {
+   "role": "서유라",
+   "name": "백주연"
+  },
+  {
+   "role": "전병국",
+   "name": "김도신"
+  },
+  {
+   "role": "데이비드",
+   "name": "문예신"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1807"
+ }
+}

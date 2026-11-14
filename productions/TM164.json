@@ -1,0 +1,54 @@
+{
+ "id": "TM164",
+ "title": "헤드윅",
+ "genre": "뮤지컬",
+ "from": "2005-04-12",
+ "to": "2005-06-26",
+ "venue": "대학로 라이브 극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_hedwig1.gif",
+ "cast": [
+  "오만석",
+  "백주연",
+  "조승우",
+  "이영미",
+  "김다현",
+  "송용진"
+ ],
+ "state": "공연완료",
+ "producer": "쇼노트(구, 제미로)",
+ "price": "1층 4만원/2층 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "헤드윅",
+   "name": "오만석"
+  },
+  {
+   "role": "헤드윅",
+   "name": "백주연"
+  },
+  {
+   "role": "헤드윅",
+   "name": "조승우"
+  },
+  {
+   "role": "헤드윅",
+   "name": "이영미"
+  },
+  {
+   "role": "헤드윅",
+   "name": "김다현"
+  },
+  {
+   "role": "헤드윅",
+   "name": "송용진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=164"
+ }
+}

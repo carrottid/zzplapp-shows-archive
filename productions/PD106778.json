@@ -1,0 +1,56 @@
+{
+ "id": "PD106778",
+ "title": "옆방에서 혹은 바이브레이터 플레이",
+ "genre": "연극",
+ "from": "2017-04-28",
+ "to": "2017-05-07",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "유담연",
+  "최진석",
+  "김나미",
+  "진남수",
+  "송영숙",
+  "이은지",
+  "김동곤"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "기빙스 부인",
+   "name": "유담연"
+  },
+  {
+   "role": "기빙스 박사",
+   "name": "최진석"
+  },
+  {
+   "role": "덜드리 부인",
+   "name": "김나미"
+  },
+  {
+   "role": "덜드리",
+   "name": "진남수"
+  },
+  {
+   "role": "애니",
+   "name": "송영숙"
+  },
+  {
+   "role": "엘리자베스",
+   "name": "이은지"
+  },
+  {
+   "role": "",
+   "name": "김동곤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210117211656/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=106778"
+ }
+}

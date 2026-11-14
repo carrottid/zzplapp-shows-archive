@@ -1,0 +1,61 @@
+{
+ "id": "PD1344",
+ "title": "백무동에서",
+ "genre": "연극",
+ "from": "2007-11-13",
+ "to": "2007-12-02",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "윤제문",
+  "정은경",
+  "김영필",
+  "김주완",
+  "박민규",
+  "고수희",
+  "주인영",
+  "황영희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "남",
+   "name": "윤제문"
+  },
+  {
+   "role": "여",
+   "name": "정은경"
+  },
+  {
+   "role": "남",
+   "name": "김영필"
+  },
+  {
+   "role": "남",
+   "name": "김주완"
+  },
+  {
+   "role": "남",
+   "name": "박민규"
+  },
+  {
+   "role": "여",
+   "name": "고수희"
+  },
+  {
+   "role": "여",
+   "name": "주인영"
+  },
+  {
+   "role": "여",
+   "name": "황영희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20120523002106/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=1344"
+ }
+}

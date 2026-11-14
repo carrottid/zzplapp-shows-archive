@@ -1,0 +1,39 @@
+{
+ "id": "TM173",
+ "title": "투맨",
+ "genre": "뮤지컬",
+ "from": "2004-07-30",
+ "to": "2004-09-19",
+ "venue": "게릴라극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_to0.gif",
+ "cast": [
+  "김재만",
+  "최인천",
+  "김태현"
+ ],
+ "state": "공연완료",
+ "producer": "퍼포먼스 바다",
+ "price": "일반 3만원/ 수 4시 특별할인 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "동생",
+   "name": "김재만"
+  },
+  {
+   "role": "동생",
+   "name": "최인천"
+  },
+  {
+   "role": "동생",
+   "name": "김태현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=173"
+ }
+}

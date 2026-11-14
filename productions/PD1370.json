@@ -1,0 +1,56 @@
+{
+ "id": "PD1370",
+ "title": "야끼니꾸 드래곤",
+ "genre": "연극",
+ "from": "2008-05-20",
+ "to": "2008-05-25",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "신철진",
+  "고수희",
+  "박수영",
+  "김문식",
+  "주인영",
+  "치바 테츠야",
+  "아와타 우라라"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김용길",
+   "name": "신철진"
+  },
+  {
+   "role": "고영순",
+   "name": "고수희"
+  },
+  {
+   "role": "윤대수",
+   "name": "박수영"
+  },
+  {
+   "role": "오일백",
+   "name": "김문식"
+  },
+  {
+   "role": "김미카",
+   "name": "주인영"
+  },
+  {
+   "role": "이테츠오",
+   "name": "치바 테츠야"
+  },
+  {
+   "role": "",
+   "name": "아와타 우라라"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20150421184039/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=1370"
+ }
+}

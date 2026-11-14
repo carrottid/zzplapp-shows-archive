@@ -1,0 +1,54 @@
+{
+ "id": "TM1598",
+ "title": "친정엄마",
+ "genre": "뮤지컬",
+ "from": "2010-04-28",
+ "to": "2010-05-30",
+ "venue": "우리금융아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_mother2010.jpg",
+ "cast": [
+  "김수미",
+  "선우용녀",
+  "오정해",
+  "정나온",
+  "민경옥",
+  "홍윤희"
+ ],
+ "state": "공연완료",
+ "producer": "쇼21㈜, MC컬처피아",
+ "price": "VIP석 99,000원 / R석 88,000원 /S석 77,000원/ A석 66,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "엄마",
+   "name": "김수미"
+  },
+  {
+   "role": "엄마",
+   "name": "선우용녀"
+  },
+  {
+   "role": "딸",
+   "name": "오정해"
+  },
+  {
+   "role": "딸",
+   "name": "정나온"
+  },
+  {
+   "role": "시어머니",
+   "name": "민경옥"
+  },
+  {
+   "role": "서울댁",
+   "name": "홍윤희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1598"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "PD160060",
+ "title": "아이 캔 플라이",
+ "genre": "뮤지컬",
+ "from": "2020-10-07",
+ "to": "2020-11-30",
+ "venue": "대학로 열린극장",
+ "cast": [
+  "김유성",
+  "김수혜",
+  "배상범",
+  "박이나"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "정은우",
+   "name": "김유성"
+  },
+  {
+   "role": "한예나",
+   "name": "김수혜"
+  },
+  {
+   "role": "김지훈",
+   "name": "배상범"
+  },
+  {
+   "role": "신민아",
+   "name": "박이나"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240724030222/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=160060"
+ }
+}

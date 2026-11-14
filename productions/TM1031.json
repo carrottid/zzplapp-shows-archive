@@ -1,0 +1,74 @@
+{
+ "id": "TM1031",
+ "title": "형제는 용감했다",
+ "genre": "뮤지컬",
+ "from": "2008-03-22",
+ "to": "2008-06-22",
+ "venue": "PMC대학로자유극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/형제포스터완성___0(1966).jpg",
+ "cast": [
+  "박호산",
+  "송용진",
+  "정동화",
+  "이주원",
+  "추정화",
+  "정수한",
+  "안세호",
+  "이미영",
+  "박훈",
+  "이준혁"
+ ],
+ "state": "공연완료",
+ "producer": "㈜PMC프러덕션",
+ "price": "4만원 균일석",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이석봉",
+   "name": "박호산"
+  },
+  {
+   "role": "이주봉",
+   "name": "송용진"
+  },
+  {
+   "role": "이주봉",
+   "name": "정동화"
+  },
+  {
+   "role": "오로라/순례",
+   "name": "이주원"
+  },
+  {
+   "role": "송혜자/순례모",
+   "name": "추정화"
+  },
+  {
+   "role": "이춘걸/로또맨",
+   "name": "정수한"
+  },
+  {
+   "role": "이춘배",
+   "name": "안세호"
+  },
+  {
+   "role": "이실이",
+   "name": "이미영"
+  },
+  {
+   "role": "이옹",
+   "name": "박훈"
+  },
+  {
+   "role": "이기봉",
+   "name": "이준혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1031"
+ }
+}

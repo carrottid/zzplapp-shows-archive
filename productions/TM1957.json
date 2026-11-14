@@ -1,0 +1,69 @@
+{
+ "id": "TM1957",
+ "title": "김종욱 찾기",
+ "genre": "뮤지컬",
+ "from": "2013-04-11",
+ "to": "2014-01-05",
+ "venue": "쁘띠첼 씨어터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013kim.jpg",
+ "cast": [
+  "임강성",
+  "장우수",
+  "주진하",
+  "오상은",
+  "이하나",
+  "우지희",
+  "김성현",
+  "육현욱",
+  "김지훈"
+ ],
+ "state": "공연완료",
+ "producer": "CJ E＆M㈜, 뮤지컬해븐",
+ "price": "일반석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "김종욱/남자",
+   "name": "임강성"
+  },
+  {
+   "role": "김종욱/남자",
+   "name": "장우수"
+  },
+  {
+   "role": "김종욱/남자",
+   "name": "주진하"
+  },
+  {
+   "role": "여자",
+   "name": "오상은"
+  },
+  {
+   "role": "여자",
+   "name": "이하나"
+  },
+  {
+   "role": "여자",
+   "name": "우지희"
+  },
+  {
+   "role": "멀티맨",
+   "name": "김성현"
+  },
+  {
+   "role": "멀티맨",
+   "name": "육현욱"
+  },
+  {
+   "role": "멀티맨",
+   "name": "김지훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1957"
+ }
+}

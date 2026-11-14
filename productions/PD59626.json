@@ -1,0 +1,76 @@
+{
+ "id": "PD59626",
+ "title": "바람이 불어오는 곳 - 부산",
+ "genre": "뮤지컬",
+ "from": "2014-04-05",
+ "to": "2014-04-06",
+ "venue": "부산시민회관 대극장",
+ "cast": [
+  "최승열",
+  "박창근",
+  "황현빈",
+  "김보람",
+  "권혁준",
+  "언희",
+  "최윤희",
+  "박신후",
+  "김의성",
+  "강초롱",
+  "문보람"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이풍세",
+   "name": "최승열"
+  },
+  {
+   "role": "이풍세",
+   "name": "박창근"
+  },
+  {
+   "role": "최고은",
+   "name": "황현빈"
+  },
+  {
+   "role": "최고은",
+   "name": "김보람"
+  },
+  {
+   "role": "홍영후",
+   "name": "권혁준"
+  },
+  {
+   "role": "백은영",
+   "name": "언희"
+  },
+  {
+   "role": "백은영",
+   "name": "최윤희"
+  },
+  {
+   "role": "멀티맨",
+   "name": "박신후"
+  },
+  {
+   "role": "멀티맨",
+   "name": "김의성"
+  },
+  {
+   "role": "멀티녀",
+   "name": "강초롱"
+  },
+  {
+   "role": "멀티녀",
+   "name": "문보람"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250804220927/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=59626"
+ }
+}

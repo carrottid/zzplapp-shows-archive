@@ -1,0 +1,46 @@
+{
+ "id": "PD76911",
+ "title": "그날의 시선",
+ "genre": "연극",
+ "from": "2015-05-15",
+ "to": "2015-06-14",
+ "venue": "유니플렉스 3관",
+ "cast": [
+  "김형범",
+  "서재희",
+  "주민진",
+  "황건",
+  "주현우"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "박정구",
+   "name": "김형범"
+  },
+  {
+   "role": "조윤주",
+   "name": "서재희"
+  },
+  {
+   "role": "김도준",
+   "name": "주민진"
+  },
+  {
+   "role": "배규식",
+   "name": "황건"
+  },
+  {
+   "role": "이태광",
+   "name": "주현우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240913152504/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=76911"
+ }
+}

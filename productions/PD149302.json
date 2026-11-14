@@ -1,0 +1,86 @@
+{
+ "id": "PD149302",
+ "title": "기적의 소년",
+ "genre": "연극",
+ "from": "2019-12-20",
+ "to": "2019-12-21",
+ "venue": "국립정동극장 세실",
+ "cast": [
+  "정형렬",
+  "오동준",
+  "전정욱",
+  "최현웅",
+  "신동찬",
+  "백승문",
+  "최찬영",
+  "민병욱",
+  "조승연",
+  "김관장",
+  "이수연",
+  "엄기원",
+  "김범석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "소년",
+   "name": "정형렬"
+  },
+  {
+   "role": "소년",
+   "name": "오동준"
+  },
+  {
+   "role": "동휘",
+   "name": "전정욱"
+  },
+  {
+   "role": "재용",
+   "name": "최현웅"
+  },
+  {
+   "role": "문강",
+   "name": "신동찬"
+  },
+  {
+   "role": "구염방",
+   "name": "백승문"
+  },
+  {
+   "role": "맹오순",
+   "name": "최찬영"
+  },
+  {
+   "role": "",
+   "name": "민병욱"
+  },
+  {
+   "role": "",
+   "name": "조승연"
+  },
+  {
+   "role": "",
+   "name": "김관장"
+  },
+  {
+   "role": "",
+   "name": "이수연"
+  },
+  {
+   "role": "",
+   "name": "엄기원"
+  },
+  {
+   "role": "",
+   "name": "김범석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240415094659/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=149302"
+ }
+}

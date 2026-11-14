@@ -1,0 +1,84 @@
+{
+ "id": "TM2088",
+ "title": "블랙메리포핀스",
+ "genre": "뮤지컬",
+ "from": "2014-06-10",
+ "to": "2014-08-31",
+ "venue": "아트원씨어터 1관",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201405161110057U2N17W2RTA2HWA4.JPG",
+ "cast": [
+  "박한근",
+  "임병근",
+  "송원근",
+  "배두훈",
+  "서경수",
+  "강연정",
+  "유리아",
+  "김경수",
+  "윤나무",
+  "정휘",
+  "홍륜희",
+  "최현선"
+ ],
+ "state": "공연완료",
+ "producer": "아시아브릿지컨텐츠㈜",
+ "price": "R석 55000 / S석 44000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "한스 시몬",
+   "name": "박한근"
+  },
+  {
+   "role": "한스 시몬",
+   "name": "임병근"
+  },
+  {
+   "role": "헤르만 디히터",
+   "name": "송원근"
+  },
+  {
+   "role": "헤르만 디히터",
+   "name": "배두훈"
+  },
+  {
+   "role": "헤르만 디히터",
+   "name": "서경수"
+  },
+  {
+   "role": "안나 레아",
+   "name": "강연정"
+  },
+  {
+   "role": "안나 레아",
+   "name": "유리아"
+  },
+  {
+   "role": "요나스 엥겔스",
+   "name": "김경수"
+  },
+  {
+   "role": "요나스 엥겔스",
+   "name": "윤나무"
+  },
+  {
+   "role": "요나스 엥겔스",
+   "name": "정휘"
+  },
+  {
+   "role": "메리 슈미트",
+   "name": "홍륜희"
+  },
+  {
+   "role": "메리 슈미트",
+   "name": "최현선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2088"
+ }
+}

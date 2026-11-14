@@ -1,0 +1,61 @@
+{
+ "id": "PD141597",
+ "title": "라쁘띠뜨위뜨",
+ "genre": "연극",
+ "from": "2019-05-08",
+ "to": "2019-05-26",
+ "venue": "후암스테이지 (구.아트홀 마리카 3관)",
+ "cast": [
+  "김현균",
+  "김민수",
+  "구옥분",
+  "미나",
+  "주원성",
+  "박형준",
+  "안시율",
+  "오세현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "필립",
+   "name": "김현균"
+  },
+  {
+   "role": "필립",
+   "name": "김민수"
+  },
+  {
+   "role": "쉬잔느",
+   "name": "구옥분"
+  },
+  {
+   "role": "쉬잔느",
+   "name": "미나"
+  },
+  {
+   "role": "앙리",
+   "name": "주원성"
+  },
+  {
+   "role": "앙리",
+   "name": "박형준"
+  },
+  {
+   "role": "원주민왕자",
+   "name": "안시율"
+  },
+  {
+   "role": "원주민왕자",
+   "name": "오세현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20201129202607/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=141597"
+ }
+}

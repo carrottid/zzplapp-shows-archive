@@ -1,0 +1,69 @@
+{
+ "id": "TM1298",
+ "title": "오디션",
+ "genre": "뮤지컬",
+ "from": "2008-11-01",
+ "to": "2008-12-31",
+ "venue": "문화일보홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008audition.jpg",
+ "cast": [
+  "이승현",
+  "박용전",
+  "조은별",
+  "홍소희",
+  "정찬희",
+  "정수훈",
+  "강초롱",
+  "이은지",
+  "위다복"
+ ],
+ "state": "공연완료",
+ "producer": "오픈런뮤지컬컴퍼니",
+ "price": "일반 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "박병태",
+   "name": "이승현"
+  },
+  {
+   "role": "박병태",
+   "name": "박용전"
+  },
+  {
+   "role": "김선아",
+   "name": "조은별"
+  },
+  {
+   "role": "김선아",
+   "name": "홍소희"
+  },
+  {
+   "role": "정찬희",
+   "name": "정찬희"
+  },
+  {
+   "role": "최준철",
+   "name": "정수훈"
+  },
+  {
+   "role": "홍초롱",
+   "name": "강초롱"
+  },
+  {
+   "role": "홍초롱",
+   "name": "이은지"
+  },
+  {
+   "role": "홍다복",
+   "name": "위다복"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1298"
+ }
+}

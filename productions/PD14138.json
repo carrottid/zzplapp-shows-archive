@@ -1,0 +1,56 @@
+{
+ "id": "PD14138",
+ "title": "이러려고 꼬셨니? 로미오와 줄리엣 IN 1947",
+ "genre": "연극",
+ "from": "2009-12-20",
+ "to": "2010-01-10",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "신현종",
+  "황정라",
+  "임성묵",
+  "김영각",
+  "김미선",
+  "전상진",
+  "황순미"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "주익종",
+   "name": "신현종"
+  },
+  {
+   "role": "영옥",
+   "name": "황정라"
+  },
+  {
+   "role": "주태성",
+   "name": "임성묵"
+  },
+  {
+   "role": "오민오",
+   "name": "김영각"
+  },
+  {
+   "role": "주인혜",
+   "name": "김미선"
+  },
+  {
+   "role": "오광철",
+   "name": "전상진"
+  },
+  {
+   "role": "",
+   "name": "황순미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20130717131255/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=14138"
+ }
+}

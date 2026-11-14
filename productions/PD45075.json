@@ -1,0 +1,46 @@
+{
+ "id": "PD45075",
+ "title": "뿔 - 봄 작가 겨울 무대 2012년도 최우수 선정작",
+ "genre": "연극",
+ "from": "2013-04-05",
+ "to": "2013-04-14",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "민대식",
+  "김구경",
+  "강현우",
+  "유정민",
+  "이형미"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김과장",
+   "name": "민대식"
+  },
+  {
+   "role": "이부장",
+   "name": "김구경"
+  },
+  {
+   "role": "안대리",
+   "name": "강현우"
+  },
+  {
+   "role": "대현",
+   "name": "유정민"
+  },
+  {
+   "role": "박차장",
+   "name": "이형미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250428015704/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=45075"
+ }
+}

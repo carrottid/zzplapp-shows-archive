@@ -1,0 +1,56 @@
+{
+ "id": "PD76108",
+ "title": "노란봉투",
+ "genre": "연극",
+ "from": "2015-04-03",
+ "to": "2015-05-10",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "안병식",
+  "김민선",
+  "조시현",
+  "백성철",
+  "김민하",
+  "양정윤",
+  "윤미경"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이고",
+   "name": "안병식"
+  },
+  {
+   "role": "영희",
+   "name": "김민선"
+  },
+  {
+   "role": "박지호",
+   "name": "조시현"
+  },
+  {
+   "role": "김병로",
+   "name": "백성철"
+  },
+  {
+   "role": "강호",
+   "name": "김민하"
+  },
+  {
+   "role": "아진",
+   "name": "양정윤"
+  },
+  {
+   "role": "",
+   "name": "윤미경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20190921054547/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=76108"
+ }
+}

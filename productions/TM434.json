@@ -1,0 +1,68 @@
+{
+ "id": "TM434",
+ "title": "송산야화",
+ "genre": "뮤지컬",
+ "from": "2002-06-18",
+ "to": "2002-06-28",
+ "venue": "문화일보홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_song.jpg",
+ "cast": [
+  "추정화",
+  "엄기준",
+  "권근용",
+  "장이주",
+  "신문성",
+  "임기홍",
+  "하재숙",
+  "변희철",
+  "정목화"
+ ],
+ "state": "공연완료",
+ "producer": "극단 두레",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "호녀",
+   "name": "추정화"
+  },
+  {
+   "role": "호녀",
+   "name": "엄기준"
+  },
+  {
+   "role": "호녀",
+   "name": "권근용"
+  },
+  {
+   "role": "호녀",
+   "name": "장이주"
+  },
+  {
+   "role": "호녀",
+   "name": "신문성"
+  },
+  {
+   "role": "호녀",
+   "name": "임기홍"
+  },
+  {
+   "role": "호녀",
+   "name": "하재숙"
+  },
+  {
+   "role": "호녀",
+   "name": "변희철"
+  },
+  {
+   "role": "호녀",
+   "name": "정목화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=434"
+ }
+}

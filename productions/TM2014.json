@@ -1,0 +1,44 @@
+{
+ "id": "TM2014",
+ "title": "미아 파밀리아",
+ "genre": "뮤지컬",
+ "from": "2013-10-15",
+ "to": "2014-01-15",
+ "venue": "충무아트홀 소극장 블루",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013mia.jpg",
+ "cast": [
+  "이승현",
+  "유성재",
+  "허규",
+  "장경원"
+ ],
+ "state": "공연완료",
+ "producer": "MJ Starfish",
+ "price": "전석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "리차드",
+   "name": "이승현"
+  },
+  {
+   "role": "오스카",
+   "name": "유성재"
+  },
+  {
+   "role": "스티비",
+   "name": "허규"
+  },
+  {
+   "role": "스티비",
+   "name": "장경원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2014"
+ }
+}

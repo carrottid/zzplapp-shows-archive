@@ -1,0 +1,81 @@
+{
+ "id": "PD83378",
+ "title": "화랑",
+ "genre": "뮤지컬",
+ "from": "2015-10-08",
+ "to": "2016-01-31",
+ "venue": "브릭스 씨어터 (구, 콘텐츠 그라운드)",
+ "cast": [
+  "김동화",
+  "지인규",
+  "김슬기",
+  "박정훈",
+  "박도윤",
+  "최욱로",
+  "유현석",
+  "박준현",
+  "백중훈",
+  "임기평",
+  "신윤철",
+  "백승렬"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "기파랑",
+   "name": "김동화"
+  },
+  {
+   "role": "기파랑",
+   "name": "지인규"
+  },
+  {
+   "role": "기파랑",
+   "name": "김슬기"
+  },
+  {
+   "role": "유오",
+   "name": "박정훈"
+  },
+  {
+   "role": "유오",
+   "name": "박도윤"
+  },
+  {
+   "role": "문노",
+   "name": "최욱로"
+  },
+  {
+   "role": "문노",
+   "name": "유현석"
+  },
+  {
+   "role": "무관랑",
+   "name": "박준현"
+  },
+  {
+   "role": "무관랑",
+   "name": "백중훈"
+  },
+  {
+   "role": "사다함",
+   "name": "임기평"
+  },
+  {
+   "role": "사다함",
+   "name": "신윤철"
+  },
+  {
+   "role": "사다함",
+   "name": "백승렬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240806035333/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=83378"
+ }
+}

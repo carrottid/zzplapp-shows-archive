@@ -1,0 +1,41 @@
+{
+ "id": "PD22509",
+ "title": "배신",
+ "genre": "연극",
+ "from": "2011-06-16",
+ "to": "2011-06-26",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "이석호",
+  "홍승일",
+  "김현미",
+  "박신운"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "로버트",
+   "name": "이석호"
+  },
+  {
+   "role": "제리",
+   "name": "홍승일"
+  },
+  {
+   "role": "엠마",
+   "name": "김현미"
+  },
+  {
+   "role": "웨이터",
+   "name": "박신운"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171106122431/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=22509"
+ }
+}

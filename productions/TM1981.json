@@ -1,0 +1,39 @@
+{
+ "id": "TM1981",
+ "title": "NEW 사랑은 비를 타고",
+ "genre": "뮤지컬",
+ "from": "2013-06-14",
+ "to": "2013-08-11",
+ "venue": "SH아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_newsa.jpg",
+ "cast": [
+  "여운",
+  "주환",
+  "유리아"
+ ],
+ "state": "공연완료",
+ "producer": "팍스컬쳐",
+ "price": "전석 45,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이수현",
+   "name": "여운"
+  },
+  {
+   "role": "이수현",
+   "name": "주환"
+  },
+  {
+   "role": "선우",
+   "name": "유리아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1981"
+ }
+}

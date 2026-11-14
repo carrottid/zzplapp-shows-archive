@@ -1,0 +1,61 @@
+{
+ "id": "PD21155",
+ "title": "장석조네 사람들",
+ "genre": "연극",
+ "from": "2011-03-17",
+ "to": "2011-03-27",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "이정은",
+  "백운철",
+  "선명균",
+  "우정국",
+  "이갑선",
+  "김주령",
+  "김신록",
+  "주혜원"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "흥남댁",
+   "name": "이정은"
+  },
+  {
+   "role": "장석조, 의사",
+   "name": "백운철"
+  },
+  {
+   "role": "최씨",
+   "name": "선명균"
+  },
+  {
+   "role": "오영감, 아버지",
+   "name": "우정국"
+  },
+  {
+   "role": "광수, 광수애비",
+   "name": "이갑선"
+  },
+  {
+   "role": "나주댁, 상주댁",
+   "name": "김주령"
+  },
+  {
+   "role": "나주댁, 상주댁",
+   "name": "김신록"
+  },
+  {
+   "role": "",
+   "name": "주혜원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171106112602/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=21155"
+ }
+}

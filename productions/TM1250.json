@@ -1,0 +1,44 @@
+{
+ "id": "TM1250",
+ "title": "결혼",
+ "genre": "뮤지컬",
+ "from": "2008-05-24",
+ "to": "2008-09-12",
+ "venue": "삼일로 창고극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008 결혼.jpg",
+ "cast": [
+  "조용수",
+  "유광준",
+  "박민성",
+  "김지환"
+ ],
+ "state": "공연완료",
+ "producer": "삼일로 창고극장",
+ "price": "자유석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "남자",
+   "name": "조용수"
+  },
+  {
+   "role": "남자",
+   "name": "유광준"
+  },
+  {
+   "role": "매니저",
+   "name": "박민성"
+  },
+  {
+   "role": "매니저",
+   "name": "김지환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1250"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "PD1185",
+ "title": "아이시떼르",
+ "genre": "연극",
+ "from": "2007-07-26",
+ "to": "2007-09-02",
+ "venue": "대학로 스타시티",
+ "cast": [
+  "조성하",
+  "오세준",
+  "김태한",
+  "구혜주",
+  "김진이"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "기무라",
+   "name": "조성하"
+  },
+  {
+   "role": "모모따로",
+   "name": "오세준"
+  },
+  {
+   "role": "구마다",
+   "name": "김태한"
+  },
+  {
+   "role": "하나꼬",
+   "name": "구혜주"
+  },
+  {
+   "role": "하나꼬",
+   "name": "김진이"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20140810001206/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=1185"
+ }
+}

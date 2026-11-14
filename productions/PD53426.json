@@ -1,0 +1,56 @@
+{
+ "id": "PD53426",
+ "title": "정글라이프",
+ "genre": "뮤지컬",
+ "from": "2013-11-08",
+ "to": "2013-11-17",
+ "venue": "대학로 뮤지컬 센터 공간 피꼴로",
+ "cast": [
+  "정욱진",
+  "박태성",
+  "김윤지",
+  "고현경",
+  "이시유",
+  "이든",
+  "이미경"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "피동희",
+   "name": "정욱진"
+  },
+  {
+   "role": "오레오",
+   "name": "박태성"
+  },
+  {
+   "role": "홍호란",
+   "name": "김윤지"
+  },
+  {
+   "role": "사수미",
+   "name": "고현경"
+  },
+  {
+   "role": "하예나",
+   "name": "이시유"
+  },
+  {
+   "role": "이원순",
+   "name": "이든"
+  },
+  {
+   "role": "",
+   "name": "이미경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20140502055820/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=53426"
+ }
+}

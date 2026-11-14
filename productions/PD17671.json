@@ -1,0 +1,41 @@
+{
+ "id": "PD17671",
+ "title": "훈남들의 수다",
+ "genre": "연극",
+ "from": "2010-07-16",
+ "to": "2010-08-22",
+ "venue": "나온 씨어터",
+ "cast": [
+  "김도형",
+  "김동박",
+  "박민호",
+  "유건우"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "희수",
+   "name": "김도형"
+  },
+  {
+   "role": "태기",
+   "name": "김동박"
+  },
+  {
+   "role": "성환",
+   "name": "박민호"
+  },
+  {
+   "role": "경준",
+   "name": "유건우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170920010651/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=17671"
+ }
+}

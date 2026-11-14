@@ -1,0 +1,56 @@
+{
+ "id": "PD60313",
+ "title": "상처꽃",
+ "genre": "연극",
+ "from": "2014-04-03",
+ "to": "2014-05-31",
+ "venue": "미마지 아트센터 눈빛극장",
+ "cast": [
+  "조승욱",
+  "배정미",
+  "성형진",
+  "고기혁",
+  "김효배",
+  "정연심",
+  "강왕수"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "임상민",
+   "name": "조승욱"
+  },
+  {
+   "role": "유화경",
+   "name": "배정미"
+  },
+  {
+   "role": "문성재",
+   "name": "성형진"
+  },
+  {
+   "role": "배우 1",
+   "name": "고기혁"
+  },
+  {
+   "role": "배우 2",
+   "name": "김효배"
+  },
+  {
+   "role": "피해자",
+   "name": "정연심"
+  },
+  {
+   "role": "피해자",
+   "name": "강왕수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170715231118/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=60313"
+ }
+}

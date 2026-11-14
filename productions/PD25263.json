@@ -1,0 +1,56 @@
+{
+ "id": "PD25263",
+ "title": "지킬 앤 하이드 - 수원",
+ "genre": "뮤지컬",
+ "from": "2011-09-17",
+ "to": "2011-09-18",
+ "venue": "경기아트센터 대극장",
+ "cast": [
+  "김우형",
+  "김준현",
+  "소냐",
+  "최현주",
+  "김봉환",
+  "이희정",
+  "김선동"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "지킬/하이드",
+   "name": "김우형"
+  },
+  {
+   "role": "지킬/하이드",
+   "name": "김준현"
+  },
+  {
+   "role": "루시",
+   "name": "소냐"
+  },
+  {
+   "role": "엠마",
+   "name": "최현주"
+  },
+  {
+   "role": "덴버슨",
+   "name": "김봉환"
+  },
+  {
+   "role": "어터슨",
+   "name": "이희정"
+  },
+  {
+   "role": "글로솝",
+   "name": "김선동"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241210233040/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=25263"
+ }
+}

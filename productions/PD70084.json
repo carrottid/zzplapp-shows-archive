@@ -1,0 +1,56 @@
+{
+ "id": "PD70084",
+ "title": "개천의 용간지",
+ "genre": "연극",
+ "from": "2014-11-08",
+ "to": "2014-11-16",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "정진영",
+  "신선한",
+  "서혜숙",
+  "박한영",
+  "신민재",
+  "강정후",
+  "조민기"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "민혜",
+   "name": "정진영"
+  },
+  {
+   "role": "용철",
+   "name": "신선한"
+  },
+  {
+   "role": "진구모",
+   "name": "서혜숙"
+  },
+  {
+   "role": "진구부",
+   "name": "박한영"
+  },
+  {
+   "role": "아저씨",
+   "name": "신민재"
+  },
+  {
+   "role": "아저씨",
+   "name": "강정후"
+  },
+  {
+   "role": "진구",
+   "name": "조민기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250317204052/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=70084"
+ }
+}

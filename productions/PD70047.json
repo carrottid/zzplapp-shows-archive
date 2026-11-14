@@ -1,0 +1,91 @@
+{
+ "id": "PD70047",
+ "title": "봉선화",
+ "genre": "연극",
+ "from": "2014-12-06",
+ "to": "2014-12-25",
+ "venue": "세종문화회관 M씨어터",
+ "cast": [
+  "이창직",
+  "강신구",
+  "김신기",
+  "주성환",
+  "최나라",
+  "이재희",
+  "황연희",
+  "이경",
+  "이수형",
+  "노상원",
+  "박신운",
+  "김대현",
+  "박수현",
+  "김미영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이사장",
+   "name": "이창직"
+  },
+  {
+   "role": "배문하",
+   "name": "강신구"
+  },
+  {
+   "role": "배광수",
+   "name": "김신기"
+  },
+  {
+   "role": "검사, 경찰, 의사",
+   "name": "주성환"
+  },
+  {
+   "role": "배수나",
+   "name": "최나라"
+  },
+  {
+   "role": "순이 할머니",
+   "name": "이재희"
+  },
+  {
+   "role": "",
+   "name": "황연희"
+  },
+  {
+   "role": "",
+   "name": "이경"
+  },
+  {
+   "role": "",
+   "name": "이수형"
+  },
+  {
+   "role": "",
+   "name": "노상원"
+  },
+  {
+   "role": "",
+   "name": "박신운"
+  },
+  {
+   "role": "",
+   "name": "김대현"
+  },
+  {
+   "role": "",
+   "name": "박수현"
+  },
+  {
+   "role": "",
+   "name": "김미영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241015072209/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=70047"
+ }
+}

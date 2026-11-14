@@ -1,0 +1,61 @@
+{
+ "id": "PD138934",
+ "title": "폰팔이",
+ "genre": "연극",
+ "from": "2019-03-08",
+ "to": "2019-03-10",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "김무늬",
+  "라소영",
+  "이세준",
+  "김보경",
+  "임호경",
+  "강민규",
+  "마두영",
+  "류세일"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "미나",
+   "name": "김무늬"
+  },
+  {
+   "role": "영표",
+   "name": "라소영"
+  },
+  {
+   "role": "지성",
+   "name": "이세준"
+  },
+  {
+   "role": "정환",
+   "name": "김보경"
+  },
+  {
+   "role": "명보",
+   "name": "임호경"
+  },
+  {
+   "role": "천수",
+   "name": "강민규"
+  },
+  {
+   "role": "",
+   "name": "마두영"
+  },
+  {
+   "role": "",
+   "name": "류세일"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251111074023/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=138934"
+ }
+}

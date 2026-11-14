@@ -1,0 +1,56 @@
+{
+ "id": "PD17860",
+ "title": "연극 이",
+ "genre": "연극",
+ "from": "2010-11-04",
+ "to": "2010-12-05",
+ "venue": "세종문화회관 M씨어터",
+ "cast": [
+  "전수환",
+  "김뢰하",
+  "정태우",
+  "정원영",
+  "이승훈",
+  "문정수",
+  "하지혜"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "연산",
+   "name": "전수환"
+  },
+  {
+   "role": "연산",
+   "name": "김뢰하"
+  },
+  {
+   "role": "공길",
+   "name": "정태우"
+  },
+  {
+   "role": "공길",
+   "name": "정원영"
+  },
+  {
+   "role": "장생",
+   "name": "이승훈"
+  },
+  {
+   "role": "장생",
+   "name": "문정수"
+  },
+  {
+   "role": "녹수",
+   "name": "하지혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171108154425/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=17860"
+ }
+}

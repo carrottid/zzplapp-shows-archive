@@ -1,0 +1,41 @@
+{
+ "id": "PD152233",
+ "title": "불",
+ "genre": "연극",
+ "from": "2019-12-21",
+ "to": "2020-01-05",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "남권아",
+  "남동진",
+  "김지성",
+  "김형범"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "카터",
+   "name": "남권아"
+  },
+  {
+   "role": "토마스",
+   "name": "남동진"
+  },
+  {
+   "role": "이소벨",
+   "name": "김지성"
+  },
+  {
+   "role": "토니",
+   "name": "김형범"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240913142723/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=152233"
+ }
+}

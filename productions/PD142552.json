@@ -1,0 +1,46 @@
+{
+ "id": "PD142552",
+ "title": "카모마일과 비빔면",
+ "genre": "연극",
+ "from": "2019-05-16",
+ "to": "2019-06-02",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "김결",
+  "김정환",
+  "정우연",
+  "신수빈",
+  "강별"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "관우",
+   "name": "김결"
+  },
+  {
+   "role": "관우",
+   "name": "김정환"
+  },
+  {
+   "role": "유인",
+   "name": "정우연"
+  },
+  {
+   "role": "유인",
+   "name": "신수빈"
+  },
+  {
+   "role": "유인",
+   "name": "강별"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250423170527/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=142552"
+ }
+}

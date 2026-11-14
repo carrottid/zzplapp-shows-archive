@@ -1,0 +1,91 @@
+{
+ "id": "TM1671",
+ "title": "콘보이쇼-아톰",
+ "genre": "뮤지컬",
+ "from": "2010-12-07",
+ "to": "2011-04-10",
+ "venue": "동숭아트센터 동숭홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_convoy-poster(s).jpg",
+ "cast": [
+  "하동준",
+  "우원호",
+  "신선호",
+  "송진우",
+  "정주영",
+  "육현욱",
+  "강인영",
+  "김호민",
+  "이병권",
+  "최경훈",
+  "노창섭"
+ ],
+ "state": "공연완료",
+ "producer": "콘보이하우스 코리아",
+ "price": "R석 70,000원 S석 50,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "소크라테스",
+   "name": "하동준"
+  },
+  {
+   "role": "소크라테스",
+   "name": "우원호"
+  },
+  {
+   "role": "플라톤",
+   "name": "신선호"
+  },
+  {
+   "role": "플라톤",
+   "name": "송진우"
+  },
+  {
+   "role": "칸트",
+   "name": "정주영"
+  },
+  {
+   "role": "칸트",
+   "name": "육현욱"
+  },
+  {
+   "role": "다윈",
+   "name": "강인영"
+  },
+  {
+   "role": "다윈",
+   "name": "김호민"
+  },
+  {
+   "role": "프로이트",
+   "name": "이병권"
+  },
+  {
+   "role": "프로이트",
+   "name": "최경훈"
+  },
+  {
+   "role": "사르트르",
+   "name": "우원호"
+  },
+  {
+   "role": "사르트르",
+   "name": "노창섭"
+  },
+  {
+   "role": "사리",
+   "name": "육현욱"
+  },
+  {
+   "role": "사리",
+   "name": "강인영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1671"
+ }
+}

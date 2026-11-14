@@ -1,0 +1,51 @@
+{
+ "id": "PD14702",
+ "title": "에이미",
+ "genre": "연극",
+ "from": "2010-02-05",
+ "to": "2010-02-21",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "윤소정",
+  "이호재",
+  "백수련",
+  "김영민",
+  "서재희",
+  "김병희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "에스메",
+   "name": "윤소정"
+  },
+  {
+   "role": "프랭크",
+   "name": "이호재"
+  },
+  {
+   "role": "이블린",
+   "name": "백수련"
+  },
+  {
+   "role": "도미닉",
+   "name": "김영민"
+  },
+  {
+   "role": "에이미",
+   "name": "서재희"
+  },
+  {
+   "role": "토비",
+   "name": "김병희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241016040544/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=14702"
+ }
+}

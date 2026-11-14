@@ -1,0 +1,61 @@
+{
+ "id": "PD7833",
+ "title": "진과 준",
+ "genre": "연극",
+ "from": "2008-12-30",
+ "to": "2009-02-01",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "문경희",
+  "황미영",
+  "강효정",
+  "류경인",
+  "이동영",
+  "김문호",
+  "조부현",
+  "서승인"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "진(Jean)",
+   "name": "문경희"
+  },
+  {
+   "role": "진(Jean)",
+   "name": "황미영"
+  },
+  {
+   "role": "진(Jean)",
+   "name": "강효정"
+  },
+  {
+   "role": "진(Jean)",
+   "name": "류경인"
+  },
+  {
+   "role": "준(Joon)",
+   "name": "이동영"
+  },
+  {
+   "role": "준(Joon)",
+   "name": "김문호"
+  },
+  {
+   "role": "준(Joon)",
+   "name": "조부현"
+  },
+  {
+   "role": "준(Joon)",
+   "name": "서승인"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251014225730/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=7833"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "PD75593",
+ "title": "레드",
+ "genre": "연극",
+ "from": "2015-05-03",
+ "to": "2015-05-31",
+ "venue": "충무아트센터 중극장 블랙",
+ "cast": [
+  "한명구",
+  "정보석",
+  "박은석",
+  "박정복"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "마크 로스코",
+   "name": "한명구"
+  },
+  {
+   "role": "마크 로스코",
+   "name": "정보석"
+  },
+  {
+   "role": "켄",
+   "name": "박은석"
+  },
+  {
+   "role": "켄",
+   "name": "박정복"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230906043957/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=75593"
+ }
+}

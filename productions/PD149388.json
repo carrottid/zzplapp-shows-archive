@@ -1,0 +1,81 @@
+{
+ "id": "PD149388",
+ "title": "우리들의 사랑",
+ "genre": "뮤지컬",
+ "from": "2019-11-01",
+ "to": "2020-01-19",
+ "venue": "예그린씨어터",
+ "cast": [
+  "김영환",
+  "김대우",
+  "민재완",
+  "홍종화",
+  "김소년",
+  "허영택",
+  "박시원",
+  "지혜련",
+  "김미진",
+  "홍경아",
+  "권혁준",
+  "송기정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "광석",
+   "name": "김영환"
+  },
+  {
+   "role": "광석",
+   "name": "김대우"
+  },
+  {
+   "role": "재하",
+   "name": "민재완"
+  },
+  {
+   "role": "재하",
+   "name": "홍종화"
+  },
+  {
+   "role": "현식",
+   "name": "김소년"
+  },
+  {
+   "role": "현식",
+   "name": "허영택"
+  },
+  {
+   "role": "지언",
+   "name": "박시원"
+  },
+  {
+   "role": "지언",
+   "name": "지혜련"
+  },
+  {
+   "role": "초희",
+   "name": "김미진"
+  },
+  {
+   "role": "초희",
+   "name": "홍경아"
+  },
+  {
+   "role": "멀티맨",
+   "name": "권혁준"
+  },
+  {
+   "role": "멀티맨",
+   "name": "송기정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250318172455/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=149388"
+ }
+}

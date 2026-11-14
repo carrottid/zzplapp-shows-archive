@@ -1,0 +1,71 @@
+{
+ "id": "PD7630",
+ "title": "캣츠",
+ "genre": "뮤지컬",
+ "from": "2009-02-06",
+ "to": "2009-02-15",
+ "venue": "창원 성산아트홀 대극장",
+ "cast": [
+  "신영숙",
+  "옥주현",
+  "김진우",
+  "홍경수",
+  "이희정",
+  "임한성",
+  "강연종",
+  "이은혜",
+  "김보경",
+  "강인영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "그리자벨라",
+   "name": "신영숙"
+  },
+  {
+   "role": "그리자벨라",
+   "name": "옥주현"
+  },
+  {
+   "role": "럼 텀 터거",
+   "name": "김진우"
+  },
+  {
+   "role": "멍커스트랩",
+   "name": "홍경수"
+  },
+  {
+   "role": "올드 듀터로노미",
+   "name": "이희정"
+  },
+  {
+   "role": "올드 듀터로노미",
+   "name": "임한성"
+  },
+  {
+   "role": "거스",
+   "name": "강연종"
+  },
+  {
+   "role": "젤리로룸",
+   "name": "이은혜"
+  },
+  {
+   "role": "",
+   "name": "김보경"
+  },
+  {
+   "role": "",
+   "name": "강인영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241126212745/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=7630"
+ }
+}

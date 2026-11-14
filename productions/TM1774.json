@@ -1,0 +1,104 @@
+{
+ "id": "TM1774",
+ "title": "오디션",
+ "genre": "뮤지컬",
+ "from": "2011-10-07",
+ "to": "2011-12-31",
+ "venue": "대학로문화공간 필링 1관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)6.jpg",
+ "cast": [
+  "송용진",
+  "허규",
+  "장덕수",
+  "조정환",
+  "박호산",
+  "이석",
+  "오의식",
+  "이태화",
+  "이은",
+  "이은정",
+  "정찬희",
+  "이건호",
+  "오미란",
+  "박혜원",
+  "임종완",
+  "최혁"
+ ],
+ "state": "공연완료",
+ "producer": "오픈런뮤지컬컴퍼니, (주)이다.엔터테인먼트",
+ "price": "R석 4만원 / S석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "박병태",
+   "name": "송용진"
+  },
+  {
+   "role": "박병태",
+   "name": "허규"
+  },
+  {
+   "role": "박병태",
+   "name": "장덕수"
+  },
+  {
+   "role": "박병태",
+   "name": "조정환"
+  },
+  {
+   "role": "최준철",
+   "name": "박호산"
+  },
+  {
+   "role": "최준철",
+   "name": "이석"
+  },
+  {
+   "role": "최준철",
+   "name": "오의식"
+  },
+  {
+   "role": "최준철",
+   "name": "이태화"
+  },
+  {
+   "role": "김선아",
+   "name": "이은"
+  },
+  {
+   "role": "김선아",
+   "name": "이은정"
+  },
+  {
+   "role": "정찬희",
+   "name": "정찬희"
+  },
+  {
+   "role": "정찬희",
+   "name": "이건호"
+  },
+  {
+   "role": "홍초롱",
+   "name": "오미란"
+  },
+  {
+   "role": "홍초롱",
+   "name": "박혜원"
+  },
+  {
+   "role": "홍다복",
+   "name": "임종완"
+  },
+  {
+   "role": "홍다복",
+   "name": "최혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1774"
+ }
+}

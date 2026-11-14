@@ -1,0 +1,74 @@
+{
+ "id": "TM1540",
+ "title": "찬스",
+ "genre": "뮤지컬",
+ "from": "2009-12-02",
+ "to": "2009-12-31",
+ "venue": "문화일보홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2009chance.JPG",
+ "cast": [
+  "나세나",
+  "박수화",
+  "홍인아",
+  "강지연",
+  "서미정",
+  "황원경",
+  "황성준",
+  "김재근",
+  "박현재",
+  "김승수"
+ ],
+ "state": "공연완료",
+ "producer": "에이스테이지",
+ "price": "전석 40000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "케이트",
+   "name": "나세나"
+  },
+  {
+   "role": "케이트",
+   "name": "박수화"
+  },
+  {
+   "role": "니나",
+   "name": "홍인아"
+  },
+  {
+   "role": "니나",
+   "name": "강지연"
+  },
+  {
+   "role": "안네스",
+   "name": "서미정"
+  },
+  {
+   "role": "안네스",
+   "name": "황원경"
+  },
+  {
+   "role": "프레드",
+   "name": "황성준"
+  },
+  {
+   "role": "에띠엔느",
+   "name": "김재근"
+  },
+  {
+   "role": "에띠엔느",
+   "name": "박현재"
+  },
+  {
+   "role": "앙리",
+   "name": "김승수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1540"
+ }
+}

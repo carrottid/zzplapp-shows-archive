@@ -1,0 +1,99 @@
+{
+ "id": "TM1588",
+ "title": "형제는 용감했다",
+ "genre": "뮤지컬",
+ "from": "2010-04-01",
+ "to": "2010-06-20",
+ "venue": "코엑스 아티움",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_brothers2010.JPG",
+ "cast": [
+  "홍록기",
+  "김재만",
+  "이지훈",
+  "온유",
+  "김견우(제이)",
+  "이주원",
+  "한다연",
+  "임선애",
+  "신문성",
+  "안세호",
+  "박훈",
+  "윤사봉",
+  "박세웅",
+  "김문성",
+  "박유정"
+ ],
+ "state": "공연완료",
+ "producer": "㈜피엠씨 프러덕션",
+ "price": "프리미엄골드 80,000원/ R석 80,000원/ S석 60,000원/ A석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이석봉",
+   "name": "홍록기"
+  },
+  {
+   "role": "이석봉",
+   "name": "김재만"
+  },
+  {
+   "role": "이주봉",
+   "name": "이지훈"
+  },
+  {
+   "role": "이주봉",
+   "name": "온유"
+  },
+  {
+   "role": "이주봉",
+   "name": "김견우(제이)"
+  },
+  {
+   "role": "오로라 외",
+   "name": "이주원"
+  },
+  {
+   "role": "오로라 외",
+   "name": "한다연"
+  },
+  {
+   "role": "송혜자 외",
+   "name": "임선애"
+  },
+  {
+   "role": "이춘걸 외",
+   "name": "신문성"
+  },
+  {
+   "role": "이춘배 외",
+   "name": "안세호"
+  },
+  {
+   "role": "이옹 외",
+   "name": "박훈"
+  },
+  {
+   "role": "예산댁 외",
+   "name": "윤사봉"
+  },
+  {
+   "role": "이삼봉 외",
+   "name": "박세웅"
+  },
+  {
+   "role": "이기봉 외",
+   "name": "김문성"
+  },
+  {
+   "role": "이실이 외",
+   "name": "박유정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1588"
+ }
+}

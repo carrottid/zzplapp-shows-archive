@@ -1,0 +1,61 @@
+{
+ "id": "PD155142",
+ "title": "최후진술",
+ "genre": "뮤지컬",
+ "from": "2020-03-13",
+ "to": "2020-05-31",
+ "venue": "예스24스테이지 2관",
+ "cast": [
+  "이승현",
+  "김순택",
+  "백형훈",
+  "노희찬",
+  "유성재",
+  "최성욱",
+  "현석준",
+  "최민우"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "갈릴레오 갈릴레이",
+   "name": "이승현"
+  },
+  {
+   "role": "갈릴레오 갈릴레이",
+   "name": "김순택"
+  },
+  {
+   "role": "갈릴레오 갈릴레이",
+   "name": "백형훈"
+  },
+  {
+   "role": "갈릴레오 갈릴레이",
+   "name": "노희찬"
+  },
+  {
+   "role": "윌리엄 셰익스피어",
+   "name": "유성재"
+  },
+  {
+   "role": "윌리엄 셰익스피어",
+   "name": "최성욱"
+  },
+  {
+   "role": "윌리엄 셰익스피어",
+   "name": "현석준"
+  },
+  {
+   "role": "윌리엄 셰익스피어",
+   "name": "최민우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220527212731/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=155142"
+ }
+}

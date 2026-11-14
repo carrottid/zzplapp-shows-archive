@@ -1,0 +1,74 @@
+{
+ "id": "TM1803",
+ "title": "노트르담 드 파리",
+ "genre": "뮤지컬",
+ "from": "2012-01-19",
+ "to": "2012-02-26",
+ "venue": "세종문화회관 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)26.jpg",
+ "cast": [
+  "맷 로랑(Matt Laurent)",
+  "캔디스 파리즈(Candice Parise)",
+  "로베르 마리엥(Robert Marien)",
+  "데니스 텐 베르헤르트(Dennis Ten Vergert)",
+  "이안 카를릴(Ian Carlyle)",
+  "스테판 웹(Stephen Webb)",
+  "릴리 제인 영(Lilly-Jane Young)",
+  "나이젤 리차드(Nigel Richards)",
+  "팀 드리에슨(Tim Driesen)",
+  "미리암 브루소(Myriam Brousseau)"
+ ],
+ "state": "공연완료",
+ "producer": "SBS, ㈜마스트엔터테인먼트, 인터파크INT",
+ "price": "VIP석 20만원/ R석 15만원 /S석 12만원 / A석 9만원 / B석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "콰지모도",
+   "name": "맷 로랑(Matt Laurent)"
+  },
+  {
+   "role": "에스메랄다",
+   "name": "캔디스 파리즈(Candice Parise)"
+  },
+  {
+   "role": "프롤로",
+   "name": "로베르 마리엥(Robert Marien)"
+  },
+  {
+   "role": "그랭구아르",
+   "name": "데니스 텐 베르헤르트(Dennis Ten Vergert)"
+  },
+  {
+   "role": "클로팽",
+   "name": "이안 카를릴(Ian Carlyle)"
+  },
+  {
+   "role": "페뷔스",
+   "name": "스테판 웹(Stephen Webb)"
+  },
+  {
+   "role": "플뢰르 드 리스",
+   "name": "릴리 제인 영(Lilly-Jane Young)"
+  },
+  {
+   "role": "콰지모도/프롤로",
+   "name": "나이젤 리차드(Nigel Richards)"
+  },
+  {
+   "role": "페뷔스/그랭구아르",
+   "name": "팀 드리에슨(Tim Driesen)"
+  },
+  {
+   "role": "에스메랄다/플뢰르 드 리스",
+   "name": "미리암 브루소(Myriam Brousseau)"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1803"
+ }
+}

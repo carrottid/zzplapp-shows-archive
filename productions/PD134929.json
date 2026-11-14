@@ -1,0 +1,61 @@
+{
+ "id": "PD134929",
+ "title": "햄릿 아바따",
+ "genre": "연극",
+ "from": "2018-12-07",
+ "to": "2018-12-16",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "임준식",
+  "구시연",
+  "강진휘",
+  "김충근",
+  "이미숙",
+  "추헌엽",
+  "백유진",
+  "이선"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "햄릿",
+   "name": "임준식"
+  },
+  {
+   "role": "오필리어",
+   "name": "구시연"
+  },
+  {
+   "role": "클로디어스, 광대1",
+   "name": "강진휘"
+  },
+  {
+   "role": "폴로니어스, 무덤지기, 광대2",
+   "name": "김충근"
+  },
+  {
+   "role": "무덤지기, 광대3",
+   "name": "이미숙"
+  },
+  {
+   "role": "호레이쇼, 광대4",
+   "name": "추헌엽"
+  },
+  {
+   "role": "",
+   "name": "백유진"
+  },
+  {
+   "role": "",
+   "name": "이선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240519152546/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=134929"
+ }
+}

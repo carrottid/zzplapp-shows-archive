@@ -1,0 +1,51 @@
+{
+ "id": "PD148321",
+ "title": "바람이 불어오는 곳",
+ "genre": "뮤지컬",
+ "from": "2019-11-15",
+ "to": "2020-01-05",
+ "venue": "대학로 SH 아트홀",
+ "cast": [
+  "박형규",
+  "황려진",
+  "언희",
+  "박두성",
+  "이현도",
+  "박신후"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이풍세",
+   "name": "박형규"
+  },
+  {
+   "role": "최고은",
+   "name": "황려진"
+  },
+  {
+   "role": "백은영",
+   "name": "언희"
+  },
+  {
+   "role": "김상백",
+   "name": "박두성"
+  },
+  {
+   "role": "홍영후",
+   "name": "이현도"
+  },
+  {
+   "role": "멀티맨",
+   "name": "박신후"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191021063247/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=148321"
+ }
+}

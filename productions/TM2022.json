@@ -1,0 +1,109 @@
+{
+ "id": "TM2022",
+ "title": "총각네 야채가게",
+ "genre": "뮤지컬",
+ "from": "2013-11-15",
+ "to": "2013-12-31",
+ "venue": "성수아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013cgn.jpg",
+ "cast": [
+  "무현",
+  "송욱경",
+  "김대현",
+  "홍희원",
+  "안재영",
+  "곽호웅",
+  "전민준(전역산)",
+  "박준후(박영필)",
+  "정가호",
+  "나종찬",
+  "황바울",
+  "서은광",
+  "백기범",
+  "구옥분",
+  "박예소",
+  "김아영",
+  "이명화"
+ ],
+ "state": "공연완료",
+ "producer": "라이브(주)",
+ "price": "R석 45,000원/ S석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이태성",
+   "name": "무현"
+  },
+  {
+   "role": "이태성",
+   "name": "송욱경"
+  },
+  {
+   "role": "이태성",
+   "name": "김대현"
+  },
+  {
+   "role": "박민석",
+   "name": "홍희원"
+  },
+  {
+   "role": "박민석",
+   "name": "안재영"
+  },
+  {
+   "role": "최윤민",
+   "name": "곽호웅"
+  },
+  {
+   "role": "최윤민",
+   "name": "전민준(전역산)"
+  },
+  {
+   "role": "손지환",
+   "name": "박준후(박영필)"
+  },
+  {
+   "role": "손지환",
+   "name": "정가호"
+  },
+  {
+   "role": "손지환",
+   "name": "나종찬"
+  },
+  {
+   "role": "박철진",
+   "name": "황바울"
+  },
+  {
+   "role": "박철진",
+   "name": "서은광"
+  },
+  {
+   "role": "박철진",
+   "name": "백기범"
+  },
+  {
+   "role": "멀티녀",
+   "name": "구옥분"
+  },
+  {
+   "role": "멀티녀",
+   "name": "박예소"
+  },
+  {
+   "role": "멀티녀",
+   "name": "김아영"
+  },
+  {
+   "role": "멀티녀",
+   "name": "이명화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2022"
+ }
+}

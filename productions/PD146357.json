@@ -1,0 +1,66 @@
+{
+ "id": "PD146357",
+ "title": "마산",
+ "genre": "연극",
+ "from": "2019-07-24",
+ "to": "2019-07-28",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "박시유",
+  "현은영",
+  "이지혜",
+  "홍현택",
+  "반인환",
+  "오세창",
+  "서유덕",
+  "홍성호",
+  "윤유정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "미스김",
+   "name": "박시유"
+  },
+  {
+   "role": "미스최",
+   "name": "현은영"
+  },
+  {
+   "role": "미스리",
+   "name": "이지혜"
+  },
+  {
+   "role": "박종기",
+   "name": "홍현택"
+  },
+  {
+   "role": "민대호",
+   "name": "반인환"
+  },
+  {
+   "role": "오춘식, 오광열",
+   "name": "오세창"
+  },
+  {
+   "role": "",
+   "name": "서유덕"
+  },
+  {
+   "role": "",
+   "name": "홍성호"
+  },
+  {
+   "role": "",
+   "name": "윤유정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250915194944/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=146357"
+ }
+}

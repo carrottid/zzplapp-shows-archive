@@ -1,0 +1,76 @@
+{
+ "id": "PD154773",
+ "title": "의자고치는 여인",
+ "genre": "연극",
+ "from": "2020-03-07",
+ "to": "2020-03-15",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "오주원",
+  "박상하",
+  "진여준",
+  "김준삼",
+  "김충근",
+  "전필재",
+  "박상현",
+  "신서진",
+  "한은비",
+  "한주연",
+  "진영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "의자 고치는 여인",
+   "name": "오주원"
+  },
+  {
+   "role": "약국남자(소년), 남자5",
+   "name": "박상하"
+  },
+  {
+   "role": "약국남자(소년), 남자5",
+   "name": "진여준"
+  },
+  {
+   "role": "남자1(사회자)",
+   "name": "김준삼"
+  },
+  {
+   "role": "남자2",
+   "name": "김충근"
+  },
+  {
+   "role": "남자3",
+   "name": "전필재"
+  },
+  {
+   "role": "남자4",
+   "name": "박상현"
+  },
+  {
+   "role": "",
+   "name": "신서진"
+  },
+  {
+   "role": "",
+   "name": "한은비"
+  },
+  {
+   "role": "",
+   "name": "한주연"
+  },
+  {
+   "role": "",
+   "name": "진영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241205220753/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=154773"
+ }
+}

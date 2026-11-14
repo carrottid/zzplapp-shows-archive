@@ -1,0 +1,89 @@
+{
+ "id": "TM999",
+ "title": "밑바닥에서",
+ "genre": "뮤지컬",
+ "from": "2005-06-01",
+ "to": "2006-01-11",
+ "venue": "예술극장 나무와물",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2005_밑바닥.jpg",
+ "cast": [
+  "황지영",
+  "이주원",
+  "이승현",
+  "김희원",
+  "홍소희",
+  "강초롱",
+  "남궁희",
+  "신효선",
+  "주현종",
+  "조은별",
+  "황성대",
+  "김선아",
+  "오수윤"
+ ],
+ "state": "공연완료",
+ "producer": "극단 자세레파토리,극단 나무와물",
+ "price": "일반 25,000원/대학생 20,000원/청소년 12,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "나타샤",
+   "name": "황지영"
+  },
+  {
+   "role": "나타샤",
+   "name": "이주원"
+  },
+  {
+   "role": "나타샤",
+   "name": "이승현"
+  },
+  {
+   "role": "나타샤",
+   "name": "김희원"
+  },
+  {
+   "role": "나타샤",
+   "name": "홍소희"
+  },
+  {
+   "role": "나타샤",
+   "name": "강초롱"
+  },
+  {
+   "role": "나타샤",
+   "name": "남궁희"
+  },
+  {
+   "role": "나타샤",
+   "name": "신효선"
+  },
+  {
+   "role": "나타샤",
+   "name": "주현종"
+  },
+  {
+   "role": "나타샤",
+   "name": "조은별"
+  },
+  {
+   "role": "싸친",
+   "name": "황성대"
+  },
+  {
+   "role": "싸친",
+   "name": "김선아"
+  },
+  {
+   "role": "싸친",
+   "name": "오수윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=999"
+ }
+}

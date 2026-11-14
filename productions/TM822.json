@@ -1,0 +1,109 @@
+{
+ "id": "TM822",
+ "title": "젊음의 행진",
+ "genre": "뮤지컬",
+ "from": "2007-06-29",
+ "to": "2007-08-12",
+ "venue": "나루아트센터 대공연장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091812522638dd45ca59fd43fc8a3ed31e8f1ce4c2.jpg",
+ "cast": [
+  "이정미",
+  "박민정",
+  "송용진",
+  "정동화",
+  "임기홍",
+  "하지승",
+  "최가인",
+  "전민준(전역산)",
+  "오대석",
+  "박은희",
+  "이윤희",
+  "임혜성",
+  "황세준",
+  "함승현",
+  "최선희",
+  "육현욱",
+  "박소리"
+ ],
+ "state": "공연완료",
+ "producer": "PMC프로덕션",
+ "price": "하이틴(VIP)석 6만원, 짝꿍(R)석 5만원, 행진(S)석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "영심이",
+   "name": "이정미"
+  },
+  {
+   "role": "영심이",
+   "name": "박민정"
+  },
+  {
+   "role": "왕경태",
+   "name": "송용진"
+  },
+  {
+   "role": "왕경태",
+   "name": "정동화"
+  },
+  {
+   "role": "형부",
+   "name": "임기홍"
+  },
+  {
+   "role": "교생",
+   "name": "하지승"
+  },
+  {
+   "role": "구월숙",
+   "name": "최가인"
+  },
+  {
+   "role": "이상남",
+   "name": "전민준(전역산)"
+  },
+  {
+   "role": "아빠",
+   "name": "오대석"
+  },
+  {
+   "role": "오순심",
+   "name": "박은희"
+  },
+  {
+   "role": "왕뇽은아나운서",
+   "name": "이윤희"
+  },
+  {
+   "role": "나잘난",
+   "name": "임혜성"
+  },
+  {
+   "role": "식칼&하이든",
+   "name": "황세준"
+  },
+  {
+   "role": "심쉰",
+   "name": "함승현"
+  },
+  {
+   "role": "이상언",
+   "name": "최선희"
+  },
+  {
+   "role": "황치훈",
+   "name": "육현욱"
+  },
+  {
+   "role": "박정자",
+   "name": "박소리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=822"
+ }
+}

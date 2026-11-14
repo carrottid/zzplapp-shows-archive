@@ -1,0 +1,41 @@
+{
+ "id": "PD111369",
+ "title": "억척어멈과 그의 자식들",
+ "genre": "연극",
+ "from": "2017-07-14",
+ "to": "2017-07-30",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "이현순",
+  "오다애",
+  "윤소희",
+  "김의환"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "억척어멈",
+   "name": "이현순"
+  },
+  {
+   "role": "카트린",
+   "name": "오다애"
+  },
+  {
+   "role": "이베트, 농부 부인",
+   "name": "윤소희"
+  },
+  {
+   "role": "아일립, 슈바이처카스, 젊은 농부",
+   "name": "김의환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240418021450/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=111369"
+ }
+}

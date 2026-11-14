@@ -1,0 +1,61 @@
+{
+ "id": "PD79382",
+ "title": "작업의 정석 2탄",
+ "genre": "연극",
+ "from": "2015-07-01",
+ "to": "2015-08-31",
+ "venue": "브릭스 씨어터 (구, 콘텐츠 그라운드)",
+ "cast": [
+  "김영환",
+  "임천석",
+  "양은진",
+  "김민서",
+  "박소라",
+  "이소희",
+  "김세홍",
+  "용진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "서민준",
+   "name": "김영환"
+  },
+  {
+   "role": "서민준",
+   "name": "임천석"
+  },
+  {
+   "role": "이수빈",
+   "name": "양은진"
+  },
+  {
+   "role": "이수빈",
+   "name": "김민서"
+  },
+  {
+   "role": "무명",
+   "name": "박소라"
+  },
+  {
+   "role": "무명",
+   "name": "이소희"
+  },
+  {
+   "role": "방식",
+   "name": "김세홍"
+  },
+  {
+   "role": "방식",
+   "name": "용진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250618000117/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=79382"
+ }
+}

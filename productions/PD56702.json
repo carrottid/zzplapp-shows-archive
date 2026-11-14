@@ -1,0 +1,86 @@
+{
+ "id": "PD56702",
+ "title": "벽을 뚫는 남자 - 인천",
+ "genre": "뮤지컬",
+ "from": "2014-02-15",
+ "to": "2014-02-16",
+ "venue": "인천문화예술회관 대공연장",
+ "cast": [
+  "이종혁",
+  "마이클 리",
+  "김동완",
+  "고창석",
+  "임철형",
+  "최수진",
+  "이소유",
+  "심재현",
+  "강연종",
+  "손승원",
+  "조진아",
+  "성열석",
+  "정지환"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "듀티율",
+   "name": "이종혁"
+  },
+  {
+   "role": "듀티율",
+   "name": "마이클 리"
+  },
+  {
+   "role": "듀티율",
+   "name": "김동완"
+  },
+  {
+   "role": "듀블",
+   "name": "고창석"
+  },
+  {
+   "role": "듀블",
+   "name": "임철형"
+  },
+  {
+   "role": "이사벨",
+   "name": "최수진"
+  },
+  {
+   "role": "야채장사(매춘부)",
+   "name": "이소유"
+  },
+  {
+   "role": "부장/죄수/검사/거지",
+   "name": "심재현"
+  },
+  {
+   "role": "화가",
+   "name": "강연종"
+  },
+  {
+   "role": "",
+   "name": "손승원"
+  },
+  {
+   "role": "",
+   "name": "조진아"
+  },
+  {
+   "role": "",
+   "name": "성열석"
+  },
+  {
+   "role": "",
+   "name": "정지환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241208193715/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=56702"
+ }
+}

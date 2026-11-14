@@ -1,0 +1,119 @@
+{
+ "id": "TM39",
+ "title": "유린타운",
+ "genre": "뮤지컬",
+ "from": "2005-12-17",
+ "to": "2006-02-26",
+ "venue": "대학로 문화공간 이다 1관(구 신시뮤지컬극장)",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_u.jpg",
+ "cast": [
+  "강필석",
+  "고명석",
+  "방정식",
+  "임은영",
+  "김경선",
+  "정현철",
+  "강윤석",
+  "김병진",
+  "심재현",
+  "진현희",
+  "백수지",
+  "하지원",
+  "지은택",
+  "김윤지",
+  "이동근",
+  "이병준",
+  "문종원",
+  "이학민",
+  "송영규"
+ ],
+ "state": "공연완료",
+ "producer": "신시뮤지컬컴퍼니",
+ "price": "R석 4만원/S석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "바비",
+   "name": "강필석"
+  },
+  {
+   "role": "바비",
+   "name": "고명석"
+  },
+  {
+   "role": "바비",
+   "name": "방정식"
+  },
+  {
+   "role": "바비",
+   "name": "임은영"
+  },
+  {
+   "role": "바비",
+   "name": "김경선"
+  },
+  {
+   "role": "바비",
+   "name": "정현철"
+  },
+  {
+   "role": "바비",
+   "name": "강윤석"
+  },
+  {
+   "role": "바비",
+   "name": "김병진"
+  },
+  {
+   "role": "바비",
+   "name": "심재현"
+  },
+  {
+   "role": "바비",
+   "name": "진현희"
+  },
+  {
+   "role": "바비",
+   "name": "백수지"
+  },
+  {
+   "role": "바비",
+   "name": "하지원"
+  },
+  {
+   "role": "바비",
+   "name": "지은택"
+  },
+  {
+   "role": "바비",
+   "name": "김윤지"
+  },
+  {
+   "role": "바비",
+   "name": "이동근"
+  },
+  {
+   "role": "바비",
+   "name": "이병준"
+  },
+  {
+   "role": "바비",
+   "name": "문종원"
+  },
+  {
+   "role": "바비",
+   "name": "이학민"
+  },
+  {
+   "role": "바비",
+   "name": "송영규"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=39"
+ }
+}

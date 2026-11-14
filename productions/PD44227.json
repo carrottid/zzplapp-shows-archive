@@ -1,0 +1,76 @@
+{
+ "id": "PD44227",
+ "title": "그와 그녀의 목요일 - 대구",
+ "genre": "연극",
+ "from": "2013-02-16",
+ "to": "2013-02-17",
+ "venue": "대구 수성아트피아 용지홀",
+ "cast": [
+  "정재은",
+  "배종옥",
+  "조재현",
+  "정웅인",
+  "성열석",
+  "나경민",
+  "김수량",
+  "조윤지",
+  "신유주",
+  "김정원",
+  "이예슬"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "연옥",
+   "name": "정재은"
+  },
+  {
+   "role": "연옥",
+   "name": "배종옥"
+  },
+  {
+   "role": "정민",
+   "name": "조재현"
+  },
+  {
+   "role": "정민",
+   "name": "정웅인"
+  },
+  {
+   "role": "남자",
+   "name": "성열석"
+  },
+  {
+   "role": "남자",
+   "name": "나경민"
+  },
+  {
+   "role": "덕수",
+   "name": "김수량"
+  },
+  {
+   "role": "여자",
+   "name": "조윤지"
+  },
+  {
+   "role": "여자",
+   "name": "신유주"
+  },
+  {
+   "role": "이경",
+   "name": "김정원"
+  },
+  {
+   "role": "이경",
+   "name": "이예슬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20130128091217/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=44227"
+ }
+}

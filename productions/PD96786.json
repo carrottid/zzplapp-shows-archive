@@ -1,0 +1,51 @@
+{
+ "id": "PD96786",
+ "title": "누가 사랑을 아름답다 했는가",
+ "genre": "연극",
+ "from": "2016-08-17",
+ "to": "2016-08-28",
+ "venue": "나온 씨어터",
+ "cast": [
+  "맹주영",
+  "조창우",
+  "이재혜",
+  "최원석",
+  "황기석",
+  "신시온"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "나발",
+   "name": "맹주영"
+  },
+  {
+   "role": "동태",
+   "name": "조창우"
+  },
+  {
+   "role": "수녀",
+   "name": "이재혜"
+  },
+  {
+   "role": "승호",
+   "name": "최원석"
+  },
+  {
+   "role": "나발 아버지",
+   "name": "황기석"
+  },
+  {
+   "role": "나발 어머니",
+   "name": "신시온"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250518012109/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=96786"
+ }
+}

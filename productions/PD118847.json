@@ -1,0 +1,66 @@
+{
+ "id": "PD118847",
+ "title": "지금도 가슴 설렌다",
+ "genre": "연극",
+ "from": "2017-12-15",
+ "to": "2018-01-14",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "구자승",
+  "조주현",
+  "최정화",
+  "나종민",
+  "하지웅",
+  "김하리",
+  "이세영",
+  "이랑",
+  "한창현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "옆집 할아버지",
+   "name": "구자승"
+  },
+  {
+   "role": "달리 아빠",
+   "name": "조주현"
+  },
+  {
+   "role": "달리 엄마",
+   "name": "최정화"
+  },
+  {
+   "role": "할아버지",
+   "name": "나종민"
+  },
+  {
+   "role": "둘째 삼촌",
+   "name": "하지웅"
+  },
+  {
+   "role": "셋째 며느리",
+   "name": "김하리"
+  },
+  {
+   "role": "",
+   "name": "이세영"
+  },
+  {
+   "role": "",
+   "name": "이랑"
+  },
+  {
+   "role": "",
+   "name": "한창현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220929041633/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=118847"
+ }
+}

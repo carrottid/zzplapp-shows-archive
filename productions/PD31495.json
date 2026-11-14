@@ -1,0 +1,46 @@
+{
+ "id": "PD31495",
+ "title": "젊음의 행진 - 원주",
+ "genre": "뮤지컬",
+ "from": "2012-02-04",
+ "to": "2012-02-05",
+ "venue": "원주 백운아트홀",
+ "cast": [
+  "이정미",
+  "김도현",
+  "최영화",
+  "박훈",
+  "전역산"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "오영심",
+   "name": "이정미"
+  },
+  {
+   "role": "왕경태",
+   "name": "김도현"
+  },
+  {
+   "role": "담임/김지현",
+   "name": "최영화"
+  },
+  {
+   "role": "형부",
+   "name": "박훈"
+  },
+  {
+   "role": "상남/현진영/핑계걸",
+   "name": "전역산"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20140427032530/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=31495"
+ }
+}

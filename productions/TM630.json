@@ -1,0 +1,58 @@
+{
+ "id": "TM630",
+ "title": "지하철1호선",
+ "genre": "뮤지컬",
+ "from": "2003-01-07",
+ "to": "2003-02-09",
+ "venue": "학전그린",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_1_1.jpg",
+ "cast": [
+  "방진의",
+  "서범석",
+  "이미옥",
+  "이주원",
+  "이황의",
+  "임진웅",
+  "최민철"
+ ],
+ "state": "공연완료",
+ "producer": "극단 학전",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "날탕/청소부/아나운서/소녀가장 등",
+   "name": "방진의"
+  },
+  {
+   "role": "날탕/청소부/아나운서/소녀가장 등",
+   "name": "서범석"
+  },
+  {
+   "role": "날탕/청소부/아나운서/소녀가장 등",
+   "name": "이미옥"
+  },
+  {
+   "role": "날탕/청소부/아나운서/소녀가장 등",
+   "name": "이주원"
+  },
+  {
+   "role": "날탕/청소부/아나운서/소녀가장 등",
+   "name": "이황의"
+  },
+  {
+   "role": "날탕/청소부/아나운서/소녀가장 등",
+   "name": "임진웅"
+  },
+  {
+   "role": "날탕/청소부/아나운서/소녀가장 등",
+   "name": "최민철"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=630"
+ }
+}

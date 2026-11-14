@@ -1,0 +1,56 @@
+{
+ "id": "PD52800",
+ "title": "당통의 죽음",
+ "genre": "연극",
+ "from": "2013-11-03",
+ "to": "2013-11-17",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "박지일",
+  "윤상화",
+  "이자람",
+  "문형주",
+  "서광일",
+  "임진웅",
+  "김준호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "당통",
+   "name": "박지일"
+  },
+  {
+   "role": "로베스피에르",
+   "name": "윤상화"
+  },
+  {
+   "role": "거리 광대",
+   "name": "이자람"
+  },
+  {
+   "role": "줄리",
+   "name": "문형주"
+  },
+  {
+   "role": "콜로 데르브와",
+   "name": "서광일"
+  },
+  {
+   "role": "에로-세쉘",
+   "name": "임진웅"
+  },
+  {
+   "role": "",
+   "name": "김준호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704035042/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=52800"
+ }
+}

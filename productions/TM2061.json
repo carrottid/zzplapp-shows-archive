@@ -1,0 +1,69 @@
+{
+ "id": "TM2061",
+ "title": "글루미데이",
+ "genre": "뮤지컬",
+ "from": "2014-02-28",
+ "to": "2014-04-27",
+ "venue": "DCF대명문화공장 1관 비발디파크홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2015113001181188WNXX2D06FN3RX8.jpg",
+ "cast": [
+  "정문성",
+  "임병근",
+  "김경수",
+  "안유진",
+  "임강희",
+  "곽선영",
+  "정민",
+  "이규형",
+  "신성민"
+ ],
+ "state": "공연완료",
+ "producer": "네오프로덕션, 대명컬처테인먼트",
+ "price": "R석 60,000원/ S석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "김우진",
+   "name": "정문성"
+  },
+  {
+   "role": "김우진",
+   "name": "임병근"
+  },
+  {
+   "role": "김우진",
+   "name": "김경수"
+  },
+  {
+   "role": "윤심덕",
+   "name": "안유진"
+  },
+  {
+   "role": "윤심덕",
+   "name": "임강희"
+  },
+  {
+   "role": "윤심덕",
+   "name": "곽선영"
+  },
+  {
+   "role": "사내",
+   "name": "정민"
+  },
+  {
+   "role": "사내",
+   "name": "이규형"
+  },
+  {
+   "role": "사내",
+   "name": "신성민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2061"
+ }
+}

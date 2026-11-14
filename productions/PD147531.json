@@ -1,0 +1,81 @@
+{
+ "id": "PD147531",
+ "title": "이선동 클린센터",
+ "genre": "뮤지컬",
+ "from": "2019-10-04",
+ "to": "2019-11-10",
+ "venue": "대학로 SH 아트홀",
+ "cast": [
+  "김바다",
+  "기세중",
+  "강정우",
+  "양승리",
+  "이봄소리",
+  "금조",
+  "차청화",
+  "이현진",
+  "장격수",
+  "최영우",
+  "김동현",
+  "김방언"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이선동",
+   "name": "김바다"
+  },
+  {
+   "role": "이선동",
+   "name": "기세중"
+  },
+  {
+   "role": "정규",
+   "name": "강정우"
+  },
+  {
+   "role": "정규",
+   "name": "양승리"
+  },
+  {
+   "role": "보라",
+   "name": "이봄소리"
+  },
+  {
+   "role": "보라",
+   "name": "금조"
+  },
+  {
+   "role": "할머니 외",
+   "name": "차청화"
+  },
+  {
+   "role": "할머니 외",
+   "name": "이현진"
+  },
+  {
+   "role": "강형사 외",
+   "name": "장격수"
+  },
+  {
+   "role": "강형사 외",
+   "name": "최영우"
+  },
+  {
+   "role": "문형사 외",
+   "name": "김동현"
+  },
+  {
+   "role": "문형사 외",
+   "name": "김방언"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250803124912/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=147531"
+ }
+}

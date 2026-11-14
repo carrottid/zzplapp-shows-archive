@@ -1,0 +1,46 @@
+{
+ "id": "PD157878",
+ "title": "어림없는 청춘",
+ "genre": "뮤지컬",
+ "from": "2020-07-25",
+ "to": "2020-08-09",
+ "venue": "CJ 아지트 대학로(구 SM아트홀)",
+ "cast": [
+  "현석준",
+  "김지웅",
+  "박상윤",
+  "윤승우",
+  "지승태"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "정완",
+   "name": "현석준"
+  },
+  {
+   "role": "나주영",
+   "name": "김지웅"
+  },
+  {
+   "role": "오강식",
+   "name": "박상윤"
+  },
+  {
+   "role": "차원재",
+   "name": "윤승우"
+  },
+  {
+   "role": "김민석",
+   "name": "지승태"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210301090627/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=157878"
+ }
+}

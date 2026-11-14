@@ -1,0 +1,56 @@
+{
+ "id": "PD15710",
+ "title": "심판",
+ "genre": "연극",
+ "from": "2010-04-30",
+ "to": "2010-05-09",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "박윤희",
+  "류순철",
+  "채희재",
+  "이승호",
+  "반석진",
+  "유정기",
+  "이영석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "요셉K",
+   "name": "박윤희"
+  },
+  {
+   "role": "판사",
+   "name": "류순철"
+  },
+  {
+   "role": "변호사",
+   "name": "채희재"
+  },
+  {
+   "role": "아저씨",
+   "name": "이승호"
+  },
+  {
+   "role": "경감",
+   "name": "반석진"
+  },
+  {
+   "role": "신부",
+   "name": "유정기"
+  },
+  {
+   "role": "",
+   "name": "이영석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704013333/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=15710"
+ }
+}

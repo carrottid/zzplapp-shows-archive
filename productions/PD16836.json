@@ -1,0 +1,46 @@
+{
+ "id": "PD16836",
+ "title": "우리는 영원한 챔피언",
+ "genre": "연극",
+ "from": "2010-05-13",
+ "to": "2010-05-30",
+ "venue": "나온 씨어터",
+ "cast": [
+  "임형택",
+  "유하복",
+  "김승언",
+  "고승수",
+  "오대석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "코치",
+   "name": "임형택"
+  },
+  {
+   "role": "필 로마노",
+   "name": "유하복"
+  },
+  {
+   "role": "제임스 데일리",
+   "name": "김승언"
+  },
+  {
+   "role": "조지 시콥스키",
+   "name": "고승수"
+  },
+  {
+   "role": "톰 데일리",
+   "name": "오대석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704020344/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=16836"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "id": "TM1304",
+ "title": "오! 당신이 잠든 사이",
+ "genre": "뮤지컬",
+ "from": "2006-09-01",
+ "to": "2006-12-10",
+ "venue": "예술극장 나무와물",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_oh2006.JPG",
+ "cast": [
+  "전진오",
+  "유하나",
+  "김지성",
+  "김재범",
+  "김문성",
+  "오연서"
+ ],
+ "state": "공연완료",
+ "producer": "극단 연우무대",
+ "price": "일반 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "베드로",
+   "name": "전진오"
+  },
+  {
+   "role": "베드로",
+   "name": "유하나"
+  },
+  {
+   "role": "베드로",
+   "name": "김지성"
+  },
+  {
+   "role": "베드로",
+   "name": "김재범"
+  },
+  {
+   "role": "베드로",
+   "name": "김문성"
+  },
+  {
+   "role": "베드로",
+   "name": "오연서"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1304"
+ }
+}

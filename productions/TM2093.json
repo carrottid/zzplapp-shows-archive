@@ -1,0 +1,94 @@
+{
+ "id": "TM2093",
+ "title": "주그리우스리",
+ "genre": "뮤지컬",
+ "from": "2014-05-30",
+ "to": "2014-08-17",
+ "venue": "예그린씨어터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20140530114533Y0TG02OHG02UQ216.jpg",
+ "cast": [
+  "안신우",
+  "윤승욱",
+  "고상호",
+  "고훈정",
+  "허은미",
+  "김샛별",
+  "정영민",
+  "서정식",
+  "박기원",
+  "정현준",
+  "김보람",
+  "서미정",
+  "허순미",
+  "박회경"
+ ],
+ "state": "공연완료",
+ "producer": "(주)두왑/예그린씨어터",
+ "price": "일반석 50,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "천왕차사",
+   "name": "안신우"
+  },
+  {
+   "role": "천왕차사",
+   "name": "윤승욱"
+  },
+  {
+   "role": "지왕차사",
+   "name": "고상호"
+  },
+  {
+   "role": "지왕차사",
+   "name": "고훈정"
+  },
+  {
+   "role": "김아연(미혼모)",
+   "name": "허은미"
+  },
+  {
+   "role": "김아연(미혼모)",
+   "name": "김샛별"
+  },
+  {
+   "role": "공벽산",
+   "name": "정영민"
+  },
+  {
+   "role": "공벽산",
+   "name": "서정식"
+  },
+  {
+   "role": "바바라",
+   "name": "박기원"
+  },
+  {
+   "role": "바바라",
+   "name": "정현준"
+  },
+  {
+   "role": "박초아",
+   "name": "김보람"
+  },
+  {
+   "role": "박초아",
+   "name": "서미정"
+  },
+  {
+   "role": "정수할멈",
+   "name": "허순미"
+  },
+  {
+   "role": "정수할멈",
+   "name": "박회경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2093"
+ }
+}

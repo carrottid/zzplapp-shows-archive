@@ -1,0 +1,34 @@
+{
+ "id": "TM1612",
+ "title": "갬블 인 러브",
+ "genre": "뮤지컬",
+ "from": "2010-06-04",
+ "to": "2010-07-31",
+ "venue": "하다소극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_갬블43x61포스터최종.jpg",
+ "cast": [
+  "박성훈",
+  "배은지"
+ ],
+ "state": "공연완료",
+ "producer": "극단 MET",
+ "price": "자유석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "나구라",
+   "name": "박성훈"
+  },
+  {
+   "role": "진정해",
+   "name": "배은지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1612"
+ }
+}

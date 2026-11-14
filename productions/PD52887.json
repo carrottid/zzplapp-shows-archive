@@ -1,0 +1,31 @@
+{
+ "id": "PD52887",
+ "title": "동토유케",
+ "genre": "연극",
+ "from": "2013-10-04",
+ "to": "2013-10-13",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "정연준",
+  "우승현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아길수",
+   "name": "정연준"
+  },
+  {
+   "role": "김지숙",
+   "name": "우승현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171106122455/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=52887"
+ }
+}

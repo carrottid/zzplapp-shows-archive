@@ -1,0 +1,96 @@
+{
+ "id": "PD92212",
+ "title": "플라토노프",
+ "genre": "연극",
+ "from": "2016-05-06",
+ "to": "2016-05-15",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "권성덕",
+  "장보규",
+  "김응수",
+  "김동영",
+  "최승일",
+  "박정학",
+  "양창완",
+  "김희라",
+  "김은석",
+  "구혜령",
+  "김동균",
+  "정연심",
+  "권민중",
+  "서지유",
+  "김현주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이바노비취",
+   "name": "권성덕"
+  },
+  {
+   "role": "쉐르부르크",
+   "name": "장보규"
+  },
+  {
+   "role": "뻬트린",
+   "name": "김응수"
+  },
+  {
+   "role": "야코프",
+   "name": "김동영"
+  },
+  {
+   "role": "그라골예프",
+   "name": "최승일"
+  },
+  {
+   "role": "니꼴라이",
+   "name": "박정학"
+  },
+  {
+   "role": "",
+   "name": "양창완"
+  },
+  {
+   "role": "",
+   "name": "김희라"
+  },
+  {
+   "role": "",
+   "name": "김은석"
+  },
+  {
+   "role": "",
+   "name": "구혜령"
+  },
+  {
+   "role": "",
+   "name": "김동균"
+  },
+  {
+   "role": "",
+   "name": "정연심"
+  },
+  {
+   "role": "",
+   "name": "권민중"
+  },
+  {
+   "role": "",
+   "name": "서지유"
+  },
+  {
+   "role": "",
+   "name": "김현주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251010021325/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=92212"
+ }
+}

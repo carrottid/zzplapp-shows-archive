@@ -1,0 +1,81 @@
+{
+ "id": "PD91236",
+ "title": "심청",
+ "genre": "연극",
+ "from": "2016-04-07",
+ "to": "2016-05-22",
+ "venue": "나온 씨어터",
+ "cast": [
+  "송흥진",
+  "박인지",
+  "정새별",
+  "이길",
+  "신안진",
+  "윤대홍",
+  "이두성",
+  "박창순",
+  "김승언",
+  "강명환",
+  "김솔지",
+  "강경호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "선주",
+   "name": "송흥진"
+  },
+  {
+   "role": "간난",
+   "name": "박인지"
+  },
+  {
+   "role": "간난",
+   "name": "정새별"
+  },
+  {
+   "role": "장남",
+   "name": "이길"
+  },
+  {
+   "role": "차남",
+   "name": "신안진"
+  },
+  {
+   "role": "삼남",
+   "name": "윤대홍"
+  },
+  {
+   "role": "선주보좌",
+   "name": "이두성"
+  },
+  {
+   "role": "",
+   "name": "박창순"
+  },
+  {
+   "role": "",
+   "name": "김승언"
+  },
+  {
+   "role": "",
+   "name": "강명환"
+  },
+  {
+   "role": "",
+   "name": "김솔지"
+  },
+  {
+   "role": "",
+   "name": "강경호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250710231317/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=91236"
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "id": "PD125002",
+ "title": "연극열전7 - 창문 넘어 도망친 100세 노인",
+ "genre": "연극",
+ "from": "2018-06-12",
+ "to": "2018-09-02",
+ "venue": "대학로 자유극장",
+ "cast": [
+  "서현철",
+  "오용",
+  "양소민",
+  "이진희",
+  "김도빈",
+  "주민진",
+  "손지윤",
+  "이형훈",
+  "장이주",
+  "권동호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "알란",
+   "name": "서현철"
+  },
+  {
+   "role": "알란",
+   "name": "오용"
+  },
+  {
+   "role": "알란 1",
+   "name": "양소민"
+  },
+  {
+   "role": "알란 1",
+   "name": "이진희"
+  },
+  {
+   "role": "알란 2",
+   "name": "김도빈"
+  },
+  {
+   "role": "알란 2",
+   "name": "주민진"
+  },
+  {
+   "role": "알란 3",
+   "name": "손지윤"
+  },
+  {
+   "role": "알란 3",
+   "name": "이형훈"
+  },
+  {
+   "role": "알란 4",
+   "name": "장이주"
+  },
+  {
+   "role": "알란 4",
+   "name": "권동호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260202030529/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=125002"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "id": "PD145079",
+ "title": "오펀스",
+ "genre": "연극",
+ "from": "2019-08-24",
+ "to": "2019-11-17",
+ "venue": "예스24아트원 1관",
+ "cast": [
+  "박지일",
+  "정경순",
+  "김뢰하",
+  "김도빈",
+  "최유하",
+  "박정복",
+  "김바다",
+  "최수진",
+  "현석준"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "해롤드",
+   "name": "박지일"
+  },
+  {
+   "role": "해롤드",
+   "name": "정경순"
+  },
+  {
+   "role": "해롤드",
+   "name": "김뢰하"
+  },
+  {
+   "role": "트릿",
+   "name": "김도빈"
+  },
+  {
+   "role": "트릿",
+   "name": "최유하"
+  },
+  {
+   "role": "트릿",
+   "name": "박정복"
+  },
+  {
+   "role": "필립",
+   "name": "김바다"
+  },
+  {
+   "role": "필립",
+   "name": "최수진"
+  },
+  {
+   "role": "필립",
+   "name": "현석준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260212055827/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=145079"
+ }
+}

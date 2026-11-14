@@ -1,0 +1,49 @@
+{
+ "id": "TM1867",
+ "title": "엄마, The Memory Show",
+ "genre": "뮤지컬",
+ "from": "2012-08-28",
+ "to": "2012-11-25",
+ "venue": "대학로 문화공간 엘림홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster!!.jpg",
+ "cast": [
+  "민경옥",
+  "진도희",
+  "배해선",
+  "김미려",
+  "최윤정"
+ ],
+ "state": "공연완료",
+ "producer": "워터게이트미디어",
+ "price": "R석 6만원 / S석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "엄마",
+   "name": "민경옥"
+  },
+  {
+   "role": "엄마",
+   "name": "진도희"
+  },
+  {
+   "role": "딸",
+   "name": "배해선"
+  },
+  {
+   "role": "딸",
+   "name": "김미려"
+  },
+  {
+   "role": "딸",
+   "name": "최윤정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1867"
+ }
+}

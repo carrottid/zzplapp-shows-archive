@@ -1,0 +1,45 @@
+{
+ "date": "2023-06-19",
+ "sessions": [
+  {
+   "id": "PF219898",
+   "title": "제31회 젊은연극제, 벚꽃동산",
+   "genre": "연극",
+   "venue": "열린극장",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF216609",
+   "title": "할란카운티",
+   "genre": "뮤지컬",
+   "venue": "한전아트센터",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF219898",
+   "title": "제31회 젊은연극제, 벚꽃동산",
+   "genre": "연극",
+   "venue": "열린극장",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF218294",
+   "title": "백작",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#051222",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "id": "TM1661",
+ "title": "엣지스",
+ "genre": "뮤지컬",
+ "from": "2010-11-23",
+ "to": "2011-01-16",
+ "venue": "더굿시어터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_EDGES_Poster_01-s.jpg",
+ "cast": [
+  "강필석",
+  "최재웅",
+  "최유하",
+  "오소연"
+ ],
+ "state": "공연완료",
+ "producer": "쇼팩",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "남자1",
+   "name": "강필석"
+  },
+  {
+   "role": "남자2",
+   "name": "최재웅"
+  },
+  {
+   "role": "여자1",
+   "name": "최유하"
+  },
+  {
+   "role": "여자2",
+   "name": "오소연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1661"
+ }
+}

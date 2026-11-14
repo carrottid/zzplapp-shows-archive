@@ -1,0 +1,34 @@
+{
+ "productions": [
+  {
+   "id": "TM1030",
+   "title": "명성황후",
+   "genre": "뮤지컬",
+   "from": "1995-12-30",
+   "to": "1996-01-14",
+   "venue": "예술의전당 오페라극장",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_cover22.JPG",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#43232F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1092",
+   "title": "지하철1호선",
+   "genre": "뮤지컬",
+   "from": "1995-05-01",
+   "to": "1995-07-31",
+   "venue": "학전소극장",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_ji.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#140C14",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

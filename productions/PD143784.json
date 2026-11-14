@@ -1,0 +1,36 @@
+{
+ "id": "PD143784",
+ "title": "제2회 페미니즘 연극제 - 너에게",
+ "genre": "연극",
+ "from": "2019-07-04",
+ "to": "2019-07-07",
+ "venue": "홍익대 대학로 아트센터 소극장",
+ "cast": [
+  "임영준",
+  "황순미",
+  "박지아"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "콘스탄티노플",
+   "name": "임영준"
+  },
+  {
+   "role": "엘레나",
+   "name": "황순미"
+  },
+  {
+   "role": "모건",
+   "name": "박지아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210305010136/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=143784"
+ }
+}

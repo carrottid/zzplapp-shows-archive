@@ -1,0 +1,99 @@
+{
+ "id": "TM1748",
+ "title": "스트릿 라이프",
+ "genre": "뮤지컬",
+ "from": "2011-08-03",
+ "to": "2011-08-28",
+ "venue": "CGV 팝아트홀 with 신한카드",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster4.jpg",
+ "cast": [
+  "이재원",
+  "정원영",
+  "강홍석",
+  "오소연",
+  "정수한",
+  "함승현",
+  "김지민",
+  "나미희",
+  "주민진",
+  "최선희",
+  "곽호웅",
+  "배화연",
+  "김진호",
+  "김세훈",
+  "김동현"
+ ],
+ "state": "공연완료",
+ "producer": "CJ E&M",
+ "price": "VIP석 7만원, R석 6만원, S석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "강재민",
+   "name": "이재원"
+  },
+  {
+   "role": "이수창",
+   "name": "정원영"
+  },
+  {
+   "role": "정훈",
+   "name": "강홍석"
+  },
+  {
+   "role": "이세희",
+   "name": "오소연"
+  },
+  {
+   "role": "이태일/정사장",
+   "name": "정수한"
+  },
+  {
+   "role": "김종혁",
+   "name": "함승현"
+  },
+  {
+   "role": "미리",
+   "name": "김지민"
+  },
+  {
+   "role": "정혜원",
+   "name": "나미희"
+  },
+  {
+   "role": "태욱",
+   "name": "주민진"
+  },
+  {
+   "role": "세리",
+   "name": "최선희"
+  },
+  {
+   "role": "앙상블/이태일 조수",
+   "name": "곽호웅"
+  },
+  {
+   "role": "앙상블",
+   "name": "배화연"
+  },
+  {
+   "role": "앙상블",
+   "name": "김진호"
+  },
+  {
+   "role": "앙상블",
+   "name": "김세훈"
+  },
+  {
+   "role": "앙상블",
+   "name": "김동현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1748"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "id": "TM748",
+ "title": "디노 앤 플로라",
+ "genre": "뮤지컬",
+ "from": "2006-11-05",
+ "to": "2006-11-26",
+ "venue": "유시어터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020092804115988f55e4c597943dc9f806c694eb59ae4.jpg",
+ "cast": [
+  "서영주",
+  "양소민",
+  "김명희",
+  "강유",
+  "최승렬",
+  "장승조(장현덕)"
+ ],
+ "state": "공연완료",
+ "producer": "극단 툴",
+ "price": "일반 3만원 / 초중고생 2만원 / 프리뷰 1만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "디노",
+   "name": "서영주"
+  },
+  {
+   "role": "플로라",
+   "name": "양소민"
+  },
+  {
+   "role": "모로",
+   "name": "김명희"
+  },
+  {
+   "role": "치키",
+   "name": "강유"
+  },
+  {
+   "role": "디루",
+   "name": "최승렬"
+  },
+  {
+   "role": "버기",
+   "name": "장승조(장현덕)"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=748"
+ }
+}

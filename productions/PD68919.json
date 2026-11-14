@@ -1,0 +1,61 @@
+{
+ "id": "PD68919",
+ "title": "오아시스 세탁소 습격사건 2",
+ "genre": "연극",
+ "from": "2014-12-16",
+ "to": "2015-06-14",
+ "venue": "미마지 아트센터 풀빛극장",
+ "cast": [
+  "승의열",
+  "김민체",
+  "문상희",
+  "송요셉",
+  "정종훈",
+  "이재훤",
+  "공혜진",
+  "정혜지"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "강태국",
+   "name": "승의열"
+  },
+  {
+   "role": "장민숙할머니",
+   "name": "김민체"
+  },
+  {
+   "role": "장민숙할머니",
+   "name": "문상희"
+  },
+  {
+   "role": "염소팔고시원",
+   "name": "송요셉"
+  },
+  {
+   "role": "염소팔고시원",
+   "name": "정종훈"
+  },
+  {
+   "role": "택시욱기사근심남강태국의 아버지",
+   "name": "이재훤"
+  },
+  {
+   "role": "강대영박아주",
+   "name": "공혜진"
+  },
+  {
+   "role": "강대영박아주",
+   "name": "정혜지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230515090015/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=68919"
+ }
+}

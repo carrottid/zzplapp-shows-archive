@@ -1,0 +1,41 @@
+{
+ "id": "PD20755",
+ "title": "유리알 눈",
+ "genre": "연극",
+ "from": "2011-02-23",
+ "to": "2011-03-13",
+ "venue": "산울림 소극장",
+ "cast": [
+  "이상구",
+  "박현미",
+  "김정은",
+  "이서림"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "다니엘(아빠)",
+   "name": "이상구"
+  },
+  {
+   "role": "쥬디트(엄마)",
+   "name": "박현미"
+  },
+  {
+   "role": "브리지트(큰딸)",
+   "name": "김정은"
+  },
+  {
+   "role": "에스텔(작은딸)",
+   "name": "이서림"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170908061036/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=20755"
+ }
+}

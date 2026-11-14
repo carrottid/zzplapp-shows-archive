@@ -1,0 +1,49 @@
+{
+ "id": "TM1909",
+ "title": "NEW 사랑은 비를 타고",
+ "genre": "뮤지컬",
+ "from": "2012-11-06",
+ "to": "2013-01-13",
+ "venue": "백암아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster1(s)0.JPG",
+ "cast": [
+  "이든",
+  "김태유",
+  "윤석현",
+  "김이삭",
+  "남영주"
+ ],
+ "state": "공연완료",
+ "producer": "(주)팍스컬쳐",
+ "price": "R석 6만6천원 / S석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이동화",
+   "name": "이든"
+  },
+  {
+   "role": "이동화",
+   "name": "김태유"
+  },
+  {
+   "role": "이동령",
+   "name": "윤석현"
+  },
+  {
+   "role": "이동령",
+   "name": "김이삭"
+  },
+  {
+   "role": "액팅 코러스",
+   "name": "남영주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1909"
+ }
+}

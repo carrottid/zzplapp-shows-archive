@@ -1,0 +1,124 @@
+{
+ "id": "TM2161",
+ "title": "드림걸즈",
+ "genre": "뮤지컬",
+ "from": "2015-02-26",
+ "to": "2015-05-25",
+ "venue": "샤롯데씨어터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201501270237156135AXDCY55838N8.jpg",
+ "cast": [
+  "차지연",
+  "박혜나",
+  "최현선",
+  "윤공주",
+  "박은미",
+  "정유지",
+  "김도현",
+  "김준현",
+  "최민철",
+  "박재윤",
+  "전나혜(난아)",
+  "문태유",
+  "유승엽",
+  "이종문",
+  "강웅곤",
+  "심건우",
+  "장원령",
+  "이화진",
+  "김연우",
+  "박예음"
+ ],
+ "state": "공연완료",
+ "producer": "오디컴퍼니㈜, 롯데엔터테인먼트",
+ "price": "VIP석 14만원, R석 11만원, S석 8만원, A석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "에피 화이트 (Effie White)",
+   "name": "차지연"
+  },
+  {
+   "role": "에피 화이트 (Effie White)",
+   "name": "박혜나"
+  },
+  {
+   "role": "에피 화이트 (Effie White)",
+   "name": "최현선"
+  },
+  {
+   "role": "디나 존스 (Deena Jones)",
+   "name": "윤공주"
+  },
+  {
+   "role": "디나 존스 (Deena Jones)",
+   "name": "박은미"
+  },
+  {
+   "role": "디나 존스 (Deena Jones)",
+   "name": "정유지"
+  },
+  {
+   "role": "커티스 테일러 주니어 (Curtis Taylor JR)",
+   "name": "김도현"
+  },
+  {
+   "role": "커티스 테일러 주니어 (Curtis Taylor JR)",
+   "name": "김준현"
+  },
+  {
+   "role": "제임스 썬더 얼리 (James Thunder Early)",
+   "name": "최민철"
+  },
+  {
+   "role": "제임스 썬더 얼리 (James Thunder Early)",
+   "name": "박재윤"
+  },
+  {
+   "role": "로렐 로빈슨 (Lorrell Robinson)",
+   "name": "전나혜(난아)"
+  },
+  {
+   "role": "씨씨 화이트 (C.C. White)",
+   "name": "문태유"
+  },
+  {
+   "role": "씨씨 화이트 (C.C. White)",
+   "name": "유승엽"
+  },
+  {
+   "role": "마티 (Marty)",
+   "name": "이종문"
+  },
+  {
+   "role": "미쉘 모리스 (Michelle Moris)",
+   "name": "강웅곤"
+  },
+  {
+   "role": "웨인(Wayne)",
+   "name": "심건우"
+  },
+  {
+   "role": "타이니 조 딕슨(Tiny Joe Dixon)",
+   "name": "장원령"
+  },
+  {
+   "role": "매직(Magic)",
+   "name": "이화진"
+  },
+  {
+   "role": "매직(Magic)",
+   "name": "김연우"
+  },
+  {
+   "role": "매직(Magic)",
+   "name": "박예음"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2161"
+ }
+}

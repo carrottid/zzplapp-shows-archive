@@ -1,0 +1,41 @@
+{
+ "id": "PD146649",
+ "title": "당신의 방",
+ "genre": "연극",
+ "from": "2019-08-23",
+ "to": "2019-08-25",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "허현",
+  "이윤주",
+  "이정국",
+  "이승철"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김하나",
+   "name": "허현"
+  },
+  {
+   "role": "김하나",
+   "name": "이윤주"
+  },
+  {
+   "role": "남병수",
+   "name": "이정국"
+  },
+  {
+   "role": "남병수",
+   "name": "이승철"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191114195553/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=146649"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "TM1591",
+ "title": "락시터",
+ "genre": "뮤지컬",
+ "from": "2010-03-11",
+ "to": "2010-08-01",
+ "venue": "소극장 축제",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2010.jpg",
+ "cast": [
+  "강민호",
+  "박태성",
+  "오종훈",
+  "김탄현",
+  "유승일",
+  "이봉련",
+  "김국희",
+  "이일진",
+  "오의식",
+  "김시권"
+ ],
+ "state": "공연완료",
+ "producer": "극단 오늘",
+ "price": "전석 35,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "가제복",
+   "name": "강민호"
+  },
+  {
+   "role": "가제복",
+   "name": "박태성"
+  },
+  {
+   "role": "오범하",
+   "name": "오종훈"
+  },
+  {
+   "role": "오범하",
+   "name": "김탄현"
+  },
+  {
+   "role": "오범하",
+   "name": "유승일"
+  },
+  {
+   "role": "1인 다역(여)",
+   "name": "이봉련"
+  },
+  {
+   "role": "1인 다역(여)",
+   "name": "김국희"
+  },
+  {
+   "role": "1인 다역(여)",
+   "name": "이일진"
+  },
+  {
+   "role": "1인 다역(남)",
+   "name": "오의식"
+  },
+  {
+   "role": "1인 다역(남)",
+   "name": "김시권"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1591"
+ }
+}

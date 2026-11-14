@@ -1,0 +1,69 @@
+{
+ "id": "TM1792",
+ "title": "젊음의 행진",
+ "genre": "뮤지컬",
+ "from": "2011-11-12",
+ "to": "2012-01-29",
+ "venue": "코엑스아티움 현대아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)17.jpg",
+ "cast": [
+  "이정미",
+  "정민주",
+  "정상훈",
+  "김도현",
+  "윤사봉",
+  "최영화",
+  "박훈",
+  "전민준(전역산)",
+  "이재규"
+ ],
+ "state": "공연완료",
+ "producer": "PMC 프러덕션",
+ "price": "R석 7만원/ S석 5만원/ A석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "오영심",
+   "name": "이정미"
+  },
+  {
+   "role": "오영심",
+   "name": "정민주"
+  },
+  {
+   "role": "왕경태",
+   "name": "정상훈"
+  },
+  {
+   "role": "왕경태",
+   "name": "김도현"
+  },
+  {
+   "role": "까칠한 담임",
+   "name": "윤사봉"
+  },
+  {
+   "role": "까칠한 담임",
+   "name": "최영화"
+  },
+  {
+   "role": "형부/학생주임",
+   "name": "박훈"
+  },
+  {
+   "role": "이상남",
+   "name": "전민준(전역산)"
+  },
+  {
+   "role": "이상남",
+   "name": "이재규"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1792"
+ }
+}

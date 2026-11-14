@@ -1,0 +1,49 @@
+{
+ "id": "TM1666",
+ "title": "아이 러브 유",
+ "genre": "뮤지컬",
+ "from": "2010-11-09",
+ "to": "2010-12-31",
+ "venue": "CGV 팝아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_iloveyou(2010)-s.jpg",
+ "cast": [
+  "남경주",
+  "박선우",
+  "김준겸",
+  "이민아",
+  "한애리"
+ ],
+ "state": "공연완료",
+ "producer": "설앤컴퍼니, CGV 팝아트홀",
+ "price": "R석 60,000원 / S석 45,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "남자2",
+   "name": "남경주"
+  },
+  {
+   "role": "남자2",
+   "name": "박선우"
+  },
+  {
+   "role": "남자1",
+   "name": "김준겸"
+  },
+  {
+   "role": "여자1",
+   "name": "이민아"
+  },
+  {
+   "role": "여자2",
+   "name": "한애리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1666"
+ }
+}

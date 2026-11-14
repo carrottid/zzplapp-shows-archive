@@ -1,0 +1,59 @@
+{
+ "id": "TM2654",
+ "title": "스타라이트 스토리",
+ "genre": "뮤지컬",
+ "from": "2018-12-18",
+ "to": "2018-12-30",
+ "venue": "한성아트홀 2관",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20181224113409b8813c32efac492dbb08b9e8fadcba51.jpg",
+ "cast": [
+  "송지혜",
+  "임어울",
+  "남해현",
+  "김일석",
+  "김명희",
+  "이우림",
+  "김서연"
+ ],
+ "state": "공연완료",
+ "producer": "쏠라이트미션",
+ "price": "주중 4만 원 / 주말 5만 원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "박승리",
+   "name": "송지혜"
+  },
+  {
+   "role": "임한석",
+   "name": "임어울"
+  },
+  {
+   "role": "왕박사",
+   "name": "남해현"
+  },
+  {
+   "role": "?",
+   "name": "김일석"
+  },
+  {
+   "role": "김은혜",
+   "name": "김명희"
+  },
+  {
+   "role": "지연",
+   "name": "이우림"
+  },
+  {
+   "role": "서연",
+   "name": "김서연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2654"
+ }
+}

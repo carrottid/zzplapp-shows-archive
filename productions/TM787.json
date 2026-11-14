@@ -1,0 +1,49 @@
+{
+ "id": "TM787",
+ "title": "달려라 하니",
+ "genre": "뮤지컬",
+ "from": "2007-04-28",
+ "to": "2007-05-05",
+ "venue": "세종문화회관 대극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020092304410705ede702ee8e4bd8b793b7f143beda49.jpg",
+ "cast": [
+  "이찬미",
+  "이정열",
+  "박성훈",
+  "김현숙",
+  "권명현"
+ ],
+ "state": "공연완료",
+ "producer": "세종문화회관,서울시뮤지컬단",
+ "price": "VIP석 5만원 / R석 4만원 /S석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "하니",
+   "name": "이찬미"
+  },
+  {
+   "role": "홍두깨",
+   "name": "이정열"
+  },
+  {
+   "role": "홍두깨",
+   "name": "박성훈"
+  },
+  {
+   "role": "고은애",
+   "name": "김현숙"
+  },
+  {
+   "role": "고은애",
+   "name": "권명현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=787"
+ }
+}

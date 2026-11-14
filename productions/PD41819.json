@@ -1,0 +1,71 @@
+{
+ "id": "PD41819",
+ "title": "두 도시 이야기 - 고양",
+ "genre": "뮤지컬",
+ "from": "2012-11-29",
+ "to": "2012-12-02",
+ "venue": "고양아람누리 아람극장",
+ "cast": [
+  "류정한",
+  "윤형렬",
+  "카이",
+  "전동석",
+  "최현주",
+  "임혜영",
+  "이정화",
+  "신영숙",
+  "이종문",
+  "김도형"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "시드니 칼튼",
+   "name": "류정한"
+  },
+  {
+   "role": "시드니 칼튼",
+   "name": "윤형렬"
+  },
+  {
+   "role": "찰스 다네이",
+   "name": "카이"
+  },
+  {
+   "role": "찰스 다네이",
+   "name": "전동석"
+  },
+  {
+   "role": "루시 마네뜨",
+   "name": "최현주"
+  },
+  {
+   "role": "루시 마네뜨",
+   "name": "임혜영"
+  },
+  {
+   "role": "마담 드파르지",
+   "name": "이정화"
+  },
+  {
+   "role": "마담 드파르지",
+   "name": "신영숙"
+  },
+  {
+   "role": "어니스트 드파르지",
+   "name": "이종문"
+  },
+  {
+   "role": "알렉상드르 마네뜨박사",
+   "name": "김도형"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171025022317/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=41819"
+ }
+}

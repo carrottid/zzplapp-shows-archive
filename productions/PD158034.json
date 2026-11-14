@@ -1,0 +1,61 @@
+{
+ "id": "PD158034",
+ "title": "살아내기",
+ "genre": "연극",
+ "from": "2020-06-17",
+ "to": "2020-06-28",
+ "venue": "후암스테이지 1관",
+ "cast": [
+  "손정욱",
+  "김영인",
+  "박용",
+  "최경석",
+  "서윤하",
+  "황미선",
+  "박빛재환",
+  "윤슬기"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "장인, 왕서방",
+   "name": "손정욱"
+  },
+  {
+   "role": "아낙",
+   "name": "김영인"
+  },
+  {
+   "role": "김첨지, 이장어른",
+   "name": "박용"
+  },
+  {
+   "role": "남편, 치삼",
+   "name": "최경석"
+  },
+  {
+   "role": "복녀, 김첨지아내",
+   "name": "서윤하"
+  },
+  {
+   "role": "복녀, 김첨지아내",
+   "name": "황미선"
+  },
+  {
+   "role": "문태, 복녀아버지",
+   "name": "박빛재환"
+  },
+  {
+   "role": "",
+   "name": "윤슬기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251014220810/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=158034"
+ }
+}

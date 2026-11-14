@@ -1,0 +1,36 @@
+{
+ "id": "PD39263",
+ "title": "몰리 스위니",
+ "genre": "연극",
+ "from": "2012-09-03",
+ "to": "2012-09-09",
+ "venue": "미마지 아트센터 눈빛극장",
+ "cast": [
+  "예수정",
+  "최창우",
+  "이명호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "몰리",
+   "name": "예수정"
+  },
+  {
+   "role": "라이스",
+   "name": "최창우"
+  },
+  {
+   "role": "프랭크",
+   "name": "이명호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210504153312/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=39263"
+ }
+}

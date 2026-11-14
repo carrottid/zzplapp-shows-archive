@@ -1,0 +1,58 @@
+{
+ "id": "TM76",
+ "title": "그리스",
+ "genre": "뮤지컬",
+ "from": "2004-01-24",
+ "to": "2004-03-01",
+ "venue": "한전아츠풀센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_그리스(2003)2.jpg",
+ "cast": [
+  "임지혜",
+  "김태한",
+  "김선미",
+  "백주희",
+  "원기준",
+  "강지환",
+  "김수용"
+ ],
+ "state": "공연완료",
+ "producer": "오디뮤지컬컴퍼니",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "샌디",
+   "name": "임지혜"
+  },
+  {
+   "role": "샌디",
+   "name": "김태한"
+  },
+  {
+   "role": "샌디",
+   "name": "김선미"
+  },
+  {
+   "role": "샌디",
+   "name": "백주희"
+  },
+  {
+   "role": "샌디",
+   "name": "원기준"
+  },
+  {
+   "role": "대니",
+   "name": "강지환"
+  },
+  {
+   "role": "대니",
+   "name": "김수용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=76"
+ }
+}

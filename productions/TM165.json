@@ -1,0 +1,74 @@
+{
+ "id": "TM165",
+ "title": "헤드윅",
+ "genre": "뮤지컬",
+ "from": "2005-11-01",
+ "to": "2006-02-26",
+ "venue": "라이브극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_05002996.gif",
+ "cast": [
+  "김다현",
+  "백주연",
+  "송용진",
+  "서문탁",
+  "엄기준",
+  "이영미",
+  "송창의",
+  "홍미옥",
+  "오만석",
+  "전혜선"
+ ],
+ "state": "공연완료",
+ "producer": "쇼노트(구, 제미로)",
+ "price": "1층석 4만4천원/2층석 3만3천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "헤드윅",
+   "name": "김다현"
+  },
+  {
+   "role": "헤드윅",
+   "name": "백주연"
+  },
+  {
+   "role": "헤드윅",
+   "name": "송용진"
+  },
+  {
+   "role": "헤드윅",
+   "name": "서문탁"
+  },
+  {
+   "role": "헤드윅",
+   "name": "엄기준"
+  },
+  {
+   "role": "헤드윅",
+   "name": "이영미"
+  },
+  {
+   "role": "헤드윅",
+   "name": "송창의"
+  },
+  {
+   "role": "헤드윅",
+   "name": "홍미옥"
+  },
+  {
+   "role": "헤드윅",
+   "name": "오만석"
+  },
+  {
+   "role": "헤드윅",
+   "name": "전혜선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=165"
+ }
+}

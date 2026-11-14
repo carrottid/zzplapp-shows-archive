@@ -1,0 +1,84 @@
+{
+ "id": "TM1828",
+ "title": "모비딕",
+ "genre": "뮤지컬",
+ "from": "2012-03-20",
+ "to": "2012-04-29",
+ "venue": "두산아트센터 연강홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)40.jpg",
+ "cast": [
+  "신지호",
+  "윤한",
+  "KoN(이일근)",
+  "지현준",
+  "황건",
+  "이승현",
+  "유성재",
+  "유승철",
+  "조성현",
+  "황정규",
+  "이지영",
+  "차여울"
+ ],
+ "state": "공연완료",
+ "producer": "㈜뮤지컬 모비딕, 두산아트센터",
+ "price": "R석 6만5천원 / S석 4만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이스마엘/피아노",
+   "name": "신지호"
+  },
+  {
+   "role": "이스마엘/피아노",
+   "name": "윤한"
+  },
+  {
+   "role": "퀴퀘그/바이올린",
+   "name": "KoN(이일근)"
+  },
+  {
+   "role": "퀴퀘그/바이올린",
+   "name": "지현준"
+  },
+  {
+   "role": "에이헙/필레그/첼로",
+   "name": "황건"
+  },
+  {
+   "role": "스타벅/기타",
+   "name": "이승현"
+  },
+  {
+   "role": "스타벅/기타",
+   "name": "유성재"
+  },
+  {
+   "role": "플라스크/여관주인/난봉꾼호선장/트럼펫",
+   "name": "유승철"
+  },
+  {
+   "role": "플라스크/여관주인/난봉꾼호선장/트럼펫",
+   "name": "조성현"
+  },
+  {
+   "role": "스텁/모비딕/더블베이스",
+   "name": "황정규"
+  },
+  {
+   "role": "네레이드/피아노",
+   "name": "이지영"
+  },
+  {
+   "role": "네레이드/피아노",
+   "name": "차여울"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1828"
+ }
+}

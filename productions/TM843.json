@@ -1,0 +1,69 @@
+{
+ "id": "TM843",
+ "title": "메노포즈",
+ "genre": "뮤지컬",
+ "from": "2007-07-19",
+ "to": "2007-10-14",
+ "venue": "백암아트홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091812340476e49831f0fa4140ad097a3b0b76e1e1.bmp",
+ "cast": [
+  "전수경",
+  "진도희",
+  "홍지민",
+  "이윤표",
+  "이미라",
+  "이영자",
+  "김선화",
+  "조갑경",
+  "홍윤희"
+ ],
+ "state": "공연완료",
+ "producer": "CJ엔터테인먼트, 뮤지컬해븐, 아이예스컴",
+ "price": "전석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "전문직 여성",
+   "name": "전수경"
+  },
+  {
+   "role": "전문직 여성",
+   "name": "진도희"
+  },
+  {
+   "role": "전문직 여성",
+   "name": "홍지민"
+  },
+  {
+   "role": "한물간 연속극 배우",
+   "name": "이윤표"
+  },
+  {
+   "role": "한물간 연속극 배우",
+   "name": "이미라"
+  },
+  {
+   "role": "전업주부",
+   "name": "이영자"
+  },
+  {
+   "role": "전업주부",
+   "name": "김선화"
+  },
+  {
+   "role": "웰빙주부",
+   "name": "조갑경"
+  },
+  {
+   "role": "웰빙주부",
+   "name": "홍윤희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=843"
+ }
+}

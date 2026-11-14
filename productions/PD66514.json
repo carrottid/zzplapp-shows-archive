@@ -1,0 +1,56 @@
+{
+ "id": "PD66514",
+ "title": "퍼디미어스",
+ "genre": "연극",
+ "from": "2014-09-12",
+ "to": "2014-09-28",
+ "venue": "나온 씨어터",
+ "cast": [
+  "주혜원",
+  "김승언",
+  "오정택",
+  "이화룡",
+  "이윤화",
+  "김하라",
+  "미경"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "클레어",
+   "name": "주혜원"
+  },
+  {
+   "role": "리처드",
+   "name": "김승언"
+  },
+  {
+   "role": "케니",
+   "name": "오정택"
+  },
+  {
+   "role": "저는 남자",
+   "name": "이화룡"
+  },
+  {
+   "role": "거티",
+   "name": "이윤화"
+  },
+  {
+   "role": "밀레(힝키빙키)",
+   "name": "김하라"
+  },
+  {
+   "role": "",
+   "name": "미경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240720102955/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=66514"
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "id": "PD141297",
+ "title": "뜨거운 여름",
+ "genre": "연극",
+ "from": "2019-05-17",
+ "to": "2019-06-30",
+ "venue": "예스24스테이지 3관",
+ "cast": [
+  "송유택",
+  "정순원",
+  "홍지희",
+  "김주연",
+  "차용학",
+  "양경원",
+  "심새인",
+  "김설진",
+  "김아름",
+  "김하진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "재희",
+   "name": "송유택"
+  },
+  {
+   "role": "재희",
+   "name": "정순원"
+  },
+  {
+   "role": "채경",
+   "name": "홍지희"
+  },
+  {
+   "role": "채경",
+   "name": "김주연"
+  },
+  {
+   "role": "성인 재희 외",
+   "name": "차용학"
+  },
+  {
+   "role": "성인 재희 외",
+   "name": "양경원"
+  },
+  {
+   "role": "대훈",
+   "name": "심새인"
+  },
+  {
+   "role": "대훈",
+   "name": "김설진"
+  },
+  {
+   "role": "엄마 외",
+   "name": "김아름"
+  },
+  {
+   "role": "할머니 외",
+   "name": "김하진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260418224821/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=141297"
+ }
+}

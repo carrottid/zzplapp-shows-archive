@@ -1,0 +1,54 @@
+{
+ "id": "TM692",
+ "title": "오! 당신이 잠든 사이",
+ "genre": "뮤지컬",
+ "from": "2005-12-01",
+ "to": "2006-01-08",
+ "venue": "대학로 연우소극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_oh2005.JPG",
+ "cast": [
+  "이주원",
+  "이상은",
+  "진선규",
+  "전진오",
+  "유하나",
+  "박보경"
+ ],
+ "state": "공연완료",
+ "producer": "극단 연우무대",
+ "price": "일반,대학생 20,000원/중고생 15,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "정숙자",
+   "name": "이주원"
+  },
+  {
+   "role": "정숙자",
+   "name": "이상은"
+  },
+  {
+   "role": "정숙자",
+   "name": "진선규"
+  },
+  {
+   "role": "정숙자",
+   "name": "전진오"
+  },
+  {
+   "role": "정숙자",
+   "name": "유하나"
+  },
+  {
+   "role": "정숙자",
+   "name": "박보경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=692"
+ }
+}

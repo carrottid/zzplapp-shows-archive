@@ -1,0 +1,104 @@
+{
+ "id": "TM233",
+ "title": "노틀담의 꼽추",
+ "genre": "뮤지컬",
+ "from": "2004-12-24",
+ "to": "2005-01-23",
+ "venue": "국립극장 해오름극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_노틀담.jpg",
+ "cast": [
+  "이준혁",
+  "정선아",
+  "김도형",
+  "이석준",
+  "김호영",
+  "김보경",
+  "심재현",
+  "이상현",
+  "류창우",
+  "장선희",
+  "오석원",
+  "고명석",
+  "허준호",
+  "김세우",
+  "최가인",
+  "오수인"
+ ],
+ "state": "공연완료",
+ "producer": "신시뮤지컬컴퍼니,국립극장",
+ "price": "VIP석 9만원/R석 7만원/S석 6만원/A석 4만원/B석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "콰지모도",
+   "name": "이준혁"
+  },
+  {
+   "role": "콰지모도",
+   "name": "정선아"
+  },
+  {
+   "role": "콰지모도",
+   "name": "김도형"
+  },
+  {
+   "role": "콰지모도",
+   "name": "이석준"
+  },
+  {
+   "role": "콰지모도",
+   "name": "김호영"
+  },
+  {
+   "role": "콰지모도",
+   "name": "김보경"
+  },
+  {
+   "role": "콰지모도",
+   "name": "심재현"
+  },
+  {
+   "role": "콰지모도",
+   "name": "이상현"
+  },
+  {
+   "role": "콰지모도",
+   "name": "류창우"
+  },
+  {
+   "role": "콰지모도",
+   "name": "장선희"
+  },
+  {
+   "role": "콰지모도",
+   "name": "오석원"
+  },
+  {
+   "role": "에스메랄다",
+   "name": "고명석"
+  },
+  {
+   "role": "에스메랄다",
+   "name": "허준호"
+  },
+  {
+   "role": "에스메랄다",
+   "name": "김세우"
+  },
+  {
+   "role": "에스메랄다",
+   "name": "최가인"
+  },
+  {
+   "role": "앙상블",
+   "name": "오수인"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=233"
+ }
+}

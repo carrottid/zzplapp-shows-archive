@@ -1,0 +1,81 @@
+{
+ "id": "PD103584",
+ "title": "나쁜자석",
+ "genre": "연극",
+ "from": "2017-03-05",
+ "to": "2017-05-28",
+ "venue": "예스24아트원 1관",
+ "cast": [
+  "문태유",
+  "송광일",
+  "오승훈",
+  "박은석",
+  "차서원",
+  "박강현",
+  "안재영",
+  "배두훈",
+  "손유동",
+  "이경욱",
+  "강정우",
+  "최이재"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "고든",
+   "name": "문태유"
+  },
+  {
+   "role": "고든",
+   "name": "송광일"
+  },
+  {
+   "role": "고든",
+   "name": "오승훈"
+  },
+  {
+   "role": "프레이저",
+   "name": "박은석"
+  },
+  {
+   "role": "프레이저",
+   "name": "차서원"
+  },
+  {
+   "role": "프레이저",
+   "name": "박강현"
+  },
+  {
+   "role": "폴",
+   "name": "안재영"
+  },
+  {
+   "role": "폴",
+   "name": "배두훈"
+  },
+  {
+   "role": "폴",
+   "name": "손유동"
+  },
+  {
+   "role": "앨런",
+   "name": "이경욱"
+  },
+  {
+   "role": "앨런",
+   "name": "강정우"
+  },
+  {
+   "role": "앨런",
+   "name": "최이재"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250122115453/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=103584"
+ }
+}

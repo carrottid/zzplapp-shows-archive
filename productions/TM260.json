@@ -1,0 +1,39 @@
+{
+ "id": "TM260",
+ "title": "빨래",
+ "genre": "뮤지컬",
+ "from": "2005-04-14",
+ "to": "2005-05-01",
+ "venue": "국립극장 별오름극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_06001552.gif",
+ "cast": [
+  "김영옥",
+  "민준호",
+  "고승수"
+ ],
+ "state": "공연완료",
+ "producer": "명랑씨어터 수박",
+ "price": "일반 2만원/ 대학생 만5천원/ 청소년 만2천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "서나영",
+   "name": "김영옥"
+  },
+  {
+   "role": "솔롱고",
+   "name": "민준호"
+  },
+  {
+   "role": "빵 외",
+   "name": "고승수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=260"
+ }
+}

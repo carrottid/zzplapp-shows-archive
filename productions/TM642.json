@@ -1,0 +1,94 @@
+{
+ "id": "TM642",
+ "title": "한 여름 밤의 악몽",
+ "genre": "뮤지컬",
+ "from": "2006-06-20",
+ "to": "2006-06-28",
+ "venue": "예술의전당 토월극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_db-dream(2006).jpg",
+ "cast": [
+  "한성식",
+  "유한홍",
+  "이성원",
+  "나성아",
+  "하은섬",
+  "안덕용",
+  "이재경",
+  "김유정",
+  "최오식",
+  "조기왕",
+  "박은영",
+  "라미란",
+  "정목화",
+  "강동호"
+ ],
+ "state": "공연완료",
+ "producer": "극단 자명종",
+ "price": "R석 7만원/S석 5만원/A석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "허성",
+   "name": "한성식"
+  },
+  {
+   "role": "허성",
+   "name": "유한홍"
+  },
+  {
+   "role": "허성",
+   "name": "이성원"
+  },
+  {
+   "role": "허성",
+   "name": "나성아"
+  },
+  {
+   "role": "허성",
+   "name": "하은섬"
+  },
+  {
+   "role": "허성",
+   "name": "안덕용"
+  },
+  {
+   "role": "허성",
+   "name": "이재경"
+  },
+  {
+   "role": "허성",
+   "name": "김유정"
+  },
+  {
+   "role": "임황/고종",
+   "name": "최오식"
+  },
+  {
+   "role": "임황/고종",
+   "name": "조기왕"
+  },
+  {
+   "role": "임황/고종",
+   "name": "박은영"
+  },
+  {
+   "role": "임황/고종",
+   "name": "라미란"
+  },
+  {
+   "role": "임황/고종",
+   "name": "정목화"
+  },
+  {
+   "role": "임황/고종",
+   "name": "강동호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=642"
+ }
+}

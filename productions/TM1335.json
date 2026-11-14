@@ -1,0 +1,39 @@
+{
+ "id": "TM1335",
+ "title": "결혼",
+ "genre": "뮤지컬",
+ "from": "2008-12-23",
+ "to": "2009-02-28",
+ "venue": "삼일로 창고극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008wedding.jpg",
+ "cast": [
+  "김성웅",
+  "서지유",
+  "김지환"
+ ],
+ "state": "공연완료",
+ "producer": "삼일로 창고극장",
+ "price": "일반 3만원/학생 2만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "남자",
+   "name": "김성웅"
+  },
+  {
+   "role": "여자",
+   "name": "서지유"
+  },
+  {
+   "role": "매니저",
+   "name": "김지환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1335"
+ }
+}

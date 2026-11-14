@@ -1,0 +1,51 @@
+{
+ "id": "PD143421",
+ "title": "난설",
+ "genre": "뮤지컬",
+ "from": "2019-07-13",
+ "to": "2019-08-25",
+ "venue": "브릭스 씨어터 (구, 콘텐츠 그라운드)",
+ "cast": [
+  "정인지",
+  "하현지",
+  "유현석",
+  "백기범",
+  "안재영",
+  "유승현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "허초희",
+   "name": "정인지"
+  },
+  {
+   "role": "허초희",
+   "name": "하현지"
+  },
+  {
+   "role": "허균",
+   "name": "유현석"
+  },
+  {
+   "role": "허균",
+   "name": "백기범"
+  },
+  {
+   "role": "이달",
+   "name": "안재영"
+  },
+  {
+   "role": "이달",
+   "name": "유승현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241202145516/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=143421"
+ }
+}

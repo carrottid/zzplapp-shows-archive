@@ -1,0 +1,41 @@
+{
+ "id": "PD21280",
+ "title": "그자식 사랑했네 - 대구",
+ "genre": "연극",
+ "from": "2011-03-04",
+ "to": "2011-04-10",
+ "venue": "아트플러스씨어터",
+ "cast": [
+  "유정호",
+  "장세윤",
+  "문민형",
+  "박슬기"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "정태",
+   "name": "유정호"
+  },
+  {
+   "role": "미영",
+   "name": "장세윤"
+  },
+  {
+   "role": "멀티맨",
+   "name": "문민형"
+  },
+  {
+   "role": "연주",
+   "name": "박슬기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20110318160743/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=21280"
+ }
+}

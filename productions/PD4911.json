@@ -1,0 +1,36 @@
+{
+ "id": "PD4911",
+ "title": "충분히 애도되지 못한 슬픔 : 창작예찬",
+ "genre": "연극",
+ "from": "2008-08-01",
+ "to": "2008-08-10",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "박호산",
+  "성노진",
+  "강진휘"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "세수",
+   "name": "박호산"
+  },
+  {
+   "role": "타짜",
+   "name": "성노진"
+  },
+  {
+   "role": "띨박",
+   "name": "강진휘"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704032330/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=4911"
+ }
+}

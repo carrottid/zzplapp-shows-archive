@@ -1,0 +1,44 @@
+{
+ "id": "TM1657",
+ "title": "TAAL(탈)",
+ "genre": "뮤지컬",
+ "from": "2010-10-16",
+ "to": "2010-10-24",
+ "venue": "코엑스 아티움",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_taal2010.jpg",
+ "cast": [
+  "임춘길",
+  "김태한",
+  "모지민",
+  "심정완"
+ ],
+ "state": "공연완료",
+ "producer": "㈜피엠씨프러덕션",
+ "price": "R석 5만원 / S석 3만원 / A석 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "초랭",
+   "name": "임춘길"
+  },
+  {
+   "role": "초랭",
+   "name": "김태한"
+  },
+  {
+   "role": "초랭",
+   "name": "모지민"
+  },
+  {
+   "role": "이매",
+   "name": "심정완"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1657"
+ }
+}

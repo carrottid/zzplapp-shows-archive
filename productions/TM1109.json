@@ -1,0 +1,79 @@
+{
+ "id": "TM1109",
+ "title": "페이스 오프",
+ "genre": "뮤지컬",
+ "from": "2006-10-13",
+ "to": "2007-04-08",
+ "venue": "대학로 예술마당 3관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_db-faceoff(2006).jpg",
+ "cast": [
+  "최오식",
+  "전수미",
+  "김세진",
+  "김도형",
+  "기정수",
+  "이성원",
+  "김성규",
+  "강지연",
+  "임춘길",
+  "추정화",
+  "김지훈"
+ ],
+ "state": "공연완료",
+ "producer": "루나틱컴퍼니",
+ "price": "R석 4만4천원 / S석 3만3천원 / A석(비지정석) 2만2천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "태준/영준",
+   "name": "최오식"
+  },
+  {
+   "role": "태준/영준",
+   "name": "전수미"
+  },
+  {
+   "role": "태준/영준",
+   "name": "김세진"
+  },
+  {
+   "role": "태준/영준",
+   "name": "김도형"
+  },
+  {
+   "role": "태준/영준",
+   "name": "기정수"
+  },
+  {
+   "role": "반장",
+   "name": "이성원"
+  },
+  {
+   "role": "반장",
+   "name": "김성규"
+  },
+  {
+   "role": "반장",
+   "name": "강지연"
+  },
+  {
+   "role": "반장",
+   "name": "임춘길"
+  },
+  {
+   "role": "윤서",
+   "name": "추정화"
+  },
+  {
+   "role": "윤서",
+   "name": "김지훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1109"
+ }
+}

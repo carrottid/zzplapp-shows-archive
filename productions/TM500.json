@@ -1,0 +1,28 @@
+{
+ "id": "TM500",
+ "title": "우루왕",
+ "genre": "뮤지컬",
+ "from": "2001-07-14",
+ "to": "2001-07-17",
+ "venue": "국립극장 해오름극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_uro.jpg",
+ "cast": [
+  "김도형"
+ ],
+ "state": "공연완료",
+ "producer": "국립극장",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "우루왕",
+   "name": "김도형"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=500"
+ }
+}

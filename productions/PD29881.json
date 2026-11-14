@@ -1,0 +1,56 @@
+{
+ "id": "PD29881",
+ "title": "잠 못드는 밤은 없다",
+ "genre": "연극",
+ "from": "2011-11-29",
+ "to": "2011-12-31",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "정재진",
+  "최용민",
+  "예수정",
+  "김학수",
+  "정희정",
+  "김도균",
+  "정세라"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "켄에치",
+   "name": "정재진"
+  },
+  {
+   "role": "아키라",
+   "name": "최용민"
+  },
+  {
+   "role": "이쿠코",
+   "name": "예수정"
+  },
+  {
+   "role": "코조",
+   "name": "김학수"
+  },
+  {
+   "role": "나오에",
+   "name": "정희정"
+  },
+  {
+   "role": "세이지",
+   "name": "김도균"
+  },
+  {
+   "role": "",
+   "name": "정세라"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241127071509/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=29881"
+ }
+}

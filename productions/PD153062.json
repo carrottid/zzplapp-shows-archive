@@ -1,0 +1,31 @@
+{
+ "id": "PD153062",
+ "title": "노래처럼 말해줘",
+ "genre": "연극",
+ "from": "2020-02-06",
+ "to": "2020-02-16",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "박정자",
+  "허대욱"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "",
+   "name": "박정자"
+  },
+  {
+   "role": "피아노",
+   "name": "허대욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200919210740/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=153062"
+ }
+}

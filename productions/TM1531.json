@@ -1,0 +1,74 @@
+{
+ "id": "TM1531",
+ "title": "점점",
+ "genre": "뮤지컬",
+ "from": "2009-11-25",
+ "to": "2010-02-07",
+ "venue": "충무아트홀 중극장 블랙",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_fortune2009.jpg",
+ "cast": [
+  "오나라",
+  "박민정",
+  "정상훈",
+  "성태준",
+  "진선규",
+  "성종완",
+  "연보라",
+  "홍준기",
+  "김여진",
+  "강연주"
+ ],
+ "state": "공연완료",
+ "producer": "(재)중구문화재단 충무아트홀 / ㈜악어컴퍼니",
+ "price": "균일 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "맹신비",
+   "name": "오나라"
+  },
+  {
+   "role": "맹신비",
+   "name": "박민정"
+  },
+  {
+   "role": "오묘한",
+   "name": "정상훈"
+  },
+  {
+   "role": "고민수",
+   "name": "성태준"
+  },
+  {
+   "role": "김보살",
+   "name": "진선규"
+  },
+  {
+   "role": "김보살",
+   "name": "성종완"
+  },
+  {
+   "role": "앙상블",
+   "name": "연보라"
+  },
+  {
+   "role": "앙상블",
+   "name": "홍준기"
+  },
+  {
+   "role": "앙상블",
+   "name": "김여진"
+  },
+  {
+   "role": "앙상블",
+   "name": "강연주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1531"
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "id": "PD56235",
+ "title": "노트르담 드 파리 - 김해",
+ "genre": "뮤지컬",
+ "from": "2014-01-10",
+ "to": "2014-01-12",
+ "venue": "김해문화의전당 마루홀",
+ "cast": [
+  "홍광호",
+  "윤형렬",
+  "윤공주",
+  "문혜원",
+  "전동석",
+  "마이클 리",
+  "민영기",
+  "조휘",
+  "김성민",
+  "박은석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "콰지모도",
+   "name": "홍광호"
+  },
+  {
+   "role": "콰지모도",
+   "name": "윤형렬"
+  },
+  {
+   "role": "에스메랄다",
+   "name": "윤공주"
+  },
+  {
+   "role": "에스메랄다",
+   "name": "문혜원"
+  },
+  {
+   "role": "그랭구와르",
+   "name": "전동석"
+  },
+  {
+   "role": "그랭구와르",
+   "name": "마이클 리"
+  },
+  {
+   "role": "프롤로",
+   "name": "민영기"
+  },
+  {
+   "role": "클로팽",
+   "name": "조휘"
+  },
+  {
+   "role": "페뷔스",
+   "name": "김성민"
+  },
+  {
+   "role": "페뷔스",
+   "name": "박은석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20140427074433/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=56235"
+ }
+}

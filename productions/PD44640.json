@@ -1,0 +1,31 @@
+{
+ "id": "PD44640",
+ "title": "나는 나의 아내다",
+ "genre": "연극",
+ "from": "2013-05-28",
+ "to": "2013-06-29",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "남명렬",
+  "지현준"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "샬롯",
+   "name": "남명렬"
+  },
+  {
+   "role": "샬롯",
+   "name": "지현준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20190723194951/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=44640"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "id": "TM2362",
+ "title": "인터뷰",
+ "genre": "뮤지컬",
+ "from": "2016-09-24",
+ "to": "2016-11-27",
+ "venue": "수현재씨어터(DCF대명문화공장 3F)",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201607290622092A0T7H2D23432B1G.jpg",
+ "cast": [
+  "이건명",
+  "이시안",
+  "민영기",
+  "임병근",
+  "김수용",
+  "조상웅",
+  "김경수",
+  "고은성",
+  "이용규",
+  "문진아",
+  "김주연",
+  "전예지",
+  "한서윤"
+ ],
+ "state": "공연완료",
+ "producer": "더블케이필름앤씨어터",
+ "price": "전석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "유진킴",
+   "name": "이건명"
+  },
+  {
+   "role": "유진킴",
+   "name": "이시안"
+  },
+  {
+   "role": "유진킴",
+   "name": "민영기"
+  },
+  {
+   "role": "유진킴",
+   "name": "임병근"
+  },
+  {
+   "role": "싱클레어",
+   "name": "김수용"
+  },
+  {
+   "role": "싱클레어",
+   "name": "조상웅"
+  },
+  {
+   "role": "싱클레어",
+   "name": "김경수"
+  },
+  {
+   "role": "싱클레어",
+   "name": "고은성"
+  },
+  {
+   "role": "싱클레어",
+   "name": "이용규"
+  },
+  {
+   "role": "조안",
+   "name": "문진아"
+  },
+  {
+   "role": "조안",
+   "name": "김주연"
+  },
+  {
+   "role": "조안",
+   "name": "전예지"
+  },
+  {
+   "role": "조안",
+   "name": "한서윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2362"
+ }
+}

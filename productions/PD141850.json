@@ -1,0 +1,61 @@
+{
+ "id": "PD141850",
+ "title": "노라는 지금",
+ "genre": "연극",
+ "from": "2019-04-07",
+ "to": "2019-04-10",
+ "venue": "삼일로 창고극장",
+ "cast": [
+  "최영도",
+  "이준영",
+  "남수현",
+  "김정",
+  "서유덕",
+  "김은우",
+  "최강현",
+  "이랑"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "장관",
+   "name": "최영도"
+  },
+  {
+   "role": "교수",
+   "name": "이준영"
+  },
+  {
+   "role": "봐이강",
+   "name": "남수현"
+  },
+  {
+   "role": "노라",
+   "name": "김정"
+  },
+  {
+   "role": "신사",
+   "name": "서유덕"
+  },
+  {
+   "role": "에바",
+   "name": "김은우"
+  },
+  {
+   "role": "",
+   "name": "최강현"
+  },
+  {
+   "role": "",
+   "name": "이랑"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250713051141/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=141850"
+ }
+}

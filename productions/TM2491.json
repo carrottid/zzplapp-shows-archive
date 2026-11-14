@@ -1,0 +1,89 @@
+{
+ "id": "TM2491",
+ "title": "미스터쇼",
+ "genre": "뮤지컬",
+ "from": "2017-09-23",
+ "to": "2017-10-16",
+ "venue": "신한카드 판(Fan)스퀘어 라이브홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201709040151138TVUWV222V051GAR.jpg",
+ "cast": [
+  "정철호",
+  "문용현",
+  "최용진",
+  "휘림",
+  "노진욱",
+  "이선",
+  "선인호",
+  "이희중",
+  "최시형",
+  "주재만",
+  "이민재",
+  "이주형",
+  "박도경"
+ ],
+ "state": "공연완료",
+ "producer": "에이큐브프로덕션",
+ "price": "LADIES ZONE 80,000원 / VIP석 80,000원 / R석 60,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "쇼 엠씨",
+   "name": "정철호"
+  },
+  {
+   "role": "쇼 엠씨",
+   "name": "문용현"
+  },
+  {
+   "role": "미카엘",
+   "name": "최용진"
+  },
+  {
+   "role": "몬스터",
+   "name": "휘림"
+  },
+  {
+   "role": "마르코",
+   "name": "노진욱"
+  },
+  {
+   "role": "타이",
+   "name": "이선"
+  },
+  {
+   "role": "쉐도우",
+   "name": "선인호"
+  },
+  {
+   "role": "라이언",
+   "name": "이희중"
+  },
+  {
+   "role": "탱크",
+   "name": "최시형"
+  },
+  {
+   "role": "코난",
+   "name": "주재만"
+  },
+  {
+   "role": "슈거",
+   "name": "이민재"
+  },
+  {
+   "role": "브루스",
+   "name": "이주형"
+  },
+  {
+   "role": "애로우",
+   "name": "박도경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2491"
+ }
+}

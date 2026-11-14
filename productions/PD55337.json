@@ -1,0 +1,76 @@
+{
+ "id": "PD55337",
+ "title": "잭 더 리퍼 - 부산",
+ "genre": "뮤지컬",
+ "from": "2013-12-24",
+ "to": "2013-12-28",
+ "venue": "부산시민회관 대극장",
+ "cast": [
+  "안재욱",
+  "김다현",
+  "박진우",
+  "신성우",
+  "조순창",
+  "이건명",
+  "박민성",
+  "강성진",
+  "류수화",
+  "김여진",
+  "제이민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "다니엘",
+   "name": "안재욱"
+  },
+  {
+   "role": "다니엘",
+   "name": "김다현"
+  },
+  {
+   "role": "다니엘",
+   "name": "박진우"
+  },
+  {
+   "role": "잭",
+   "name": "신성우"
+  },
+  {
+   "role": "잭",
+   "name": "조순창"
+  },
+  {
+   "role": "앤더슨",
+   "name": "이건명"
+  },
+  {
+   "role": "앤더슨",
+   "name": "박민성"
+  },
+  {
+   "role": "먼로",
+   "name": "강성진"
+  },
+  {
+   "role": "폴리",
+   "name": "류수화"
+  },
+  {
+   "role": "글로리아",
+   "name": "김여진"
+  },
+  {
+   "role": "글로리아",
+   "name": "제이민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170716053706/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=55337"
+ }
+}

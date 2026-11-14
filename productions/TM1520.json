@@ -1,0 +1,89 @@
+{
+ "id": "TM1520",
+ "title": "퀴즈쇼",
+ "genre": "뮤지컬",
+ "from": "2009-12-06",
+ "to": "2010-01-02",
+ "venue": "예술의전당 토월극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2009quizshow.JPG",
+ "cast": [
+  "이율",
+  "전나혜(난아)",
+  "성기윤",
+  "방정식",
+  "김호영",
+  "진수현",
+  "한성식",
+  "김기창",
+  "민정기",
+  "유승현",
+  "박도영",
+  "이은영",
+  "이창완"
+ ],
+ "state": "공연완료",
+ "producer": "신시컴퍼니",
+ "price": "R석 6만원/ S석 5만원/ A석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이민수",
+   "name": "이율"
+  },
+  {
+   "role": "서지원",
+   "name": "전나혜(난아)"
+  },
+  {
+   "role": "이춘성",
+   "name": "성기윤"
+  },
+  {
+   "role": "탱고",
+   "name": "방정식"
+  },
+  {
+   "role": "유리",
+   "name": "김호영"
+  },
+  {
+   "role": "메두사",
+   "name": "진수현"
+  },
+  {
+   "role": "장군",
+   "name": "한성식"
+  },
+  {
+   "role": "앙상블",
+   "name": "김기창"
+  },
+  {
+   "role": "앙상블",
+   "name": "민정기"
+  },
+  {
+   "role": "앙상블",
+   "name": "유승현"
+  },
+  {
+   "role": "앙상블",
+   "name": "박도영"
+  },
+  {
+   "role": "앙상블",
+   "name": "이은영"
+  },
+  {
+   "role": "앙상블",
+   "name": "이창완"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1520"
+ }
+}

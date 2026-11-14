@@ -1,0 +1,35 @@
+{
+ "id": "PD10194",
+ "title": "우리, 테오와 빈센트 고흐",
+ "genre": "연극",
+ "from": "2009-05-26",
+ "to": "2009-06-28",
+ "venue": "산울림 소극장",
+ "cast": [
+  "이호성",
+  "이명호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "빈센트 반 고흐",
+   "name": "이호성"
+  },
+  {
+   "role": "테오도르 반 고흐",
+   "name": "이명호"
+  },
+  {
+   "role": "",
+   "name": "이호성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210504153314/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=10194"
+ }
+}

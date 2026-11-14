@@ -1,0 +1,94 @@
+{
+ "id": "TM2266",
+ "title": "쓰루 더 도어",
+ "genre": "뮤지컬",
+ "from": "2015-11-05",
+ "to": "2015-12-31",
+ "venue": "PMC대학로자유극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20151027022650EF62F6L3GF2L7512.jpg",
+ "cast": [
+  "김수용",
+  "박유덕",
+  "양승리",
+  "박민성",
+  "김지휘",
+  "강정우",
+  "한보라",
+  "소정화",
+  "최서연",
+  "박명훈",
+  "최대성",
+  "김준래",
+  "김태령",
+  "홍민아"
+ ],
+ "state": "공연완료",
+ "producer": "YD뮤지컬컴퍼니",
+ "price": "전석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "레니",
+   "name": "김수용"
+  },
+  {
+   "role": "레니",
+   "name": "박유덕"
+  },
+  {
+   "role": "레니",
+   "name": "양승리"
+  },
+  {
+   "role": "장 피에르",
+   "name": "박민성"
+  },
+  {
+   "role": "장 피에르",
+   "name": "김지휘"
+  },
+  {
+   "role": "장 피에르",
+   "name": "강정우"
+  },
+  {
+   "role": "샬롯",
+   "name": "한보라"
+  },
+  {
+   "role": "샬롯",
+   "name": "소정화"
+  },
+  {
+   "role": "샬롯",
+   "name": "최서연"
+  },
+  {
+   "role": "신비남",
+   "name": "박명훈"
+  },
+  {
+   "role": "신비남",
+   "name": "최대성"
+  },
+  {
+   "role": "신비남",
+   "name": "김준래"
+  },
+  {
+   "role": "신비녀",
+   "name": "김태령"
+  },
+  {
+   "role": "신비녀",
+   "name": "홍민아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2266"
+ }
+}

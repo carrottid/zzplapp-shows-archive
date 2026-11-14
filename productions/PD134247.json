@@ -1,0 +1,66 @@
+{
+ "id": "PD134247",
+ "title": "재생불량소년",
+ "genre": "뮤지컬",
+ "from": "2018-12-23",
+ "to": "2019-01-20",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "윤석현",
+  "구준모",
+  "유동훈",
+  "박준휘",
+  "정원준",
+  "김방언",
+  "최영우",
+  "심우성",
+  "정영아"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "반석",
+   "name": "윤석현"
+  },
+  {
+   "role": "반석",
+   "name": "구준모"
+  },
+  {
+   "role": "성균",
+   "name": "유동훈"
+  },
+  {
+   "role": "성균",
+   "name": "박준휘"
+  },
+  {
+   "role": "승민",
+   "name": "정원준"
+  },
+  {
+   "role": "승민",
+   "name": "김방언"
+  },
+  {
+   "role": "간호사, 코치",
+   "name": "최영우"
+  },
+  {
+   "role": "간호사, 코치",
+   "name": "심우성"
+  },
+  {
+   "role": "의사",
+   "name": "정영아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251008101640/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=134247"
+ }
+}

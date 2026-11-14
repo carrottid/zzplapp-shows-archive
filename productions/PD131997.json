@@ -1,0 +1,76 @@
+{
+ "id": "PD131997",
+ "title": "젠틀맨스 가이드",
+ "genre": "뮤지컬",
+ "from": "2018-11-09",
+ "to": "2019-01-27",
+ "venue": "홍익대 대학로 아트센터 대극장",
+ "cast": [
+  "김동완",
+  "유연석",
+  "서경수",
+  "오만석",
+  "한지상",
+  "이규형",
+  "임혜영",
+  "김아선",
+  "김현진",
+  "김승용",
+  "황두현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "몬티 나바로",
+   "name": "김동완"
+  },
+  {
+   "role": "몬티 나바로",
+   "name": "유연석"
+  },
+  {
+   "role": "몬티 나바로",
+   "name": "서경수"
+  },
+  {
+   "role": "다이스퀴스",
+   "name": "오만석"
+  },
+  {
+   "role": "다이스퀴스",
+   "name": "한지상"
+  },
+  {
+   "role": "다이스퀴스",
+   "name": "이규형"
+  },
+  {
+   "role": "시벨라 홀워드",
+   "name": "임혜영"
+  },
+  {
+   "role": "피비 다이스퀴스",
+   "name": "김아선"
+  },
+  {
+   "role": "미스 슁글",
+   "name": "김현진"
+  },
+  {
+   "role": "치안판사 외",
+   "name": "김승용"
+  },
+  {
+   "role": "",
+   "name": "황두현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260611123617/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=131997"
+ }
+}

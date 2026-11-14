@@ -1,0 +1,39 @@
+{
+ "id": "TM2520",
+ "title": "세븐",
+ "genre": "뮤지컬",
+ "from": "2018-01-19",
+ "to": "2018-01-21",
+ "venue": "CJ아지트 대학로",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20171213113655872BIV2WUH018LA0.jpg",
+ "cast": [
+  "최인형",
+  "정단영",
+  "송유택"
+ ],
+ "state": "공연완료",
+ "producer": "알앤디웍스",
+ "price": "전석 30,000 원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "김기주",
+   "name": "최인형"
+  },
+  {
+   "role": "전인아",
+   "name": "정단영"
+  },
+  {
+   "role": "이정현",
+   "name": "송유택"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2520"
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "id": "TM2176",
+ "title": "덕혜옹주",
+ "genre": "뮤지컬",
+ "from": "2015-04-03",
+ "to": "2015-06-28",
+ "venue": "SH아트홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2015032704490907IY7515H583J0MS.jpg",
+ "cast": [
+  "문혜영",
+  "초아(허민진)",
+  "윤영석",
+  "김준겸",
+  "이동준",
+  "문장원",
+  "한연주",
+  "정미금"
+ ],
+ "state": "공연완료",
+ "producer": "극단 그애생각",
+ "price": "R석 5만5천원, S석 4만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "덕혜/정혜",
+   "name": "문혜영"
+  },
+  {
+   "role": "덕혜/정혜",
+   "name": "초아(허민진)"
+  },
+  {
+   "role": "다케유키",
+   "name": "윤영석"
+  },
+  {
+   "role": "다케유키",
+   "name": "김준겸"
+  },
+  {
+   "role": "멀티남",
+   "name": "이동준"
+  },
+  {
+   "role": "멀티남",
+   "name": "문장원"
+  },
+  {
+   "role": "멀티녀",
+   "name": "한연주"
+  },
+  {
+   "role": "멀티녀",
+   "name": "정미금"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2176"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "TM1665",
+ "title": "넌센세이션",
+ "genre": "뮤지컬",
+ "from": "2010-11-18",
+ "to": "2011-01-30",
+ "venue": "두산아트센터 연강홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_nunsensation.jpg",
+ "cast": [
+  "양희경",
+  "이태원",
+  "홍지민",
+  "하은섬",
+  "김현진",
+  "김현숙",
+  "이혜경",
+  "최우리",
+  "김소향",
+  "이정미"
+ ],
+ "state": "공연완료",
+ "producer": "샘컴퍼니, ㈜토마토.M",
+ "price": "VIP석 80,000원, R석 60,000원, S석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "메리제리나 원장수녀",
+   "name": "양희경"
+  },
+  {
+   "role": "메리제리나 원장수녀",
+   "name": "이태원"
+  },
+  {
+   "role": "허버트 수녀",
+   "name": "홍지민"
+  },
+  {
+   "role": "허버트 수녀",
+   "name": "하은섬"
+  },
+  {
+   "role": "로버트 앤",
+   "name": "김현진"
+  },
+  {
+   "role": "로버트 앤",
+   "name": "김현숙"
+  },
+  {
+   "role": "엠네지아",
+   "name": "이혜경"
+  },
+  {
+   "role": "엠네지아",
+   "name": "최우리"
+  },
+  {
+   "role": "레오 수녀",
+   "name": "김소향"
+  },
+  {
+   "role": "레오 수녀",
+   "name": "이정미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1665"
+ }
+}

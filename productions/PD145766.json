@@ -1,0 +1,46 @@
+{
+ "id": "PD145766",
+ "title": "마이 버킷 리스트",
+ "genre": "뮤지컬",
+ "from": "2019-09-05",
+ "to": "2019-09-15",
+ "venue": "예스24스테이지 2관",
+ "cast": [
+  "김지휘",
+  "박시환",
+  "문남권",
+  "무현",
+  "주민진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "해기",
+   "name": "김지휘"
+  },
+  {
+   "role": "해기",
+   "name": "박시환"
+  },
+  {
+   "role": "해기",
+   "name": "문남권"
+  },
+  {
+   "role": "강구",
+   "name": "무현"
+  },
+  {
+   "role": "강구",
+   "name": "주민진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251011005401/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=145766"
+ }
+}

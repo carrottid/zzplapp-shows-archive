@@ -1,0 +1,71 @@
+{
+ "id": "PD16334",
+ "title": "레인맨",
+ "genre": "연극",
+ "from": "2010-05-01",
+ "to": "2010-06-27",
+ "venue": "두산아트센터 연강홀",
+ "cast": [
+  "손종학",
+  "박상원",
+  "남경읍",
+  "남경주",
+  "강필석",
+  "고영빈",
+  "최승일",
+  "민지환",
+  "이영윤",
+  "박민정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "레이먼 바비트",
+   "name": "손종학"
+  },
+  {
+   "role": "레이먼 바비트",
+   "name": "박상원"
+  },
+  {
+   "role": "레이먼 바비트",
+   "name": "남경읍"
+  },
+  {
+   "role": "찰리 바비트",
+   "name": "남경주"
+  },
+  {
+   "role": "찰리 바비트",
+   "name": "강필석"
+  },
+  {
+   "role": "찰리 바비트",
+   "name": "고영빈"
+  },
+  {
+   "role": "월터 브루너",
+   "name": "최승일"
+  },
+  {
+   "role": "월터 브루너",
+   "name": "민지환"
+  },
+  {
+   "role": "수잔나 팔미에리",
+   "name": "이영윤"
+  },
+  {
+   "role": "수잔나 팔미에리",
+   "name": "박민정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240806041523/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=16334"
+ }
+}

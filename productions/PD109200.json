@@ -1,0 +1,31 @@
+{
+ "id": "PD109200",
+ "title": "동인페스티벌",
+ "genre": "연극",
+ "from": "2017-06-06",
+ "to": "2017-07-02",
+ "venue": "소극장 혜화당(구.까망 소극장)",
+ "cast": [
+  "김민중",
+  "고건영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이제 그만 죽어줘 - 아들",
+   "name": "김민중"
+  },
+  {
+   "role": "비보호 좌회전/셋째",
+   "name": "고건영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250122103656/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=109200"
+ }
+}

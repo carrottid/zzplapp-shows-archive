@@ -1,0 +1,56 @@
+{
+ "id": "PD88222",
+ "title": "방문",
+ "genre": "연극",
+ "from": "2016-02-04",
+ "to": "2016-02-21",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "이호재",
+  "김정호",
+  "강진휘",
+  "김성미",
+  "이서림",
+  "김승철",
+  "김기범"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이주용",
+   "name": "이호재"
+  },
+  {
+   "role": "이진석",
+   "name": "김정호"
+  },
+  {
+   "role": "이진영",
+   "name": "강진휘"
+  },
+  {
+   "role": "정재희",
+   "name": "김성미"
+  },
+  {
+   "role": "박혜원",
+   "name": "이서림"
+  },
+  {
+   "role": "김기호",
+   "name": "김승철"
+  },
+  {
+   "role": "",
+   "name": "김기범"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240722142233/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=88222"
+ }
+}

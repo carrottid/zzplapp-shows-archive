@@ -1,0 +1,66 @@
+{
+ "id": "PD79784",
+ "title": "홍도",
+ "genre": "연극",
+ "from": "2015-08-05",
+ "to": "2015-08-23",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "예지원",
+  "양영미",
+  "김철리",
+  "선종남",
+  "홍의준",
+  "견민성",
+  "최주연",
+  "김영노",
+  "이지현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "홍도",
+   "name": "예지원"
+  },
+  {
+   "role": "홍도",
+   "name": "양영미"
+  },
+  {
+   "role": "월초",
+   "name": "김철리"
+  },
+  {
+   "role": "월초",
+   "name": "선종남"
+  },
+  {
+   "role": "철수",
+   "name": "홍의준"
+  },
+  {
+   "role": "광호",
+   "name": "견민성"
+  },
+  {
+   "role": "혜숙",
+   "name": "최주연"
+  },
+  {
+   "role": "노복",
+   "name": "김영노"
+  },
+  {
+   "role": "",
+   "name": "이지현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170908030229/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=79784"
+ }
+}

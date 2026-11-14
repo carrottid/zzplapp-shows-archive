@@ -1,0 +1,41 @@
+{
+ "id": "PD123047",
+ "title": "쥐가 된 사나이",
+ "genre": "연극",
+ "from": "2018-05-18",
+ "to": "2018-05-27",
+ "venue": "유니플렉스 2관",
+ "cast": [
+  "정선철",
+  "최원정",
+  "송치훈",
+  "박다미"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "사내",
+   "name": "정선철"
+  },
+  {
+   "role": "어머니",
+   "name": "최원정"
+  },
+  {
+   "role": "청년",
+   "name": "송치훈"
+  },
+  {
+   "role": "딸",
+   "name": "박다미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20211025103144/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=123047"
+ }
+}

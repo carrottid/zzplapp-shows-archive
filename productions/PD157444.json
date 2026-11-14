@@ -1,0 +1,66 @@
+{
+ "id": "PD157444",
+ "title": "더 모먼트",
+ "genre": "뮤지컬",
+ "from": "2020-07-08",
+ "to": "2020-08-31",
+ "venue": "유니플렉스 2관",
+ "cast": [
+  "박시원",
+  "원종환",
+  "유성재",
+  "강정우",
+  "주민진",
+  "류제윤",
+  "김지온",
+  "홍승안",
+  "정대현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "사내",
+   "name": "박시원"
+  },
+  {
+   "role": "사내",
+   "name": "원종환"
+  },
+  {
+   "role": "사내",
+   "name": "유성재"
+  },
+  {
+   "role": "남자",
+   "name": "강정우"
+  },
+  {
+   "role": "남자",
+   "name": "주민진"
+  },
+  {
+   "role": "남자",
+   "name": "류제윤"
+  },
+  {
+   "role": "소년",
+   "name": "김지온"
+  },
+  {
+   "role": "소년",
+   "name": "홍승안"
+  },
+  {
+   "role": "소년",
+   "name": "정대현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250208005302/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=157444"
+ }
+}

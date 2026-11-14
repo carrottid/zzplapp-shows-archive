@@ -1,0 +1,89 @@
+{
+ "id": "TM2328",
+ "title": "스위니토드",
+ "genre": "뮤지컬",
+ "from": "2016-06-21",
+ "to": "2016-10-03",
+ "venue": "샤롯데씨어터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201604061100501MX45Y3X3C84W17W.jpg",
+ "cast": [
+  "조승우",
+  "양준모",
+  "옥주현",
+  "전미도",
+  "서영주",
+  "윤소호",
+  "문태유",
+  "김성철",
+  "이지혜",
+  "이지수",
+  "조성지",
+  "서승원",
+  "최은실"
+ ],
+ "state": "공연완료",
+ "producer": "오디컴퍼니, 에이리스트코퍼레이션",
+ "price": "VIP석 14만원, R석 12만원, S석 8만원, A석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "스위니토드",
+   "name": "조승우"
+  },
+  {
+   "role": "스위니토드",
+   "name": "양준모"
+  },
+  {
+   "role": "러빗부인",
+   "name": "옥주현"
+  },
+  {
+   "role": "러빗부인",
+   "name": "전미도"
+  },
+  {
+   "role": "터핀",
+   "name": "서영주"
+  },
+  {
+   "role": "안소니",
+   "name": "윤소호"
+  },
+  {
+   "role": "토비아스",
+   "name": "문태유"
+  },
+  {
+   "role": "토비아스",
+   "name": "김성철"
+  },
+  {
+   "role": "조안나",
+   "name": "이지혜"
+  },
+  {
+   "role": "조안나",
+   "name": "이지수"
+  },
+  {
+   "role": "피렐리",
+   "name": "조성지"
+  },
+  {
+   "role": "비들",
+   "name": "서승원"
+  },
+  {
+   "role": "거지여인",
+   "name": "최은실"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2328"
+ }
+}

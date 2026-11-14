@@ -1,0 +1,81 @@
+{
+ "id": "PD159232",
+ "title": "더 스테이지",
+ "genre": "뮤지컬",
+ "from": "2020-08-25",
+ "to": "2020-11-08",
+ "venue": "대학로 SH 아트홀",
+ "cast": [
+  "송재호",
+  "한선우",
+  "서우연",
+  "조다원",
+  "김예준",
+  "지진석",
+  "최창욱",
+  "유주원",
+  "김도원",
+  "두리",
+  "신준철",
+  "권세봉"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "훈",
+   "name": "송재호"
+  },
+  {
+   "role": "훈",
+   "name": "한선우"
+  },
+  {
+   "role": "지오",
+   "name": "서우연"
+  },
+  {
+   "role": "제이",
+   "name": "조다원"
+  },
+  {
+   "role": "찬",
+   "name": "김예준"
+  },
+  {
+   "role": "진",
+   "name": "지진석"
+  },
+  {
+   "role": "진",
+   "name": "최창욱"
+  },
+  {
+   "role": "윤세희",
+   "name": "유주원"
+  },
+  {
+   "role": "윤세희",
+   "name": "김도원"
+  },
+  {
+   "role": "윤세희",
+   "name": "두리"
+  },
+  {
+   "role": "",
+   "name": "신준철"
+  },
+  {
+   "role": "",
+   "name": "권세봉"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250620112239/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=159232"
+ }
+}

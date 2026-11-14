@@ -1,0 +1,31 @@
+{
+ "id": "PD20433",
+ "title": "안토니와 클레오파트라",
+ "genre": "연극",
+ "from": "2011-11-24",
+ "to": "2011-11-27",
+ "venue": "LG아트센터",
+ "cast": [
+  "요시다 코타로",
+  "아란 케이"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "안토니",
+   "name": "요시다 코타로"
+  },
+  {
+   "role": "클레오파트라",
+   "name": "아란 케이"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191206202756/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=20433"
+ }
+}

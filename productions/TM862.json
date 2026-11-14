@@ -1,0 +1,59 @@
+{
+ "id": "TM862",
+ "title": "빙고",
+ "genre": "뮤지컬",
+ "from": "2007-10-19",
+ "to": "2007-12-31",
+ "venue": "코엑스아트홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009170151507626922ba7eb4e488e9958d4b9732d91.jpg",
+ "cast": [
+  "김현진",
+  "김선영",
+  "한지연",
+  "안현식",
+  "김현숙",
+  "이찬미",
+  "오소연"
+ ],
+ "state": "공연완료",
+ "producer": "於 天 佳 人",
+ "price": "전석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "Pasty",
+   "name": "김현진"
+  },
+  {
+   "role": "Honey",
+   "name": "김선영"
+  },
+  {
+   "role": "Vern",
+   "name": "한지연"
+  },
+  {
+   "role": "Sam",
+   "name": "안현식"
+  },
+  {
+   "role": "Julia",
+   "name": "김현숙"
+  },
+  {
+   "role": "Alison",
+   "name": "이찬미"
+  },
+  {
+   "role": "Alison",
+   "name": "오소연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=862"
+ }
+}

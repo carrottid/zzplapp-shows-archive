@@ -1,0 +1,39 @@
+{
+ "id": "TM1546",
+ "title": "오늘, 오늘이",
+ "genre": "뮤지컬",
+ "from": "2009-12-15",
+ "to": "2010-01-03",
+ "venue": "게릴라극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_today2009.jpg",
+ "cast": [
+  "이소연",
+  "권송희",
+  "김성환"
+ ],
+ "state": "공연완료",
+ "producer": "국악뮤지컬집단 타루",
+ "price": "일반 25,000원/ 학생 17,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "배우",
+   "name": "이소연"
+  },
+  {
+   "role": "배우",
+   "name": "권송희"
+  },
+  {
+   "role": "배우",
+   "name": "김성환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1546"
+ }
+}

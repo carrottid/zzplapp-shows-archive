@@ -1,0 +1,36 @@
+{
+ "id": "PD89738",
+ "title": "늘근도둑 이야기 - 춘천",
+ "genre": "연극",
+ "from": "2016-03-04",
+ "to": "2016-03-05",
+ "venue": "춘천문화예술회관",
+ "cast": [
+  "맹상열",
+  "우상욱",
+  "서동갑"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "더 늘근도둑",
+   "name": "맹상열"
+  },
+  {
+   "role": "덜 늘근도둑",
+   "name": "우상욱"
+  },
+  {
+   "role": "수사관",
+   "name": "서동갑"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170908010017/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=89738"
+ }
+}

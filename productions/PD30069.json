@@ -1,0 +1,41 @@
+{
+ "id": "PD30069",
+ "title": "대학살의 신",
+ "genre": "연극",
+ "from": "2011-12-17",
+ "to": "2012-02-12",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "박지일",
+  "이대연",
+  "서주희",
+  "이연규"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "알렝",
+   "name": "박지일"
+  },
+  {
+   "role": "미셀",
+   "name": "이대연"
+  },
+  {
+   "role": "아네트",
+   "name": "서주희"
+  },
+  {
+   "role": "베로니끄",
+   "name": "이연규"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210118174316/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=30069"
+ }
+}

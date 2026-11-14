@@ -1,0 +1,58 @@
+{
+ "id": "TM566",
+ "title": "지하철1호선",
+ "genre": "뮤지컬",
+ "from": "2000-01-01",
+ "to": "2000-06-11",
+ "venue": "학전블루",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_ji.jpg",
+ "cast": [
+  "김선화",
+  "김학준",
+  "남문철",
+  "배해선",
+  "백주연",
+  "이주원",
+  "이황의"
+ ],
+ "state": "공연완료",
+ "producer": "극단 학전",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "날탕/아나운서/소녀가장 등",
+   "name": "김선화"
+  },
+  {
+   "role": "날탕/아나운서/소녀가장 등",
+   "name": "김학준"
+  },
+  {
+   "role": "날탕/아나운서/소녀가장 등",
+   "name": "남문철"
+  },
+  {
+   "role": "날탕/아나운서/소녀가장 등",
+   "name": "배해선"
+  },
+  {
+   "role": "날탕/아나운서/소녀가장 등",
+   "name": "백주연"
+  },
+  {
+   "role": "날탕/아나운서/소녀가장 등",
+   "name": "이주원"
+  },
+  {
+   "role": "날탕/아나운서/소녀가장 등",
+   "name": "이황의"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=566"
+ }
+}

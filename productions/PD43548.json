@@ -1,0 +1,56 @@
+{
+ "id": "PD43548",
+ "title": "히스토리 보이즈",
+ "genre": "연극",
+ "from": "2013-03-08",
+ "to": "2013-03-31",
+ "venue": "두산아트센터 연강홀",
+ "cast": [
+  "이명행",
+  "최용민",
+  "오대석",
+  "추정화",
+  "이재균",
+  "김찬호",
+  "안재영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "어윈",
+   "name": "이명행"
+  },
+  {
+   "role": "헥터",
+   "name": "최용민"
+  },
+  {
+   "role": "교장",
+   "name": "오대석"
+  },
+  {
+   "role": "린톳",
+   "name": "추정화"
+  },
+  {
+   "role": "포스너",
+   "name": "이재균"
+  },
+  {
+   "role": "데이킨",
+   "name": "김찬호"
+  },
+  {
+   "role": "",
+   "name": "안재영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704013652/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=43548"
+ }
+}

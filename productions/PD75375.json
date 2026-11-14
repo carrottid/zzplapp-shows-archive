@@ -1,0 +1,56 @@
+{
+ "id": "PD75375",
+ "title": "총체적 난극 - 제국의 일상",
+ "genre": "연극",
+ "from": "2015-05-14",
+ "to": "2015-05-24",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "김자영",
+  "안훈",
+  "이정훈",
+  "하연숙",
+  "황위재",
+  "홍유진",
+  "장계윤"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "커플여자",
+   "name": "김자영"
+  },
+  {
+   "role": "청년",
+   "name": "안훈"
+  },
+  {
+   "role": "친구",
+   "name": "이정훈"
+  },
+  {
+   "role": "아내",
+   "name": "하연숙"
+  },
+  {
+   "role": "남자",
+   "name": "황위재"
+  },
+  {
+   "role": "학생",
+   "name": "홍유진"
+  },
+  {
+   "role": "",
+   "name": "장계윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250620095048/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=75375"
+ }
+}

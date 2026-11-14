@@ -1,0 +1,74 @@
+{
+ "id": "TM1526",
+ "title": "명성황후",
+ "genre": "뮤지컬",
+ "from": "2009-11-28",
+ "to": "2009-12-27",
+ "venue": "국립극장 해오름극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_laste2009.jpg",
+ "cast": [
+  "이태원",
+  "조안나",
+  "이상은",
+  "박완",
+  "김진태",
+  "김선동",
+  "임철형",
+  "지혜근",
+  "최대철",
+  "김덕환"
+ ],
+ "state": "공연완료",
+ "producer": "(주)에이콤인터내셔날",
+ "price": "[11/28~12/13] VIP 110,000원/R 90,000원/S 70,000원/A 40,000원 [12/15~12/27] VIP 120,000원/R 100,000원/S 80,000원/A 50,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "명성황후",
+   "name": "이태원"
+  },
+  {
+   "role": "명성황후",
+   "name": "조안나"
+  },
+  {
+   "role": "명성황후",
+   "name": "이상은"
+  },
+  {
+   "role": "고종",
+   "name": "박완"
+  },
+  {
+   "role": "대원군",
+   "name": "김진태"
+  },
+  {
+   "role": "미우라",
+   "name": "김선동"
+  },
+  {
+   "role": "미우라",
+   "name": "임철형"
+  },
+  {
+   "role": "홍계훈",
+   "name": "지혜근"
+  },
+  {
+   "role": "홍계훈",
+   "name": "최대철"
+  },
+  {
+   "role": "이노우에",
+   "name": "김덕환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1526"
+ }
+}

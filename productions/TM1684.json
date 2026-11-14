@@ -1,0 +1,114 @@
+{
+ "id": "TM1684",
+ "title": "올 댓 재즈",
+ "genre": "뮤지컬",
+ "from": "2011-01-21",
+ "to": "2011-02-27",
+ "venue": "용산문화예술회관 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2010 poster.JPG",
+ "cast": [
+  "강태을",
+  "유호석",
+  "전수미",
+  "구민진",
+  "임춘길",
+  "문예신",
+  "손선권",
+  "심상희",
+  "심건우",
+  "양시은",
+  "유정윤",
+  "이미림",
+  "이은진",
+  "이정임",
+  "이준호",
+  "조승명",
+  "최영민",
+  "홍석준"
+ ],
+ "state": "공연완료",
+ "producer": "팍스컬쳐",
+ "price": "R석 55,000원 / S석 45,000원 / A석 15,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "유태민",
+   "name": "강태을"
+  },
+  {
+   "role": "유태민",
+   "name": "유호석"
+  },
+  {
+   "role": "서유라",
+   "name": "전수미"
+  },
+  {
+   "role": "서유라",
+   "name": "구민진"
+  },
+  {
+   "role": "전병국",
+   "name": "임춘길"
+  },
+  {
+   "role": "데이비드",
+   "name": "문예신"
+  },
+  {
+   "role": "앙상블",
+   "name": "손선권"
+  },
+  {
+   "role": "앙상블",
+   "name": "심상희"
+  },
+  {
+   "role": "앙상블",
+   "name": "심건우"
+  },
+  {
+   "role": "앙상블",
+   "name": "양시은"
+  },
+  {
+   "role": "앙상블",
+   "name": "유정윤"
+  },
+  {
+   "role": "앙상블",
+   "name": "이미림"
+  },
+  {
+   "role": "앙상블",
+   "name": "이은진"
+  },
+  {
+   "role": "앙상블",
+   "name": "이정임"
+  },
+  {
+   "role": "앙상블",
+   "name": "이준호"
+  },
+  {
+   "role": "앙상블",
+   "name": "조승명"
+  },
+  {
+   "role": "앙상블",
+   "name": "최영민"
+  },
+  {
+   "role": "앙상블",
+   "name": "홍석준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1684"
+ }
+}

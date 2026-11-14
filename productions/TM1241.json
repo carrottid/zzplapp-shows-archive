@@ -1,0 +1,59 @@
+{
+ "id": "TM1241",
+ "title": "슈샤인 보이",
+ "genre": "뮤지컬",
+ "from": "2008-09-05",
+ "to": "2008-10-18",
+ "venue": "예술극장 나무와물",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008_슈사인보이 01.jpg",
+ "cast": [
+  "리치",
+  "박일곤",
+  "이현주",
+  "정인애",
+  "이동준",
+  "김상현",
+  "김문성"
+ ],
+ "state": "공연완료",
+ "producer": "스토팩토리, 문화기획 파란",
+ "price": "일반 3만원/ 청소년 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "상구",
+   "name": "리치"
+  },
+  {
+   "role": "상구",
+   "name": "박일곤"
+  },
+  {
+   "role": "민희",
+   "name": "이현주"
+  },
+  {
+   "role": "민희",
+   "name": "정인애"
+  },
+  {
+   "role": "태수",
+   "name": "이동준"
+  },
+  {
+   "role": "태수",
+   "name": "김상현"
+  },
+  {
+   "role": "할배",
+   "name": "김문성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1241"
+ }
+}

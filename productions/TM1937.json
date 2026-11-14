@@ -1,0 +1,84 @@
+{
+ "id": "TM1937",
+ "title": "거울공주 평강이야기",
+ "genre": "뮤지컬",
+ "from": "2012-12-11",
+ "to": "2013-03-31",
+ "venue": "대학로 SH아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)105.jpg",
+ "cast": [
+  "진선규",
+  "이석",
+  "차용학",
+  "임강희",
+  "전미도",
+  "유정은",
+  "양경원",
+  "임혜란",
+  "서태영",
+  "박정민",
+  "신하영",
+  "강연정"
+ ],
+ "state": "공연완료",
+ "producer": "공연배달서비스 간다, 프로젝트박스 시야",
+ "price": "R석 4만원 / S석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "야생소년",
+   "name": "진선규"
+  },
+  {
+   "role": "야생소년",
+   "name": "이석"
+  },
+  {
+   "role": "야생소년",
+   "name": "차용학"
+  },
+  {
+   "role": "연이",
+   "name": "임강희"
+  },
+  {
+   "role": "연이",
+   "name": "전미도"
+  },
+  {
+   "role": "연이",
+   "name": "유정은"
+  },
+  {
+   "role": "라이",
+   "name": "양경원"
+  },
+  {
+   "role": "사라",
+   "name": "임혜란"
+  },
+  {
+   "role": "병사1",
+   "name": "서태영"
+  },
+  {
+   "role": "병사2",
+   "name": "박정민"
+  },
+  {
+   "role": "이야기 소녀",
+   "name": "신하영"
+  },
+  {
+   "role": "이야기 소녀",
+   "name": "강연정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1937"
+ }
+}

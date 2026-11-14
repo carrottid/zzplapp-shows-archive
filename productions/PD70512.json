@@ -1,0 +1,86 @@
+{
+ "id": "PD70512",
+ "title": "러브 액츄얼리",
+ "genre": "연극",
+ "from": "2014-11-19",
+ "to": "2015-03-15",
+ "venue": "한성아트홀 2관",
+ "cast": [
+  "우찬",
+  "이순원",
+  "정가호",
+  "김대곤",
+  "서예화",
+  "김민지",
+  "황아영",
+  "김가현",
+  "최기원",
+  "서인권",
+  "김태성",
+  "심윤보",
+  "우윤구"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "재운",
+   "name": "우찬"
+  },
+  {
+   "role": "재운",
+   "name": "이순원"
+  },
+  {
+   "role": "재운",
+   "name": "정가호"
+  },
+  {
+   "role": "재운",
+   "name": "김대곤"
+  },
+  {
+   "role": "수진",
+   "name": "서예화"
+  },
+  {
+   "role": "수진",
+   "name": "김민지"
+  },
+  {
+   "role": "수진",
+   "name": "황아영"
+  },
+  {
+   "role": "수진",
+   "name": "김가현"
+  },
+  {
+   "role": "멀티맨",
+   "name": "최기원"
+  },
+  {
+   "role": "멀티맨",
+   "name": "서인권"
+  },
+  {
+   "role": "멀티맨",
+   "name": "김태성"
+  },
+  {
+   "role": "멀티맨",
+   "name": "심윤보"
+  },
+  {
+   "role": "",
+   "name": "우윤구"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170921030212/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=70512"
+ }
+}

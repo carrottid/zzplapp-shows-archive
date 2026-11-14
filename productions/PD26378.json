@@ -1,0 +1,56 @@
+{
+ "id": "PD26378",
+ "title": "누가 살던 방",
+ "genre": "연극",
+ "from": "2011-08-05",
+ "to": "2011-09-11",
+ "venue": "한성아트홀 1관",
+ "cast": [
+  "김경숙",
+  "김상복",
+  "윤상현",
+  "정남열",
+  "이윤숙",
+  "유다미",
+  "김현미"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "순임",
+   "name": "김경숙"
+  },
+  {
+   "role": "익섭",
+   "name": "김상복"
+  },
+  {
+   "role": "준석,호림",
+   "name": "윤상현"
+  },
+  {
+   "role": "영진,규진",
+   "name": "정남열"
+  },
+  {
+   "role": "도우미",
+   "name": "이윤숙"
+  },
+  {
+   "role": "언주",
+   "name": "유다미"
+  },
+  {
+   "role": "",
+   "name": "김현미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20120524024739/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=26378"
+ }
+}

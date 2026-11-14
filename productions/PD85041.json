@@ -1,0 +1,56 @@
+{
+ "id": "PD85041",
+ "title": "손",
+ "genre": "연극",
+ "from": "2015-12-03",
+ "to": "2015-12-13",
+ "venue": "나온 씨어터",
+ "cast": [
+  "우정국",
+  "이새롬",
+  "이주희",
+  "권동호",
+  "김희연",
+  "윤성원",
+  "한송희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아빠",
+   "name": "우정국"
+  },
+  {
+   "role": "외할머니",
+   "name": "이새롬"
+  },
+  {
+   "role": "엄마",
+   "name": "이주희"
+  },
+  {
+   "role": "장남",
+   "name": "권동호"
+  },
+  {
+   "role": "장녀",
+   "name": "김희연"
+  },
+  {
+   "role": "차남",
+   "name": "윤성원"
+  },
+  {
+   "role": "",
+   "name": "한송희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170630074238/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=85041"
+ }
+}

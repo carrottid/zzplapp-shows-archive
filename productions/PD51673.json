@@ -1,0 +1,81 @@
+{
+ "id": "PD51673",
+ "title": "쩨쩨한 로맨스",
+ "genre": "연극",
+ "from": "2013-09-29",
+ "to": "2014-06-29",
+ "venue": "CJ 아지트 대학로(구 SM아트홀)",
+ "cast": [
+  "박준석",
+  "조완기",
+  "정원창",
+  "김은주",
+  "박새별",
+  "허혜리",
+  "이대호",
+  "이정건",
+  "장지훈",
+  "최예윤",
+  "김가현",
+  "김민지"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "정배",
+   "name": "박준석"
+  },
+  {
+   "role": "정배",
+   "name": "조완기"
+  },
+  {
+   "role": "정배",
+   "name": "정원창"
+  },
+  {
+   "role": "다림",
+   "name": "김은주"
+  },
+  {
+   "role": "다림",
+   "name": "박새별"
+  },
+  {
+   "role": "다림",
+   "name": "허혜리"
+  },
+  {
+   "role": "해룡/멀티남",
+   "name": "이대호"
+  },
+  {
+   "role": "해룡/멀티남",
+   "name": "이정건"
+  },
+  {
+   "role": "해룡/멀티남",
+   "name": "장지훈"
+  },
+  {
+   "role": "경선/멀티녀",
+   "name": "최예윤"
+  },
+  {
+   "role": "경선/멀티녀",
+   "name": "김가현"
+  },
+  {
+   "role": "경선/멀티녀",
+   "name": "김민지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240812002334/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=51673"
+ }
+}

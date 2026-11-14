@@ -1,0 +1,44 @@
+{
+ "id": "TM1749",
+ "title": "아이 러브 유",
+ "genre": "뮤지컬",
+ "from": "2011-07-22",
+ "to": "2011-08-20",
+ "venue": "가든파이브 아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster-s.jpg",
+ "cast": [
+  "박선우",
+  "김준겸",
+  "이민아",
+  "한애리"
+ ],
+ "state": "공연완료",
+ "producer": "설앤컴퍼니",
+ "price": "전석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "남자2",
+   "name": "박선우"
+  },
+  {
+   "role": "남자1",
+   "name": "김준겸"
+  },
+  {
+   "role": "여자1",
+   "name": "이민아"
+  },
+  {
+   "role": "여자2",
+   "name": "한애리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1749"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "id": "PD109182",
+ "title": "3일간의 비",
+ "genre": "연극",
+ "from": "2017-07-11",
+ "to": "2017-09-10",
+ "venue": "예스24아트원 2관",
+ "cast": [
+  "최재웅",
+  "윤박",
+  "이윤지",
+  "최유송",
+  "이명행",
+  "서현우",
+  "유지안"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "워커 & 네드",
+   "name": "최재웅"
+  },
+  {
+   "role": "워커 & 네드",
+   "name": "윤박"
+  },
+  {
+   "role": "낸 & 라이나",
+   "name": "이윤지"
+  },
+  {
+   "role": "낸 & 라이나",
+   "name": "최유송"
+  },
+  {
+   "role": "핍 & 테오",
+   "name": "이명행"
+  },
+  {
+   "role": "핍 & 테오",
+   "name": "서현우"
+  },
+  {
+   "role": "",
+   "name": "유지안"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250618122604/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=109182"
+ }
+}

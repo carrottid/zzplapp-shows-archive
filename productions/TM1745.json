@@ -1,0 +1,74 @@
+{
+ "id": "TM1745",
+ "title": "맘마미아!",
+ "genre": "뮤지컬",
+ "from": "2011-08-30",
+ "to": "2012-02-26",
+ "venue": "디큐브아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster 2011.jpg",
+ "cast": [
+  "최정원",
+  "전수경",
+  "황현정",
+  "이경미",
+  "성기윤",
+  "박윤희",
+  "이현우",
+  "황만익",
+  "김자경",
+  "박지연"
+ ],
+ "state": "공연완료",
+ "producer": "SBS, 신시컴퍼니",
+ "price": "VIP석 11만원 / R석 9만원 / S석 7만원 / A석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "도나",
+   "name": "최정원"
+  },
+  {
+   "role": "타냐",
+   "name": "전수경"
+  },
+  {
+   "role": "타냐",
+   "name": "황현정"
+  },
+  {
+   "role": "로지",
+   "name": "이경미"
+  },
+  {
+   "role": "샘",
+   "name": "성기윤"
+  },
+  {
+   "role": "빌",
+   "name": "박윤희"
+  },
+  {
+   "role": "해리",
+   "name": "이현우"
+  },
+  {
+   "role": "해리",
+   "name": "황만익"
+  },
+  {
+   "role": "소피",
+   "name": "김자경"
+  },
+  {
+   "role": "소피",
+   "name": "박지연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1745"
+ }
+}

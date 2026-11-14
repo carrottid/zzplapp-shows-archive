@@ -1,0 +1,69 @@
+{
+ "id": "TM1714",
+ "title": "스켈리두",
+ "genre": "뮤지컬",
+ "from": "2011-03-11",
+ "to": "2011-07-31",
+ "venue": "대학로 스타시티 2관(TM 스테이지)",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_scelly-s.jpg",
+ "cast": [
+  "송욱경",
+  "박정표",
+  "손홍민",
+  "김꽃무리",
+  "김민지",
+  "안덕용",
+  "김문성",
+  "박유정",
+  "고효진"
+ ],
+ "state": "공연완료",
+ "producer": "비갬아트컴퍼니",
+ "price": "전석 3만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이수민",
+   "name": "송욱경"
+  },
+  {
+   "role": "이수민",
+   "name": "박정표"
+  },
+  {
+   "role": "이수민",
+   "name": "손홍민"
+  },
+  {
+   "role": "유희",
+   "name": "김꽃무리"
+  },
+  {
+   "role": "유희",
+   "name": "김민지"
+  },
+  {
+   "role": "정지훈 / 멀티맨(1인6역)",
+   "name": "안덕용"
+  },
+  {
+   "role": "정지훈 / 멀티맨(1인6역)",
+   "name": "김문성"
+  },
+  {
+   "role": "마이 / 멀티녀(1인2역)",
+   "name": "박유정"
+  },
+  {
+   "role": "마이 / 멀티녀(1인2역)",
+   "name": "고효진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1714"
+ }
+}

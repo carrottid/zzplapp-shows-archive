@@ -1,0 +1,56 @@
+{
+ "id": "PD7263",
+ "title": "밤비 내리는 영동교를 홀로 걷는 이 마음",
+ "genre": "연극",
+ "from": "2008-12-04",
+ "to": "2008-12-28",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "박수영",
+  "장성익",
+  "서진",
+  "윤택윤",
+  "정만식",
+  "김민선",
+  "송명기"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "연두식",
+   "name": "박수영"
+  },
+  {
+   "role": "통장,소외남",
+   "name": "장성익"
+  },
+  {
+   "role": "주현미",
+   "name": "서진"
+  },
+  {
+   "role": "변일방",
+   "name": "윤택윤"
+  },
+  {
+   "role": "조형사",
+   "name": "정만식"
+  },
+  {
+   "role": "바바리여자,사무원",
+   "name": "김민선"
+  },
+  {
+   "role": "",
+   "name": "송명기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170703232531/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=7263"
+ }
+}

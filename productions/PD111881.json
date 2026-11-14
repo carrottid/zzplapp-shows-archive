@@ -1,0 +1,91 @@
+{
+ "id": "PD111881",
+ "title": "조제 호랑이 그리고 물고기들",
+ "genre": "연극",
+ "from": "2017-09-08",
+ "to": "2017-10-29",
+ "venue": "CJ 아지트 대학로(구 SM아트홀)",
+ "cast": [
+  "최우리",
+  "문진아",
+  "이정화",
+  "백성현",
+  "서영주",
+  "김찬호",
+  "유주혜",
+  "김려원",
+  "김대곤",
+  "이원준",
+  "임종인",
+  "박상남",
+  "김아영",
+  "류경환"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "쿠미코",
+   "name": "최우리"
+  },
+  {
+   "role": "쿠미코",
+   "name": "문진아"
+  },
+  {
+   "role": "쿠미코",
+   "name": "이정화"
+  },
+  {
+   "role": "츠네오",
+   "name": "백성현"
+  },
+  {
+   "role": "츠네오",
+   "name": "서영주"
+  },
+  {
+   "role": "츠네오",
+   "name": "김찬호"
+  },
+  {
+   "role": "윤효정",
+   "name": "유주혜"
+  },
+  {
+   "role": "윤효정",
+   "name": "김려원"
+  },
+  {
+   "role": "권진우",
+   "name": "김대곤"
+  },
+  {
+   "role": "권진우",
+   "name": "이원준"
+  },
+  {
+   "role": "사이토",
+   "name": "임종인"
+  },
+  {
+   "role": "사이토",
+   "name": "박상남"
+  },
+  {
+   "role": "토모코",
+   "name": "김아영"
+  },
+  {
+   "role": "",
+   "name": "류경환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240116143757/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=111881"
+ }
+}

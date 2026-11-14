@@ -1,0 +1,71 @@
+{
+ "id": "PD89317",
+ "title": "바냐아저씨",
+ "genre": "연극",
+ "from": "2016-02-16",
+ "to": "2016-03-10",
+ "venue": "대학로 SH 아트홀",
+ "cast": [
+  "김지숙",
+  "기주봉",
+  "문창완",
+  "이재희",
+  "고인배",
+  "이용녀",
+  "이봉규",
+  "김미수",
+  "신재일",
+  "이희중"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "엘레나",
+   "name": "김지숙"
+  },
+  {
+   "role": "바냐",
+   "name": "기주봉"
+  },
+  {
+   "role": "아스뜨롭(의사)",
+   "name": "문창완"
+  },
+  {
+   "role": "마리나(유모)",
+   "name": "이재희"
+  },
+  {
+   "role": "세레브라꼬프(교수)",
+   "name": "고인배"
+  },
+  {
+   "role": "바이니쯔까야(어머니)",
+   "name": "이용녀"
+  },
+  {
+   "role": "",
+   "name": "이봉규"
+  },
+  {
+   "role": "",
+   "name": "김미수"
+  },
+  {
+   "role": "",
+   "name": "신재일"
+  },
+  {
+   "role": "",
+   "name": "이희중"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260517092939/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=89317"
+ }
+}

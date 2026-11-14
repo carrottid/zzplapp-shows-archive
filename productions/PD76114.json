@@ -1,0 +1,36 @@
+{
+ "id": "PD76114",
+ "title": "까미유 끌로델",
+ "genre": "연극",
+ "from": "2015-03-13",
+ "to": "2015-04-26",
+ "venue": "예그린씨어터",
+ "cast": [
+  "배기범",
+  "장보규",
+  "허윤정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "로뎅",
+   "name": "배기범"
+  },
+  {
+   "role": "로뎅",
+   "name": "장보규"
+  },
+  {
+   "role": "까미유끌로델",
+   "name": "허윤정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200815045358/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=76114"
+ }
+}

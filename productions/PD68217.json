@@ -1,0 +1,66 @@
+{
+ "id": "PD68217",
+ "title": "여보 나도 할말있어",
+ "genre": "연극",
+ "from": "2014-11-01",
+ "to": "2014-12-31",
+ "venue": "세실극장",
+ "cast": [
+  "전성애",
+  "유형관",
+  "김성기",
+  "김선화",
+  "진수현",
+  "이훈",
+  "이종민",
+  "이수미",
+  "권혜영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "말복",
+   "name": "전성애"
+  },
+  {
+   "role": "영호",
+   "name": "유형관"
+  },
+  {
+   "role": "영호",
+   "name": "김성기"
+  },
+  {
+   "role": "영자",
+   "name": "김선화"
+  },
+  {
+   "role": "춘자",
+   "name": "진수현"
+  },
+  {
+   "role": "종수",
+   "name": "이훈"
+  },
+  {
+   "role": "종수",
+   "name": "이종민"
+  },
+  {
+   "role": "오목",
+   "name": "이수미"
+  },
+  {
+   "role": "오목",
+   "name": "권혜영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200812160603/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=68217"
+ }
+}

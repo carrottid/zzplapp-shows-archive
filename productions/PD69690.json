@@ -1,0 +1,76 @@
+{
+ "id": "PD69690",
+ "title": "조로 - 성남",
+ "genre": "뮤지컬",
+ "from": "2014-12-05",
+ "to": "2015-01-03",
+ "venue": "성남아트센터 오페라하우스",
+ "cast": [
+  "김우형",
+  "휘성",
+  "키",
+  "서지영",
+  "최미용",
+  "김수아",
+  "선데이",
+  "조순창",
+  "박민성",
+  "서영주",
+  "홍경수"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "조로 & 디에고",
+   "name": "김우형"
+  },
+  {
+   "role": "조로 & 디에고",
+   "name": "휘성"
+  },
+  {
+   "role": "조로 & 디에고",
+   "name": "키"
+  },
+  {
+   "role": "이네즈",
+   "name": "서지영"
+  },
+  {
+   "role": "이네즈",
+   "name": "최미용"
+  },
+  {
+   "role": "루이사",
+   "name": "김수아"
+  },
+  {
+   "role": "루이사",
+   "name": "선데이"
+  },
+  {
+   "role": "라몬",
+   "name": "조순창"
+  },
+  {
+   "role": "라몬",
+   "name": "박민성"
+  },
+  {
+   "role": "가르시아",
+   "name": "서영주"
+  },
+  {
+   "role": "돈 알레한드로",
+   "name": "홍경수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251009074737/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=69690"
+ }
+}

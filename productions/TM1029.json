@@ -1,0 +1,79 @@
+{
+ "id": "TM1029",
+ "title": "이블데드",
+ "genre": "뮤지컬",
+ "from": "2008-03-18",
+ "to": "2008-06-15",
+ "venue": "충무아트홀 소극장 블랙",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008_이블데드 01.jpg",
+ "cast": [
+  "류정한",
+  "조정석",
+  "백주연",
+  "최혁주",
+  "정상훈",
+  "김재만",
+  "임강희",
+  "양준모",
+  "김승필",
+  "이창용",
+  "배문주"
+ ],
+ "state": "공연완료",
+ "producer": "(주)쇼팩",
+ "price": "R석 5만원 / S석 3만원 / 스플래터존 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "애쉬",
+   "name": "류정한"
+  },
+  {
+   "role": "애쉬",
+   "name": "조정석"
+  },
+  {
+   "role": "셸리/애니",
+   "name": "백주연"
+  },
+  {
+   "role": "셰럴",
+   "name": "최혁주"
+  },
+  {
+   "role": "스콧",
+   "name": "정상훈"
+  },
+  {
+   "role": "스콧",
+   "name": "김재만"
+  },
+  {
+   "role": "린다",
+   "name": "임강희"
+  },
+  {
+   "role": "제이크",
+   "name": "양준모"
+  },
+  {
+   "role": "에드",
+   "name": "김승필"
+  },
+  {
+   "role": "멀티맨",
+   "name": "이창용"
+  },
+  {
+   "role": "스윙",
+   "name": "배문주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1029"
+ }
+}

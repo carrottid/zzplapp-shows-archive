@@ -1,0 +1,66 @@
+{
+ "id": "PD39502",
+ "title": "지킬 앤 하이드 - 성남",
+ "genre": "뮤지컬",
+ "from": "2012-11-03",
+ "to": "2012-11-04",
+ "venue": "성남아트센터 오페라하우스",
+ "cast": [
+  "윤영석",
+  "양준모",
+  "신의정",
+  "선민",
+  "정명은",
+  "이지혜",
+  "김봉환",
+  "김정민",
+  "김선동"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "지킬/하이드",
+   "name": "윤영석"
+  },
+  {
+   "role": "지킬/하이드",
+   "name": "양준모"
+  },
+  {
+   "role": "루시",
+   "name": "신의정"
+  },
+  {
+   "role": "루시",
+   "name": "선민"
+  },
+  {
+   "role": "엠마",
+   "name": "정명은"
+  },
+  {
+   "role": "엠마",
+   "name": "이지혜"
+  },
+  {
+   "role": "댄버스 경",
+   "name": "김봉환"
+  },
+  {
+   "role": "어터슨",
+   "name": "김정민"
+  },
+  {
+   "role": "글로솝",
+   "name": "김선동"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20121030125700/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=39502"
+ }
+}

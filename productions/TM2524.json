@@ -1,0 +1,74 @@
+{
+ "id": "TM2524",
+ "title": "브라더스 까라마조프",
+ "genre": "뮤지컬",
+ "from": "2018-02-10",
+ "to": "2018-04-15",
+ "venue": "수현재씨어터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20180103034423NG4PX1HSUQ5OPRPO.jpg",
+ "cast": [
+  "김주호",
+  "심재현",
+  "조풍래",
+  "김보강",
+  "안재영",
+  "강정우",
+  "김지철",
+  "김대현",
+  "이휘종",
+  "박준휘"
+ ],
+ "state": "공연완료",
+ "producer": "㈜수현재컴퍼니",
+ "price": "전석 60,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "표도르",
+   "name": "김주호"
+  },
+  {
+   "role": "표도르",
+   "name": "심재현"
+  },
+  {
+   "role": "드미트리",
+   "name": "조풍래"
+  },
+  {
+   "role": "드미트리",
+   "name": "김보강"
+  },
+  {
+   "role": "이반",
+   "name": "안재영"
+  },
+  {
+   "role": "이반",
+   "name": "강정우"
+  },
+  {
+   "role": "알료샤",
+   "name": "김지철"
+  },
+  {
+   "role": "알료샤",
+   "name": "김대현"
+  },
+  {
+   "role": "스메르쟈코프",
+   "name": "이휘종"
+  },
+  {
+   "role": "스메르쟈코프",
+   "name": "박준휘"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2524"
+ }
+}

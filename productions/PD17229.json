@@ -1,0 +1,56 @@
+{
+ "id": "PD17229",
+ "title": "무대가 좋다 - 풀 포 러브",
+ "genre": "연극",
+ "from": "2010-07-06",
+ "to": "2010-09-12",
+ "venue": "CJ 아지트 대학로(구 SM아트홀)",
+ "cast": [
+  "박건형",
+  "한정수",
+  "조동혁",
+  "김정화",
+  "김효진",
+  "남명렬",
+  "박해수"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "에디",
+   "name": "박건형"
+  },
+  {
+   "role": "에디",
+   "name": "한정수"
+  },
+  {
+   "role": "에디",
+   "name": "조동혁"
+  },
+  {
+   "role": "메이",
+   "name": "김정화"
+  },
+  {
+   "role": "메이",
+   "name": "김효진"
+  },
+  {
+   "role": "노인",
+   "name": "남명렬"
+  },
+  {
+   "role": "마틴",
+   "name": "박해수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260117152731/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=17229"
+ }
+}

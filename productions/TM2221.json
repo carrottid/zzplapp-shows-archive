@@ -1,0 +1,89 @@
+{
+ "id": "TM2221",
+ "title": "풍월주",
+ "genre": "뮤지컬",
+ "from": "2015-09-08",
+ "to": "2015-11-22",
+ "venue": "쁘띠첼 씨어터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201507311042151DI2D860730725QT.jpg",
+ "cast": [
+  "성태준",
+  "이율",
+  "김대현",
+  "김지휘",
+  "윤나무",
+  "김성철",
+  "정연",
+  "이지숙",
+  "윤석원",
+  "심재현",
+  "송광일",
+  "장이주",
+  "최유진"
+ ],
+ "state": "공연완료",
+ "producer": "CJ E&M",
+ "price": "R석 5만5천원, S석 4만4천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "열",
+   "name": "성태준"
+  },
+  {
+   "role": "열",
+   "name": "이율"
+  },
+  {
+   "role": "열",
+   "name": "김대현"
+  },
+  {
+   "role": "사담",
+   "name": "김지휘"
+  },
+  {
+   "role": "사담",
+   "name": "윤나무"
+  },
+  {
+   "role": "사담",
+   "name": "김성철"
+  },
+  {
+   "role": "진성여왕",
+   "name": "정연"
+  },
+  {
+   "role": "진성여왕",
+   "name": "이지숙"
+  },
+  {
+   "role": "운장",
+   "name": "윤석원"
+  },
+  {
+   "role": "운장",
+   "name": "심재현"
+  },
+  {
+   "role": "궁곰",
+   "name": "송광일"
+  },
+  {
+   "role": "진부인",
+   "name": "장이주"
+  },
+  {
+   "role": "여부인",
+   "name": "최유진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2221"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PD58918",
+ "title": "소서노",
+ "genre": "뮤지컬",
+ "from": "2014-03-24",
+ "to": "2014-03-29",
+ "venue": "예술의전당 오페라극장",
+ "cast": [
+  "조정은",
+  "박영수",
+  "김혜원",
+  "김도빈",
+  "이시후",
+  "박석용"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "소서노",
+   "name": "조정은"
+  },
+  {
+   "role": "주몽",
+   "name": "박영수"
+  },
+  {
+   "role": "비류",
+   "name": "김혜원"
+  },
+  {
+   "role": "유리",
+   "name": "김도빈"
+  },
+  {
+   "role": "연무발",
+   "name": "이시후"
+  },
+  {
+   "role": "주렴",
+   "name": "박석용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200925071534/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=58918"
+ }
+}

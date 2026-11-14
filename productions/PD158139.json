@@ -1,0 +1,56 @@
+{
+ "id": "PD158139",
+ "title": "불씨",
+ "genre": "연극",
+ "from": "2020-07-09",
+ "to": "2020-07-19",
+ "venue": "나온 씨어터",
+ "cast": [
+  "김주완",
+  "권태건",
+  "심원석",
+  "김병건",
+  "안소영",
+  "김동이",
+  "김다임"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "전태일",
+   "name": "김주완"
+  },
+  {
+   "role": "김반장",
+   "name": "권태건"
+  },
+  {
+   "role": "방정호",
+   "name": "심원석"
+  },
+  {
+   "role": "김재준",
+   "name": "김병건"
+  },
+  {
+   "role": "권점득",
+   "name": "안소영"
+  },
+  {
+   "role": "신영옥",
+   "name": "김동이"
+  },
+  {
+   "role": "",
+   "name": "김다임"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240613233516/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=158139"
+ }
+}

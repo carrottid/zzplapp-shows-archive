@@ -1,0 +1,79 @@
+{
+ "id": "TM1908",
+ "title": "오페라의 유령",
+ "genre": "뮤지컬",
+ "from": "2012-12-07",
+ "to": "2013-03-24",
+ "venue": "블루스퀘어 삼성전자홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)84.jpg",
+ "cast": [
+  "브래드 리틀(Brad Little)",
+  "클레어 라이언",
+  "에밀리 린(Emilie Lynn)",
+  "안소니 다우닝",
+  "제임스 보스웍",
+  "제이슨 랄프(Jason Ralph)",
+  "타비소 마세메네",
+  "안드레아 크레이튼(Andrea Creighton)",
+  "레베카 스펜서(Rebecca Spencer)",
+  "캣 레인(Cat Lane)",
+  "이안 존 버그(Ian Jon Bourg)"
+ ],
+ "state": "공연완료",
+ "producer": "설앤컴퍼니, CJ E&M, 인터파크씨어터, RUG",
+ "price": "VIP석 16만원 / R석 13만원 / S석 9만원 / A석 7만원 / B석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "팬텀",
+   "name": "브래드 리틀(Brad Little)"
+  },
+  {
+   "role": "크리스틴",
+   "name": "클레어 라이언"
+  },
+  {
+   "role": "크리스틴 얼터네이트",
+   "name": "에밀리 린(Emilie Lynn)"
+  },
+  {
+   "role": "라울",
+   "name": "안소니 다우닝"
+  },
+  {
+   "role": "피르맹",
+   "name": "제임스 보스웍"
+  },
+  {
+   "role": "앙드레",
+   "name": "제이슨 랄프(Jason Ralph)"
+  },
+  {
+   "role": "피앙지",
+   "name": "타비소 마세메네"
+  },
+  {
+   "role": "칼롯타",
+   "name": "안드레아 크레이튼(Andrea Creighton)"
+  },
+  {
+   "role": "마담 지리",
+   "name": "레베카 스펜서(Rebecca Spencer)"
+  },
+  {
+   "role": "멕 지리",
+   "name": "캣 레인(Cat Lane)"
+  },
+  {
+   "role": "팬텀 언더스터디",
+   "name": "이안 존 버그(Ian Jon Bourg)"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1908"
+ }
+}

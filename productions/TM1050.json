@@ -1,0 +1,99 @@
+{
+ "id": "TM1050",
+ "title": "컴퍼니",
+ "genre": "뮤지컬",
+ "from": "2008-05-27",
+ "to": "2008-08-17",
+ "venue": "두산아트센터 연강홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008_컴퍼니.jpg",
+ "cast": [
+  "고영빈",
+  "서영주",
+  "이소유",
+  "박선우",
+  "홍경수",
+  "류수화",
+  "방진의",
+  "민영기",
+  "정상윤",
+  "김태한",
+  "구원영",
+  "유나영",
+  "전나혜(난아)",
+  "이엘",
+  "이혜경"
+ ],
+ "state": "공연완료",
+ "producer": "설앤컴퍼니, CJ엔터테인먼트",
+ "price": "R석 50,000원/S석 35,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "로버트(바비)",
+   "name": "고영빈"
+  },
+  {
+   "role": "해리",
+   "name": "서영주"
+  },
+  {
+   "role": "사라",
+   "name": "이소유"
+  },
+  {
+   "role": "피터",
+   "name": "박선우"
+  },
+  {
+   "role": "데이빗",
+   "name": "홍경수"
+  },
+  {
+   "role": "제니",
+   "name": "류수화"
+  },
+  {
+   "role": "에이미",
+   "name": "방진의"
+  },
+  {
+   "role": "폴",
+   "name": "민영기"
+  },
+  {
+   "role": "폴",
+   "name": "정상윤"
+  },
+  {
+   "role": "래리",
+   "name": "김태한"
+  },
+  {
+   "role": "조앤",
+   "name": "구원영"
+  },
+  {
+   "role": "에이프릴",
+   "name": "유나영"
+  },
+  {
+   "role": "마르타",
+   "name": "전나혜(난아)"
+  },
+  {
+   "role": "캐시",
+   "name": "이엘"
+  },
+  {
+   "role": "캐시",
+   "name": "이혜경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1050"
+ }
+}

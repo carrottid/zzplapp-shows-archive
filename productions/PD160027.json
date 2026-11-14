@@ -1,0 +1,46 @@
+{
+ "id": "PD160027",
+ "title": "장 주네",
+ "genre": "연극",
+ "from": "2020-05-02",
+ "to": "2020-05-10",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "남기애",
+  "김보라",
+  "박재현",
+  "곽지숙",
+  "이영숙"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "어머니",
+   "name": "남기애"
+  },
+  {
+   "role": "사이드",
+   "name": "김보라"
+  },
+  {
+   "role": "라일라",
+   "name": "박재현"
+  },
+  {
+   "role": "카디다 외 다수",
+   "name": "곽지숙"
+  },
+  {
+   "role": "카디다 외 다수",
+   "name": "이영숙"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220301173132/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=160027"
+ }
+}

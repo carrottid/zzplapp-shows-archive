@@ -1,0 +1,109 @@
+{
+ "id": "TM682",
+ "title": "마리아 마리아",
+ "genre": "뮤지컬",
+ "from": "2006-12-08",
+ "to": "2006-12-30",
+ "venue": "예술의 전당 토월극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009280323104f9d30e4e4ee4a9883580b4ec22568d3.jpg",
+ "cast": [
+  "강효성",
+  "소냐",
+  "최가인",
+  "허준호",
+  "박상우",
+  "김보강",
+  "윤복희",
+  "김태형",
+  "이승철",
+  "김상현",
+  "고원석",
+  "기희진",
+  "이성욱",
+  "김종구",
+  "하지승",
+  "김수정",
+  "황세준"
+ ],
+ "state": "공연완료",
+ "producer": "조아뮤지컬컴퍼니",
+ "price": "VIP석 10만원/R석 8만원/S석6만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "마리아",
+   "name": "강효성"
+  },
+  {
+   "role": "마리아",
+   "name": "소냐"
+  },
+  {
+   "role": "마리아",
+   "name": "최가인"
+  },
+  {
+   "role": "예수",
+   "name": "허준호"
+  },
+  {
+   "role": "예수",
+   "name": "박상우"
+  },
+  {
+   "role": "예수",
+   "name": "김보강"
+  },
+  {
+   "role": "소경",
+   "name": "윤복희"
+  },
+  {
+   "role": "대제사장",
+   "name": "김태형"
+  },
+  {
+   "role": "바리새인",
+   "name": "이승철"
+  },
+  {
+   "role": "베드로",
+   "name": "김상현"
+  },
+  {
+   "role": "유다",
+   "name": "고원석"
+  },
+  {
+   "role": "리사",
+   "name": "기희진"
+  },
+  {
+   "role": "안티바스",
+   "name": "이성욱"
+  },
+  {
+   "role": "제사장",
+   "name": "김종구"
+  },
+  {
+   "role": "도마",
+   "name": "하지승"
+  },
+  {
+   "role": "아나이스",
+   "name": "김수정"
+  },
+  {
+   "role": "안드레",
+   "name": "황세준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=682"
+ }
+}

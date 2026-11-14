@@ -1,0 +1,71 @@
+{
+ "id": "PD41416",
+ "title": "국립레퍼토리시즌 - 국립극단 로미오와 줄리엣",
+ "genre": "연극",
+ "from": "2012-12-18",
+ "to": "2012-12-29",
+ "venue": "국립극장 해오름극장",
+ "cast": [
+  "강필석",
+  "전미도",
+  "김세동",
+  "고수희",
+  "송의동",
+  "우정원",
+  "최민우",
+  "이소아",
+  "주재희",
+  "조정문"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "로미오",
+   "name": "강필석"
+  },
+  {
+   "role": "줄리엣",
+   "name": "전미도"
+  },
+  {
+   "role": "로렌스신부",
+   "name": "김세동"
+  },
+  {
+   "role": "유모",
+   "name": "고수희"
+  },
+  {
+   "role": "",
+   "name": "송의동"
+  },
+  {
+   "role": "",
+   "name": "우정원"
+  },
+  {
+   "role": "",
+   "name": "최민우"
+  },
+  {
+   "role": "",
+   "name": "이소아"
+  },
+  {
+   "role": "",
+   "name": "주재희"
+  },
+  {
+   "role": "",
+   "name": "조정문"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704014619/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=41416"
+ }
+}

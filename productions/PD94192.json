@@ -1,0 +1,41 @@
+{
+ "id": "PD94192",
+ "title": "곁에 있어도 혼자",
+ "genre": "연극",
+ "from": "2016-07-07",
+ "to": "2016-07-31",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "유성주",
+  "김두봉",
+  "백혜리",
+  "장애실"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "요시오",
+   "name": "유성주"
+  },
+  {
+   "role": "쇼헤이",
+   "name": "김두봉"
+  },
+  {
+   "role": "하루코",
+   "name": "백혜리"
+  },
+  {
+   "role": "스미에",
+   "name": "장애실"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170616044909/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=94192"
+ }
+}

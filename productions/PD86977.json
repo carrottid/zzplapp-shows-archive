@@ -1,0 +1,56 @@
+{
+ "id": "PD86977",
+ "title": "베르테르 - 창원",
+ "genre": "뮤지컬",
+ "from": "2016-01-22",
+ "to": "2016-01-24",
+ "venue": "창원 성산아트홀",
+ "cast": [
+  "조승우",
+  "규현",
+  "이지혜",
+  "문종원",
+  "최나래",
+  "강성욱",
+  "김성철"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "베르테르",
+   "name": "조승우"
+  },
+  {
+   "role": "베르테르",
+   "name": "규현"
+  },
+  {
+   "role": "롯데",
+   "name": "이지혜"
+  },
+  {
+   "role": "알베르토",
+   "name": "문종원"
+  },
+  {
+   "role": "오르카",
+   "name": "최나래"
+  },
+  {
+   "role": "카인즈",
+   "name": "강성욱"
+  },
+  {
+   "role": "카인즈",
+   "name": "김성철"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20160827145133/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=86977"
+ }
+}

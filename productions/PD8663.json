@@ -1,0 +1,46 @@
+{
+ "id": "PD8663",
+ "title": "존경하는 엘레나 선생님",
+ "genre": "연극",
+ "from": "2009-03-12",
+ "to": "2009-03-29",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "길해연",
+  "김동현",
+  "김종태",
+  "임기정",
+  "송유현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "엘레나 세르게예브나",
+   "name": "길해연"
+  },
+  {
+   "role": "발로쟈",
+   "name": "김동현"
+  },
+  {
+   "role": "빠샤",
+   "name": "김종태"
+  },
+  {
+   "role": "비쨔",
+   "name": "임기정"
+  },
+  {
+   "role": "랄랴",
+   "name": "송유현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170703231156/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=8663"
+ }
+}

@@ -1,0 +1,128 @@
+{
+ "id": "TM2637",
+ "title": "앤 ANNE",
+ "genre": "뮤지컬",
+ "from": "2018-11-28",
+ "to": "2019-01-13",
+ "venue": "콘텐츠 그라운드",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201812271054146629d5de24ba4454b3809690cb7ecd8b.jpg",
+ "cast": [
+  "차준호",
+  "김세중",
+  "박세화",
+  "홍가경",
+  "최현미",
+  "하미미",
+  "원근영",
+  "송영미",
+  "홍나현",
+  "신정은",
+  "홍성희",
+  "신혜지",
+  "안상은",
+  "김이후",
+  "임찬민",
+  "조혜령",
+  "정서희",
+  "현석준",
+  "김광일",
+  "조흠",
+  "정경훈"
+ ],
+ "state": "공연완료",
+ "price": "전석 5만 5천 원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "매슈",
+   "name": "차준호"
+  },
+  {
+   "role": "매슈",
+   "name": "김세중"
+  },
+  {
+   "role": "마릴라",
+   "name": "박세화"
+  },
+  {
+   "role": "마릴라",
+   "name": "홍가경"
+  },
+  {
+   "role": "마릴라",
+   "name": "최현미"
+  },
+  {
+   "role": "린드/필립스",
+   "name": "하미미"
+  },
+  {
+   "role": "린드/필립스",
+   "name": "원근영"
+  },
+  {
+   "role": "앤1",
+   "name": "송영미"
+  },
+  {
+   "role": "앤1",
+   "name": "홍나현"
+  },
+  {
+   "role": "앤2",
+   "name": "신정은"
+  },
+  {
+   "role": "앤2",
+   "name": "홍성희"
+  },
+  {
+   "role": "앤2",
+   "name": "신혜지"
+  },
+  {
+   "role": "앤3",
+   "name": "안상은"
+  },
+  {
+   "role": "앤3",
+   "name": "김이후"
+  },
+  {
+   "role": "앤3",
+   "name": "임찬민"
+  },
+  {
+   "role": "다이애나",
+   "name": "조혜령"
+  },
+  {
+   "role": "다이애나",
+   "name": "정서희"
+  },
+  {
+   "role": "길버트",
+   "name": "현석준"
+  },
+  {
+   "role": "길버트",
+   "name": "김광일"
+  },
+  {
+   "role": "찰리",
+   "name": "조흠"
+  },
+  {
+   "role": "찰리",
+   "name": "정경훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2637"
+ }
+}

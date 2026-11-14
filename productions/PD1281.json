@@ -1,0 +1,96 @@
+{
+ "id": "PD1281",
+ "title": "태",
+ "genre": "연극",
+ "from": "2007-09-11",
+ "to": "2007-09-23",
+ "venue": "국립극장 달오름극장",
+ "cast": [
+  "장민호",
+  "김재건",
+  "문영수",
+  "김종구",
+  "이승옥",
+  "오영수",
+  "우상전",
+  "서희승",
+  "이혜경",
+  "이상직",
+  "서상원",
+  "이원재",
+  "김마리아",
+  "조은경",
+  "이은희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "신숙주",
+   "name": "장민호"
+  },
+  {
+   "role": "세조",
+   "name": "김재건"
+  },
+  {
+   "role": "박중림",
+   "name": "문영수"
+  },
+  {
+   "role": "종부",
+   "name": "김종구"
+  },
+  {
+   "role": "종부",
+   "name": "이승옥"
+  },
+  {
+   "role": "정인지",
+   "name": "오영수"
+  },
+  {
+   "role": "사관",
+   "name": "우상전"
+  },
+  {
+   "role": "",
+   "name": "서희승"
+  },
+  {
+   "role": "",
+   "name": "이혜경"
+  },
+  {
+   "role": "",
+   "name": "이상직"
+  },
+  {
+   "role": "",
+   "name": "서상원"
+  },
+  {
+   "role": "",
+   "name": "이원재"
+  },
+  {
+   "role": "",
+   "name": "김마리아"
+  },
+  {
+   "role": "",
+   "name": "조은경"
+  },
+  {
+   "role": "",
+   "name": "이은희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20190823144416/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=1281"
+ }
+}

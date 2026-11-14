@@ -1,0 +1,61 @@
+{
+ "id": "PD155360",
+ "title": "언체인",
+ "genre": "연극",
+ "from": "2020-04-07",
+ "to": "2020-06-21",
+ "venue": "브릭스 씨어터 (구, 콘텐츠 그라운드)",
+ "cast": [
+  "안유진",
+  "정성일",
+  "김유진",
+  "이강우",
+  "정인지",
+  "최석진",
+  "홍승안",
+  "신재범"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "마크",
+   "name": "안유진"
+  },
+  {
+   "role": "마크",
+   "name": "정성일"
+  },
+  {
+   "role": "마크",
+   "name": "김유진"
+  },
+  {
+   "role": "마크",
+   "name": "이강우"
+  },
+  {
+   "role": "싱어",
+   "name": "정인지"
+  },
+  {
+   "role": "싱어",
+   "name": "최석진"
+  },
+  {
+   "role": "싱어",
+   "name": "홍승안"
+  },
+  {
+   "role": "싱어",
+   "name": "신재범"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250620103533/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=155360"
+ }
+}

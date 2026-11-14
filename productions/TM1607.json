@@ -1,0 +1,54 @@
+{
+ "id": "TM1607",
+ "title": "웨잇포유",
+ "genre": "뮤지컬",
+ "from": "2010-05-06",
+ "to": "2010-06-30",
+ "venue": "대학로 예술마당 4관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_waitforyou2010.jpg",
+ "cast": [
+  "김수용",
+  "김경수",
+  "유하나",
+  "김수진",
+  "임기홍",
+  "김대종"
+ ],
+ "state": "공연완료",
+ "producer": "㈜ 예술마당",
+ "price": "전석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "빌리",
+   "name": "김수용"
+  },
+  {
+   "role": "빌리",
+   "name": "김경수"
+  },
+  {
+   "role": "루아",
+   "name": "유하나"
+  },
+  {
+   "role": "루아",
+   "name": "김수진"
+  },
+  {
+   "role": "멀티맨",
+   "name": "임기홍"
+  },
+  {
+   "role": "멀티맨",
+   "name": "김대종"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1607"
+ }
+}

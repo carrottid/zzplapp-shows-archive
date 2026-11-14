@@ -1,0 +1,76 @@
+{
+ "id": "PD20222",
+ "title": "대머리 여가수",
+ "genre": "연극",
+ "from": "2011-01-14",
+ "to": "2011-03-31",
+ "venue": "CJ 아지트 대학로(구 SM아트홀)",
+ "cast": [
+  "김성기",
+  "진선규",
+  "정세라",
+  "정은경",
+  "유담연",
+  "최광일",
+  "이승훈",
+  "김나미",
+  "이주원",
+  "안석환",
+  "조재윤"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "서씨",
+   "name": "김성기"
+  },
+  {
+   "role": "서씨",
+   "name": "진선규"
+  },
+  {
+   "role": "서씨부인",
+   "name": "정세라"
+  },
+  {
+   "role": "서씨부인",
+   "name": "정은경"
+  },
+  {
+   "role": "하녀",
+   "name": "유담연"
+  },
+  {
+   "role": "마씨",
+   "name": "최광일"
+  },
+  {
+   "role": "마씨",
+   "name": "이승훈"
+  },
+  {
+   "role": "마씨부인",
+   "name": "김나미"
+  },
+  {
+   "role": "마씨부인",
+   "name": "이주원"
+  },
+  {
+   "role": "소방관",
+   "name": "안석환"
+  },
+  {
+   "role": "소방관",
+   "name": "조재윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250523211838/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=20222"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PD86812",
+ "title": "렛미인",
+ "genre": "연극",
+ "from": "2016-01-21",
+ "to": "2016-02-28",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "이연주",
+  "박소담",
+  "안승균",
+  "오승훈",
+  "주진모",
+  "박시범"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "일라이",
+   "name": "이연주"
+  },
+  {
+   "role": "일라이",
+   "name": "박소담"
+  },
+  {
+   "role": "오스카",
+   "name": "안승균"
+  },
+  {
+   "role": "오스카",
+   "name": "오승훈"
+  },
+  {
+   "role": "하칸",
+   "name": "주진모"
+  },
+  {
+   "role": "함베르그 / 아빌라선생",
+   "name": "박시범"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250608052333/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=86812"
+ }
+}

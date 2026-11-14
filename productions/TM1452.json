@@ -1,0 +1,29 @@
+{
+ "id": "TM1452",
+ "title": "우리는 개그맨이다",
+ "genre": "뮤지컬",
+ "from": "2009-06-04",
+ "to": "2009-06-21",
+ "venue": "연세대학교 백주년기념관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2009gag.jpg",
+ "cast": [
+  "유민상"
+ ],
+ "state": "공연완료",
+ "producer": "(주)인사이트엔터테인먼트",
+ "price": "R석(1층) 55,000원/ S석(2층) 44,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "사랑父",
+   "name": "유민상"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1452"
+ }
+}

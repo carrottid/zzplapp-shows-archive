@@ -1,0 +1,56 @@
+{
+ "id": "PD65413",
+ "title": "여신님이 보고 계셔 - 고양",
+ "genre": "뮤지컬",
+ "from": "2014-11-14",
+ "to": "2014-11-16",
+ "venue": "고양 어울림누리 어울림극장",
+ "cast": [
+  "김종구",
+  "전성우",
+  "최대훈",
+  "안재영",
+  "주민진",
+  "윤석현",
+  "손미영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "한영범",
+   "name": "김종구"
+  },
+  {
+   "role": "류순호",
+   "name": "전성우"
+  },
+  {
+   "role": "이창섭",
+   "name": "최대훈"
+  },
+  {
+   "role": "신석구",
+   "name": "안재영"
+  },
+  {
+   "role": "변주화",
+   "name": "주민진"
+  },
+  {
+   "role": "조동현",
+   "name": "윤석현"
+  },
+  {
+   "role": "",
+   "name": "손미영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230411032016/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=65413"
+ }
+}

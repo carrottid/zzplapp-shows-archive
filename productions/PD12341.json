@@ -1,0 +1,46 @@
+{
+ "id": "PD12341",
+ "title": "삼총사 - 고양",
+ "genre": "뮤지컬",
+ "from": "2009-10-24",
+ "to": "2009-10-25",
+ "venue": "고양 어울림누리 어울림극장",
+ "cast": [
+  "신성우",
+  "유준상",
+  "박건형",
+  "민영기",
+  "김법래"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아토스",
+   "name": "신성우"
+  },
+  {
+   "role": "아토스",
+   "name": "유준상"
+  },
+  {
+   "role": "달타냥",
+   "name": "박건형"
+  },
+  {
+   "role": "아라미스",
+   "name": "민영기"
+  },
+  {
+   "role": "포르토스",
+   "name": "김법래"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200806005655/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=12341"
+ }
+}

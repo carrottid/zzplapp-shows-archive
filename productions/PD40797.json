@@ -1,0 +1,76 @@
+{
+ "id": "PD40797",
+ "title": "리어외전",
+ "genre": "연극",
+ "from": "2012-12-12",
+ "to": "2012-12-28",
+ "venue": "LG아트센터",
+ "cast": [
+  "이승철",
+  "추귀정",
+  "박주연",
+  "이경미",
+  "이명행",
+  "이정훈",
+  "유병훈",
+  "조영규",
+  "호산",
+  "선종남",
+  "김영노"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "리어",
+   "name": "이승철"
+  },
+  {
+   "role": "거너릴",
+   "name": "추귀정"
+  },
+  {
+   "role": "리건",
+   "name": "박주연"
+  },
+  {
+   "role": "코딜리어",
+   "name": "이경미"
+  },
+  {
+   "role": "올바니",
+   "name": "이명행"
+  },
+  {
+   "role": "콘월",
+   "name": "이정훈"
+  },
+  {
+   "role": "",
+   "name": "유병훈"
+  },
+  {
+   "role": "",
+   "name": "조영규"
+  },
+  {
+   "role": "",
+   "name": "호산"
+  },
+  {
+   "role": "",
+   "name": "선종남"
+  },
+  {
+   "role": "",
+   "name": "김영노"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240520091929/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=40797"
+ }
+}

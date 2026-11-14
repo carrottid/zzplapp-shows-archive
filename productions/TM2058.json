@@ -1,0 +1,84 @@
+{
+ "id": "TM2058",
+ "title": "정글라이프",
+ "genre": "뮤지컬",
+ "from": "2014-02-07",
+ "to": "2014-03-30",
+ "venue": "KT&G 상상아트홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201901230639434b6dbd035d604aa19a96ce2a9d7ebe32.jpg",
+ "cast": [
+  "김경선",
+  "이준혁",
+  "박태성",
+  "이든",
+  "고현경",
+  "한수연",
+  "이시유",
+  "장우수",
+  "박정원",
+  "서경수",
+  "조진아",
+  "이미경"
+ ],
+ "state": "공연완료",
+ "producer": "와뮤지컬그라운드",
+ "price": "전석 50,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "홍호란 부장",
+   "name": "김경선"
+  },
+  {
+   "role": "오레오 상무",
+   "name": "이준혁"
+  },
+  {
+   "role": "오레오 상무",
+   "name": "박태성"
+  },
+  {
+   "role": "이원순 사원",
+   "name": "이든"
+  },
+  {
+   "role": "사수미 과장",
+   "name": "고현경"
+  },
+  {
+   "role": "하예나 대리",
+   "name": "한수연"
+  },
+  {
+   "role": "하예나 대리",
+   "name": "이시유"
+  },
+  {
+   "role": "피동희",
+   "name": "장우수"
+  },
+  {
+   "role": "피동희",
+   "name": "박정원"
+  },
+  {
+   "role": "피동희",
+   "name": "서경수"
+  },
+  {
+   "role": "김미화",
+   "name": "조진아"
+  },
+  {
+   "role": "김미화",
+   "name": "이미경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2058"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "id": "PD100217",
+ "title": "우리의 여자들",
+ "genre": "연극",
+ "from": "2016-12-02",
+ "to": "2017-02-12",
+ "venue": "예스24스테이지 3관",
+ "cast": [
+  "안내상",
+  "서현철",
+  "유연수",
+  "이원종",
+  "김광식",
+  "우현",
+  "정석용"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "폴",
+   "name": "안내상"
+  },
+  {
+   "role": "폴",
+   "name": "서현철"
+  },
+  {
+   "role": "폴",
+   "name": "유연수"
+  },
+  {
+   "role": "막스",
+   "name": "이원종"
+  },
+  {
+   "role": "막스",
+   "name": "김광식"
+  },
+  {
+   "role": "시몽",
+   "name": "우현"
+  },
+  {
+   "role": "시몽",
+   "name": "정석용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240223112042/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=100217"
+ }
+}

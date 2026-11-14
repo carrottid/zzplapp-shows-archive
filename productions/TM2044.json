@@ -1,0 +1,84 @@
+{
+ "id": "TM2044",
+ "title": "요셉 어메이징 테크니컬러 드림코트",
+ "genre": "뮤지컬",
+ "from": "2013-12-31",
+ "to": "2014-02-09",
+ "venue": "대학로 뮤지컬센터 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_JATD2013.jpg",
+ "cast": [
+  "정동하",
+  "박영수",
+  "손호준",
+  "최민환",
+  "김승대",
+  "이혜경",
+  "김경선",
+  "리사",
+  "김장섭",
+  "박준형",
+  "김형묵",
+  "송이주"
+ ],
+ "state": "공연완료",
+ "producer": "㈜라이브앤컴퍼니, RUG",
+ "price": "R석 100,000원/ S석 80,000원 / A석:60,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "요셉",
+   "name": "정동하"
+  },
+  {
+   "role": "요셉",
+   "name": "박영수"
+  },
+  {
+   "role": "요셉",
+   "name": "손호준"
+  },
+  {
+   "role": "요셉",
+   "name": "최민환"
+  },
+  {
+   "role": "요셉",
+   "name": "김승대"
+  },
+  {
+   "role": "해설자",
+   "name": "이혜경"
+  },
+  {
+   "role": "해설자",
+   "name": "김경선"
+  },
+  {
+   "role": "해설자",
+   "name": "리사"
+  },
+  {
+   "role": "파라오",
+   "name": "김장섭"
+  },
+  {
+   "role": "파라오",
+   "name": "박준형"
+  },
+  {
+   "role": "파라오",
+   "name": "김형묵"
+  },
+  {
+   "role": "야곱",
+   "name": "송이주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2044"
+ }
+}

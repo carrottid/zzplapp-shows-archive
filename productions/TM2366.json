@@ -1,0 +1,79 @@
+{
+ "id": "TM2366",
+ "title": "팬레터",
+ "genre": "뮤지컬",
+ "from": "2016-10-08",
+ "to": "2016-11-05",
+ "venue": "동국대학교 이해랑예술극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201608101051295F712QI2V51Y34DF.jpg",
+ "cast": [
+  "김종구",
+  "이규형",
+  "문성일",
+  "김성철",
+  "고훈정",
+  "배두훈",
+  "소정화",
+  "김히어라",
+  "양승리",
+  "손유동",
+  "권동호"
+ ],
+ "state": "공연완료",
+ "producer": "극단 크리에이티브 그룹 우리별",
+ "price": "전석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "김해진",
+   "name": "김종구"
+  },
+  {
+   "role": "김해진",
+   "name": "이규형"
+  },
+  {
+   "role": "세훈",
+   "name": "문성일"
+  },
+  {
+   "role": "세훈",
+   "name": "김성철"
+  },
+  {
+   "role": "이윤",
+   "name": "고훈정"
+  },
+  {
+   "role": "이윤",
+   "name": "배두훈"
+  },
+  {
+   "role": "히카루",
+   "name": "소정화"
+  },
+  {
+   "role": "히카루",
+   "name": "김히어라"
+  },
+  {
+   "role": "이태준",
+   "name": "양승리"
+  },
+  {
+   "role": "김수남",
+   "name": "손유동"
+  },
+  {
+   "role": "김환태",
+   "name": "권동호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2366"
+ }
+}

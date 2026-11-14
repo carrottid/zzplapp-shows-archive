@@ -1,0 +1,56 @@
+{
+ "id": "PD146530",
+ "title": "변신",
+ "genre": "연극",
+ "from": "2019-08-01",
+ "to": "2019-08-25",
+ "venue": "대학로 SH 아트홀",
+ "cast": [
+  "손성호",
+  "임은연",
+  "정다은",
+  "조지영",
+  "이동건",
+  "이일섭",
+  "원근희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "잠자씨",
+   "name": "손성호"
+  },
+  {
+   "role": "잠자 부인",
+   "name": "임은연"
+  },
+  {
+   "role": "그레타",
+   "name": "정다은"
+  },
+  {
+   "role": "그레타",
+   "name": "조지영"
+  },
+  {
+   "role": "그레고오르",
+   "name": "이동건"
+  },
+  {
+   "role": "지배인",
+   "name": "이일섭"
+  },
+  {
+   "role": "지배인",
+   "name": "원근희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240804211845/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=146530"
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "id": "TM2666",
+ "title": "기타리스트",
+ "genre": "뮤지컬",
+ "from": "2019-03-20",
+ "to": "2019-03-24",
+ "venue": "용산아트홀 대극장 미르",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2019020802125460555939c50b47dcb35b081e362d332f.jpg",
+ "cast": [
+  "임어울",
+  "이명희",
+  "유노",
+  "김영인",
+  "김주사랑",
+  "채종국",
+  "성연호",
+  "서대덕",
+  "황리하",
+  "조현지",
+  "최민성",
+  "이은솔",
+  "김수민",
+  "이지혁"
+ ],
+ "state": "공연완료",
+ "producer": "사막여우픽쳐스",
+ "price": "로얄석 5만 원 / 일반석 4만 원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "최강민",
+   "name": "임어울"
+  },
+  {
+   "role": "어머니",
+   "name": "이명희"
+  },
+  {
+   "role": "장태산",
+   "name": "유노"
+  },
+  {
+   "role": "김영순",
+   "name": "김영인"
+  },
+  {
+   "role": "장미란",
+   "name": "김주사랑"
+  },
+  {
+   "role": "박사장",
+   "name": "채종국"
+  },
+  {
+   "role": "김실장",
+   "name": "성연호"
+  },
+  {
+   "role": "목사",
+   "name": "서대덕"
+  },
+  {
+   "role": "신나래",
+   "name": "황리하"
+  },
+  {
+   "role": "엄마",
+   "name": "조현지"
+  },
+  {
+   "role": "최강민 어린시절",
+   "name": "최민성"
+  },
+  {
+   "role": "이은솔",
+   "name": "이은솔"
+  },
+  {
+   "role": "김수민",
+   "name": "김수민"
+  },
+  {
+   "role": "이지혁",
+   "name": "이지혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2666"
+ }
+}

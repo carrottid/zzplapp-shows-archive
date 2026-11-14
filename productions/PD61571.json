@@ -1,0 +1,56 @@
+{
+ "id": "PD61571",
+ "title": "미스 프랑스",
+ "genre": "연극",
+ "from": "2014-05-15",
+ "to": "2014-08-17",
+ "venue": "수현재씨어터(DCF대명문화공장 3층)",
+ "cast": [
+  "김성령",
+  "이지하",
+  "노진원",
+  "김하라",
+  "안병식",
+  "이시훈",
+  "김보정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "플레르/마르틴/사만다",
+   "name": "김성령"
+  },
+  {
+   "role": "플레르/마르틴/사만다",
+   "name": "이지하"
+  },
+  {
+   "role": "장",
+   "name": "노진원"
+  },
+  {
+   "role": "모리스",
+   "name": "김하라"
+  },
+  {
+   "role": "샤를르",
+   "name": "안병식"
+  },
+  {
+   "role": "로익",
+   "name": "이시훈"
+  },
+  {
+   "role": "알리스",
+   "name": "김보정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170626210258/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=61571"
+ }
+}

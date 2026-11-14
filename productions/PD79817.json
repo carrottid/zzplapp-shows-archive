@@ -1,0 +1,91 @@
+{
+ "id": "PD79817",
+ "title": "왕세자 실종사건",
+ "genre": "뮤지컬",
+ "from": "2015-08-07",
+ "to": "2015-08-16",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "조순창",
+  "박재윤",
+  "홍륜희",
+  "서태영",
+  "김경수",
+  "임철수",
+  "이지숙",
+  "김혜인",
+  "이천영",
+  "송희정",
+  "박지희",
+  "김선표",
+  "서하윤",
+  "김재형"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "왕",
+   "name": "조순창"
+  },
+  {
+   "role": "왕",
+   "name": "박재윤"
+  },
+  {
+   "role": "중전",
+   "name": "홍륜희"
+  },
+  {
+   "role": "중전",
+   "name": "서태영"
+  },
+  {
+   "role": "구동",
+   "name": "김경수"
+  },
+  {
+   "role": "구동",
+   "name": "임철수"
+  },
+  {
+   "role": "자숙",
+   "name": "이지숙"
+  },
+  {
+   "role": "자숙",
+   "name": "김혜인"
+  },
+  {
+   "role": "하내관",
+   "name": "이천영"
+  },
+  {
+   "role": "최상궁",
+   "name": "송희정"
+  },
+  {
+   "role": "최상궁",
+   "name": "박지희"
+  },
+  {
+   "role": "",
+   "name": "김선표"
+  },
+  {
+   "role": "",
+   "name": "서하윤"
+  },
+  {
+   "role": "",
+   "name": "김재형"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250612151240/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=79817"
+ }
+}

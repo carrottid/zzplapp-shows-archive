@@ -1,0 +1,51 @@
+{
+ "id": "PD149930",
+ "title": "쓰릴 미",
+ "genre": "뮤지컬",
+ "from": "2019-12-10",
+ "to": "2020-03-01",
+ "venue": "예스24스테이지 2관",
+ "cast": [
+  "양지원",
+  "김현진",
+  "김우석",
+  "이해준",
+  "구준모",
+  "노윤"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "나",
+   "name": "양지원"
+  },
+  {
+   "role": "나",
+   "name": "김현진"
+  },
+  {
+   "role": "나",
+   "name": "김우석"
+  },
+  {
+   "role": "그",
+   "name": "이해준"
+  },
+  {
+   "role": "그",
+   "name": "구준모"
+  },
+  {
+   "role": "그",
+   "name": "노윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220810173559/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=149930"
+ }
+}

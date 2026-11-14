@@ -1,0 +1,59 @@
+{
+ "id": "TM1215",
+ "title": "명성황후",
+ "genre": "뮤지컬",
+ "from": "2008-09-18",
+ "to": "2008-10-01",
+ "venue": "세종문화회관 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_lastE_2008.jpg",
+ "cast": [
+  "이태원",
+  "이상은",
+  "윤영석",
+  "박완",
+  "김도형",
+  "이종문",
+  "지혜근"
+ ],
+ "state": "공연완료",
+ "producer": "(주)에이콤인터내셔날, SBS",
+ "price": "VIP석 12만원/R석 10만원/S석 8만원/A석 6만원/B석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "명성황후",
+   "name": "이태원"
+  },
+  {
+   "role": "명성황후",
+   "name": "이상은"
+  },
+  {
+   "role": "고종",
+   "name": "윤영석"
+  },
+  {
+   "role": "고종",
+   "name": "박완"
+  },
+  {
+   "role": "미우라",
+   "name": "김도형"
+  },
+  {
+   "role": "미우라",
+   "name": "이종문"
+  },
+  {
+   "role": "홍계훈",
+   "name": "지혜근"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1215"
+ }
+}

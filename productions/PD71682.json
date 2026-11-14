@@ -1,0 +1,56 @@
+{
+ "id": "PD71682",
+ "title": "40캐럿 - 연상의 여자",
+ "genre": "연극",
+ "from": "2015-01-08",
+ "to": "2015-02-08",
+ "venue": "예그린씨어터",
+ "cast": [
+  "장설하",
+  "김승현",
+  "장두이",
+  "조현건",
+  "김용선",
+  "박인서",
+  "조문경"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "앤",
+   "name": "장설하"
+  },
+  {
+   "role": "피터 레썸",
+   "name": "김승현"
+  },
+  {
+   "role": "에디",
+   "name": "장두이"
+  },
+  {
+   "role": "빌리",
+   "name": "조현건"
+  },
+  {
+   "role": "모드",
+   "name": "김용선"
+  },
+  {
+   "role": "마골린",
+   "name": "박인서"
+  },
+  {
+   "role": "",
+   "name": "조문경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20150421144336/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=71682"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "id": "PD137155",
+ "title": "호프",
+ "genre": "뮤지컬",
+ "from": "2019-03-28",
+ "to": "2019-05-26",
+ "venue": "두산아트센터 연강홀",
+ "cast": [
+  "김선영",
+  "고훈정",
+  "조형균",
+  "장지후",
+  "이하나",
+  "유리아",
+  "차엘리야",
+  "이예은",
+  "이윤하",
+  "송용진",
+  "김순택",
+  "양지원",
+  "이승헌",
+  "임하람",
+  "김지온"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "호프",
+   "name": "김선영"
+  },
+  {
+   "role": "K",
+   "name": "고훈정"
+  },
+  {
+   "role": "K",
+   "name": "조형균"
+  },
+  {
+   "role": "K",
+   "name": "장지후"
+  },
+  {
+   "role": "마리",
+   "name": "이하나"
+  },
+  {
+   "role": "마리",
+   "name": "유리아"
+  },
+  {
+   "role": "과거 호프",
+   "name": "차엘리야"
+  },
+  {
+   "role": "과거 호프",
+   "name": "이예은"
+  },
+  {
+   "role": "과거 호프",
+   "name": "이윤하"
+  },
+  {
+   "role": "베르트",
+   "name": "송용진"
+  },
+  {
+   "role": "베르트",
+   "name": "김순택"
+  },
+  {
+   "role": "카델",
+   "name": "양지원"
+  },
+  {
+   "role": "카델",
+   "name": "이승헌"
+  },
+  {
+   "role": "",
+   "name": "임하람"
+  },
+  {
+   "role": "",
+   "name": "김지온"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250621044319/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=137155"
+ }
+}

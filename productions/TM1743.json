@@ -1,0 +1,59 @@
+{
+ "id": "TM1743",
+ "title": "헤드윅",
+ "genre": "뮤지컬",
+ "from": "2011-05-14",
+ "to": "2011-08-21",
+ "venue": "KT&G 상상아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_HW_.jpg",
+ "cast": [
+  "김동완",
+  "최재웅",
+  "조정석",
+  "김재욱",
+  "이영미",
+  "전혜선",
+  "최우리"
+ ],
+ "state": "공연완료",
+ "producer": "쇼노트, CJ E&M",
+ "price": "[평일&일요일] R석 60,000원 / S석 50,000원 [토요일&공휴일] R석 65,000원 / S석 55,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "헤드윅",
+   "name": "김동완"
+  },
+  {
+   "role": "헤드윅",
+   "name": "최재웅"
+  },
+  {
+   "role": "헤드윅",
+   "name": "조정석"
+  },
+  {
+   "role": "헤드윅",
+   "name": "김재욱"
+  },
+  {
+   "role": "이츠학",
+   "name": "이영미"
+  },
+  {
+   "role": "이츠학",
+   "name": "전혜선"
+  },
+  {
+   "role": "이츠학",
+   "name": "최우리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1743"
+ }
+}

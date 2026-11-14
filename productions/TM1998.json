@@ -1,0 +1,79 @@
+{
+ "id": "TM1998",
+ "title": "블랙메리포핀스",
+ "genre": "뮤지컬",
+ "from": "2013-08-01",
+ "to": "2013-10-27",
+ "venue": "동국대학교 이해랑예술극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_blmary2013.jpg",
+ "cast": [
+  "김재범",
+  "이경수",
+  "박한근",
+  "문성일",
+  "윤소호",
+  "문진아",
+  "이하나",
+  "김도빈",
+  "최성원",
+  "홍륜희",
+  "최정화"
+ ],
+ "state": "공연완료",
+ "producer": "아시아브릿지컨텐츠㈜",
+ "price": "일반석 55,000원/ 시야방해석 44,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "한스 시몬",
+   "name": "김재범"
+  },
+  {
+   "role": "한스 시몬",
+   "name": "이경수"
+  },
+  {
+   "role": "한스 시몬",
+   "name": "박한근"
+  },
+  {
+   "role": "헤르만 디히터",
+   "name": "문성일"
+  },
+  {
+   "role": "헤르만 디히터",
+   "name": "윤소호"
+  },
+  {
+   "role": "안나 레아",
+   "name": "문진아"
+  },
+  {
+   "role": "안나 레아",
+   "name": "이하나"
+  },
+  {
+   "role": "요나스 엥겔스",
+   "name": "김도빈"
+  },
+  {
+   "role": "요나스 엥겔스",
+   "name": "최성원"
+  },
+  {
+   "role": "메리 슈미트",
+   "name": "홍륜희"
+  },
+  {
+   "role": "메리 슈미트",
+   "name": "최정화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1998"
+ }
+}

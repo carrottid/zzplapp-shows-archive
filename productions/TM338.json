@@ -1,0 +1,34 @@
+{
+ "id": "TM338",
+ "title": "십이야",
+ "genre": "뮤지컬",
+ "from": "2004-05-13",
+ "to": "2004-05-16",
+ "venue": "국립극장 하늘극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_play_976.jpg",
+ "cast": [
+  "김승현",
+  "김지연"
+ ],
+ "state": "공연완료",
+ "producer": "국립극장,루트21",
+ "price": "일반 25,000원/학생 15,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "세바스찬",
+   "name": "김승현"
+  },
+  {
+   "role": "세바스찬",
+   "name": "김지연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=338"
+ }
+}

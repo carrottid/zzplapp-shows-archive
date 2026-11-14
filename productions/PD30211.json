@@ -1,0 +1,56 @@
+{
+ "id": "PD30211",
+ "title": "빨간시",
+ "genre": "연극",
+ "from": "2011-12-10",
+ "to": "2012-01-01",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "강애심",
+  "신덕호",
+  "천정하",
+  "유병훈",
+  "최유송",
+  "김동완",
+  "강진휘"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "할미",
+   "name": "강애심"
+  },
+  {
+   "role": "아비",
+   "name": "신덕호"
+  },
+  {
+   "role": "어미",
+   "name": "천정하"
+  },
+  {
+   "role": "염라",
+   "name": "유병훈"
+  },
+  {
+   "role": "옥황",
+   "name": "최유송"
+  },
+  {
+   "role": "동주",
+   "name": "김동완"
+  },
+  {
+   "role": "",
+   "name": "강진휘"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250620095209/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=30211"
+ }
+}

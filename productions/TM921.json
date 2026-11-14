@@ -1,0 +1,48 @@
+{
+ "id": "TM921",
+ "title": "마리아 마리아",
+ "genre": "뮤지컬",
+ "from": "2004-10-05",
+ "to": "2004-10-31",
+ "venue": "세우아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_043369.gif",
+ "cast": [
+  "김선영",
+  "이필승",
+  "이우승",
+  "김정훈",
+  "추정화"
+ ],
+ "state": "공연완료",
+ "producer": "조아 뮤지컬컴퍼니",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "마리아",
+   "name": "김선영"
+  },
+  {
+   "role": "마리아",
+   "name": "이필승"
+  },
+  {
+   "role": "마리아",
+   "name": "이우승"
+  },
+  {
+   "role": "마리아",
+   "name": "김정훈"
+  },
+  {
+   "role": "마리아",
+   "name": "추정화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=921"
+ }
+}

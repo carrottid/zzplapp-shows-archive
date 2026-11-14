@@ -1,0 +1,91 @@
+{
+ "id": "PD3325",
+ "title": "룸넘버13",
+ "genre": "연극",
+ "from": "2008-01-29",
+ "to": "2008-06-29",
+ "venue": "대학로 스타시티 타이니앨리스 (구.아트홀 마리카2관)",
+ "cast": [
+  "송영재",
+  "최귀화",
+  "조윤정",
+  "박혜나",
+  "권오율",
+  "김원식",
+  "정현주",
+  "김세미",
+  "배수진",
+  "유재동",
+  "김찬형",
+  "박찬희",
+  "홍기용",
+  "신담수"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "리차드",
+   "name": "송영재"
+  },
+  {
+   "role": "리차드",
+   "name": "최귀화"
+  },
+  {
+   "role": "제인",
+   "name": "조윤정"
+  },
+  {
+   "role": "제인",
+   "name": "박혜나"
+  },
+  {
+   "role": "조지",
+   "name": "권오율"
+  },
+  {
+   "role": "조지",
+   "name": "김원식"
+  },
+  {
+   "role": "파멜라",
+   "name": "정현주"
+  },
+  {
+   "role": "파멜라",
+   "name": "김세미"
+  },
+  {
+   "role": "포스터",
+   "name": "배수진"
+  },
+  {
+   "role": "탐정",
+   "name": "유재동"
+  },
+  {
+   "role": "",
+   "name": "김찬형"
+  },
+  {
+   "role": "",
+   "name": "박찬희"
+  },
+  {
+   "role": "",
+   "name": "홍기용"
+  },
+  {
+   "role": "",
+   "name": "신담수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230406103708/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=3325"
+ }
+}

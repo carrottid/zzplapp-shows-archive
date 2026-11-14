@@ -1,0 +1,36 @@
+{
+ "id": "PD64793",
+ "title": "2014 서울국제공연예술제 - 조용한 식탁",
+ "genre": "연극",
+ "from": "2014-10-16",
+ "to": "2014-10-18",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "한기중",
+  "박리디아",
+  "민준호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아버지",
+   "name": "한기중"
+  },
+  {
+   "role": "여자",
+   "name": "박리디아"
+  },
+  {
+   "role": "아들",
+   "name": "민준호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171026110837/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=64793"
+ }
+}

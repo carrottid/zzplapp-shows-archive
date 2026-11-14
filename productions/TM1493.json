@@ -1,0 +1,44 @@
+{
+ "id": "TM1493",
+ "title": "언약의 여정",
+ "genre": "뮤지컬",
+ "from": "2009-09-25",
+ "to": "2009-10-05",
+ "venue": "예술의전당 토월극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008journey0.jpg",
+ "cast": [
+  "문혜영",
+  "최효정",
+  "윤선용",
+  "신두보"
+ ],
+ "state": "공연완료",
+ "producer": "R.W.C",
+ "price": "VIP석 99,000원/ R석 77,000원/ S석 55,000원/ A석 33,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "케린",
+   "name": "문혜영"
+  },
+  {
+   "role": "케린",
+   "name": "최효정"
+  },
+  {
+   "role": "요셉",
+   "name": "윤선용"
+  },
+  {
+   "role": "파라오",
+   "name": "신두보"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1493"
+ }
+}

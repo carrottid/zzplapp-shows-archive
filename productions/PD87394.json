@@ -1,0 +1,36 @@
+{
+ "id": "PD87394",
+ "title": "수상한수업",
+ "genre": "연극",
+ "from": "2016-01-15",
+ "to": "2016-02-28",
+ "venue": "예그린씨어터",
+ "cast": [
+  "박웅",
+  "김재만",
+  "박준"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "노교수",
+   "name": "박웅"
+  },
+  {
+   "role": "유진원",
+   "name": "김재만"
+  },
+  {
+   "role": "유진원",
+   "name": "박준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220520051807/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=87394"
+ }
+}

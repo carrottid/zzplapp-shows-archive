@@ -1,0 +1,41 @@
+{
+ "id": "PD9822",
+ "title": "오월엔 결혼할꺼야",
+ "genre": "연극",
+ "from": "2009-05-07",
+ "to": "2009-06-28",
+ "venue": "나온 씨어터",
+ "cast": [
+  "최성호",
+  "김유진",
+  "황선화",
+  "한지혜"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이재호,박정복,최성호,강진석",
+   "name": "최성호"
+  },
+  {
+   "role": "최세연",
+   "name": "김유진"
+  },
+  {
+   "role": "엄정은",
+   "name": "황선화"
+  },
+  {
+   "role": "박지희",
+   "name": "한지혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170617205700/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=9822"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "PD64668",
+ "title": "가을소나타",
+ "genre": "연극",
+ "from": "2014-08-22",
+ "to": "2014-09-06",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "손숙",
+  "서재희",
+  "한명구",
+  "이린아"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "샬롯",
+   "name": "손숙"
+  },
+  {
+   "role": "에바",
+   "name": "서재희"
+  },
+  {
+   "role": "빅토르",
+   "name": "한명구"
+  },
+  {
+   "role": "엘레나",
+   "name": "이린아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250116052703/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=64668"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "id": "PD129199",
+ "title": "최용훈 - X",
+ "genre": "연극",
+ "from": "2018-09-14",
+ "to": "2018-09-30",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "남기애",
+  "홍성경",
+  "이지연",
+  "박유진",
+  "조영선",
+  "최명경",
+  "함태영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "길다",
+   "name": "남기애"
+  },
+  {
+   "role": "길다",
+   "name": "홍성경"
+  },
+  {
+   "role": "매티",
+   "name": "이지연"
+  },
+  {
+   "role": "소녀",
+   "name": "박유진"
+  },
+  {
+   "role": "레이",
+   "name": "조영선"
+  },
+  {
+   "role": "클락",
+   "name": "최명경"
+  },
+  {
+   "role": "콜",
+   "name": "함태영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240813162617/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=129199"
+ }
+}

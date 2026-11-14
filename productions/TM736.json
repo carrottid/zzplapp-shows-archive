@@ -1,0 +1,109 @@
+{
+ "id": "TM736",
+ "title": "애니",
+ "genre": "뮤지컬",
+ "from": "2006-11-25",
+ "to": "2006-12-06",
+ "venue": "세종문화회관 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2006 애니.jpg",
+ "cast": [
+  "전수경",
+  "박선옥",
+  "주성중",
+  "이아진",
+  "이연경",
+  "이경준",
+  "조수정",
+  "윤영환",
+  "곽은태",
+  "왕은숙",
+  "권명현",
+  "오성림",
+  "원유석",
+  "임화춘",
+  "박정아",
+  "배준성",
+  "이신미"
+ ],
+ "state": "공연완료",
+ "producer": "서울시뮤지컬단",
+ "price": "R석 4만원 / S석 3만원 / A석 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "미스 해니건",
+   "name": "전수경"
+  },
+  {
+   "role": "미스 해니건",
+   "name": "박선옥"
+  },
+  {
+   "role": "워벅스",
+   "name": "주성중"
+  },
+  {
+   "role": "애니",
+   "name": "이아진"
+  },
+  {
+   "role": "그레이스",
+   "name": "이연경"
+  },
+  {
+   "role": "루스터",
+   "name": "이경준"
+  },
+  {
+   "role": "릴리",
+   "name": "조수정"
+  },
+  {
+   "role": "루즈벨트",
+   "name": "윤영환"
+  },
+  {
+   "role": "번들즈",
+   "name": "곽은태"
+  },
+  {
+   "role": "페기",
+   "name": "왕은숙"
+  },
+  {
+   "role": "소피",
+   "name": "권명현"
+  },
+  {
+   "role": "세실",
+   "name": "오성림"
+  },
+  {
+   "role": "워드경관/퍼킨스",
+   "name": "원유석"
+  },
+  {
+   "role": "책 좌판",
+   "name": "임화춘"
+  },
+  {
+   "role": "그리어 부인",
+   "name": "박정아"
+  },
+  {
+   "role": "힐리/하우이",
+   "name": "배준성"
+  },
+  {
+   "role": "아네뜨",
+   "name": "이신미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=736"
+ }
+}

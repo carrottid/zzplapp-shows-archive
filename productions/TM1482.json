@@ -1,0 +1,69 @@
+{
+ "id": "TM1482",
+ "title": "루나틱",
+ "genre": "뮤지컬",
+ "from": "2009-07-17",
+ "to": "2010-05-30",
+ "venue": "루나틱전용관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_lunatic2009.jpg",
+ "cast": [
+  "전수미",
+  "이은율",
+  "김도형",
+  "이기형",
+  "곽영신",
+  "정재민",
+  "정태우",
+  "김세진",
+  "김자미"
+ ],
+ "state": "공연완료",
+ "producer": "(주)쇼엘",
+ "price": "R석 40,000원/ S석 30,000원/ 비지정석 19,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "굿닥터",
+   "name": "전수미"
+  },
+  {
+   "role": "굿닥터",
+   "name": "이은율"
+  },
+  {
+   "role": "나제비",
+   "name": "김도형"
+  },
+  {
+   "role": "나제비",
+   "name": "이기형"
+  },
+  {
+   "role": "무대포",
+   "name": "곽영신"
+  },
+  {
+   "role": "정상인",
+   "name": "정재민"
+  },
+  {
+   "role": "정상인",
+   "name": "정태우"
+  },
+  {
+   "role": "고독해",
+   "name": "김세진"
+  },
+  {
+   "role": "고독해",
+   "name": "김자미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1482"
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "id": "PD145176",
+ "title": "이기쁨 - 산책하는 침략자",
+ "genre": "연극",
+ "from": "2019-08-30",
+ "to": "2019-09-11",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "윤성원",
+  "한송희",
+  "권동호",
+  "김희연",
+  "김연우",
+  "고영민",
+  "장세환",
+  "한수림",
+  "임현국",
+  "김대웅"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "카세 신지",
+   "name": "윤성원"
+  },
+  {
+   "role": "카세 나루미",
+   "name": "한송희"
+  },
+  {
+   "role": "사쿠라이",
+   "name": "권동호"
+  },
+  {
+   "role": "아스미",
+   "name": "김희연"
+  },
+  {
+   "role": "쿠루마다",
+   "name": "김연우"
+  },
+  {
+   "role": "마루오",
+   "name": "고영민"
+  },
+  {
+   "role": "",
+   "name": "장세환"
+  },
+  {
+   "role": "",
+   "name": "한수림"
+  },
+  {
+   "role": "",
+   "name": "임현국"
+  },
+  {
+   "role": "",
+   "name": "김대웅"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240911223216/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=145176"
+ }
+}

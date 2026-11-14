@@ -1,0 +1,58 @@
+{
+ "id": "TM442",
+ "title": "웨스트 사이드 스토리",
+ "genre": "뮤지컬",
+ "from": "2002-08-23",
+ "to": "2002-09-04",
+ "venue": "세종문화회관 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_west.jpg",
+ "cast": [
+  "류정한",
+  "김소현",
+  "이소유",
+  "고영빈",
+  "임춘길",
+  "이동명",
+  "서정현"
+ ],
+ "state": "공연완료",
+ "producer": "서울시뮤지컬단,서울뮤지컬컴퍼니",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "토니",
+   "name": "류정한"
+  },
+  {
+   "role": "토니",
+   "name": "김소현"
+  },
+  {
+   "role": "토니",
+   "name": "이소유"
+  },
+  {
+   "role": "토니",
+   "name": "고영빈"
+  },
+  {
+   "role": "토니",
+   "name": "임춘길"
+  },
+  {
+   "role": "토니",
+   "name": "이동명"
+  },
+  {
+   "role": "토니",
+   "name": "서정현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=442"
+ }
+}

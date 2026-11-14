@@ -1,0 +1,61 @@
+{
+ "id": "PD12702",
+ "title": "마라, 사드",
+ "genre": "연극",
+ "from": "2009-10-08",
+ "to": "2009-10-18",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "홍원기",
+  "남명렬",
+  "박윤정",
+  "백익남",
+  "임성미",
+  "강진휘",
+  "임호경",
+  "이기동"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "마라",
+   "name": "홍원기"
+  },
+  {
+   "role": "사드",
+   "name": "남명렬"
+  },
+  {
+   "role": "코르데",
+   "name": "박윤정"
+  },
+  {
+   "role": "뒤뻬레",
+   "name": "백익남"
+  },
+  {
+   "role": "시몬느",
+   "name": "임성미"
+  },
+  {
+   "role": "자크 루",
+   "name": "강진휘"
+  },
+  {
+   "role": "",
+   "name": "임호경"
+  },
+  {
+   "role": "",
+   "name": "이기동"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251205062155/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=12702"
+ }
+}

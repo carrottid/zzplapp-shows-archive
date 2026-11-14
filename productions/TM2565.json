@@ -1,0 +1,54 @@
+{
+ "id": "TM2565",
+ "title": "완판",
+ "genre": "뮤지컬",
+ "from": "2018-04-11",
+ "to": "2018-04-29",
+ "venue": "대학로 SH아트홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20180411111221cc82878dec854962ad19456717e1a9b6.jpg",
+ "cast": [
+  "김재만",
+  "류수화",
+  "최훈호",
+  "나미희",
+  "최원석",
+  "이승원"
+ ],
+ "state": "공연완료",
+ "producer": "극단 고리",
+ "price": "VIP 60,000원 / S석 50,000원 / A석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "노마진",
+   "name": "김재만"
+  },
+  {
+   "role": "조길연",
+   "name": "류수화"
+  },
+  {
+   "role": "이대일",
+   "name": "최훈호"
+  },
+  {
+   "role": "노수정",
+   "name": "나미희"
+  },
+  {
+   "role": "앙상블",
+   "name": "최원석"
+  },
+  {
+   "role": "앙상블",
+   "name": "이승원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2565"
+ }
+}

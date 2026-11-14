@@ -1,0 +1,56 @@
+{
+ "id": "PD76626",
+ "title": "서안화차",
+ "genre": "연극",
+ "from": "2015-05-07",
+ "to": "2015-05-31",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "박지일",
+  "이찬영",
+  "신현종",
+  "지영란",
+  "박수진",
+  "최순진",
+  "박종태"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "상곤",
+   "name": "박지일"
+  },
+  {
+   "role": "찬승",
+   "name": "이찬영"
+  },
+  {
+   "role": "홍가/진인",
+   "name": "신현종"
+  },
+  {
+   "role": "어머니",
+   "name": "지영란"
+  },
+  {
+   "role": "정선",
+   "name": "박수진"
+  },
+  {
+   "role": "토용",
+   "name": "최순진"
+  },
+  {
+   "role": "토용",
+   "name": "박종태"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170908011515/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=76626"
+ }
+}

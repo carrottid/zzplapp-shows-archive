@@ -1,0 +1,84 @@
+{
+ "id": "TM3152",
+ "title": "세종 1446",
+ "genre": "뮤지컬",
+ "from": "2023-04-29",
+ "to": "2023-05-02",
+ "venue": "경복궁 근정전",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202304240847502855745e29658f3743923491649fb251bd.jpg",
+ "cast": [
+  "정상윤",
+  "박유덕",
+  "남경주",
+  "김주호",
+  "박소연",
+  "김지유",
+  "이준혁",
+  "장지후",
+  "황민수",
+  "김준영",
+  "이지석",
+  "이봉근"
+ ],
+ "state": "공연완료",
+ "producer": "HJ컬쳐(주)",
+ "price": "R석 2만 원, S석 1만 원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "세종",
+   "name": "정상윤"
+  },
+  {
+   "role": "세종",
+   "name": "박유덕"
+  },
+  {
+   "role": "태종",
+   "name": "남경주"
+  },
+  {
+   "role": "태종",
+   "name": "김주호"
+  },
+  {
+   "role": "소헌왕후",
+   "name": "박소연"
+  },
+  {
+   "role": "소헌왕후",
+   "name": "김지유"
+  },
+  {
+   "role": "전해운",
+   "name": "이준혁"
+  },
+  {
+   "role": "전해운",
+   "name": "장지후"
+  },
+  {
+   "role": "양녕·장영실",
+   "name": "황민수"
+  },
+  {
+   "role": "양녕·장영실",
+   "name": "김준영"
+  },
+  {
+   "role": "운검",
+   "name": "이지석"
+  },
+  {
+   "role": "도창",
+   "name": "이봉근"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3152"
+ }
+}

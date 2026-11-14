@@ -1,0 +1,89 @@
+{
+ "id": "TM1258",
+ "title": "록키호러쇼",
+ "genre": "뮤지컬",
+ "from": "2008-09-26",
+ "to": "2008-12-31",
+ "venue": "대학로 씨어터 SH",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_rocky2008.jpg",
+ "cast": [
+  "홍록기",
+  "송용진",
+  "김태한",
+  "강태을",
+  "박선우",
+  "안유진",
+  "고세원",
+  "에녹",
+  "이영미",
+  "고명석",
+  "이혁",
+  "김신의",
+  "김봄"
+ ],
+ "state": "공연완료",
+ "producer": "(주)다다아트 알루팝",
+ "price": "R석 55,000원/S석 44,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "프랑큰퍼터",
+   "name": "홍록기"
+  },
+  {
+   "role": "프랑큰퍼터",
+   "name": "송용진"
+  },
+  {
+   "role": "프랑큰퍼터",
+   "name": "김태한"
+  },
+  {
+   "role": "프랑큰퍼터",
+   "name": "강태을"
+  },
+  {
+   "role": "나레이터/에디/스캇박사",
+   "name": "박선우"
+  },
+  {
+   "role": "자넷",
+   "name": "안유진"
+  },
+  {
+   "role": "브래드",
+   "name": "고세원"
+  },
+  {
+   "role": "브래드",
+   "name": "에녹"
+  },
+  {
+   "role": "마젠타",
+   "name": "이영미"
+  },
+  {
+   "role": "마젠타",
+   "name": "고명석"
+  },
+  {
+   "role": "리프라프",
+   "name": "이혁"
+  },
+  {
+   "role": "리프라프",
+   "name": "김신의"
+  },
+  {
+   "role": "자넷/콜롬비아",
+   "name": "김봄"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1258"
+ }
+}

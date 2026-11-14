@@ -1,0 +1,109 @@
+{
+ "id": "TM2018",
+ "title": "아가씨와 건달들",
+ "genre": "뮤지컬",
+ "from": "2013-11-01",
+ "to": "2014-01-15",
+ "venue": "BBC씨어터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013gnd.jpg",
+ "cast": [
+  "김다현",
+  "류수영",
+  "송원근",
+  "김지우",
+  "이하늬",
+  "박준규",
+  "이율",
+  "신영숙",
+  "구원영",
+  "임춘길",
+  "김태한",
+  "이종문",
+  "조유신",
+  "장이주",
+  "하도권",
+  "심정완",
+  "서만석"
+ ],
+ "state": "공연완료",
+ "producer": "CJ E&M",
+ "price": "VIP 130,000원 / R 110,000원 / S 80,000원 / A 50,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "스카이",
+   "name": "김다현"
+  },
+  {
+   "role": "스카이",
+   "name": "류수영"
+  },
+  {
+   "role": "스카이",
+   "name": "송원근"
+  },
+  {
+   "role": "사라",
+   "name": "김지우"
+  },
+  {
+   "role": "사라",
+   "name": "이하늬"
+  },
+  {
+   "role": "네이슨",
+   "name": "박준규"
+  },
+  {
+   "role": "네이슨",
+   "name": "이율"
+  },
+  {
+   "role": "아들레이드",
+   "name": "신영숙"
+  },
+  {
+   "role": "아들레이드",
+   "name": "구원영"
+  },
+  {
+   "role": "베니",
+   "name": "임춘길"
+  },
+  {
+   "role": "나이슬리",
+   "name": "김태한"
+  },
+  {
+   "role": "브래니건",
+   "name": "이종문"
+  },
+  {
+   "role": "아비드",
+   "name": "조유신"
+  },
+  {
+   "role": "카트라이트",
+   "name": "장이주"
+  },
+  {
+   "role": "빅쥴",
+   "name": "하도권"
+  },
+  {
+   "role": "해리",
+   "name": "심정완"
+  },
+  {
+   "role": "찰리",
+   "name": "서만석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2018"
+ }
+}

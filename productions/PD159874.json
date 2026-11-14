@@ -1,0 +1,46 @@
+{
+ "id": "PD159874",
+ "title": "싸나이 로만스",
+ "genre": "연극",
+ "from": "2020-09-08",
+ "to": "2020-09-13",
+ "venue": "후암스테이지 1관",
+ "cast": [
+  "강진철",
+  "박세훈",
+  "최진호",
+  "심우선",
+  "김채윤"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "상욱",
+   "name": "강진철"
+  },
+  {
+   "role": "맹원",
+   "name": "박세훈"
+  },
+  {
+   "role": "맹원",
+   "name": "최진호"
+  },
+  {
+   "role": "맹원",
+   "name": "심우선"
+  },
+  {
+   "role": "연희",
+   "name": "김채윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240725123403/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=159874"
+ }
+}

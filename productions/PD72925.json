@@ -1,0 +1,86 @@
+{
+ "id": "PD72925",
+ "title": "토막 土幕",
+ "genre": "연극",
+ "from": "2015-10-22",
+ "to": "2015-11-01",
+ "venue": "국립극장 달오름극장",
+ "cast": [
+  "김정호",
+  "문경희",
+  "김정은",
+  "김정환",
+  "유정민",
+  "박완규",
+  "박지아",
+  "이기돈",
+  "심완준",
+  "김신록",
+  "정혜선",
+  "황선화",
+  "백석광"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "강경선",
+   "name": "김정호"
+  },
+  {
+   "role": "이웃여자",
+   "name": "문경희"
+  },
+  {
+   "role": "명서 처",
+   "name": "김정은"
+  },
+  {
+   "role": "명서",
+   "name": "김정환"
+  },
+  {
+   "role": "한복여인",
+   "name": "유정민"
+  },
+  {
+   "role": "구장",
+   "name": "박완규"
+  },
+  {
+   "role": "",
+   "name": "박지아"
+  },
+  {
+   "role": "",
+   "name": "이기돈"
+  },
+  {
+   "role": "",
+   "name": "심완준"
+  },
+  {
+   "role": "",
+   "name": "김신록"
+  },
+  {
+   "role": "",
+   "name": "정혜선"
+  },
+  {
+   "role": "",
+   "name": "황선화"
+  },
+  {
+   "role": "",
+   "name": "백석광"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240613235941/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=72925"
+ }
+}

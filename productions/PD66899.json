@@ -1,0 +1,76 @@
+{
+ "id": "PD66899",
+ "title": "이혈",
+ "genre": "연극",
+ "from": "2014-09-26",
+ "to": "2014-10-19",
+ "venue": "대학로 스타시티 콘텐츠룸(구.대학로 아트홀 마리카1관)",
+ "cast": [
+  "원종철",
+  "김귀선",
+  "남동진",
+  "김윤태",
+  "문창완",
+  "권기대",
+  "김진영",
+  "권남희",
+  "김지은",
+  "신현종",
+  "정성호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "강준",
+   "name": "원종철"
+  },
+  {
+   "role": "김형사",
+   "name": "김귀선"
+  },
+  {
+   "role": "김형사",
+   "name": "남동진"
+  },
+  {
+   "role": "서형사",
+   "name": "김윤태"
+  },
+  {
+   "role": "서형사",
+   "name": "문창완"
+  },
+  {
+   "role": "오해식",
+   "name": "권기대"
+  },
+  {
+   "role": "오해식",
+   "name": "김진영"
+  },
+  {
+   "role": "에이코",
+   "name": "권남희"
+  },
+  {
+   "role": "에이코",
+   "name": "김지은"
+  },
+  {
+   "role": "스즈키",
+   "name": "신현종"
+  },
+  {
+   "role": "스즈키",
+   "name": "정성호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171106131819/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=66899"
+ }
+}

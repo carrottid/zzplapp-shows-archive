@@ -1,0 +1,36 @@
+{
+ "id": "PD22329",
+ "title": "미드썸머",
+ "genre": "연극",
+ "from": "2011-04-27",
+ "to": "2011-06-12",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "예지원",
+  "이석준",
+  "서범석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "헬레나",
+   "name": "예지원"
+  },
+  {
+   "role": "밥",
+   "name": "이석준"
+  },
+  {
+   "role": "밥",
+   "name": "서범석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704023911/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=22329"
+ }
+}

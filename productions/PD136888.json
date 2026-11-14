@@ -1,0 +1,71 @@
+{
+ "id": "PD136888",
+ "title": "가미카제 아리랑",
+ "genre": "연극",
+ "from": "2019-02-09",
+ "to": "2019-02-17",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "변주현",
+  "이항나",
+  "리민",
+  "강유미",
+  "임일규",
+  "박신후",
+  "권겸민",
+  "한일규",
+  "김경남",
+  "김민경"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "박성웅",
+   "name": "변주현"
+  },
+  {
+   "role": "김유자",
+   "name": "이항나"
+  },
+  {
+   "role": "김상열",
+   "name": "리민"
+  },
+  {
+   "role": "우메자와",
+   "name": "강유미"
+  },
+  {
+   "role": "최정근",
+   "name": "임일규"
+  },
+  {
+   "role": "서준길",
+   "name": "박신후"
+  },
+  {
+   "role": "",
+   "name": "권겸민"
+  },
+  {
+   "role": "",
+   "name": "한일규"
+  },
+  {
+   "role": "",
+   "name": "김경남"
+  },
+  {
+   "role": "",
+   "name": "김민경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240804213715/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=136888"
+ }
+}

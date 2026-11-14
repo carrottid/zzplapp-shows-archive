@@ -1,0 +1,94 @@
+{
+ "id": "TM679",
+ "title": "벽을 뚫는 남자",
+ "genre": "뮤지컬",
+ "from": "2006-02-28",
+ "to": "2006-04-02",
+ "venue": "예술의전당 토월극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_06000056.gif",
+ "cast": [
+  "박상원",
+  "해이",
+  "김성기",
+  "임철형",
+  "김영주",
+  "최혁주",
+  "강연종",
+  "오세준",
+  "조유신",
+  "유혜령",
+  "김승필",
+  "조정석",
+  "엄기준",
+  "김대성"
+ ],
+ "state": "공연완료",
+ "producer": "쇼노트,CJ엔터테인먼트",
+ "price": "R석 70,000원/S석 55,000원/A석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "듀티율",
+   "name": "박상원"
+  },
+  {
+   "role": "듀티율",
+   "name": "해이"
+  },
+  {
+   "role": "듀티율",
+   "name": "김성기"
+  },
+  {
+   "role": "듀티율",
+   "name": "임철형"
+  },
+  {
+   "role": "듀티율",
+   "name": "김영주"
+  },
+  {
+   "role": "듀티율",
+   "name": "최혁주"
+  },
+  {
+   "role": "듀티율",
+   "name": "강연종"
+  },
+  {
+   "role": "듀티율",
+   "name": "오세준"
+  },
+  {
+   "role": "듀티율",
+   "name": "조유신"
+  },
+  {
+   "role": "듀티율",
+   "name": "유혜령"
+  },
+  {
+   "role": "듀티율",
+   "name": "김승필"
+  },
+  {
+   "role": "듀티율",
+   "name": "조정석"
+  },
+  {
+   "role": "듀티율",
+   "name": "엄기준"
+  },
+  {
+   "role": "듀티율",
+   "name": "김대성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=679"
+ }
+}

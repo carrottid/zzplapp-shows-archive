@@ -1,0 +1,36 @@
+{
+ "id": "PD144825",
+ "title": "미스터리 스릴러전",
+ "genre": "연극",
+ "from": "2019-07-03",
+ "to": "2019-07-28",
+ "venue": "소극장 혜화당(구.까망 소극장)",
+ "cast": [
+  "장용웅",
+  "류현주",
+  "김기정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "나의 이웃 - 옆집여자",
+   "name": "장용웅"
+  },
+  {
+   "role": "나의 이웃 - 엄마",
+   "name": "류현주"
+  },
+  {
+   "role": "나의 이웃 - 여자",
+   "name": "김기정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250716204828/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=144825"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "id": "PD6204",
+ "title": "온에어 시즌 2",
+ "genre": "뮤지컬",
+ "from": "2008-10-07",
+ "to": "2009-01-04",
+ "venue": "대학로 스타시티 콘텐츠룸(구.대학로 아트홀 마리카1관)",
+ "cast": [
+  "김동욱",
+  "오종혁",
+  "장서원",
+  "유정은",
+  "김다래",
+  "자두",
+  "오대환",
+  "김도원",
+  "정현주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "DJ알렉스",
+   "name": "김동욱"
+  },
+  {
+   "role": "DJ알렉스",
+   "name": "오종혁"
+  },
+  {
+   "role": "DJ알렉스",
+   "name": "장서원"
+  },
+  {
+   "role": "김순정PD",
+   "name": "유정은"
+  },
+  {
+   "role": "우아미",
+   "name": "김다래"
+  },
+  {
+   "role": "우아미",
+   "name": "자두"
+  },
+  {
+   "role": "김실장(멀티맨)",
+   "name": "오대환"
+  },
+  {
+   "role": "신국장",
+   "name": "김도원"
+  },
+  {
+   "role": "신국장",
+   "name": "정현주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170920150917/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=6204"
+ }
+}

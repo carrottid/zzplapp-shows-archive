@@ -1,0 +1,74 @@
+{
+ "id": "TM702",
+ "title": "라롱드",
+ "genre": "뮤지컬",
+ "from": "2006-09-09",
+ "to": "2006-10-22",
+ "venue": "웅진씽크빅 아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_db-lanond(2006)0.jpg",
+ "cast": [
+  "서지영",
+  "이장훈",
+  "정찬우",
+  "김의신",
+  "임문희",
+  "임철형",
+  "임미현",
+  "진수현",
+  "김형묵",
+  "홍승아"
+ ],
+ "state": "공연완료",
+ "producer": "에이콤",
+ "price": "R석 4만5천원 / S석 3만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "여배우",
+   "name": "서지영"
+  },
+  {
+   "role": "여배우",
+   "name": "이장훈"
+  },
+  {
+   "role": "여배우",
+   "name": "정찬우"
+  },
+  {
+   "role": "여배우",
+   "name": "김의신"
+  },
+  {
+   "role": "여배우",
+   "name": "임문희"
+  },
+  {
+   "role": "여배우",
+   "name": "임철형"
+  },
+  {
+   "role": "여배우",
+   "name": "임미현"
+  },
+  {
+   "role": "여배우",
+   "name": "진수현"
+  },
+  {
+   "role": "여배우",
+   "name": "김형묵"
+  },
+  {
+   "role": "창녀",
+   "name": "홍승아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=702"
+ }
+}

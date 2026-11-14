@@ -1,0 +1,349 @@
+{
+ "date": "2022-08-25",
+ "sessions": [
+  {
+   "id": "PF192149",
+   "title": "연극열전 9, 터칭 더 보이드",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#535F70",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF192965",
+   "title": "V 에버 애프터",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2B1A3A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF194732",
+   "title": "탐구생활 시리즈 4, 청산에 살어있다",
+   "genre": "연극",
+   "venue": "나온씨어터",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF193358",
+   "title": "기억의 숲",
+   "genre": "연극",
+   "venue": "유니플렉스 (3관(소극장))",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#010101",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF196597",
+   "title": "타르뛰프",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (1관)",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#000002",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF195023",
+   "title": "더 테이블 The Table",
+   "genre": "연극",
+   "venue": "국립극장 (달오름극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#19120E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF194042",
+   "title": "베어 더 뮤지컬",
+   "genre": "뮤지컬",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#1B212E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF193042",
+   "title": "서편제",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#8D595A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF191731",
+   "title": "실비아, 살다",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#AE2424",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF194177",
+   "title": "싱크넥스트22, 원더보이",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종S씨어터)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#0CB3B5",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF195122",
+   "title": "앨리스 인 베드",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF194698",
+   "title": "인간 탐구생활",
+   "genre": "뮤지컬",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF191916",
+   "title": "킹키부츠",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#AA3C3B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF195038",
+   "title": "탐구생활 시리즈 4, 정열이 넘치는 뜨거운 남쪽나라",
+   "genre": "연극",
+   "venue": "나온씨어터",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF195114",
+   "title": "패밀리 M의 병",
+   "genre": "연극",
+   "venue": "홍익대 대학로 아트센터 (소극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#153467",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF192965",
+   "title": "V 에버 애프터",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2B1A3A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF196732",
+   "title": "그날, 기억 (앵콜)",
+   "genre": "연극",
+   "venue": "미마지아트센터 (물빛극장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF194712",
+   "title": "리차드 3세: 미친왕 이야기",
+   "genre": "뮤지컬",
+   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF191785",
+   "title": "미아 파밀리아",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1C1B1C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF195208",
+   "title": "별탈없음",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF194426",
+   "title": "붉은머리 안",
+   "genre": "연극",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF190804",
+   "title": "비더슈탄트",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#D8D2C6",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF192959",
+   "title": "빈센트 리버",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#432713",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF194408",
+   "title": "사의찬미 10th Anniversary",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#273B3B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF195153",
+   "title": "산울림 고전극장, 날개",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF192944",
+   "title": "시데레우스",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#7A726B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF192774",
+   "title": "쓰릴 미",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#957F51",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF192149",
+   "title": "연극열전 9, 터칭 더 보이드",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#535F70",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF191062",
+   "title": "유진과 유진",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#BFD9B0",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF195714",
+   "title": "이카이노 바이크",
+   "genre": "연극",
+   "venue": "연우소극장",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF192027",
+   "title": "전설의 리틀 농구단",
+   "genre": "뮤지컬",
+   "venue": "동덕여대공연예술센터 (코튼홀)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#319CB5",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF195421",
+   "title": "제1회 어쩌다 연극 페스티벌, 오셀로",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0B0B0B",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

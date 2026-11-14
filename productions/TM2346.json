@@ -1,0 +1,89 @@
+{
+ "id": "TM2346",
+ "title": "잭 더 리퍼",
+ "genre": "뮤지컬",
+ "from": "2016-07-15",
+ "to": "2016-10-09",
+ "venue": "디큐브아트센터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20160512105939Y68137X0C18FU14V.jpg",
+ "cast": [
+  "류정한",
+  "엄기준",
+  "카이",
+  "김준현",
+  "박민성",
+  "조성윤",
+  "이창희",
+  "테이",
+  "정의욱",
+  "김대종",
+  "김보경",
+  "김예원",
+  "정단영"
+ ],
+ "state": "공연완료",
+ "producer": "엠뮤지컬아트",
+ "price": "VIP석 13만원, R석 11만원, S석 8만원, A석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "다니엘",
+   "name": "류정한"
+  },
+  {
+   "role": "다니엘",
+   "name": "엄기준"
+  },
+  {
+   "role": "다니엘",
+   "name": "카이"
+  },
+  {
+   "role": "앤더슨",
+   "name": "김준현"
+  },
+  {
+   "role": "앤더슨",
+   "name": "박민성"
+  },
+  {
+   "role": "앤더슨",
+   "name": "조성윤"
+  },
+  {
+   "role": "잭",
+   "name": "이창희"
+  },
+  {
+   "role": "잭",
+   "name": "테이"
+  },
+  {
+   "role": "먼로",
+   "name": "정의욱"
+  },
+  {
+   "role": "먼로",
+   "name": "김대종"
+  },
+  {
+   "role": "글로리아",
+   "name": "김보경"
+  },
+  {
+   "role": "글로리아",
+   "name": "김예원"
+  },
+  {
+   "role": "폴리",
+   "name": "정단영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2346"
+ }
+}

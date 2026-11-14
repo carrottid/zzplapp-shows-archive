@@ -1,0 +1,79 @@
+{
+ "id": "TM2074",
+ "title": "미스터쇼",
+ "genre": "뮤지컬",
+ "from": "2014-03-27",
+ "to": "2014-06-28",
+ "venue": "롯데카드 아트센터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201808241042267039e586b624461da56a2622e778b404.jpg",
+ "cast": [
+  "김호영",
+  "정철호",
+  "최용진",
+  "유현준",
+  "이천은",
+  "이국영",
+  "서정원",
+  "최지호",
+  "윤준호",
+  "박상하",
+  "신현수"
+ ],
+ "state": "공연완료",
+ "producer": "㈜미스터쇼프로덕션",
+ "price": "VIP 80,000원 / R 60,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "MC",
+   "name": "김호영"
+  },
+  {
+   "role": "MC",
+   "name": "정철호"
+  },
+  {
+   "role": "출연진",
+   "name": "최용진"
+  },
+  {
+   "role": "출연진",
+   "name": "유현준"
+  },
+  {
+   "role": "출연진",
+   "name": "이천은"
+  },
+  {
+   "role": "출연진",
+   "name": "이국영"
+  },
+  {
+   "role": "출연진",
+   "name": "서정원"
+  },
+  {
+   "role": "출연진",
+   "name": "최지호"
+  },
+  {
+   "role": "출연진",
+   "name": "윤준호"
+  },
+  {
+   "role": "출연진",
+   "name": "박상하"
+  },
+  {
+   "role": "출연진",
+   "name": "신현수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2074"
+ }
+}

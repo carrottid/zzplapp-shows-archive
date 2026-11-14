@@ -1,0 +1,46 @@
+{
+ "id": "PD58042",
+ "title": "베키 쇼",
+ "genre": "연극",
+ "from": "2014-04-01",
+ "to": "2014-04-26",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "이연규",
+  "김도영",
+  "박윤희",
+  "강지은",
+  "신덕호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "수잔 슬레이터",
+   "name": "이연규"
+  },
+  {
+   "role": "수잔 슬레이터",
+   "name": "김도영"
+  },
+  {
+   "role": "앤드류 포터",
+   "name": "박윤희"
+  },
+  {
+   "role": "베키 쇼",
+   "name": "강지은"
+  },
+  {
+   "role": "맥스 가렛",
+   "name": "신덕호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260221160323/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=58042"
+ }
+}

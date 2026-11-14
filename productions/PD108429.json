@@ -1,0 +1,46 @@
+{
+ "id": "PD108429",
+ "title": "작전명 C가 왔다",
+ "genre": "연극",
+ "from": "2017-05-25",
+ "to": "2017-06-11",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "구선화",
+  "양윤혁",
+  "이승훈",
+  "성열석",
+  "최영도"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "C",
+   "name": "구선화"
+  },
+  {
+   "role": "상연",
+   "name": "양윤혁"
+  },
+  {
+   "role": "영석",
+   "name": "이승훈"
+  },
+  {
+   "role": "상범",
+   "name": "성열석"
+  },
+  {
+   "role": "정석",
+   "name": "최영도"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240617065213/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=108429"
+ }
+}

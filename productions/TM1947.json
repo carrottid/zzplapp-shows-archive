@@ -1,0 +1,49 @@
+{
+ "id": "TM1947",
+ "title": "마마, 돈 크라이",
+ "genre": "뮤지컬",
+ "from": "2013-03-09",
+ "to": "2013-06-02",
+ "venue": "충무아트홀 중극장 블랙",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_mama2013.jpg",
+ "cast": [
+  "송용진",
+  "허규",
+  "임병근",
+  "고영빈",
+  "장승조(장현덕)"
+ ],
+ "state": "공연완료",
+ "producer": "PAGE 1, R&D WORKS",
+ "price": "전석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "프로페서V",
+   "name": "송용진"
+  },
+  {
+   "role": "프로페서V",
+   "name": "허규"
+  },
+  {
+   "role": "프로페서V",
+   "name": "임병근"
+  },
+  {
+   "role": "뱀파이어",
+   "name": "고영빈"
+  },
+  {
+   "role": "뱀파이어",
+   "name": "장승조(장현덕)"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1947"
+ }
+}

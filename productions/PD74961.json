@@ -1,0 +1,96 @@
+{
+ "id": "PD74961",
+ "title": "차이메리카",
+ "genre": "연극",
+ "from": "2015-04-14",
+ "to": "2015-05-16",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "서상원",
+  "최지훈",
+  "전현아",
+  "최용민",
+  "임홍식",
+  "남기애",
+  "홍성경",
+  "성노진",
+  "박삼녕",
+  "최성호",
+  "강민지",
+  "박소아",
+  "김해린",
+  "장영철",
+  "박재만"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "조 스코필드",
+   "name": "서상원"
+  },
+  {
+   "role": "장린",
+   "name": "최지훈"
+  },
+  {
+   "role": "테사 켄드릭",
+   "name": "전현아"
+  },
+  {
+   "role": "멜 스탠윅",
+   "name": "최용민"
+  },
+  {
+   "role": "프랭크",
+   "name": "임홍식"
+  },
+  {
+   "role": "바바라/도린/마리아",
+   "name": "남기애"
+  },
+  {
+   "role": "",
+   "name": "홍성경"
+  },
+  {
+   "role": "",
+   "name": "성노진"
+  },
+  {
+   "role": "",
+   "name": "박삼녕"
+  },
+  {
+   "role": "",
+   "name": "최성호"
+  },
+  {
+   "role": "",
+   "name": "강민지"
+  },
+  {
+   "role": "",
+   "name": "박소아"
+  },
+  {
+   "role": "",
+   "name": "김해린"
+  },
+  {
+   "role": "",
+   "name": "장영철"
+  },
+  {
+   "role": "",
+   "name": "박재만"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622160243/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=74961"
+ }
+}

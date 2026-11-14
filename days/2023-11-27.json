@@ -1,0 +1,69 @@
+{
+ "date": "2023-11-27",
+ "sessions": [
+  {
+   "id": "PF225122",
+   "title": "연적",
+   "genre": "연극",
+   "venue": "유니플렉스 (3관(소극장))",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#CD1818",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF229198",
+   "title": "제6회 종로문화다양성연극제, 나를 잊지 말아요",
+   "genre": "연극",
+   "venue": "미마지아트센터 (물빛극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF230018",
+   "title": "천원의 행복, 뮤지컬 갈라: All that M (11월)",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종대극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#39302B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF228902",
+   "title": "트로이왕자의 사랑이야기, 트로일러스와 크레시다",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#6B3A2E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF227066",
+   "title": "드라이 플라워",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#408DA5",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF229460",
+   "title": "비밀의 화원",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "20:00",
+   "castSource": "none"
+  }
+ ]
+}

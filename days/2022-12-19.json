@@ -1,0 +1,97 @@
+{
+ "date": "2022-12-19",
+ "sessions": [
+  {
+   "id": "PF203943",
+   "title": "LINK FESTA, 서른즈음에",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#624D4A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF202014",
+   "title": "거기 서 있는 남자",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#34292F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF201592",
+   "title": "딜쿠샤",
+   "genre": "뮤지컬",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF204034",
+   "title": "라우렌의 부름",
+   "genre": "연극",
+   "venue": "소극장 혜화당 (구. 까망소극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF200751",
+   "title": "스카팽",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#747372",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF202282",
+   "title": "이어달리기, 너무 잘 들리는 남자",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF203968",
+   "title": "행복로 9-1",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF203943",
+   "title": "LINK FESTA, 서른즈음에",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#624D4A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF200306",
+   "title": "온 더 비트",
+   "genre": "연극",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#E6A800",
+    "fg": "#111111"
+   }
+  }
+ ]
+}

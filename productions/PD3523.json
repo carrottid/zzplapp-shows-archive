@@ -1,0 +1,46 @@
+{
+ "id": "PD3523",
+ "title": "내가 가장 예뻤을 때",
+ "genre": "연극",
+ "from": "2008-03-13",
+ "to": "2008-06-15",
+ "venue": "한성아트홀 2관",
+ "cast": [
+  "라미란",
+  "진미사",
+  "이봉련",
+  "김경태",
+  "오의식"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "엄마",
+   "name": "라미란"
+  },
+  {
+   "role": "엄마",
+   "name": "진미사"
+  },
+  {
+   "role": "희윤",
+   "name": "이봉련"
+  },
+  {
+   "role": "상우",
+   "name": "김경태"
+  },
+  {
+   "role": "상우",
+   "name": "오의식"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220520140704/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=3523"
+ }
+}

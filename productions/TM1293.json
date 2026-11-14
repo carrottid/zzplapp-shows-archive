@@ -1,0 +1,44 @@
+{
+ "id": "TM1293",
+ "title": "라스트 파이브 이어스",
+ "genre": "뮤지컬",
+ "from": "2008-11-28",
+ "to": "2009-02-22",
+ "venue": "충무아트홀 소극장 블루",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_last5years2008 (1)0.jpg",
+ "cast": [
+  "이건명",
+  "양준모",
+  "배해선",
+  "김아선"
+ ],
+ "state": "공연완료",
+ "producer": "신시뮤지컬컴퍼니",
+ "price": "R석 45,000원/S석 35,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "제이미",
+   "name": "이건명"
+  },
+  {
+   "role": "제이미",
+   "name": "양준모"
+  },
+  {
+   "role": "캐시",
+   "name": "배해선"
+  },
+  {
+   "role": "캐시",
+   "name": "김아선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1293"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "id": "PD153660",
+ "title": "마마 돈 크라이",
+ "genre": "뮤지컬",
+ "from": "2020-02-28",
+ "to": "2020-05-17",
+ "venue": "두산아트센터 연강홀",
+ "cast": [
+  "송용진",
+  "허규",
+  "조형균",
+  "백형훈",
+  "양지원",
+  "송유택",
+  "최민우",
+  "고영빈",
+  "박영수",
+  "김찬호",
+  "고훈정",
+  "이충주",
+  "장지후",
+  "이승헌",
+  "노윤"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "프로페서V",
+   "name": "송용진"
+  },
+  {
+   "role": "프로페서V",
+   "name": "허규"
+  },
+  {
+   "role": "프로페서V",
+   "name": "조형균"
+  },
+  {
+   "role": "프로페서V",
+   "name": "백형훈"
+  },
+  {
+   "role": "",
+   "name": "양지원"
+  },
+  {
+   "role": "",
+   "name": "송유택"
+  },
+  {
+   "role": "",
+   "name": "최민우"
+  },
+  {
+   "role": "드라큘라 백작",
+   "name": "고영빈"
+  },
+  {
+   "role": "드라큘라 백작",
+   "name": "박영수"
+  },
+  {
+   "role": "드라큘라 백작",
+   "name": "김찬호"
+  },
+  {
+   "role": "드라큘라 백작",
+   "name": "고훈정"
+  },
+  {
+   "role": "",
+   "name": "이충주"
+  },
+  {
+   "role": "",
+   "name": "장지후"
+  },
+  {
+   "role": "",
+   "name": "이승헌"
+  },
+  {
+   "role": "",
+   "name": "노윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200205110830/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=153660"
+ }
+}

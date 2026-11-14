@@ -1,0 +1,61 @@
+{
+ "id": "PD138546",
+ "title": "최후진술",
+ "genre": "뮤지컬",
+ "from": "2019-03-16",
+ "to": "2019-06-09",
+ "venue": "예스24스테이지 2관 (구 대명문화공장 2관)",
+ "cast": [
+  "고유진",
+  "이승현",
+  "박규원",
+  "백형훈",
+  "유성재",
+  "에이스",
+  "최석진",
+  "최민우"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "갈릴레오 갈릴레이",
+   "name": "고유진"
+  },
+  {
+   "role": "갈릴레오 갈릴레이",
+   "name": "이승현"
+  },
+  {
+   "role": "갈릴레오 갈릴레이",
+   "name": "박규원"
+  },
+  {
+   "role": "갈릴레오 갈릴레이",
+   "name": "백형훈"
+  },
+  {
+   "role": "윌리엄 셰익스피어",
+   "name": "유성재"
+  },
+  {
+   "role": "윌리엄 셰익스피어",
+   "name": "에이스"
+  },
+  {
+   "role": "윌리엄 셰익스피어",
+   "name": "최석진"
+  },
+  {
+   "role": "윌리엄 셰익스피어",
+   "name": "최민우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191118112737/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=138546"
+ }
+}

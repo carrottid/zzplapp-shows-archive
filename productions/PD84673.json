@@ -1,0 +1,56 @@
+{
+ "id": "PD84673",
+ "title": "엘리펀트 송",
+ "genre": "연극",
+ "from": "2015-11-13",
+ "to": "2016-01-31",
+ "venue": "예스24스테이지 3관",
+ "cast": [
+  "정원영",
+  "이재균",
+  "박은석",
+  "김영필",
+  "정원조",
+  "고수희",
+  "정영주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "마이클",
+   "name": "정원영"
+  },
+  {
+   "role": "마이클",
+   "name": "이재균"
+  },
+  {
+   "role": "마이클",
+   "name": "박은석"
+  },
+  {
+   "role": "그린버그 박사",
+   "name": "김영필"
+  },
+  {
+   "role": "그린버그 박사",
+   "name": "정원조"
+  },
+  {
+   "role": "피터슨 간호사",
+   "name": "고수희"
+  },
+  {
+   "role": "피터슨 간호사",
+   "name": "정영주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251224061308/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=84673"
+ }
+}

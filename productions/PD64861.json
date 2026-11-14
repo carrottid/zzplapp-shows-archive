@@ -1,0 +1,36 @@
+{
+ "id": "PD64861",
+ "title": "청춘일발장전",
+ "genre": "연극",
+ "from": "2014-07-12",
+ "to": "2014-09-28",
+ "venue": "후암스테이지 2관 (구.아트홀 마리카 2관)",
+ "cast": [
+  "박진성",
+  "김봉조",
+  "태항호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "장호",
+   "name": "박진성"
+  },
+  {
+   "role": "종만",
+   "name": "김봉조"
+  },
+  {
+   "role": "종만",
+   "name": "태항호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170703025017/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=64861"
+ }
+}

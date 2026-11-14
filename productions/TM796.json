@@ -1,0 +1,49 @@
+{
+ "id": "TM796",
+ "title": "동키쇼",
+ "genre": "뮤지컬",
+ "from": "2007-04-25",
+ "to": "2008-01-06",
+ "venue": "대학로 동키쇼 전용홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200923044205670d2fe1c0f446b7a35c368644751291.jpg",
+ "cast": [
+  "양보미",
+  "라미란",
+  "나성아",
+  "김은식",
+  "모지민"
+ ],
+ "state": "공연완료",
+ "producer": "시그마엔터테인먼트",
+ "price": "일반 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "티타니아",
+   "name": "양보미"
+  },
+  {
+   "role": "헬렌",
+   "name": "라미란"
+  },
+  {
+   "role": "대니",
+   "name": "나성아"
+  },
+  {
+   "role": "크라운보이즈",
+   "name": "김은식"
+  },
+  {
+   "role": "닥터 휠 굿",
+   "name": "모지민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=796"
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "PD88180",
+ "title": "달빛 안갯길",
+ "genre": "연극",
+ "from": "2016-01-23",
+ "to": "2016-02-06",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "남명렬",
+  "조연호",
+  "김왕근",
+  "임형택",
+  "정원조",
+  "김유리",
+  "류혜린",
+  "박선애"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "쓰다 소키치",
+   "name": "남명렬"
+  },
+  {
+   "role": "꼽추 승려",
+   "name": "조연호"
+  },
+  {
+   "role": "송씨",
+   "name": "김왕근"
+  },
+  {
+   "role": "이기현",
+   "name": "임형택"
+  },
+  {
+   "role": "이선규",
+   "name": "정원조"
+  },
+  {
+   "role": "민갑완",
+   "name": "김유리"
+  },
+  {
+   "role": "",
+   "name": "류혜린"
+  },
+  {
+   "role": "",
+   "name": "박선애"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191205222451/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=88180"
+ }
+}

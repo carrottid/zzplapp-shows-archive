@@ -1,0 +1,66 @@
+{
+ "id": "PD44172",
+ "title": "트루웨스트",
+ "genre": "연극",
+ "from": "2013-02-21",
+ "to": "2013-05-05",
+ "venue": "CJ 아지트 대학로(구 SM아트홀)",
+ "cast": [
+  "김종구",
+  "정문성",
+  "장지우",
+  "홍우진",
+  "이동하",
+  "박은석",
+  "류지훈",
+  "최유찬",
+  "정동근"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "리",
+   "name": "김종구"
+  },
+  {
+   "role": "리",
+   "name": "정문성"
+  },
+  {
+   "role": "리",
+   "name": "장지우"
+  },
+  {
+   "role": "오스틴",
+   "name": "홍우진"
+  },
+  {
+   "role": "오스틴",
+   "name": "이동하"
+  },
+  {
+   "role": "오스틴",
+   "name": "박은석"
+  },
+  {
+   "role": "사울키머",
+   "name": "류지훈"
+  },
+  {
+   "role": "사울키머",
+   "name": "최유찬"
+  },
+  {
+   "role": "사울키머",
+   "name": "정동근"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250223200241/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=44172"
+ }
+}

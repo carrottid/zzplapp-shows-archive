@@ -1,0 +1,39 @@
+{
+ "id": "TM1486",
+ "title": "누가 내 언니를 죽였나",
+ "genre": "뮤지컬",
+ "from": "2009-08-22",
+ "to": "2009-09-27",
+ "venue": "충무아트홀 소극장 블루",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_who20090.JPG",
+ "cast": [
+  "오미란",
+  "이승현",
+  "김형묵"
+ ],
+ "state": "공연완료",
+ "producer": "오픈런뮤지컬컴퍼니",
+ "price": "일반 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "민성아/민정아",
+   "name": "오미란"
+  },
+  {
+   "role": "박경민",
+   "name": "이승현"
+  },
+  {
+   "role": "변호사/아버지",
+   "name": "김형묵"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1486"
+ }
+}

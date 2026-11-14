@@ -1,0 +1,81 @@
+{
+ "id": "PD58399",
+ "title": "엔론",
+ "genre": "연극",
+ "from": "2014-05-07",
+ "to": "2014-05-31",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "유연수",
+  "김영필",
+  "박윤정",
+  "양종욱",
+  "이안나",
+  "송흥진",
+  "신안진",
+  "곽지숙",
+  "이길",
+  "박창순",
+  "강경호",
+  "민아비"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "켄 레이",
+   "name": "유연수"
+  },
+  {
+   "role": "제프리 스킬링",
+   "name": "김영필"
+  },
+  {
+   "role": "클로디아 로우",
+   "name": "박윤정"
+  },
+  {
+   "role": "앤디 패스토우",
+   "name": "양종욱"
+  },
+  {
+   "role": "다역 배우",
+   "name": "이안나"
+  },
+  {
+   "role": "다역 배우",
+   "name": "송흥진"
+  },
+  {
+   "role": "다역 배우",
+   "name": "신안진"
+  },
+  {
+   "role": "다역 배우",
+   "name": "곽지숙"
+  },
+  {
+   "role": "",
+   "name": "이길"
+  },
+  {
+   "role": "",
+   "name": "박창순"
+  },
+  {
+   "role": "",
+   "name": "강경호"
+  },
+  {
+   "role": "",
+   "name": "민아비"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220809191405/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=58399"
+ }
+}

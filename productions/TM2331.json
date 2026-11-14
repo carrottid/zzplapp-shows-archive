@@ -1,0 +1,74 @@
+{
+ "id": "TM2331",
+ "title": "씨왓아이워너씨",
+ "genre": "뮤지컬",
+ "from": "2016-09-27",
+ "to": "2016-11-20",
+ "venue": "홍익대 대학로 아트센터 소극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201608291109136ODF167KL586V224.jpg",
+ "cast": [
+  "문혜원",
+  "유리아",
+  "최수형",
+  "박인배",
+  "강필석",
+  "이준혁",
+  "조진아",
+  "정상윤",
+  "최재림",
+  "백형훈"
+ ],
+ "state": "공연완료",
+ "producer": "달 컴퍼니",
+ "price": "전석 6만6천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "케사,아내,여배우",
+   "name": "문혜원"
+  },
+  {
+   "role": "케사,아내,여배우",
+   "name": "유리아"
+  },
+  {
+   "role": "모리토,남편,회계사",
+   "name": "최수형"
+  },
+  {
+   "role": "모리토,남편,회계사",
+   "name": "박인배"
+  },
+  {
+   "role": "경비원,신부",
+   "name": "강필석"
+  },
+  {
+   "role": "경비원,신부",
+   "name": "이준혁"
+  },
+  {
+   "role": "영매,모니카 이모",
+   "name": "조진아"
+  },
+  {
+   "role": "강도,기자",
+   "name": "정상윤"
+  },
+  {
+   "role": "강도,기자",
+   "name": "최재림"
+  },
+  {
+   "role": "강도,기자",
+   "name": "백형훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2331"
+ }
+}

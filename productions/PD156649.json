@@ -1,0 +1,86 @@
+{
+ "id": "PD156649",
+ "title": "풍월주",
+ "genre": "뮤지컬",
+ "from": "2020-05-27",
+ "to": "2020-08-02",
+ "venue": "예스24아트원 1관",
+ "cast": [
+  "이율",
+  "이석준",
+  "김현진",
+  "박준휘",
+  "백동현",
+  "문진아",
+  "전성민",
+  "원종환",
+  "조순창",
+  "신창주",
+  "송상훈",
+  "박가람",
+  "김혜미"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "열",
+   "name": "이율"
+  },
+  {
+   "role": "열",
+   "name": "이석준"
+  },
+  {
+   "role": "사담",
+   "name": "김현진"
+  },
+  {
+   "role": "사담",
+   "name": "박준휘"
+  },
+  {
+   "role": "사담",
+   "name": "백동현"
+  },
+  {
+   "role": "진성",
+   "name": "문진아"
+  },
+  {
+   "role": "진성",
+   "name": "전성민"
+  },
+  {
+   "role": "운장",
+   "name": "원종환"
+  },
+  {
+   "role": "운장",
+   "name": "조순창"
+  },
+  {
+   "role": "궁곰",
+   "name": "신창주"
+  },
+  {
+   "role": "궁곰",
+   "name": "송상훈"
+  },
+  {
+   "role": "진부인",
+   "name": "박가람"
+  },
+  {
+   "role": "",
+   "name": "김혜미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250618001956/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=156649"
+ }
+}

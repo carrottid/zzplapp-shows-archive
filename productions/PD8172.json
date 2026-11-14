@@ -1,0 +1,56 @@
+{
+ "id": "PD8172",
+ "title": "강철왕",
+ "genre": "연극",
+ "from": "2009-01-08",
+ "to": "2009-02-15",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "이명행",
+  "한규남",
+  "이국호",
+  "호산",
+  "조영규",
+  "조운",
+  "양영미"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "박사",
+   "name": "이명행"
+  },
+  {
+   "role": "재이",
+   "name": "한규남"
+  },
+  {
+   "role": "근이",
+   "name": "이국호"
+  },
+  {
+   "role": "의사",
+   "name": "호산"
+  },
+  {
+   "role": "성국",
+   "name": "조영규"
+  },
+  {
+   "role": "왕기",
+   "name": "조운"
+  },
+  {
+   "role": "",
+   "name": "양영미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170617163359/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=8172"
+ }
+}

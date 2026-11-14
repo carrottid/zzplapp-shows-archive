@@ -1,0 +1,66 @@
+{
+ "id": "PD147559",
+ "title": "맨 끝줄 소년",
+ "genre": "연극",
+ "from": "2019-10-24",
+ "to": "2019-12-01",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "전박찬",
+  "안창현",
+  "박윤희",
+  "우미화",
+  "이동영",
+  "김현영",
+  "이승혁",
+  "전흥선",
+  "유옥주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "클라우디오",
+   "name": "전박찬"
+  },
+  {
+   "role": "클라우디오",
+   "name": "안창현"
+  },
+  {
+   "role": "헤르만",
+   "name": "박윤희"
+  },
+  {
+   "role": "후아나",
+   "name": "우미화"
+  },
+  {
+   "role": "라파의 아버지",
+   "name": "이동영"
+  },
+  {
+   "role": "에스테르",
+   "name": "김현영"
+  },
+  {
+   "role": "라파",
+   "name": "이승혁"
+  },
+  {
+   "role": "",
+   "name": "전흥선"
+  },
+  {
+   "role": "",
+   "name": "유옥주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241109091330/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=147559"
+ }
+}

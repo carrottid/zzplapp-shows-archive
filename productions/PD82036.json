@@ -1,0 +1,76 @@
+{
+ "id": "PD82036",
+ "title": "해지는 아프리카",
+ "genre": "연극",
+ "from": "2015-10-23",
+ "to": "2015-11-22",
+ "venue": "유니플렉스 3관",
+ "cast": [
+  "오화연",
+  "이화",
+  "이재원",
+  "임우영",
+  "오현승",
+  "하림",
+  "양양",
+  "조준호",
+  "이수혁",
+  "이동준",
+  "박일"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "강아지",
+   "name": "오화연"
+  },
+  {
+   "role": "코러스",
+   "name": "이화"
+  },
+  {
+   "role": "코러스",
+   "name": "이재원"
+  },
+  {
+   "role": "코러스",
+   "name": "임우영"
+  },
+  {
+   "role": "코러스",
+   "name": "오현승"
+  },
+  {
+   "role": "기타,보컬",
+   "name": "하림"
+  },
+  {
+   "role": "기타,보컬",
+   "name": "양양"
+  },
+  {
+   "role": "퍼커션,보컬",
+   "name": "조준호"
+  },
+  {
+   "role": "퍼커션,보컬",
+   "name": "이수혁"
+  },
+  {
+   "role": "베이스,보컬",
+   "name": "이동준"
+  },
+  {
+   "role": "베이스,보컬",
+   "name": "박일"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191215043517/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=82036"
+ }
+}

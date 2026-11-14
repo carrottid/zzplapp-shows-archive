@@ -1,0 +1,86 @@
+{
+ "id": "PD128146",
+ "title": "오디너리데이즈",
+ "genre": "뮤지컬",
+ "from": "2018-09-08",
+ "to": "2018-11-04",
+ "venue": "대학로 자유극장",
+ "cast": [
+  "나성호",
+  "이창용",
+  "안재영",
+  "김경선",
+  "최영화",
+  "박혜나",
+  "김지훈",
+  "김지철",
+  "강찬",
+  "김려원",
+  "조지승",
+  "이범재",
+  "조재철"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "제이슨",
+   "name": "나성호"
+  },
+  {
+   "role": "제이슨",
+   "name": "이창용"
+  },
+  {
+   "role": "제이슨",
+   "name": "안재영"
+  },
+  {
+   "role": "클레어",
+   "name": "김경선"
+  },
+  {
+   "role": "클레어",
+   "name": "최영화"
+  },
+  {
+   "role": "클레어",
+   "name": "박혜나"
+  },
+  {
+   "role": "워렌",
+   "name": "김지훈"
+  },
+  {
+   "role": "워렌",
+   "name": "김지철"
+  },
+  {
+   "role": "워렌",
+   "name": "강찬"
+  },
+  {
+   "role": "뎁",
+   "name": "김려원"
+  },
+  {
+   "role": "뎁",
+   "name": "조지승"
+  },
+  {
+   "role": "피아노",
+   "name": "이범재"
+  },
+  {
+   "role": "피아노",
+   "name": "조재철"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240810020214/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=128146"
+ }
+}

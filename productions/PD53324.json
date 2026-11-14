@@ -1,0 +1,36 @@
+{
+ "id": "PD53324",
+ "title": "니나",
+ "genre": "연극",
+ "from": "2013-10-16",
+ "to": "2013-10-27",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "유성진",
+  "이태형",
+  "심아롱"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "세바스티앙",
+   "name": "유성진"
+  },
+  {
+   "role": "샤를르",
+   "name": "이태형"
+  },
+  {
+   "role": "니나",
+   "name": "심아롱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170716000332/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=53324"
+ }
+}

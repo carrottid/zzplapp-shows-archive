@@ -1,0 +1,41 @@
+{
+ "id": "PD37363",
+ "title": "뜨거운 바다",
+ "genre": "연극",
+ "from": "2012-08-04",
+ "to": "2012-08-19",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "이명행",
+  "마광현",
+  "김동원",
+  "이경미"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "기무라 덴베이",
+   "name": "이명행"
+  },
+  {
+   "role": "오야마 깅타로",
+   "name": "마광현"
+  },
+  {
+   "role": "구마다 토메기치",
+   "name": "김동원"
+  },
+  {
+   "role": "미즈노 토모코",
+   "name": "이경미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170617205839/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=37363"
+ }
+}

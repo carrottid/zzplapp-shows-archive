@@ -1,0 +1,81 @@
+{
+ "id": "PD74109",
+ "title": "고도를 기다리며",
+ "genre": "연극",
+ "from": "2015-03-12",
+ "to": "2015-05-17",
+ "venue": "산울림 소극장",
+ "cast": [
+  "정동환",
+  "송영창",
+  "한명구",
+  "박용수",
+  "안석환",
+  "박상종",
+  "이호성",
+  "이영석",
+  "김명국",
+  "정재진",
+  "정나진",
+  "박윤석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "블라디미르",
+   "name": "정동환"
+  },
+  {
+   "role": "블라디미르",
+   "name": "송영창"
+  },
+  {
+   "role": "블라디미르",
+   "name": "한명구"
+  },
+  {
+   "role": "에스트라공",
+   "name": "박용수"
+  },
+  {
+   "role": "에스트라공",
+   "name": "안석환"
+  },
+  {
+   "role": "에스트라공",
+   "name": "박상종"
+  },
+  {
+   "role": "포조",
+   "name": "이호성"
+  },
+  {
+   "role": "포조",
+   "name": "이영석"
+  },
+  {
+   "role": "포조",
+   "name": "김명국"
+  },
+  {
+   "role": "럭키",
+   "name": "정재진"
+  },
+  {
+   "role": "럭키",
+   "name": "정나진"
+  },
+  {
+   "role": "럭키",
+   "name": "박윤석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170907140753/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=74109"
+ }
+}

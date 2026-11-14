@@ -1,0 +1,86 @@
+{
+ "id": "PD78170",
+ "title": "신과 함께_저승편",
+ "genre": "뮤지컬",
+ "from": "2015-07-01",
+ "to": "2015-07-12",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "김다현",
+  "박영수",
+  "송용진",
+  "조풍래",
+  "김도빈",
+  "정동화",
+  "최정수",
+  "김건혜",
+  "최석진",
+  "김백현",
+  "금승훈",
+  "하선진",
+  "이유"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "진기한",
+   "name": "김다현"
+  },
+  {
+   "role": "진기한",
+   "name": "박영수"
+  },
+  {
+   "role": "강림",
+   "name": "송용진"
+  },
+  {
+   "role": "강림",
+   "name": "조풍래"
+  },
+  {
+   "role": "김자홍",
+   "name": "김도빈"
+  },
+  {
+   "role": "김자홍",
+   "name": "정동화"
+  },
+  {
+   "role": "해원맥",
+   "name": "최정수"
+  },
+  {
+   "role": "덕춘",
+   "name": "김건혜"
+  },
+  {
+   "role": "원귀",
+   "name": "최석진"
+  },
+  {
+   "role": "",
+   "name": "김백현"
+  },
+  {
+   "role": "",
+   "name": "금승훈"
+  },
+  {
+   "role": "",
+   "name": "하선진"
+  },
+  {
+   "role": "",
+   "name": "이유"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170922173022/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=78170"
+ }
+}

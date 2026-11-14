@@ -1,0 +1,46 @@
+{
+ "id": "PD26684",
+ "title": "아름다운 꿈 깨어나서",
+ "genre": "연극",
+ "from": "2011-09-15",
+ "to": "2011-10-09",
+ "venue": "산울림 소극장",
+ "cast": [
+  "손봉숙",
+  "이현순",
+  "지자혜",
+  "윤여성",
+  "박윤석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "재분",
+   "name": "손봉숙"
+  },
+  {
+   "role": "해숙",
+   "name": "이현순"
+  },
+  {
+   "role": "옥란",
+   "name": "지자혜"
+  },
+  {
+   "role": "김한식",
+   "name": "윤여성"
+  },
+  {
+   "role": "박씨",
+   "name": "박윤석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170703230653/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=26684"
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "id": "TM1914",
+ "title": "마리아 마리아",
+ "genre": "뮤지컬",
+ "from": "2012-11-17",
+ "to": "2012-12-30",
+ "venue": "극장 용 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster27.jpg",
+ "cast": [
+  "전수미",
+  "도원경",
+  "김종서",
+  "고유진",
+  "이용진",
+  "여운",
+  "윤복희"
+ ],
+ "state": "공연완료",
+ "producer": "문화기획 함박우슴, 벗두리, 아트인조아",
+ "price": "VIP석 10만원 / R석 7만원 / S석 4만원(10월8일~22일 예매시 3만원)",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "마리아",
+   "name": "전수미"
+  },
+  {
+   "role": "마리아",
+   "name": "도원경"
+  },
+  {
+   "role": "예수",
+   "name": "김종서"
+  },
+  {
+   "role": "예수",
+   "name": "고유진"
+  },
+  {
+   "role": "바리세인",
+   "name": "이용진"
+  },
+  {
+   "role": "안티바스",
+   "name": "여운"
+  },
+  {
+   "role": "소경",
+   "name": "윤복희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1914"
+ }
+}

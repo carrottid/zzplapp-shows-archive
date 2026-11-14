@@ -1,0 +1,59 @@
+{
+ "id": "TM1441",
+ "title": "결혼",
+ "genre": "뮤지컬",
+ "from": "2009-05-12",
+ "to": "2009-06-18",
+ "venue": "두레홀 4관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2009wedding2.jpg",
+ "cast": [
+  "김성웅",
+  "허준혁",
+  "김선아",
+  "김지숙",
+  "김지환",
+  "최연호",
+  "이창완"
+ ],
+ "state": "공연완료",
+ "producer": "삼일로창고극장, 극단 두레",
+ "price": "자유석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "남자",
+   "name": "김성웅"
+  },
+  {
+   "role": "남자",
+   "name": "허준혁"
+  },
+  {
+   "role": "여자",
+   "name": "김선아"
+  },
+  {
+   "role": "여자",
+   "name": "김지숙"
+  },
+  {
+   "role": "매니저",
+   "name": "김지환"
+  },
+  {
+   "role": "매니저",
+   "name": "최연호"
+  },
+  {
+   "role": "매니저",
+   "name": "이창완"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1441"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "PD18897",
+ "title": "즐거운 나의 집",
+ "genre": "연극",
+ "from": "2010-10-27",
+ "to": "2010-11-14",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "임진순",
+  "이형주",
+  "최유송",
+  "박상석",
+  "박시내"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "노인(할아버지)",
+   "name": "임진순"
+  },
+  {
+   "role": "강창대(아버지)",
+   "name": "이형주"
+  },
+  {
+   "role": "한서영(엄마)",
+   "name": "최유송"
+  },
+  {
+   "role": "김영진(직장상사)",
+   "name": "박상석"
+  },
+  {
+   "role": "강지원",
+   "name": "박시내"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704032001/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=18897"
+ }
+}

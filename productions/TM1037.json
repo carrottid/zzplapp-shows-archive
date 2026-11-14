@@ -1,0 +1,59 @@
+{
+ "id": "TM1037",
+ "title": "애니",
+ "genre": "뮤지컬",
+ "from": "2007-12-15",
+ "to": "2007-12-29",
+ "venue": "세종문화회관 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 애니.jpg",
+ "cast": [
+  "이아진",
+  "박도연",
+  "박선옥",
+  "전수경",
+  "박철호",
+  "주성중",
+  "이연경"
+ ],
+ "state": "공연완료",
+ "producer": "서울시뮤지컬단",
+ "price": "V 5만원/ R 4만원/S 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "애니",
+   "name": "이아진"
+  },
+  {
+   "role": "애니",
+   "name": "박도연"
+  },
+  {
+   "role": "해니건",
+   "name": "박선옥"
+  },
+  {
+   "role": "해니건",
+   "name": "전수경"
+  },
+  {
+   "role": "워벅스",
+   "name": "박철호"
+  },
+  {
+   "role": "워벅스",
+   "name": "주성중"
+  },
+  {
+   "role": "그레이스",
+   "name": "이연경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1037"
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "id": "TM1992",
+ "title": "헤이, 자나!",
+ "genre": "뮤지컬",
+ "from": "2013-07-09",
+ "to": "2013-08-18",
+ "venue": "코엑스아티움 현대아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_zanna2013.jpg",
+ "cast": [
+  "김찬호",
+  "김지휘",
+  "이창희",
+  "김용남",
+  "서경수",
+  "박정훈",
+  "최수진",
+  "조윤영",
+  "박혜나",
+  "이정미",
+  "이지호",
+  "김민주",
+  "이태오",
+  "이민준",
+  "이준호",
+  "이희재",
+  "안상은"
+ ],
+ "state": "공연완료",
+ "producer": "㈜비오엠코리아",
+ "price": "VIP석 8만원 ㅣ R석 6만원 ㅣS석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "자나",
+   "name": "김찬호"
+  },
+  {
+   "role": "자나",
+   "name": "김지휘"
+  },
+  {
+   "role": "스티브",
+   "name": "이창희"
+  },
+  {
+   "role": "스티브",
+   "name": "김용남"
+  },
+  {
+   "role": "마이크",
+   "name": "서경수"
+  },
+  {
+   "role": "마이크",
+   "name": "박정훈"
+  },
+  {
+   "role": "케이트",
+   "name": "최수진"
+  },
+  {
+   "role": "케이트",
+   "name": "조윤영"
+  },
+  {
+   "role": "로버타",
+   "name": "박혜나"
+  },
+  {
+   "role": "로버타",
+   "name": "이정미"
+  },
+  {
+   "role": "탱크",
+   "name": "이지호"
+  },
+  {
+   "role": "캔디",
+   "name": "김민주"
+  },
+  {
+   "role": "벅",
+   "name": "이태오"
+  },
+  {
+   "role": "멀티맨",
+   "name": "이민준"
+  },
+  {
+   "role": "멀티맨",
+   "name": "이준호"
+  },
+  {
+   "role": "멀티걸",
+   "name": "이희재"
+  },
+  {
+   "role": "멀티걸",
+   "name": "안상은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1992"
+ }
+}

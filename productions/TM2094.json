@@ -1,0 +1,69 @@
+{
+ "id": "TM2094",
+ "title": "들풀2",
+ "genre": "뮤지컬",
+ "from": "2014-06-05",
+ "to": "2014-06-15",
+ "venue": "과천시민회관 대극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201405300207196G3H1O660I372DM5.jpg",
+ "cast": [
+  "안덕용",
+  "박영수",
+  "문혜원",
+  "김준겸",
+  "김대곤",
+  "조민희",
+  "고석진",
+  "신현종",
+  "이재훤"
+ ],
+ "state": "공연완료",
+ "producer": "과천시설관리공단, 극단 모시는사람들",
+ "price": "일반석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이진엽",
+   "name": "안덕용"
+  },
+  {
+   "role": "이진엽",
+   "name": "박영수"
+  },
+  {
+   "role": "군자홍",
+   "name": "문혜원"
+  },
+  {
+   "role": "박래규",
+   "name": "김준겸"
+  },
+  {
+   "role": "순익이",
+   "name": "김대곤"
+  },
+  {
+   "role": "버벙이",
+   "name": "조민희"
+  },
+  {
+   "role": "홍치서",
+   "name": "고석진"
+  },
+  {
+   "role": "최판서",
+   "name": "신현종"
+  },
+  {
+   "role": "임인서",
+   "name": "이재훤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2094"
+ }
+}

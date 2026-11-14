@@ -1,0 +1,71 @@
+{
+ "id": "PD80113",
+ "title": "거기",
+ "genre": "연극",
+ "from": "2015-08-18",
+ "to": "2015-08-30",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "김중기",
+  "김승욱",
+  "오용",
+  "이대연",
+  "송재룡",
+  "정석용",
+  "류제승",
+  "김훈만",
+  "김소진",
+  "오유진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "장우",
+   "name": "김중기"
+  },
+  {
+   "role": "장우",
+   "name": "김승욱"
+  },
+  {
+   "role": "춘발",
+   "name": "오용"
+  },
+  {
+   "role": "춘발",
+   "name": "이대연"
+  },
+  {
+   "role": "진수",
+   "name": "송재룡"
+  },
+  {
+   "role": "진수",
+   "name": "정석용"
+  },
+  {
+   "role": "병도",
+   "name": "류제승"
+  },
+  {
+   "role": "병도",
+   "name": "김훈만"
+  },
+  {
+   "role": "김정",
+   "name": "김소진"
+  },
+  {
+   "role": "김정",
+   "name": "오유진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241108212555/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=80113"
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "id": "TM763",
+ "title": "하드락 카페",
+ "genre": "뮤지컬",
+ "from": "2007-01-06",
+ "to": "2007-02-16",
+ "venue": "국립중앙박물관 극장 용",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200925031228809fe821e7fc4e79b20f66109acc3c04.jpg",
+ "cast": [
+  "강효성",
+  "웅산",
+  "문혜영",
+  "송용진",
+  "최윤",
+  "조한철",
+  "진수현"
+ ],
+ "state": "공연완료",
+ "producer": "서울뮤지컬컴퍼니",
+ "price": "R석 7만원 / S석 6만원 / A석 5만원 / B석 3만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "킴",
+   "name": "강효성"
+  },
+  {
+   "role": "킴",
+   "name": "웅산"
+  },
+  {
+   "role": "세리",
+   "name": "문혜영"
+  },
+  {
+   "role": "준",
+   "name": "송용진"
+  },
+  {
+   "role": "준",
+   "name": "최윤"
+  },
+  {
+   "role": "황사장",
+   "name": "조한철"
+  },
+  {
+   "role": "진",
+   "name": "진수현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=763"
+ }
+}

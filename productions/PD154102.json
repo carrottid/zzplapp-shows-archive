@@ -1,0 +1,51 @@
+{
+ "id": "PD154102",
+ "title": "봄을 그대에게",
+ "genre": "뮤지컬",
+ "from": "2020-02-22",
+ "to": "2020-03-01",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "임진섭",
+  "문진아",
+  "나경호",
+  "조훈",
+  "임예슬",
+  "공민섭"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이명하",
+   "name": "임진섭"
+  },
+  {
+   "role": "정수인",
+   "name": "문진아"
+  },
+  {
+   "role": "주윤식",
+   "name": "나경호"
+  },
+  {
+   "role": "한석구",
+   "name": "조훈"
+  },
+  {
+   "role": "박미란",
+   "name": "임예슬"
+  },
+  {
+   "role": "아버지 외",
+   "name": "공민섭"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210116150511/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=154102"
+ }
+}

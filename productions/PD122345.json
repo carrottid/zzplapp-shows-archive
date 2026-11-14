@@ -1,0 +1,51 @@
+{
+ "id": "PD122345",
+ "title": "27회 신춘문예 단막극전 - 친절한 에이미 선생님의 하루",
+ "genre": "연극",
+ "from": "2018-03-23",
+ "to": "2018-04-08",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "권지숙",
+  "양희선",
+  "박소연",
+  "김가빈",
+  "박희민",
+  "홍명환"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "에이미",
+   "name": "권지숙"
+  },
+  {
+   "role": "최선생",
+   "name": "양희선"
+  },
+  {
+   "role": "이선생",
+   "name": "박소연"
+  },
+  {
+   "role": "강선생",
+   "name": "김가빈"
+  },
+  {
+   "role": "김시원",
+   "name": "박희민"
+  },
+  {
+   "role": "민수 외",
+   "name": "홍명환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240720093404/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=122345"
+ }
+}

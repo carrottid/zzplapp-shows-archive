@@ -1,0 +1,84 @@
+{
+ "id": "TM2562",
+ "title": "하모니",
+ "genre": "뮤지컬",
+ "from": "2018-06-01",
+ "to": "2018-06-10",
+ "venue": "한전아트센터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20180405121523aff6884a0efd4fe08a1aa6f4685fb7b7.jpg",
+ "cast": [
+  "윤복희",
+  "이엘리",
+  "강효성",
+  "진도희",
+  "김하연",
+  "김새하",
+  "이현우",
+  "신시온",
+  "구정은",
+  "송하영",
+  "현수민",
+  "권보미"
+ ],
+ "state": "공연완료",
+ "producer": "(주)뮤지컬하모니",
+ "price": "VIP석 99,000원 / R석 88,000원 / S석 66,000원 / A석 44,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "김문옥",
+   "name": "윤복희"
+  },
+  {
+   "role": "김문옥",
+   "name": "이엘리"
+  },
+  {
+   "role": "홍정혜",
+   "name": "강효성"
+  },
+  {
+   "role": "지화자",
+   "name": "진도희"
+  },
+  {
+   "role": "강유미",
+   "name": "김하연"
+  },
+  {
+   "role": "나꽃순",
+   "name": "김새하"
+  },
+  {
+   "role": "교도소장",
+   "name": "이현우"
+  },
+  {
+   "role": "방과장",
+   "name": "신시온"
+  },
+  {
+   "role": "공나영",
+   "name": "구정은"
+  },
+  {
+   "role": "유미엄마",
+   "name": "송하영"
+  },
+  {
+   "role": "문옥딸",
+   "name": "현수민"
+  },
+  {
+   "role": "민우입양모",
+   "name": "권보미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2562"
+ }
+}

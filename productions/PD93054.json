@@ -1,0 +1,76 @@
+{
+ "id": "PD93054",
+ "title": "알타보이즈",
+ "genre": "뮤지컬",
+ "from": "2016-06-14",
+ "to": "2016-08-07",
+ "venue": "NOL 유니플렉스",
+ "cast": [
+  "이해준",
+  "박광선",
+  "이이경",
+  "박한근",
+  "문장원",
+  "김대현",
+  "원찬",
+  "이경욱",
+  "전민준",
+  "민재완",
+  "이창용"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "매튜",
+   "name": "이해준"
+  },
+  {
+   "role": "매튜",
+   "name": "박광선"
+  },
+  {
+   "role": "매튜",
+   "name": "이이경"
+  },
+  {
+   "role": "마크",
+   "name": "박한근"
+  },
+  {
+   "role": "마크",
+   "name": "문장원"
+  },
+  {
+   "role": "루크",
+   "name": "김대현"
+  },
+  {
+   "role": "루크",
+   "name": "원찬"
+  },
+  {
+   "role": "후안",
+   "name": "이경욱"
+  },
+  {
+   "role": "후안",
+   "name": "전민준"
+  },
+  {
+   "role": "에이브라함",
+   "name": "민재완"
+  },
+  {
+   "role": "에이브라함",
+   "name": "이창용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250913142132/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=93054"
+ }
+}

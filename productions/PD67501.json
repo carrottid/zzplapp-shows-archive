@@ -1,0 +1,41 @@
+{
+ "id": "PD67501",
+ "title": "가믄장아기",
+ "genre": "연극",
+ "from": "2014-10-01",
+ "to": "2014-10-19",
+ "venue": "나온 씨어터",
+ "cast": [
+  "이진아",
+  "류성철",
+  "허시라",
+  "김솔지"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "가믄장아기",
+   "name": "이진아"
+  },
+  {
+   "role": "마퉁이",
+   "name": "류성철"
+  },
+  {
+   "role": "풍각이",
+   "name": "허시라"
+  },
+  {
+   "role": "촐랭이",
+   "name": "김솔지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250428012319/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=67501"
+ }
+}

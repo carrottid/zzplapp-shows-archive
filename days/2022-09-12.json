@@ -1,0 +1,73 @@
+{
+ "date": "2022-09-12",
+ "sessions": [
+  {
+   "id": "PF197084",
+   "title": "결혼전야",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF197553",
+   "title": "만세는 부르지 않겠다",
+   "genre": "연극",
+   "venue": "미마지아트센터 (물빛극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF195990",
+   "title": "반쪼가리 자작",
+   "genre": "연극",
+   "venue": "국립극단 [용산] (백성희장민호극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF195122",
+   "title": "앨리스 인 베드",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF196199",
+   "title": "브론테",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#784E50",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF195916",
+   "title": "헝키",
+   "genre": "연극",
+   "venue": "열린극장",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#3A3532",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF196113",
+   "title": "헤르츠클란",
+   "genre": "연극",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#3B1F2B",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

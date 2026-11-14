@@ -1,0 +1,51 @@
+{
+ "id": "PD128882",
+ "title": "천사에 관하여",
+ "genre": "뮤지컬",
+ "from": "2018-09-04",
+ "to": "2018-11-18",
+ "venue": "예스24스테이지 2관 (구 대명문화공장 2관)",
+ "cast": [
+  "고훈정",
+  "조풍래",
+  "장지후",
+  "허규",
+  "양지원",
+  "홍승안"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "루카",
+   "name": "고훈정"
+  },
+  {
+   "role": "루카",
+   "name": "조풍래"
+  },
+  {
+   "role": "루카",
+   "name": "장지후"
+  },
+  {
+   "role": "발렌티노",
+   "name": "허규"
+  },
+  {
+   "role": "발렌티노",
+   "name": "양지원"
+  },
+  {
+   "role": "발렌티노",
+   "name": "홍승안"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200919085524/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=128882"
+ }
+}

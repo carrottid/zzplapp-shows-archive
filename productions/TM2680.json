@@ -1,0 +1,104 @@
+{
+ "id": "TM2680",
+ "title": "사랑을 이루어 드립니다",
+ "genre": "뮤지컬",
+ "from": "2019-01-29",
+ "to": "2019-05-26",
+ "venue": "이엘프러스 가든씨어터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201902220434274119216bd3374611a0ba09cb72d48557.jpg",
+ "cast": [
+  "이원준",
+  "강성현",
+  "김슬기",
+  "한은서",
+  "김은정",
+  "김지예",
+  "김여중",
+  "오도형",
+  "김진성",
+  "최은유",
+  "김한비",
+  "석민주",
+  "이동민",
+  "황재훈",
+  "이성훈",
+  "정의근"
+ ],
+ "state": "공연완료",
+ "producer": "여우컴퍼니",
+ "price": "전석 4만 원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "진성",
+   "name": "이원준"
+  },
+  {
+   "role": "진성",
+   "name": "강성현"
+  },
+  {
+   "role": "진성",
+   "name": "김슬기"
+  },
+  {
+   "role": "장미",
+   "name": "한은서"
+  },
+  {
+   "role": "장미",
+   "name": "김은정"
+  },
+  {
+   "role": "장미",
+   "name": "김지예"
+  },
+  {
+   "role": "성민",
+   "name": "김여중"
+  },
+  {
+   "role": "성민",
+   "name": "오도형"
+  },
+  {
+   "role": "성민",
+   "name": "김진성"
+  },
+  {
+   "role": "진희",
+   "name": "최은유"
+  },
+  {
+   "role": "진희",
+   "name": "김한비"
+  },
+  {
+   "role": "진희",
+   "name": "석민주"
+  },
+  {
+   "role": "김부장",
+   "name": "이동민"
+  },
+  {
+   "role": "김부장",
+   "name": "황재훈"
+  },
+  {
+   "role": "김부장",
+   "name": "이성훈"
+  },
+  {
+   "role": "김부장",
+   "name": "정의근"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2680"
+ }
+}

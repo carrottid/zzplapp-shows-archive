@@ -1,0 +1,94 @@
+{
+ "id": "TM1294",
+ "title": "오즈의 마법사",
+ "genre": "뮤지컬",
+ "from": "2008-12-17",
+ "to": "2008-12-28",
+ "venue": "세종문화회관 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_oz2008.jpg",
+ "cast": [
+  "박도연",
+  "오소연",
+  "송용태",
+  "박성훈",
+  "고준식",
+  "이경준",
+  "정선영",
+  "한일경",
+  "왕은숙",
+  "박선옥",
+  "곽은태",
+  "원유석",
+  "이연경",
+  "우현아"
+ ],
+ "state": "공연완료",
+ "producer": "서울시뮤지컬단",
+ "price": "VVIP석 7만원/VIP석 5만원/R석 4만원/S석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "도로시",
+   "name": "박도연"
+  },
+  {
+   "role": "도로시",
+   "name": "오소연"
+  },
+  {
+   "role": "사자",
+   "name": "송용태"
+  },
+  {
+   "role": "사자",
+   "name": "박성훈"
+  },
+  {
+   "role": "허수아비",
+   "name": "고준식"
+  },
+  {
+   "role": "허수아비",
+   "name": "이경준"
+  },
+  {
+   "role": "양철맨",
+   "name": "정선영"
+  },
+  {
+   "role": "양철맨",
+   "name": "한일경"
+  },
+  {
+   "role": "나쁜마녀",
+   "name": "왕은숙"
+  },
+  {
+   "role": "나쁜마녀",
+   "name": "박선옥"
+  },
+  {
+   "role": "오즈",
+   "name": "곽은태"
+  },
+  {
+   "role": "오즈",
+   "name": "원유석"
+  },
+  {
+   "role": "글린다",
+   "name": "이연경"
+  },
+  {
+   "role": "글린다",
+   "name": "우현아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1294"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "id": "PD888",
+ "title": "리어왕",
+ "genre": "연극",
+ "from": "2004-05-19",
+ "to": "2004-05-26",
+ "venue": "국립극장 하늘극장",
+ "cast": [
+  "전성환",
+  "장재호",
+  "한갑수",
+  "곽병규",
+  "김낙균",
+  "오영호",
+  "정동숙",
+  "김미숙",
+  "이승헌",
+  "유다미",
+  "이영아",
+  "김소희",
+  "여승희",
+  "조주현",
+  "문창주",
+  "손효용"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "리어왕",
+   "name": "전성환"
+  },
+  {
+   "role": "켄트 백작",
+   "name": "장재호"
+  },
+  {
+   "role": "글로스터",
+   "name": "한갑수"
+  },
+  {
+   "role": "에드거",
+   "name": "곽병규"
+  },
+  {
+   "role": "에드먼드",
+   "name": "김낙균"
+  },
+  {
+   "role": "에드먼드",
+   "name": "오영호"
+  },
+  {
+   "role": "고네릴",
+   "name": "정동숙"
+  },
+  {
+   "role": "",
+   "name": "김미숙"
+  },
+  {
+   "role": "",
+   "name": "이승헌"
+  },
+  {
+   "role": "",
+   "name": "유다미"
+  },
+  {
+   "role": "",
+   "name": "이영아"
+  },
+  {
+   "role": "",
+   "name": "김소희"
+  },
+  {
+   "role": "",
+   "name": "여승희"
+  },
+  {
+   "role": "",
+   "name": "조주현"
+  },
+  {
+   "role": "",
+   "name": "문창주"
+  },
+  {
+   "role": "",
+   "name": "손효용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251214091411/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=888"
+ }
+}

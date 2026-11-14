@@ -1,0 +1,51 @@
+{
+ "id": "PD116116",
+ "title": "블라인드",
+ "genre": "연극",
+ "from": "2017-12-06",
+ "to": "2018-02-04",
+ "venue": "예스24스테이지 3관",
+ "cast": [
+  "박은석",
+  "이재균",
+  "김정민",
+  "정운선",
+  "이영숙",
+  "김정영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "루벤",
+   "name": "박은석"
+  },
+  {
+   "role": "루벤",
+   "name": "이재균"
+  },
+  {
+   "role": "마리",
+   "name": "김정민"
+  },
+  {
+   "role": "마리",
+   "name": "정운선"
+  },
+  {
+   "role": "여인",
+   "name": "이영숙"
+  },
+  {
+   "role": "여인",
+   "name": "김정영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241010141858/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=116116"
+ }
+}

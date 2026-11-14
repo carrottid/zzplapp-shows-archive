@@ -1,0 +1,96 @@
+{
+ "id": "PD27580",
+ "title": "미스사이공 - 대구",
+ "genre": "뮤지컬",
+ "from": "2011-11-25",
+ "to": "2012-01-01",
+ "venue": "계명아트센터",
+ "cast": [
+  "김도형",
+  "임춘길",
+  "김보경",
+  "임혜영",
+  "이하나",
+  "마이클 리",
+  "이건명",
+  "김우형",
+  "박형규",
+  "구민진",
+  "곽이안",
+  "김명희",
+  "김상아",
+  "박정우",
+  "김민국"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "엔지니어",
+   "name": "김도형"
+  },
+  {
+   "role": "엔지니어",
+   "name": "임춘길"
+  },
+  {
+   "role": "킴",
+   "name": "김보경"
+  },
+  {
+   "role": "킴",
+   "name": "임혜영"
+  },
+  {
+   "role": "킴",
+   "name": "이하나"
+  },
+  {
+   "role": "크리스",
+   "name": "마이클 리"
+  },
+  {
+   "role": "크리스",
+   "name": "이건명"
+  },
+  {
+   "role": "존",
+   "name": "김우형"
+  },
+  {
+   "role": "투이",
+   "name": "박형규"
+  },
+  {
+   "role": "엘렌",
+   "name": "구민진"
+  },
+  {
+   "role": "",
+   "name": "곽이안"
+  },
+  {
+   "role": "",
+   "name": "김명희"
+  },
+  {
+   "role": "",
+   "name": "김상아"
+  },
+  {
+   "role": "",
+   "name": "박정우"
+  },
+  {
+   "role": "",
+   "name": "김민국"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241208195111/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=27580"
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "id": "PD58223",
+ "title": "나와 할아버지",
+ "genre": "연극",
+ "from": "2014-02-07",
+ "to": "2014-04-20",
+ "venue": "예스24아트원 3관",
+ "cast": [
+  "오용",
+  "김승욱",
+  "진선규",
+  "정선아",
+  "손지윤",
+  "이희준",
+  "오의식",
+  "홍우진",
+  "이석",
+  "양경원"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "할아버지",
+   "name": "오용"
+  },
+  {
+   "role": "할아버지",
+   "name": "김승욱"
+  },
+  {
+   "role": "할아버지",
+   "name": "진선규"
+  },
+  {
+   "role": "할머니",
+   "name": "정선아"
+  },
+  {
+   "role": "할머니",
+   "name": "손지윤"
+  },
+  {
+   "role": "준희",
+   "name": "이희준"
+  },
+  {
+   "role": "준희",
+   "name": "오의식"
+  },
+  {
+   "role": "준희",
+   "name": "홍우진"
+  },
+  {
+   "role": "작가",
+   "name": "이석"
+  },
+  {
+   "role": "작가",
+   "name": "양경원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250223200133/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=58223"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "id": "TM1958",
+ "title": "친정엄마",
+ "genre": "뮤지컬",
+ "from": "2013-04-19",
+ "to": "2013-05-19",
+ "venue": "이화여자대학교 삼성홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013mother.jpg",
+ "cast": [
+  "나문희",
+  "김수미",
+  "류수화",
+  "이은율",
+  "송이주",
+  "서예림"
+ ],
+ "state": "공연완료",
+ "producer": "(주)HMG엔터테인먼트, 쇼21(주)",
+ "price": "R석 77,000원/ S석 66,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "엄마",
+   "name": "나문희"
+  },
+  {
+   "role": "엄마",
+   "name": "김수미"
+  },
+  {
+   "role": "딸",
+   "name": "류수화"
+  },
+  {
+   "role": "딸",
+   "name": "이은율"
+  },
+  {
+   "role": "남편",
+   "name": "송이주"
+  },
+  {
+   "role": "앙상블",
+   "name": "서예림"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1958"
+ }
+}

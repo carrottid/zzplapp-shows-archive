@@ -1,0 +1,119 @@
+{
+ "id": "TM1824",
+ "title": "달고나",
+ "genre": "뮤지컬",
+ "from": "2012-02-13",
+ "to": "2012-05-13",
+ "venue": "코엑스아티움 현대아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster (s)5.JPG",
+ "cast": [
+  "박현빈",
+  "박민성",
+  "조형균",
+  "오진영",
+  "문진아",
+  "홍록기",
+  "이훈진",
+  "김순택",
+  "임강성",
+  "김경선",
+  "김지민",
+  "양승리",
+  "이수용",
+  "전태성",
+  "이지송",
+  "정경진",
+  "나미희",
+  "김동해",
+  "최지훈"
+ ],
+ "state": "공연완료",
+ "producer": "PMC프러덕션",
+ "price": "R석 8만원/ S석 6만원/ A석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "김세우",
+   "name": "박현빈"
+  },
+  {
+   "role": "김세우",
+   "name": "박민성"
+  },
+  {
+   "role": "김세우",
+   "name": "조형균"
+  },
+  {
+   "role": "오지희",
+   "name": "오진영"
+  },
+  {
+   "role": "오지희",
+   "name": "문진아"
+  },
+  {
+   "role": "삼촌",
+   "name": "홍록기"
+  },
+  {
+   "role": "삼촌",
+   "name": "이훈진"
+  },
+  {
+   "role": "정태한",
+   "name": "김순택"
+  },
+  {
+   "role": "정태한",
+   "name": "임강성"
+  },
+  {
+   "role": "유보영",
+   "name": "김경선"
+  },
+  {
+   "role": "수경",
+   "name": "김지민"
+  },
+  {
+   "role": "앙상블",
+   "name": "양승리"
+  },
+  {
+   "role": "앙상블",
+   "name": "이수용"
+  },
+  {
+   "role": "앙상블",
+   "name": "전태성"
+  },
+  {
+   "role": "앙상블",
+   "name": "이지송"
+  },
+  {
+   "role": "앙상블",
+   "name": "정경진"
+  },
+  {
+   "role": "앙상블",
+   "name": "나미희"
+  },
+  {
+   "role": "앙상블",
+   "name": "김동해"
+  },
+  {
+   "role": "앙상블",
+   "name": "최지훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1824"
+ }
+}

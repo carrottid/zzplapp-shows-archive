@@ -1,0 +1,76 @@
+{
+ "id": "PD67804",
+ "title": "케미스토리",
+ "genre": "뮤지컬",
+ "from": "2014-10-28",
+ "to": "2015-01-31",
+ "venue": "대학로 자유극장",
+ "cast": [
+  "오의식",
+  "유승현",
+  "김동현",
+  "정연",
+  "박은미",
+  "김늘메",
+  "류경환",
+  "공민섭",
+  "손성민",
+  "임진아",
+  "박채원"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "호랑",
+   "name": "오의식"
+  },
+  {
+   "role": "호랑",
+   "name": "유승현"
+  },
+  {
+   "role": "호랑",
+   "name": "김동현"
+  },
+  {
+   "role": "우정",
+   "name": "정연"
+  },
+  {
+   "role": "우정",
+   "name": "박은미"
+  },
+  {
+   "role": "도사",
+   "name": "김늘메"
+  },
+  {
+   "role": "도사",
+   "name": "류경환"
+  },
+  {
+   "role": "성화",
+   "name": "공민섭"
+  },
+  {
+   "role": "성화",
+   "name": "손성민"
+  },
+  {
+   "role": "나나",
+   "name": "임진아"
+  },
+  {
+   "role": "나나",
+   "name": "박채원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220520140655/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=67804"
+ }
+}

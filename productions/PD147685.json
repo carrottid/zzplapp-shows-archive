@@ -1,0 +1,76 @@
+{
+ "id": "PD147685",
+ "title": "지하철 1호선 - 진주",
+ "genre": "뮤지컬",
+ "from": "2019-09-27",
+ "to": "2019-09-28",
+ "venue": "경상남도문화예술회관 대공연장",
+ "cast": [
+  "장혜민",
+  "이홍재",
+  "제은빈",
+  "정재혁",
+  "김태영",
+  "손민아",
+  "박근식",
+  "최새봄",
+  "이승우",
+  "손진영",
+  "윤겸"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "선녀",
+   "name": "장혜민"
+  },
+  {
+   "role": "안경",
+   "name": "이홍재"
+  },
+  {
+   "role": "걸레",
+   "name": "제은빈"
+  },
+  {
+   "role": "철수",
+   "name": "정재혁"
+  },
+  {
+   "role": "제비",
+   "name": "김태영"
+  },
+  {
+   "role": "빨강바지",
+   "name": "손민아"
+  },
+  {
+   "role": "",
+   "name": "박근식"
+  },
+  {
+   "role": "",
+   "name": "최새봄"
+  },
+  {
+   "role": "",
+   "name": "이승우"
+  },
+  {
+   "role": "",
+   "name": "손진영"
+  },
+  {
+   "role": "",
+   "name": "윤겸"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250803113608/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=147685"
+ }
+}

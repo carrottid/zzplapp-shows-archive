@@ -1,0 +1,66 @@
+{
+ "id": "PD161140",
+ "title": "춤의 국가",
+ "genre": "연극",
+ "from": "2020-10-20",
+ "to": "2020-10-29",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "안정우",
+  "김정",
+  "강혜련",
+  "김정아",
+  "이정미",
+  "김원정",
+  "조의진",
+  "허정도",
+  "최설화"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이미나",
+   "name": "안정우"
+  },
+  {
+   "role": "주주",
+   "name": "김정"
+  },
+  {
+   "role": "애슐리",
+   "name": "강혜련"
+  },
+  {
+   "role": "마에브",
+   "name": "김정아"
+  },
+  {
+   "role": "코니",
+   "name": "이정미"
+  },
+  {
+   "role": "소피아",
+   "name": "김원정"
+  },
+  {
+   "role": "",
+   "name": "조의진"
+  },
+  {
+   "role": "",
+   "name": "허정도"
+  },
+  {
+   "role": "",
+   "name": "최설화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250318181449/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=161140"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "id": "PD58442",
+ "title": "해를 품은 달 - 수원",
+ "genre": "뮤지컬",
+ "from": "2014-03-14",
+ "to": "2014-03-16",
+ "venue": "경기도문화의전당 행복한대극장",
+ "cast": [
+  "김다현",
+  "전동석",
+  "린아",
+  "정재은",
+  "강필석",
+  "조휘",
+  "이한솔",
+  "주민진",
+  "김수연"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이훤",
+   "name": "김다현"
+  },
+  {
+   "role": "이훤",
+   "name": "전동석"
+  },
+  {
+   "role": "연우",
+   "name": "린아"
+  },
+  {
+   "role": "연우",
+   "name": "정재은"
+  },
+  {
+   "role": "양명",
+   "name": "강필석"
+  },
+  {
+   "role": "양명",
+   "name": "조휘"
+  },
+  {
+   "role": "민화",
+   "name": "이한솔"
+  },
+  {
+   "role": "염",
+   "name": "주민진"
+  },
+  {
+   "role": "설",
+   "name": "김수연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20140427070156/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=58442"
+ }
+}

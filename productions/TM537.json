@@ -1,0 +1,43 @@
+{
+ "id": "TM537",
+ "title": "모스키토",
+ "genre": "뮤지컬",
+ "from": "2000-04-29",
+ "to": "2000-09-17",
+ "venue": "학전그린",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_mo.jpg",
+ "cast": [
+  "이현철",
+  "조순창",
+  "구원영",
+  "김영옥"
+ ],
+ "state": "공연완료",
+ "producer": "극단 학전",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "사오정",
+   "name": "이현철"
+  },
+  {
+   "role": "사오정",
+   "name": "조순창"
+  },
+  {
+   "role": "사오정",
+   "name": "구원영"
+  },
+  {
+   "role": "사오정",
+   "name": "김영옥"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=537"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PD127193",
+ "title": "돌아서서 떠나라",
+ "genre": "연극",
+ "from": "2018-07-12",
+ "to": "2018-10-06",
+ "venue": "브릭스 씨어터 (구, 콘텐츠 그라운드)",
+ "cast": [
+  "김주헌",
+  "김찬호",
+  "박정복",
+  "신다은",
+  "이진희",
+  "전성민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "공상두",
+   "name": "김주헌"
+  },
+  {
+   "role": "공상두",
+   "name": "김찬호"
+  },
+  {
+   "role": "공상두",
+   "name": "박정복"
+  },
+  {
+   "role": "채희주",
+   "name": "신다은"
+  },
+  {
+   "role": "채희주",
+   "name": "이진희"
+  },
+  {
+   "role": "채희주",
+   "name": "전성민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240813224826/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=127193"
+ }
+}

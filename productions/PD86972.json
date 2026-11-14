@@ -1,0 +1,96 @@
+{
+ "id": "PD86972",
+ "title": "베르테르 - 부산",
+ "genre": "뮤지컬",
+ "from": "2016-01-29",
+ "to": "2016-01-31",
+ "venue": "부산문화회관 대극장",
+ "cast": [
+  "엄기준",
+  "조승우",
+  "규현",
+  "전미도",
+  "이지혜",
+  "이상현",
+  "문종원",
+  "최나래",
+  "강성욱",
+  "송나영",
+  "이민재",
+  "김선혜",
+  "김보현",
+  "문슬아",
+  "이강"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "베르테르",
+   "name": "엄기준"
+  },
+  {
+   "role": "베르테르",
+   "name": "조승우"
+  },
+  {
+   "role": "베르테르",
+   "name": "규현"
+  },
+  {
+   "role": "롯데",
+   "name": "전미도"
+  },
+  {
+   "role": "롯데",
+   "name": "이지혜"
+  },
+  {
+   "role": "알베르토",
+   "name": "이상현"
+  },
+  {
+   "role": "알베르토",
+   "name": "문종원"
+  },
+  {
+   "role": "오르카",
+   "name": "최나래"
+  },
+  {
+   "role": "카인즈",
+   "name": "강성욱"
+  },
+  {
+   "role": "캐시",
+   "name": "송나영"
+  },
+  {
+   "role": "",
+   "name": "이민재"
+  },
+  {
+   "role": "",
+   "name": "김선혜"
+  },
+  {
+   "role": "",
+   "name": "김보현"
+  },
+  {
+   "role": "",
+   "name": "문슬아"
+  },
+  {
+   "role": "",
+   "name": "이강"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170831100648/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=86972"
+ }
+}

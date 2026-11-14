@@ -1,0 +1,51 @@
+{
+ "id": "PD142881",
+ "title": "산울림 고전극장 - 스페이드의 여왕",
+ "genre": "연극",
+ "from": "2019-06-12",
+ "to": "2019-06-23",
+ "venue": "산울림 소극장",
+ "cast": [
+  "박종용",
+  "김미란",
+  "손성현",
+  "정지희",
+  "이지훈",
+  "권호조"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "게르만",
+   "name": "박종용"
+  },
+  {
+   "role": "백작부인",
+   "name": "김미란"
+  },
+  {
+   "role": "톰스키",
+   "name": "손성현"
+  },
+  {
+   "role": "리자베타",
+   "name": "정지희"
+  },
+  {
+   "role": "나루모프",
+   "name": "이지훈"
+  },
+  {
+   "role": "수린, 체칼린스키",
+   "name": "권호조"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241004073640/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=142881"
+ }
+}

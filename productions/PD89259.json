@@ -1,0 +1,56 @@
+{
+ "id": "PD89259",
+ "title": "두영웅",
+ "genre": "연극",
+ "from": "2016-02-19",
+ "to": "2016-02-28",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "오영수",
+  "김종구",
+  "남일우",
+  "권성덕",
+  "이인철",
+  "이호성",
+  "김민진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "사명대사",
+   "name": "오영수"
+  },
+  {
+   "role": "도쿠가와 이에야스",
+   "name": "김종구"
+  },
+  {
+   "role": "이수광 대신",
+   "name": "남일우"
+  },
+  {
+   "role": "노대신 - 다이로",
+   "name": "권성덕"
+  },
+  {
+   "role": "도요토미 히데요시",
+   "name": "이인철"
+  },
+  {
+   "role": "가토 마사요시",
+   "name": "이호성"
+  },
+  {
+   "role": "",
+   "name": "김민진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250518010545/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=89259"
+ }
+}

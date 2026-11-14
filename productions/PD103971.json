@@ -1,0 +1,36 @@
+{
+ "id": "PD103971",
+ "title": "그대를 그린다",
+ "genre": "뮤지컬",
+ "from": "2017-02-10",
+ "to": "2017-02-12",
+ "venue": "후암스테이지 (구.아트홀 마리카 3관)",
+ "cast": [
+  "김지애",
+  "김영혁",
+  "홀린"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "예린",
+   "name": "김지애"
+  },
+  {
+   "role": "손님, 친구",
+   "name": "김영혁"
+  },
+  {
+   "role": "",
+   "name": "홀린"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170910115310/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=103971"
+ }
+}

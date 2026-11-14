@@ -1,0 +1,51 @@
+{
+ "id": "PD118909",
+ "title": "세이러브",
+ "genre": "연극",
+ "from": "2017-12-20",
+ "to": "2017-12-31",
+ "venue": "소극장 혜화당(구.까망 소극장)",
+ "cast": [
+  "김태현",
+  "박아롱",
+  "김양운",
+  "김아현",
+  "유빛나",
+  "서민희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "박진호",
+   "name": "김태현"
+  },
+  {
+   "role": "송지혜",
+   "name": "박아롱"
+  },
+  {
+   "role": "손용환",
+   "name": "김양운"
+  },
+  {
+   "role": "박채원",
+   "name": "김아현"
+  },
+  {
+   "role": "박채원",
+   "name": "유빛나"
+  },
+  {
+   "role": "신복자",
+   "name": "서민희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241109172700/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=118909"
+ }
+}

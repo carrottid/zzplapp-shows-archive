@@ -1,0 +1,71 @@
+{
+ "id": "PD52729",
+ "title": "연애시대",
+ "genre": "연극",
+ "from": "2013-10-05",
+ "to": "2013-12-29",
+ "venue": "대학로 자유극장",
+ "cast": [
+  "조영규",
+  "김재범",
+  "이신성",
+  "황인영",
+  "심은진",
+  "손지윤",
+  "이원",
+  "채동현",
+  "윤경호",
+  "소정화"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "리이치로",
+   "name": "조영규"
+  },
+  {
+   "role": "리이치로",
+   "name": "김재범"
+  },
+  {
+   "role": "리이치로",
+   "name": "이신성"
+  },
+  {
+   "role": "하루",
+   "name": "황인영"
+  },
+  {
+   "role": "하루",
+   "name": "심은진"
+  },
+  {
+   "role": "하루",
+   "name": "손지윤"
+  },
+  {
+   "role": "나가토미",
+   "name": "이원"
+  },
+  {
+   "role": "기타지마",
+   "name": "채동현"
+  },
+  {
+   "role": "가이에다",
+   "name": "윤경호"
+  },
+  {
+   "role": "가스미",
+   "name": "소정화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250210063700/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=52729"
+ }
+}

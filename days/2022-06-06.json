@@ -1,0 +1,41 @@
+{
+ "date": "2022-06-06",
+ "sessions": [
+  {
+   "id": "PF190238",
+   "title": "오아시스",
+   "genre": "연극",
+   "venue": "세종문화회관 (세종S씨어터)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#2B8246",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF191866",
+   "title": "THE CELLAR",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0E0909",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF189025",
+   "title": "은하철도의 밤 (앵콜)",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#22223B",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

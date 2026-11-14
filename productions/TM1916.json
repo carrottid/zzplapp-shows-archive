@@ -1,0 +1,99 @@
+{
+ "id": "TM1916",
+ "title": "그리스",
+ "genre": "뮤지컬",
+ "from": "2012-12-01",
+ "to": "2013-01-20",
+ "venue": "강동아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(S)86.jpg",
+ "cast": [
+  "정민",
+  "고은성",
+  "김보선",
+  "김용규",
+  "인진우",
+  "이형진",
+  "이지윤",
+  "정연",
+  "문희라",
+  "이태은",
+  "권소현",
+  "이동윤",
+  "유민상",
+  "노우진",
+  "박규석"
+ ],
+ "state": "공연완료",
+ "producer": "오디뮤지컬컴퍼니, CJ E&M(주)",
+ "price": "VIP석 7만7천원 / R석 6만6천원 / S석 4만4천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "대니",
+   "name": "정민"
+  },
+  {
+   "role": "대니",
+   "name": "고은성"
+  },
+  {
+   "role": "케니키",
+   "name": "김보선"
+  },
+  {
+   "role": "소니",
+   "name": "김용규"
+  },
+  {
+   "role": "두디",
+   "name": "인진우"
+  },
+  {
+   "role": "로저",
+   "name": "이형진"
+  },
+  {
+   "role": "샌디",
+   "name": "이지윤"
+  },
+  {
+   "role": "리조",
+   "name": "정연"
+  },
+  {
+   "role": "프렌치",
+   "name": "문희라"
+  },
+  {
+   "role": "마티",
+   "name": "이태은"
+  },
+  {
+   "role": "잔",
+   "name": "권소현"
+  },
+  {
+   "role": "빈스폰테인",
+   "name": "이동윤"
+  },
+  {
+   "role": "빈스폰테인",
+   "name": "유민상"
+  },
+  {
+   "role": "빈스폰테인",
+   "name": "노우진"
+  },
+  {
+   "role": "빈스폰테인",
+   "name": "박규석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1916"
+ }
+}

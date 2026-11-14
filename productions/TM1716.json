@@ -1,0 +1,74 @@
+{
+ "id": "TM1716",
+ "title": "러브어게인",
+ "genre": "뮤지컬",
+ "from": "2011-02-04",
+ "to": "2011-05-08",
+ "venue": "미마지 아트센터 눈빛극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_loveagain  .jpg",
+ "cast": [
+  "이승한",
+  "이창완",
+  "정유석",
+  "정유하",
+  "최정윤",
+  "민준호",
+  "김지훈",
+  "김샛별",
+  "이신애",
+  "이정화"
+ ],
+ "state": "공연완료",
+ "producer": "르쌍컴퍼니",
+ "price": "R석 5만원 / S석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "남자사신",
+   "name": "이승한"
+  },
+  {
+   "role": "남자사신",
+   "name": "이창완"
+  },
+  {
+   "role": "남자사신",
+   "name": "정유석"
+  },
+  {
+   "role": "여자사신",
+   "name": "정유하"
+  },
+  {
+   "role": "여자사신",
+   "name": "최정윤"
+  },
+  {
+   "role": "준우",
+   "name": "민준호"
+  },
+  {
+   "role": "준우",
+   "name": "김지훈"
+  },
+  {
+   "role": "소리",
+   "name": "김샛별"
+  },
+  {
+   "role": "소리",
+   "name": "이신애"
+  },
+  {
+   "role": "소리",
+   "name": "이정화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1716"
+ }
+}

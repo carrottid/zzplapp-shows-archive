@@ -1,0 +1,56 @@
+{
+ "id": "PD57981",
+ "title": "2014 유망 예술인 초청공연 연극 - 닫힌 문",
+ "genre": "연극",
+ "from": "2014-02-05",
+ "to": "2014-02-09",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "윤도훈",
+  "현진호",
+  "조수빈",
+  "김웅희",
+  "서현성",
+  "박정림",
+  "박남현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "은호",
+   "name": "윤도훈"
+  },
+  {
+   "role": "영산",
+   "name": "현진호"
+  },
+  {
+   "role": "선희",
+   "name": "조수빈"
+  },
+  {
+   "role": "김씨",
+   "name": "김웅희"
+  },
+  {
+   "role": "양씨",
+   "name": "서현성"
+  },
+  {
+   "role": "최씨",
+   "name": "박정림"
+  },
+  {
+   "role": "",
+   "name": "박남현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200815114056/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=57981"
+ }
+}

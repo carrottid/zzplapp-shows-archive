@@ -1,0 +1,56 @@
+{
+ "id": "PD57636",
+ "title": "맨하탄의 선신",
+ "genre": "연극",
+ "from": "2014-01-23",
+ "to": "2014-01-25",
+ "venue": "대학로 SH 아트홀",
+ "cast": [
+  "김보리",
+  "배재현",
+  "조정윤",
+  "이승은",
+  "윤성주",
+  "안수미",
+  "이민주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "선신",
+   "name": "김보리"
+  },
+  {
+   "role": "재판관",
+   "name": "배재현"
+  },
+  {
+   "role": "제니퍼",
+   "name": "조정윤"
+  },
+  {
+   "role": "빌리",
+   "name": "이승은"
+  },
+  {
+   "role": "프랑키",
+   "name": "윤성주"
+  },
+  {
+   "role": "",
+   "name": "안수미"
+  },
+  {
+   "role": "",
+   "name": "이민주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250113145120/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=57636"
+ }
+}

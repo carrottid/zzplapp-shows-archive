@@ -1,0 +1,66 @@
+{
+ "id": "PD19879",
+ "title": "민들레 바람되어",
+ "genre": "연극",
+ "from": "2011-01-21",
+ "to": "2011-02-22",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "정보석",
+  "조재현",
+  "김성미",
+  "차은재",
+  "이한위",
+  "김상규",
+  "황영희",
+  "이지현",
+  "김송이"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "안중기",
+   "name": "정보석"
+  },
+  {
+   "role": "안중기",
+   "name": "조재현"
+  },
+  {
+   "role": "오지영",
+   "name": "김성미"
+  },
+  {
+   "role": "오지영",
+   "name": "차은재"
+  },
+  {
+   "role": "노인",
+   "name": "이한위"
+  },
+  {
+   "role": "노인",
+   "name": "김상규"
+  },
+  {
+   "role": "노부인",
+   "name": "황영희"
+  },
+  {
+   "role": "노부인",
+   "name": "이지현"
+  },
+  {
+   "role": "노부인",
+   "name": "김송이"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622154728/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=19879"
+ }
+}

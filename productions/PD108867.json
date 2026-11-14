@@ -1,0 +1,61 @@
+{
+ "id": "PD108867",
+ "title": "술과 눈물과 지킬앤하이드",
+ "genre": "연극",
+ "from": "2017-06-20",
+ "to": "2017-08-20",
+ "venue": "두산아트센터 연강홀",
+ "cast": [
+  "윤서현",
+  "김진우",
+  "박하나",
+  "스테파니",
+  "정민",
+  "장지우",
+  "박영수",
+  "장태성"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "지킬박사",
+   "name": "윤서현"
+  },
+  {
+   "role": "지킬박사",
+   "name": "김진우"
+  },
+  {
+   "role": "이브댄버스",
+   "name": "박하나"
+  },
+  {
+   "role": "이브댄버스",
+   "name": "스테파니"
+  },
+  {
+   "role": "빅터",
+   "name": "정민"
+  },
+  {
+   "role": "빅터",
+   "name": "장지우"
+  },
+  {
+   "role": "풀",
+   "name": "박영수"
+  },
+  {
+   "role": "풀",
+   "name": "장태성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250123203423/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=108867"
+ }
+}

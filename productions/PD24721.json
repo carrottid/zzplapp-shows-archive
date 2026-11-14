@@ -1,0 +1,41 @@
+{
+ "id": "PD24721",
+ "title": "아시안 스위트",
+ "genre": "연극",
+ "from": "2011-06-30",
+ "to": "2011-07-14",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "김순이",
+  "이항나",
+  "배성우",
+  "김두봉"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "미쓰코",
+   "name": "김순이"
+  },
+  {
+   "role": "치요코",
+   "name": "이항나"
+  },
+  {
+   "role": "아사다",
+   "name": "배성우"
+  },
+  {
+   "role": "시로",
+   "name": "김두봉"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250810230204/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=24721"
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "TM731",
+ "title": "미스터 마우스",
+ "genre": "뮤지컬",
+ "from": "2006-06-17",
+ "to": "2007-01-01",
+ "venue": "대학로 라이브극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_db-mrmouse(2006)0.jpg",
+ "cast": [
+  "김태한",
+  "정동화",
+  "백성혜",
+  "신문성",
+  "박명훈",
+  "배나영",
+  "김도원",
+  "이지송",
+  "전미도"
+ ],
+ "state": "공연완료",
+ "producer": "파파프로덕션",
+ "price": "1층석 3만원 / 2층석 2만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "인후",
+   "name": "김태한"
+  },
+  {
+   "role": "인후",
+   "name": "정동화"
+  },
+  {
+   "role": "채연",
+   "name": "백성혜"
+  },
+  {
+   "role": "인후아버지",
+   "name": "신문성"
+  },
+  {
+   "role": "강박사",
+   "name": "박명훈"
+  },
+  {
+   "role": "권방장",
+   "name": "배나영"
+  },
+  {
+   "role": "박팀장",
+   "name": "김도원"
+  },
+  {
+   "role": "태호",
+   "name": "이지송"
+  },
+  {
+   "role": "양양이",
+   "name": "전미도"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=731"
+ }
+}

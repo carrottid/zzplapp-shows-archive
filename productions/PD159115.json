@@ -1,0 +1,61 @@
+{
+ "id": "PD159115",
+ "title": "광염 소나타",
+ "genre": "뮤지컬",
+ "from": "2020-08-15",
+ "to": "2020-08-30",
+ "venue": "인터파크 유니플렉스",
+ "cast": [
+  "김지철",
+  "려욱",
+  "후이",
+  "유승현",
+  "유회승",
+  "홍주찬",
+  "김주호",
+  "이시안"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "J",
+   "name": "김지철"
+  },
+  {
+   "role": "J",
+   "name": "려욱"
+  },
+  {
+   "role": "J",
+   "name": "후이"
+  },
+  {
+   "role": "S",
+   "name": "유승현"
+  },
+  {
+   "role": "S",
+   "name": "유회승"
+  },
+  {
+   "role": "S",
+   "name": "홍주찬"
+  },
+  {
+   "role": "K",
+   "name": "김주호"
+  },
+  {
+   "role": "K",
+   "name": "이시안"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240527103747/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=159115"
+ }
+}

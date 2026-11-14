@@ -1,0 +1,49 @@
+{
+ "id": "TM1527",
+ "title": "화랑",
+ "genre": "뮤지컬",
+ "from": "2009-10-30",
+ "to": "2010-01-03",
+ "venue": "스타시티 1관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_hwarang.jpg",
+ "cast": [
+  "원성준",
+  "최동호",
+  "송태윤",
+  "고재범",
+  "문상현"
+ ],
+ "state": "공연완료",
+ "producer": "MJ컴퍼니, 극단 수",
+ "price": "일반 30,000 / 대학생 20,000 / 청소년 15,000",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "유오",
+   "name": "원성준"
+  },
+  {
+   "role": "파랑",
+   "name": "최동호"
+  },
+  {
+   "role": "다함",
+   "name": "송태윤"
+  },
+  {
+   "role": "관랑",
+   "name": "고재범"
+  },
+  {
+   "role": "문노",
+   "name": "문상현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1527"
+ }
+}

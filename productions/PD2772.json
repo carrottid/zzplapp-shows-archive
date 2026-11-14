@@ -1,0 +1,46 @@
+{
+ "id": "PD2772",
+ "title": "나쁜자석",
+ "genre": "연극",
+ "from": "2007-10-20",
+ "to": "2007-12-25",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "김영민",
+  "정원조",
+  "김동현",
+  "여욱환",
+  "곽자형"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "민호",
+   "name": "김영민"
+  },
+  {
+   "role": "원석",
+   "name": "정원조"
+  },
+  {
+   "role": "은철",
+   "name": "김동현"
+  },
+  {
+   "role": "은철",
+   "name": "여욱환"
+  },
+  {
+   "role": "봉구",
+   "name": "곽자형"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20120522175745/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=2772"
+ }
+}

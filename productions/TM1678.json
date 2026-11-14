@@ -1,0 +1,69 @@
+{
+ "id": "TM1678",
+ "title": "오! 당신이 잠든 사이",
+ "genre": "뮤지컬",
+ "from": "2010-10-06",
+ "to": "2011-04-03",
+ "venue": "대학로 예술마당 2관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_oh! youre sleepping-post.jpg",
+ "cast": [
+  "임종완",
+  "이은형",
+  "박세웅",
+  "최성원",
+  "이석",
+  "이재경",
+  "김민주",
+  "허혜리",
+  "박란주"
+ ],
+ "state": "공연완료",
+ "producer": "극단 연우무대, CJ엔터테인먼트",
+ "price": "일반석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "닥터리",
+   "name": "임종완"
+  },
+  {
+   "role": "닥터리",
+   "name": "이은형"
+  },
+  {
+   "role": "베드로",
+   "name": "박세웅"
+  },
+  {
+   "role": "베드로",
+   "name": "최성원"
+  },
+  {
+   "role": "최병호",
+   "name": "이석"
+  },
+  {
+   "role": "정숙자",
+   "name": "이재경"
+  },
+  {
+   "role": "이길례",
+   "name": "김민주"
+  },
+  {
+   "role": "김정연",
+   "name": "허혜리"
+  },
+  {
+   "role": "민희",
+   "name": "박란주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1678"
+ }
+}

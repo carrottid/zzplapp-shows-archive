@@ -1,0 +1,61 @@
+{
+ "id": "PD90106",
+ "title": "바보를 찾는 7인의 등장인물",
+ "genre": "연극",
+ "from": "2016-03-18",
+ "to": "2016-04-07",
+ "venue": "후암스테이지",
+ "cast": [
+  "홍승일",
+  "윤성원",
+  "심유정",
+  "양준서",
+  "추주식",
+  "박미리",
+  "이주명",
+  "천지윤"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "파로니",
+   "name": "홍승일"
+  },
+  {
+   "role": "파로니",
+   "name": "윤성원"
+  },
+  {
+   "role": "로사, 연출",
+   "name": "심유정"
+  },
+  {
+   "role": "루카",
+   "name": "양준서"
+  },
+  {
+   "role": "루카",
+   "name": "추주식"
+  },
+  {
+   "role": "셀라나, 조연출",
+   "name": "박미리"
+  },
+  {
+   "role": "콘티, 이주명",
+   "name": "이주명"
+  },
+  {
+   "role": "무대디자이너",
+   "name": "천지윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240714101426/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=90106"
+ }
+}

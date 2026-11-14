@@ -1,0 +1,96 @@
+{
+ "id": "PD103002",
+ "title": "SF연극제",
+ "genre": "연극",
+ "from": "2017-01-17",
+ "to": "2017-02-26",
+ "venue": "소극장 혜화당(구.까망 소극장)",
+ "cast": [
+  "최서진",
+  "하민희",
+  "박민규",
+  "엄준호",
+  "김대업",
+  "주일석",
+  "하정원",
+  "정유나",
+  "양동근",
+  "이충배",
+  "이인화",
+  "이승구",
+  "안유진",
+  "김민진",
+  "문요셉"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "블랙 - 이장우",
+   "name": "최서진"
+  },
+  {
+   "role": "블랙 - 김소진",
+   "name": "하민희"
+  },
+  {
+   "role": "블랙 - 정영호",
+   "name": "박민규"
+  },
+  {
+   "role": "블랙 - Mr.블랙",
+   "name": "엄준호"
+  },
+  {
+   "role": "블랙 - 강창희",
+   "name": "김대업"
+  },
+  {
+   "role": "블랙 - 최승완",
+   "name": "주일석"
+  },
+  {
+   "role": "",
+   "name": "하정원"
+  },
+  {
+   "role": "",
+   "name": "정유나"
+  },
+  {
+   "role": "",
+   "name": "양동근"
+  },
+  {
+   "role": "",
+   "name": "이충배"
+  },
+  {
+   "role": "",
+   "name": "이인화"
+  },
+  {
+   "role": "",
+   "name": "이승구"
+  },
+  {
+   "role": "",
+   "name": "안유진"
+  },
+  {
+   "role": "",
+   "name": "김민진"
+  },
+  {
+   "role": "",
+   "name": "문요셉"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241106205806/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=103002"
+ }
+}

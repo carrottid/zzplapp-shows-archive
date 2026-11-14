@@ -1,0 +1,56 @@
+{
+ "id": "PD108487",
+ "title": "산울림 고전극장 - 헤카베",
+ "genre": "연극",
+ "from": "2017-06-07",
+ "to": "2017-06-18",
+ "venue": "산울림 소극장",
+ "cast": [
+  "곽지숙",
+  "윤성원",
+  "김정훈",
+  "이새롬",
+  "한송희",
+  "김희연",
+  "조용경"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "헤카베",
+   "name": "곽지숙"
+  },
+  {
+   "role": "폴뤼메스토르",
+   "name": "윤성원"
+  },
+  {
+   "role": "아가멤논, 폴뤼메스토르의 아들",
+   "name": "김정훈"
+  },
+  {
+   "role": "에브로피",
+   "name": "이새롬"
+  },
+  {
+   "role": "폴뤽세네",
+   "name": "한송희"
+  },
+  {
+   "role": "트로이의 여인",
+   "name": "김희연"
+  },
+  {
+   "role": "",
+   "name": "조용경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220628123650/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=108487"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "id": "TM2575",
+ "title": "태일",
+ "genre": "뮤지컬",
+ "from": "2018-06-06",
+ "to": "2018-06-18",
+ "venue": "프로젝트박스 시야",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2018051604185794ae3030c38e4185a3b626d51ab39896.png",
+ "cast": [
+  "강기둥",
+  "박정원",
+  "김국희",
+  "백은혜"
+ ],
+ "state": "공연완료",
+ "producer": "우란문화재단, 목소리 프로젝트",
+ "price": "전석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "태일 목소리",
+   "name": "강기둥"
+  },
+  {
+   "role": "태일 목소리",
+   "name": "박정원"
+  },
+  {
+   "role": "태일 외 목소리",
+   "name": "김국희"
+  },
+  {
+   "role": "태일 외 목소리",
+   "name": "백은혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2575"
+ }
+}

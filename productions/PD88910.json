@@ -1,0 +1,56 @@
+{
+ "id": "PD88910",
+ "title": "우주의 물방울",
+ "genre": "연극",
+ "from": "2016-02-19",
+ "to": "2016-03-06",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "승의열",
+  "한소정",
+  "김동곤",
+  "김현중",
+  "임후성",
+  "차은재",
+  "마현진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "고일봉",
+   "name": "승의열"
+  },
+  {
+   "role": "안화수",
+   "name": "한소정"
+  },
+  {
+   "role": "강만수",
+   "name": "김동곤"
+  },
+  {
+   "role": "강병만",
+   "name": "김현중"
+  },
+  {
+   "role": "중년 사내, 집주인",
+   "name": "임후성"
+  },
+  {
+   "role": "미스 홍, 신혼 여자",
+   "name": "차은재"
+  },
+  {
+   "role": "",
+   "name": "마현진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20160810113317/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=88910"
+ }
+}

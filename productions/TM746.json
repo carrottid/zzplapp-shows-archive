@@ -1,0 +1,54 @@
+{
+ "id": "TM746",
+ "title": "클로저 댄 에버",
+ "genre": "뮤지컬",
+ "from": "2006-10-20",
+ "to": "2007-02-25",
+ "venue": "씨어터 일",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_123.jpg",
+ "cast": [
+  "류정한",
+  "임수연",
+  "김영주",
+  "성준서",
+  "고영빈",
+  "유나영"
+ ],
+ "state": "공연완료",
+ "producer": "트라이프로",
+ "price": "R석 4만5천원 / S석 3만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "준희",
+   "name": "류정한"
+  },
+  {
+   "role": "준희",
+   "name": "임수연"
+  },
+  {
+   "role": "준희",
+   "name": "김영주"
+  },
+  {
+   "role": "준희",
+   "name": "성준서"
+  },
+  {
+   "role": "준희",
+   "name": "고영빈"
+  },
+  {
+   "role": "준희",
+   "name": "유나영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=746"
+ }
+}

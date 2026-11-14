@@ -1,0 +1,31 @@
+{
+ "id": "PD131484",
+ "title": "제13회 여성연출가전 - 젓가락행진곡",
+ "genre": "연극",
+ "from": "2018-10-03",
+ "to": "2018-10-07",
+ "venue": "나온 씨어터",
+ "cast": [
+  "김태윤",
+  "이현주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "동휘",
+   "name": "김태윤"
+  },
+  {
+   "role": "미영",
+   "name": "이현주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260214143253/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=131484"
+ }
+}

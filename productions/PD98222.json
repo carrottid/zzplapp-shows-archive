@@ -1,0 +1,31 @@
+{
+ "id": "PD98222",
+ "title": "넌센스 - 대구",
+ "genre": "뮤지컬",
+ "from": "2016-10-15",
+ "to": "2016-10-16",
+ "venue": "대구 수성아트피아 용지홀",
+ "cast": [
+  "박해미",
+  "진아라"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "메리 레지나",
+   "name": "박해미"
+  },
+  {
+   "role": "허버트",
+   "name": "진아라"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170908191005/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=98222"
+ }
+}

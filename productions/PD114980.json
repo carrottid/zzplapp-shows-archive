@@ -1,0 +1,91 @@
+{
+ "id": "PD114980",
+ "title": "햄릿 : 얼라이브",
+ "genre": "뮤지컬",
+ "from": "2017-11-23",
+ "to": "2018-01-28",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "홍광호",
+  "고은성",
+  "양준모",
+  "임현수",
+  "김선영",
+  "문혜원",
+  "정재은",
+  "황범식",
+  "최용민",
+  "김보강",
+  "윤성원",
+  "손의완",
+  "이재현",
+  "권오현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "햄릿",
+   "name": "홍광호"
+  },
+  {
+   "role": "햄릿",
+   "name": "고은성"
+  },
+  {
+   "role": "클로디어스",
+   "name": "양준모"
+  },
+  {
+   "role": "클로디어스",
+   "name": "임현수"
+  },
+  {
+   "role": "거트루드",
+   "name": "김선영"
+  },
+  {
+   "role": "거트루드",
+   "name": "문혜원"
+  },
+  {
+   "role": "오필리어",
+   "name": "정재은"
+  },
+  {
+   "role": "호레이쇼",
+   "name": "황범식"
+  },
+  {
+   "role": "호레이쇼",
+   "name": "최용민"
+  },
+  {
+   "role": "레어티스",
+   "name": "김보강"
+  },
+  {
+   "role": "",
+   "name": "윤성원"
+  },
+  {
+   "role": "",
+   "name": "손의완"
+  },
+  {
+   "role": "",
+   "name": "이재현"
+  },
+  {
+   "role": "",
+   "name": "권오현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250225221616/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=114980"
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "PD150671",
+ "title": "빈센트 반 고흐",
+ "genre": "뮤지컬",
+ "from": "2019-12-07",
+ "to": "2020-03-01",
+ "venue": "예스24스테이지 1관",
+ "cast": [
+  "이준혁",
+  "조형균",
+  "김대현",
+  "배두훈",
+  "박유덕",
+  "박정원",
+  "송유택",
+  "황민수"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "빈센트 반 고흐",
+   "name": "이준혁"
+  },
+  {
+   "role": "빈센트 반 고흐",
+   "name": "조형균"
+  },
+  {
+   "role": "빈센트 반 고흐",
+   "name": "김대현"
+  },
+  {
+   "role": "빈센트 반 고흐",
+   "name": "배두훈"
+  },
+  {
+   "role": "테오 반 고흐",
+   "name": "박유덕"
+  },
+  {
+   "role": "테오 반 고흐",
+   "name": "박정원"
+  },
+  {
+   "role": "테오 반 고흐",
+   "name": "송유택"
+  },
+  {
+   "role": "테오 반 고흐",
+   "name": "황민수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220807183942/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=150671"
+ }
+}

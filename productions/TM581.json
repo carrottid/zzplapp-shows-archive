@@ -1,0 +1,49 @@
+{
+ "id": "TM581",
+ "title": "나이트 뮤지컬 십이야",
+ "genre": "뮤지컬",
+ "from": "2003-12-12",
+ "to": "2004-02-29",
+ "venue": "창조콘서트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_night121.jpg",
+ "cast": [
+  "김승현",
+  "조은별",
+  "박세준",
+  "김모아",
+  "김지연"
+ ],
+ "state": "공연완료",
+ "producer": "펑키락 크리에이티브",
+ "price": "일반 30,000원/대학생 25,000원/중고생 15,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "세바스찬",
+   "name": "김승현"
+  },
+  {
+   "role": "세바스찬",
+   "name": "조은별"
+  },
+  {
+   "role": "세바스찬",
+   "name": "박세준"
+  },
+  {
+   "role": "세바스찬",
+   "name": "김모아"
+  },
+  {
+   "role": "세바스찬",
+   "name": "김지연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=581"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "id": "PD9172",
+ "title": "레지스탕스",
+ "genre": "연극",
+ "from": "2009-02-20",
+ "to": "2009-03-10",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "김주완",
+  "김해용",
+  "이승준",
+  "김범석",
+  "김태균",
+  "김지성",
+  "최은선",
+  "김광영",
+  "안상완"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이반 칼리아예프",
+   "name": "김주완"
+  },
+  {
+   "role": "포카",
+   "name": "김해용"
+  },
+  {
+   "role": "스테판 페도로프",
+   "name": "이승준"
+  },
+  {
+   "role": "스쿠라토프",
+   "name": "김범석"
+  },
+  {
+   "role": "스쿠라토프",
+   "name": "김태균"
+  },
+  {
+   "role": "도라 돌보프",
+   "name": "김지성"
+  },
+  {
+   "role": "도라 돌보프",
+   "name": "최은선"
+  },
+  {
+   "role": "알렉세이 부아노프",
+   "name": "김광영"
+  },
+  {
+   "role": "알렉세이 부아노프",
+   "name": "안상완"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170920200802/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=9172"
+ }
+}

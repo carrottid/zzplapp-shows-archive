@@ -1,0 +1,44 @@
+{
+ "id": "TM733",
+ "title": "황진이",
+ "genre": "뮤지컬",
+ "from": "2006-11-25",
+ "to": "2006-12-25",
+ "venue": "유니버설 아트센터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200928033547842c689ed6ad49ea82a0c6c21b5d3c13.jpg",
+ "cast": [
+  "문혜원",
+  "서정현",
+  "송영규",
+  "이윤표"
+ ],
+ "state": "공연완료",
+ "producer": "스탠딩컴퍼니",
+ "price": "R석 10만원 / S석 8만원 / A석 6만원 / B석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "황진이",
+   "name": "문혜원"
+  },
+  {
+   "role": "황진이",
+   "name": "서정현"
+  },
+  {
+   "role": "수창",
+   "name": "송영규"
+  },
+  {
+   "role": "신씨부인",
+   "name": "이윤표"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=733"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "id": "TM1275",
+ "title": "싱글즈",
+ "genre": "뮤지컬",
+ "from": "2008-10-25",
+ "to": "2009-01-18",
+ "venue": "백암아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_singles2008.JPG",
+ "cast": [
+  "오나라",
+  "유나영",
+  "앤디",
+  "홍희원",
+  "이성진",
+  "김세우",
+  "조진아",
+  "박혜나",
+  "이두리",
+  "이경만",
+  "강연주",
+  "정경진",
+  "김세원"
+ ],
+ "state": "공연완료",
+ "producer": "(주)악어컴퍼니",
+ "price": "R석 6만원/S석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "나난",
+   "name": "오나라"
+  },
+  {
+   "role": "나난",
+   "name": "유나영"
+  },
+  {
+   "role": "박수헌",
+   "name": "앤디"
+  },
+  {
+   "role": "박수헌",
+   "name": "홍희원"
+  },
+  {
+   "role": "임정준",
+   "name": "이성진"
+  },
+  {
+   "role": "임정준",
+   "name": "김세우"
+  },
+  {
+   "role": "이동미",
+   "name": "조진아"
+  },
+  {
+   "role": "이동미",
+   "name": "박혜나"
+  },
+  {
+   "role": "지혜",
+   "name": "이두리"
+  },
+  {
+   "role": "멀티맨",
+   "name": "이경만"
+  },
+  {
+   "role": "앙상블",
+   "name": "강연주"
+  },
+  {
+   "role": "앙상블",
+   "name": "정경진"
+  },
+  {
+   "role": "앙상블",
+   "name": "김세원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1275"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "date": "2022-01-24",
+ "sessions": [
+  {
+   "id": "PF185273",
+   "title": "돼지사냥",
+   "genre": "연극",
+   "venue": "연우소극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF184855",
+   "title": "물고기 남자",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF185772",
+   "title": "면회",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#7A6450",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178933",
+   "title": "미스터쇼(Mr.SHOW)",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (동양생명홀)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#683732",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

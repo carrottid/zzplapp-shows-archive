@@ -1,0 +1,31 @@
+{
+ "id": "PD146301",
+ "title": "유앤잇",
+ "genre": "뮤지컬",
+ "from": "2019-10-02",
+ "to": "2019-10-06",
+ "venue": "예스24스테이지 2관",
+ "cast": [
+  "서형훈",
+  "서찬양"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "규진",
+   "name": "서형훈"
+  },
+  {
+   "role": "미나",
+   "name": "서찬양"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210411133733/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=146301"
+ }
+}

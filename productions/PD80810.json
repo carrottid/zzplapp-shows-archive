@@ -1,0 +1,66 @@
+{
+ "id": "PD80810",
+ "title": "세월호 - 공중의 방",
+ "genre": "연극",
+ "from": "2015-08-26",
+ "to": "2015-08-30",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "성노진",
+  "송철호",
+  "전필재",
+  "이서준",
+  "김보경",
+  "임예슬",
+  "오행훈",
+  "고유나",
+  "이휘종"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "남자",
+   "name": "성노진"
+  },
+  {
+   "role": "사회복지사",
+   "name": "송철호"
+  },
+  {
+   "role": "청년",
+   "name": "전필재"
+  },
+  {
+   "role": "소년",
+   "name": "이서준"
+  },
+  {
+   "role": "친구",
+   "name": "김보경"
+  },
+  {
+   "role": "친구",
+   "name": "임예슬"
+  },
+  {
+   "role": "친구",
+   "name": "오행훈"
+  },
+  {
+   "role": "",
+   "name": "고유나"
+  },
+  {
+   "role": "",
+   "name": "이휘종"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240814065133/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=80810"
+ }
+}

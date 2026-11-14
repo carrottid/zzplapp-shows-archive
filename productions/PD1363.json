@@ -1,0 +1,61 @@
+{
+ "id": "PD1363",
+ "title": "너무 가깝고 너무 먼 우리사이",
+ "genre": "연극",
+ "from": "2007-11-13",
+ "to": "2007-11-25",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "김승언",
+  "이명행",
+  "이종무",
+  "김나라",
+  "황건",
+  "최웅재",
+  "선종남",
+  "정의순"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "강민",
+   "name": "김승언"
+  },
+  {
+   "role": "우열",
+   "name": "이명행"
+  },
+  {
+   "role": "승현",
+   "name": "이종무"
+  },
+  {
+   "role": "영진",
+   "name": "김나라"
+  },
+  {
+   "role": "철수",
+   "name": "황건"
+  },
+  {
+   "role": "정호",
+   "name": "최웅재"
+  },
+  {
+   "role": "",
+   "name": "선종남"
+  },
+  {
+   "role": "",
+   "name": "정의순"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200923034152/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=1363"
+ }
+}

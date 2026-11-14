@@ -1,0 +1,66 @@
+{
+ "id": "PD132763",
+ "title": "2018 봄 작가 겨울 무대 - 고시원 연쇄 화재 사건",
+ "genre": "연극",
+ "from": "2018-11-16",
+ "to": "2018-11-18",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "맹주영",
+  "박수아",
+  "한정호",
+  "박선혜",
+  "전민영",
+  "선종남",
+  "안지은",
+  "배상돈",
+  "오혜진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "치현",
+   "name": "맹주영"
+  },
+  {
+   "role": "은주",
+   "name": "박수아"
+  },
+  {
+   "role": "동민",
+   "name": "한정호"
+  },
+  {
+   "role": "민지",
+   "name": "박선혜"
+  },
+  {
+   "role": "진석",
+   "name": "전민영"
+  },
+  {
+   "role": "노숙자, 강사",
+   "name": "선종남"
+  },
+  {
+   "role": "",
+   "name": "안지은"
+  },
+  {
+   "role": "",
+   "name": "배상돈"
+  },
+  {
+   "role": "",
+   "name": "오혜진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250518015543/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=132763"
+ }
+}

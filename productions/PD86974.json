@@ -1,0 +1,96 @@
+{
+ "id": "PD86974",
+ "title": "베르테르 - 대구",
+ "genre": "뮤지컬",
+ "from": "2016-01-15",
+ "to": "2016-01-17",
+ "venue": "대구 계명아트센터",
+ "cast": [
+  "조승우",
+  "엄기준",
+  "규현",
+  "전미도",
+  "이상현",
+  "김성철",
+  "송나영",
+  "이민재",
+  "김선혜",
+  "김보현",
+  "문슬아",
+  "이강",
+  "김순주",
+  "김경민",
+  "도율희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "베르테르",
+   "name": "조승우"
+  },
+  {
+   "role": "베르테르",
+   "name": "엄기준"
+  },
+  {
+   "role": "베르테르",
+   "name": "규현"
+  },
+  {
+   "role": "롯데",
+   "name": "전미도"
+  },
+  {
+   "role": "알베르토",
+   "name": "이상현"
+  },
+  {
+   "role": "카인즈",
+   "name": "김성철"
+  },
+  {
+   "role": "캐시",
+   "name": "송나영"
+  },
+  {
+   "role": "",
+   "name": "이민재"
+  },
+  {
+   "role": "",
+   "name": "김선혜"
+  },
+  {
+   "role": "",
+   "name": "김보현"
+  },
+  {
+   "role": "",
+   "name": "문슬아"
+  },
+  {
+   "role": "",
+   "name": "이강"
+  },
+  {
+   "role": "",
+   "name": "김순주"
+  },
+  {
+   "role": "",
+   "name": "김경민"
+  },
+  {
+   "role": "",
+   "name": "도율희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170831165409/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=86974"
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "PD127892",
+ "title": "한강은 흐른다",
+ "genre": "뮤지컬",
+ "from": "1987-12-08",
+ "to": "1987-12-10",
+ "venue": "국립극장 해오름극장",
+ "cast": [
+  "남경읍",
+  "남경주",
+  "이경미",
+  "이소유",
+  "박원묵",
+  "유인촌",
+  "최주봉",
+  "정성화"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "거지 대장",
+   "name": "남경읍"
+  },
+  {
+   "role": "미꾸리",
+   "name": "남경주"
+  },
+  {
+   "role": "정애",
+   "name": "이경미"
+  },
+  {
+   "role": "로즈메리",
+   "name": "이소유"
+  },
+  {
+   "role": "두더지",
+   "name": "박원묵"
+  },
+  {
+   "role": "순철",
+   "name": "유인촌"
+  },
+  {
+   "role": "",
+   "name": "최주봉"
+  },
+  {
+   "role": "",
+   "name": "정성화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240423201708/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=127892"
+ }
+}

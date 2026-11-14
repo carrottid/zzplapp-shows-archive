@@ -1,0 +1,93 @@
+{
+ "id": "TM574",
+ "title": "장보고",
+ "genre": "뮤지컬",
+ "from": "2000-03-11",
+ "to": "2000-03-12",
+ "venue": "세종문화회관 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_장보고0.jpg",
+ "cast": [
+  "우상민",
+  "현순철",
+  "김현진",
+  "황지영",
+  "김성원",
+  "남경읍",
+  "기정수",
+  "장재승",
+  "장대웅",
+  "문성혁",
+  "김현태",
+  "하은섬",
+  "전상진",
+  "천효경"
+ ],
+ "state": "공연완료",
+ "producer": "극단 현대극장",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "버들아기",
+   "name": "우상민"
+  },
+  {
+   "role": "버들아기",
+   "name": "현순철"
+  },
+  {
+   "role": "버들아기",
+   "name": "김현진"
+  },
+  {
+   "role": "버들아기",
+   "name": "황지영"
+  },
+  {
+   "role": "버들아기",
+   "name": "김성원"
+  },
+  {
+   "role": "버들아기",
+   "name": "남경읍"
+  },
+  {
+   "role": "버들아기",
+   "name": "기정수"
+  },
+  {
+   "role": "버들아기",
+   "name": "장재승"
+  },
+  {
+   "role": "버들아기",
+   "name": "장대웅"
+  },
+  {
+   "role": "버들아기",
+   "name": "문성혁"
+  },
+  {
+   "role": "버들아기",
+   "name": "김현태"
+  },
+  {
+   "role": "남만상인",
+   "name": "하은섬"
+  },
+  {
+   "role": "중신",
+   "name": "전상진"
+  },
+  {
+   "role": "중신",
+   "name": "천효경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=574"
+ }
+}

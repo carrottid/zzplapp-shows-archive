@@ -1,0 +1,69 @@
+{
+ "id": "TM1242",
+ "title": "온에어",
+ "genre": "뮤지컬",
+ "from": "2008-10-07",
+ "to": "2009-01-04",
+ "venue": "스타시티 3관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008onair2.JPG",
+ "cast": [
+  "김동욱",
+  "오종혁",
+  "장서원",
+  "이민경",
+  "유정은",
+  "자두",
+  "김도원",
+  "오대환",
+  "정현주"
+ ],
+ "state": "공연완료",
+ "producer": "(주) 엔터테인먼트 숲",
+ "price": "전석 4만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "알렉스",
+   "name": "김동욱"
+  },
+  {
+   "role": "알렉스",
+   "name": "오종혁"
+  },
+  {
+   "role": "알렉스",
+   "name": "장서원"
+  },
+  {
+   "role": "김순정",
+   "name": "이민경"
+  },
+  {
+   "role": "김순정",
+   "name": "유정은"
+  },
+  {
+   "role": "우아미",
+   "name": "자두"
+  },
+  {
+   "role": "멀티맨",
+   "name": "김도원"
+  },
+  {
+   "role": "멀티맨",
+   "name": "오대환"
+  },
+  {
+   "role": "멀티걸",
+   "name": "정현주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1242"
+ }
+}

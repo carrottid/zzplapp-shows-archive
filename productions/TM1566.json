@@ -1,0 +1,49 @@
+{
+ "id": "TM1566",
+ "title": "화랑",
+ "genre": "뮤지컬",
+ "from": "2010-01-15",
+ "to": "2010-05-30",
+ "venue": "대학로 열린극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2018110105383754c272d7e9294216a1fe1341a0008dd8.jpg",
+ "cast": [
+  "김성겸",
+  "김형균",
+  "박현재",
+  "전성우",
+  "백형훈"
+ ],
+ "state": "공연완료",
+ "producer": "MJ컴퍼니, 극단수",
+ "price": "일반석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "기파",
+   "name": "김성겸"
+  },
+  {
+   "role": "다함",
+   "name": "김형균"
+  },
+  {
+   "role": "유오",
+   "name": "박현재"
+  },
+  {
+   "role": "관랑",
+   "name": "전성우"
+  },
+  {
+   "role": "문노",
+   "name": "백형훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1566"
+ }
+}

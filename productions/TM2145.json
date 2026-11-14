@@ -1,0 +1,96 @@
+{
+ "id": "TM2145",
+ "title": "노트르담 드 파리",
+ "genre": "뮤지컬",
+ "from": "2015-01-15",
+ "to": "2015-02-27",
+ "venue": "세종문화회관 대극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20141208032502DIA8UI5454X68AQ2.jpg",
+ "cast": [
+  "맷 로랑(Matt Laurent)",
+  "안젤로 델 베키오(Angelo Del Vecchio)",
+  "스테파니 베다드(Stephanie Bedard)",
+  "미리암 브루소(Myriam Brousseau)",
+  "리샤르 샤레스트(Richard Charest)",
+  "존 아이젠(John Eyzen)",
+  "로베르 마리엥(Robert Marien)",
+  "제롬 콜렛(Jerome Collet)",
+  "가르디 퓨리(Gardy Fury)",
+  "로디 줄리엔느(Roddy Julienne)",
+  "이반 페노(Yvan Pedneault)",
+  "스테파니 슈레저(Stephanie Schlesser)"
+ ],
+ "state": "공연완료",
+ "producer": "㈜마스트엔터테인먼트",
+ "price": "VIP석 20만원, R석 15만원, S석 12만원, A석 9만원, B석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "콰지모도",
+   "name": "맷 로랑(Matt Laurent)"
+  },
+  {
+   "role": "콰지모도",
+   "name": "안젤로 델 베키오(Angelo Del Vecchio)"
+  },
+  {
+   "role": "에스메랄다",
+   "name": "스테파니 베다드(Stephanie Bedard)"
+  },
+  {
+   "role": "에스메랄다",
+   "name": "미리암 브루소(Myriam Brousseau)"
+  },
+  {
+   "role": "그랭구와르",
+   "name": "리샤르 샤레스트(Richard Charest)"
+  },
+  {
+   "role": "그랭구와르",
+   "name": "존 아이젠(John Eyzen)"
+  },
+  {
+   "role": "프롤로",
+   "name": "로베르 마리엥(Robert Marien)"
+  },
+  {
+   "role": "프롤로",
+   "name": "제롬 콜렛(Jerome Collet)"
+  },
+  {
+   "role": "클로팽",
+   "name": "가르디 퓨리(Gardy Fury)"
+  },
+  {
+   "role": "클로팽",
+   "name": "로디 줄리엔느(Roddy Julienne)"
+  },
+  {
+   "role": "클로팽",
+   "name": "안젤로 델 베키오(Angelo Del Vecchio)"
+  },
+  {
+   "role": "페뷔스",
+   "name": "이반 페노(Yvan Pedneault)"
+  },
+  {
+   "role": "페뷔스",
+   "name": "존 아이젠(John Eyzen)"
+  },
+  {
+   "role": "플뢰르 드 리스",
+   "name": "스테파니 슈레저(Stephanie Schlesser)"
+  },
+  {
+   "role": "플뢰르 드 리스",
+   "name": "미리암 브루소(Myriam Brousseau)"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2145"
+ }
+}

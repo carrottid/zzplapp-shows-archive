@@ -1,0 +1,76 @@
+{
+ "id": "PD45206",
+ "title": "발칙한 로맨스",
+ "genre": "연극",
+ "from": "2013-02-22",
+ "to": "2013-08-04",
+ "venue": "미마지 아트센터 물빛극장",
+ "cast": [
+  "신명근",
+  "서신우",
+  "최지영",
+  "권정현",
+  "채수아",
+  "정원식",
+  "윤경호",
+  "김성래",
+  "김정현",
+  "윤성경",
+  "오하늬"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "구봉필",
+   "name": "신명근"
+  },
+  {
+   "role": "구봉필",
+   "name": "서신우"
+  },
+  {
+   "role": "구봉필",
+   "name": "최지영"
+  },
+  {
+   "role": "마수지",
+   "name": "권정현"
+  },
+  {
+   "role": "마수지",
+   "name": "채수아"
+  },
+  {
+   "role": "김필상",
+   "name": "정원식"
+  },
+  {
+   "role": "김필상",
+   "name": "윤경호"
+  },
+  {
+   "role": "김필상",
+   "name": "김성래"
+  },
+  {
+   "role": "갈병자",
+   "name": "김정현"
+  },
+  {
+   "role": "갈병자",
+   "name": "윤성경"
+  },
+  {
+   "role": "갈병자",
+   "name": "오하늬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20211004144703/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=45206"
+ }
+}

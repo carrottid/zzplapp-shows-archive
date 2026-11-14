@@ -1,0 +1,66 @@
+{
+ "id": "PD154649",
+ "title": "레일을 따라 붉은 칸나의 바다로",
+ "genre": "연극",
+ "from": "2020-01-24",
+ "to": "2020-02-02",
+ "venue": "세종문화회관 S씨어터",
+ "cast": [
+  "전규일",
+  "류제승",
+  "김진복",
+  "조시현",
+  "정연주",
+  "강병구",
+  "최귀웅",
+  "정명군",
+  "장석환"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "노인",
+   "name": "전규일"
+  },
+  {
+   "role": "야마모토, 미스터 조",
+   "name": "류제승"
+  },
+  {
+   "role": "명",
+   "name": "김진복"
+  },
+  {
+   "role": "시로",
+   "name": "조시현"
+  },
+  {
+   "role": "여자, 게이코",
+   "name": "정연주"
+  },
+  {
+   "role": "스티브",
+   "name": "강병구"
+  },
+  {
+   "role": "",
+   "name": "최귀웅"
+  },
+  {
+   "role": "",
+   "name": "정명군"
+  },
+  {
+   "role": "",
+   "name": "장석환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250207175456/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=154649"
+ }
+}

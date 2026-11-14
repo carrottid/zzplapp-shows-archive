@@ -1,0 +1,81 @@
+{
+ "id": "PD37935",
+ "title": "내겐 너무 살벌한 그녀",
+ "genre": "연극",
+ "from": "2012-07-19",
+ "to": "2012-10-07",
+ "venue": "미마지 아트센터 물빛극장",
+ "cast": [
+  "윤진하",
+  "이정우",
+  "태항호",
+  "차승호",
+  "백선우",
+  "이다희",
+  "김지훈",
+  "김봉조",
+  "박수연",
+  "장영섭",
+  "박아정",
+  "신나리"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "채무",
+   "name": "윤진하"
+  },
+  {
+   "role": "채무",
+   "name": "이정우"
+  },
+  {
+   "role": "채식",
+   "name": "태항호"
+  },
+  {
+   "role": "채식",
+   "name": "차승호"
+  },
+  {
+   "role": "붕어",
+   "name": "백선우"
+  },
+  {
+   "role": "붕어",
+   "name": "이다희"
+  },
+  {
+   "role": "홈즈",
+   "name": "김지훈"
+  },
+  {
+   "role": "홈즈",
+   "name": "김봉조"
+  },
+  {
+   "role": "루팡",
+   "name": "박수연"
+  },
+  {
+   "role": "루팡",
+   "name": "장영섭"
+  },
+  {
+   "role": "아줌마&마미",
+   "name": "박아정"
+  },
+  {
+   "role": "아줌마&마미",
+   "name": "신나리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200926011209/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=37935"
+ }
+}

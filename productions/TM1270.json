@@ -1,0 +1,54 @@
+{
+ "id": "TM1270",
+ "title": "로미오와 줄리엣",
+ "genre": "뮤지컬",
+ "from": "2008-10-24",
+ "to": "2008-11-01",
+ "venue": "LG아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_RJ2008.JPG",
+ "cast": [
+  "장승조(장현덕)",
+  "임혜영",
+  "심정완",
+  "이경준",
+  "여정옥",
+  "김백현"
+ ],
+ "state": "공연완료",
+ "producer": "서울예술단",
+ "price": "R석 8만원/S석 6만원/A석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "로미오",
+   "name": "장승조(장현덕)"
+  },
+  {
+   "role": "줄리엣",
+   "name": "임혜영"
+  },
+  {
+   "role": "머큐쇼",
+   "name": "심정완"
+  },
+  {
+   "role": "티볼트",
+   "name": "이경준"
+  },
+  {
+   "role": "유모",
+   "name": "여정옥"
+  },
+  {
+   "role": "벤볼리오",
+   "name": "김백현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1270"
+ }
+}

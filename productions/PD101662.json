@@ -1,0 +1,66 @@
+{
+ "id": "PD101662",
+ "title": "레드북",
+ "genre": "뮤지컬",
+ "from": "2017-01-10",
+ "to": "2017-01-22",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "유리아",
+  "박은석",
+  "지현준",
+  "김국희",
+  "김태한",
+  "주민진",
+  "윤정열",
+  "장예원",
+  "이다정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "안나",
+   "name": "유리아"
+  },
+  {
+   "role": "브라운",
+   "name": "박은석"
+  },
+  {
+   "role": "로렐라이",
+   "name": "지현준"
+  },
+  {
+   "role": "도로시, 바이올렛",
+   "name": "김국희"
+  },
+  {
+   "role": "존슨",
+   "name": "김태한"
+  },
+  {
+   "role": "잭",
+   "name": "주민진"
+  },
+  {
+   "role": "",
+   "name": "윤정열"
+  },
+  {
+   "role": "",
+   "name": "장예원"
+  },
+  {
+   "role": "",
+   "name": "이다정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220928073830/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=101662"
+ }
+}

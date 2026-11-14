@@ -1,0 +1,41 @@
+{
+ "id": "PD99957",
+ "title": "너를 향해 활짝",
+ "genre": "연극",
+ "from": "2016-11-03",
+ "to": "2016-11-13",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "성여진",
+  "조주현",
+  "안창환",
+  "강해진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김수현",
+   "name": "성여진"
+  },
+  {
+   "role": "임작가, 수현 남편",
+   "name": "조주현"
+  },
+  {
+   "role": "황진수",
+   "name": "안창환"
+  },
+  {
+   "role": "강노을",
+   "name": "강해진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240714105346/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=99957"
+ }
+}

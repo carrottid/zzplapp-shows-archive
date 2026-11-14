@@ -1,0 +1,89 @@
+{
+ "id": "TM1752",
+ "title": "왕세자 실종사건",
+ "genre": "뮤지컬",
+ "from": "2011-09-01",
+ "to": "2011-09-21",
+ "venue": "경희궁 숭정전",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_wsj(2011)s.jpg",
+ "cast": [
+  "김대현",
+  "강하늘(김하늘)",
+  "이지숙",
+  "이상현",
+  "박혜나",
+  "정문성",
+  "임철수",
+  "태국희",
+  "김선표",
+  "김경희",
+  "이성미",
+  "정유하",
+  "원성준"
+ ],
+ "state": "공연완료",
+ "producer": "극단 죽도록 달린다",
+ "price": "R석 5만원 / S석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "구동",
+   "name": "김대현"
+  },
+  {
+   "role": "구동",
+   "name": "강하늘(김하늘)"
+  },
+  {
+   "role": "자숙",
+   "name": "이지숙"
+  },
+  {
+   "role": "왕",
+   "name": "이상현"
+  },
+  {
+   "role": "중전",
+   "name": "박혜나"
+  },
+  {
+   "role": "하내관",
+   "name": "정문성"
+  },
+  {
+   "role": "하내관",
+   "name": "임철수"
+  },
+  {
+   "role": "최상궁",
+   "name": "태국희"
+  },
+  {
+   "role": "의관",
+   "name": "김선표"
+  },
+  {
+   "role": "보모상궁",
+   "name": "김경희"
+  },
+  {
+   "role": "앙상블",
+   "name": "이성미"
+  },
+  {
+   "role": "앙상블",
+   "name": "정유하"
+  },
+  {
+   "role": "앙상블",
+   "name": "원성준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1752"
+ }
+}

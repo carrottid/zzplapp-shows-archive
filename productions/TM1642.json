@@ -1,0 +1,44 @@
+{
+ "id": "TM1642",
+ "title": "틱틱붐",
+ "genre": "뮤지컬",
+ "from": "2010-09-30",
+ "to": "2010-11-07",
+ "venue": "충무아트홀 중극장 블랙",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_tick2010.jpg",
+ "cast": [
+  "강필석",
+  "신성록",
+  "윤공주",
+  "이주광"
+ ],
+ "state": "공연완료",
+ "producer": "신시컴퍼니",
+ "price": "R석 50,000원/ S석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "존",
+   "name": "강필석"
+  },
+  {
+   "role": "존",
+   "name": "신성록"
+  },
+  {
+   "role": "수잔",
+   "name": "윤공주"
+  },
+  {
+   "role": "마이클",
+   "name": "이주광"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1642"
+ }
+}

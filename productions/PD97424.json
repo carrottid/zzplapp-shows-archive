@@ -1,0 +1,31 @@
+{
+ "id": "PD97424",
+ "title": "제11회 여성연출가전 - 옛날 옛적에, 훠어이 훠이",
+ "genre": "연극",
+ "from": "2016-09-06",
+ "to": "2016-09-11",
+ "venue": "대학로 열린극장",
+ "cast": [
+  "장찬호",
+  "최지혜"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "신",
+   "name": "장찬호"
+  },
+  {
+   "role": "계",
+   "name": "최지혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240720091733/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=97424"
+ }
+}

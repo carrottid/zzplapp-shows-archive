@@ -1,0 +1,86 @@
+{
+ "id": "PD128476",
+ "title": "그대와 영원히",
+ "genre": "뮤지컬",
+ "from": "2018-08-11",
+ "to": "2018-12-31",
+ "venue": "한성아트홀 2관",
+ "cast": [
+  "성연",
+  "이슬기",
+  "강루영",
+  "박다영",
+  "이은지",
+  "박하빈",
+  "김현태",
+  "우두연",
+  "오지연",
+  "박정현",
+  "이지은",
+  "엄대",
+  "유우헌"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김진우",
+   "name": "성연"
+  },
+  {
+   "role": "김진우",
+   "name": "이슬기"
+  },
+  {
+   "role": "김진우",
+   "name": "강루영"
+  },
+  {
+   "role": "오수지",
+   "name": "박다영"
+  },
+  {
+   "role": "오수지",
+   "name": "이은지"
+  },
+  {
+   "role": "오수지",
+   "name": "박하빈"
+  },
+  {
+   "role": "김종철",
+   "name": "김현태"
+  },
+  {
+   "role": "김종철",
+   "name": "우두연"
+  },
+  {
+   "role": "박혜경",
+   "name": "오지연"
+  },
+  {
+   "role": "박혜경",
+   "name": "박정현"
+  },
+  {
+   "role": "박혜경",
+   "name": "이지은"
+  },
+  {
+   "role": "멀티맨",
+   "name": "엄대"
+  },
+  {
+   "role": "멀티맨",
+   "name": "유우헌"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241203111558/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=128476"
+ }
+}

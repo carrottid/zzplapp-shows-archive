@@ -1,0 +1,64 @@
+{
+ "id": "TM1626",
+ "title": "톡식 히어로",
+ "genre": "뮤지컬",
+ "from": "2010-08-14",
+ "to": "2010-10-10",
+ "venue": "KT&G 상상아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_toxic2010.jpg",
+ "cast": [
+  "오만석",
+  "주종혁(라이언)",
+  "홍지민",
+  "김영주",
+  "신주연",
+  "최우리",
+  "임기홍",
+  "김동현"
+ ],
+ "state": "공연완료",
+ "producer": "(유)쇼노트, CJ엔터테인먼트",
+ "price": "R석 66,000원 / S석 55,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "멜빈/톡시",
+   "name": "오만석"
+  },
+  {
+   "role": "멜빈/톡시",
+   "name": "주종혁(라이언)"
+  },
+  {
+   "role": "시장/멜빈엄마/수녀",
+   "name": "홍지민"
+  },
+  {
+   "role": "시장/멜빈엄마/수녀",
+   "name": "김영주"
+  },
+  {
+   "role": "새라",
+   "name": "신주연"
+  },
+  {
+   "role": "새라",
+   "name": "최우리"
+  },
+  {
+   "role": "블랙듀드",
+   "name": "임기홍"
+  },
+  {
+   "role": "화이트듀드",
+   "name": "김동현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1626"
+ }
+}

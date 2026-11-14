@@ -1,0 +1,61 @@
+{
+ "id": "PD133444",
+ "title": "마리 퀴리",
+ "genre": "뮤지컬",
+ "from": "2018-12-22",
+ "to": "2019-01-06",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "김소향",
+  "임강희",
+  "박영수",
+  "조풍래",
+  "김히어라",
+  "김아영",
+  "이아름솔",
+  "장민수"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "마리 퀴리",
+   "name": "김소향"
+  },
+  {
+   "role": "마리 퀴리",
+   "name": "임강희"
+  },
+  {
+   "role": "피에르 퀴리",
+   "name": "박영수"
+  },
+  {
+   "role": "루벤",
+   "name": "조풍래"
+  },
+  {
+   "role": "안느",
+   "name": "김히어라"
+  },
+  {
+   "role": "조쉬",
+   "name": "김아영"
+  },
+  {
+   "role": "아멜리에",
+   "name": "이아름솔"
+  },
+  {
+   "role": "",
+   "name": "장민수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20211025092945/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=133444"
+ }
+}

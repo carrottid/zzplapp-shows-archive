@@ -1,0 +1,86 @@
+{
+ "id": "PD85737",
+ "title": "형제는 용감했다 - 김해",
+ "genre": "뮤지컬",
+ "from": "2015-12-24",
+ "to": "2015-12-26",
+ "venue": "김해문화의전당 마루홀",
+ "cast": [
+  "정준하",
+  "윤희석",
+  "최재웅",
+  "김동욱",
+  "정욱진",
+  "동현",
+  "최유하",
+  "최우리",
+  "박지일",
+  "안세호",
+  "성열석",
+  "원종환",
+  "임진아"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이석봉",
+   "name": "정준하"
+  },
+  {
+   "role": "이석봉",
+   "name": "윤희석"
+  },
+  {
+   "role": "이석봉",
+   "name": "최재웅"
+  },
+  {
+   "role": "이주봉",
+   "name": "김동욱"
+  },
+  {
+   "role": "이주봉",
+   "name": "정욱진"
+  },
+  {
+   "role": "이주봉",
+   "name": "동현"
+  },
+  {
+   "role": "오로라",
+   "name": "최유하"
+  },
+  {
+   "role": "오로라",
+   "name": "최우리"
+  },
+  {
+   "role": "이춘배",
+   "name": "박지일"
+  },
+  {
+   "role": "이춘배",
+   "name": "안세호"
+  },
+  {
+   "role": "이춘걸",
+   "name": "성열석"
+  },
+  {
+   "role": "이춘걸",
+   "name": "원종환"
+  },
+  {
+   "role": "송혜자",
+   "name": "임진아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170716155226/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=85737"
+ }
+}

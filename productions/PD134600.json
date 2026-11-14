@@ -1,0 +1,71 @@
+{
+ "id": "PD134600",
+ "title": "황야의 물고기",
+ "genre": "연극",
+ "from": "2018-11-28",
+ "to": "2018-12-02",
+ "venue": "대학로 SH 아트홀",
+ "cast": [
+  "박윤호",
+  "조정환",
+  "이훈경",
+  "안영주",
+  "김지용",
+  "황현태",
+  "이정현",
+  "신승윤",
+  "이종환",
+  "배진범"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "요셉",
+   "name": "박윤호"
+  },
+  {
+   "role": "존",
+   "name": "조정환"
+  },
+  {
+   "role": "점숙",
+   "name": "이훈경"
+  },
+  {
+   "role": "폴리",
+   "name": "안영주"
+  },
+  {
+   "role": "빅터",
+   "name": "김지용"
+  },
+  {
+   "role": "해리",
+   "name": "황현태"
+  },
+  {
+   "role": "",
+   "name": "이정현"
+  },
+  {
+   "role": "",
+   "name": "신승윤"
+  },
+  {
+   "role": "",
+   "name": "이종환"
+  },
+  {
+   "role": "",
+   "name": "배진범"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250711020900/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=134600"
+ }
+}

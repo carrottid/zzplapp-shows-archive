@@ -1,0 +1,48 @@
+{
+ "id": "TM306",
+ "title": "동숭동연가2",
+ "genre": "뮤지컬",
+ "from": "2004-01-01",
+ "to": "2004-01-11",
+ "venue": "문예진흥원 예술극장 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_image_01.gif",
+ "cast": [
+  "이윤표",
+  "송영규",
+  "박계환",
+  "진수현",
+  "김재만"
+ ],
+ "state": "공연완료",
+ "producer": "극단 맥토",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "신복자",
+   "name": "이윤표"
+  },
+  {
+   "role": "신복자",
+   "name": "송영규"
+  },
+  {
+   "role": "신복자",
+   "name": "박계환"
+  },
+  {
+   "role": "신복자",
+   "name": "진수현"
+  },
+  {
+   "role": "김현빈",
+   "name": "김재만"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=306"
+ }
+}

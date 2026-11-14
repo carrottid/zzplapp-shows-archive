@@ -1,0 +1,41 @@
+{
+ "id": "PD19629",
+ "title": "극적인 하룻밤",
+ "genre": "연극",
+ "from": "2010-12-08",
+ "to": "2011-02-27",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "윤정선",
+  "손지윤",
+  "성태준",
+  "민준호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "정시후",
+   "name": "윤정선"
+  },
+  {
+   "role": "정시후",
+   "name": "손지윤"
+  },
+  {
+   "role": "한정훈",
+   "name": "성태준"
+  },
+  {
+   "role": "한정훈",
+   "name": "민준호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170918042428/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=19629"
+ }
+}

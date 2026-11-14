@@ -1,0 +1,34 @@
+{
+ "id": "TM1509",
+ "title": "타타 인 붓다",
+ "genre": "뮤지컬",
+ "from": "2009-10-17",
+ "to": "2009-11-22",
+ "venue": "국립극장 KB 하늘극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_tata2009.jpg",
+ "cast": [
+  "임춘길",
+  "전수미"
+ ],
+ "state": "공연완료",
+ "producer": "(주)쇼엘, 우석대학교",
+ "price": "VIP석 50,000원/ R석 40,000원/ S석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "아시타",
+   "name": "임춘길"
+  },
+  {
+   "role": "아시타",
+   "name": "전수미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1509"
+ }
+}

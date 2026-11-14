@@ -1,0 +1,56 @@
+{
+ "id": "PD82156",
+ "title": "만추",
+ "genre": "연극",
+ "from": "2015-10-10",
+ "to": "2015-11-08",
+ "venue": "예스24아트원 1관",
+ "cast": [
+  "이명행",
+  "박시원",
+  "김소진",
+  "김지현",
+  "고훈정",
+  "이민아",
+  "김정겸"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "훈",
+   "name": "이명행"
+  },
+  {
+   "role": "훈",
+   "name": "박시원"
+  },
+  {
+   "role": "애나",
+   "name": "김소진"
+  },
+  {
+   "role": "애나",
+   "name": "김지현"
+  },
+  {
+   "role": "왕징",
+   "name": "고훈정"
+  },
+  {
+   "role": "왕징아내,메이,옥자",
+   "name": "이민아"
+  },
+  {
+   "role": "남편,존,훈의 친구",
+   "name": "김정겸"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250113095856/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=82156"
+ }
+}

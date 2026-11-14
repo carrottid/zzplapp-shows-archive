@@ -1,0 +1,96 @@
+{
+ "id": "PD137826",
+ "title": "B클래스",
+ "genre": "연극",
+ "from": "2019-03-08",
+ "to": "2019-06-23",
+ "venue": "대학로 자유극장",
+ "cast": [
+  "이이림",
+  "박태현",
+  "윤석현",
+  "박재윤",
+  "김대현",
+  "조원석",
+  "오영윤",
+  "최문석",
+  "이지해",
+  "오세미",
+  "강연정",
+  "정다희",
+  "임유",
+  "손은호",
+  "김민성"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김택상",
+   "name": "이이림"
+  },
+  {
+   "role": "김택상",
+   "name": "박태현"
+  },
+  {
+   "role": "이수현",
+   "name": "윤석현"
+  },
+  {
+   "role": "이수현",
+   "name": "박재윤"
+  },
+  {
+   "role": "치아키",
+   "name": "김대현"
+  },
+  {
+   "role": "치아키",
+   "name": "조원석"
+  },
+  {
+   "role": "이 환",
+   "name": "오영윤"
+  },
+  {
+   "role": "이 환",
+   "name": "최문석"
+  },
+  {
+   "role": "서정인",
+   "name": "이지해"
+  },
+  {
+   "role": "서정인",
+   "name": "오세미"
+  },
+  {
+   "role": "윤태진",
+   "name": "강연정"
+  },
+  {
+   "role": "",
+   "name": "정다희"
+  },
+  {
+   "role": "",
+   "name": "임유"
+  },
+  {
+   "role": "",
+   "name": "손은호"
+  },
+  {
+   "role": "",
+   "name": "김민성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250620110619/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=137826"
+ }
+}

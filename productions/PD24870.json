@@ -1,0 +1,61 @@
+{
+ "id": "PD24870",
+ "title": "반도체 소녀",
+ "genre": "연극",
+ "from": "2011-06-23",
+ "to": "2011-07-17",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "오세철",
+  "맹봉학",
+  "문호진",
+  "박해영",
+  "서민균",
+  "한다현",
+  "김찬미",
+  "오주환"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "교수",
+   "name": "오세철"
+  },
+  {
+   "role": "교수",
+   "name": "맹봉학"
+  },
+  {
+   "role": "동용",
+   "name": "문호진"
+  },
+  {
+   "role": "정민",
+   "name": "박해영"
+  },
+  {
+   "role": "세운",
+   "name": "서민균"
+  },
+  {
+   "role": "혜영",
+   "name": "한다현"
+  },
+  {
+   "role": "반도체소녀",
+   "name": "김찬미"
+  },
+  {
+   "role": "",
+   "name": "오주환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241010143451/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=24870"
+ }
+}

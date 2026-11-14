@@ -1,0 +1,56 @@
+{
+ "id": "PD29423",
+ "title": "흑인 창녀를 위한 고백",
+ "genre": "연극",
+ "from": "2011-11-23",
+ "to": "2011-12-11",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "김성녀",
+  "오영수",
+  "권병길",
+  "이호성",
+  "전국향",
+  "변주현",
+  "강진휘"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "템플",
+   "name": "김성녀"
+  },
+  {
+   "role": "변호사 스티븐스",
+   "name": "오영수"
+  },
+  {
+   "role": "간수 뚜브",
+   "name": "권병길"
+  },
+  {
+   "role": "남편 고완",
+   "name": "이호성"
+  },
+  {
+   "role": "난시",
+   "name": "전국향"
+  },
+  {
+   "role": "주지사",
+   "name": "변주현"
+  },
+  {
+   "role": "",
+   "name": "강진휘"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240725132924/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=29423"
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "id": "TM1648",
+ "title": "스페셜레터",
+ "genre": "뮤지컬",
+ "from": "2010-09-24",
+ "to": "2010-12-31",
+ "venue": "SM아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_specialletter2010.jpg",
+ "cast": [
+  "유승현",
+  "이동하",
+  "이미경",
+  "문슬아",
+  "최영우",
+  "김진호",
+  "함승현",
+  "임천석",
+  "서태이",
+  "이재혁",
+  "송유택",
+  "전태성",
+  "임영진",
+  "안재영"
+ ],
+ "state": "공연완료",
+ "producer": "㈜악어컴퍼니, 극단 i-company",
+ "price": "전석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "정은희",
+   "name": "유승현"
+  },
+  {
+   "role": "정은희",
+   "name": "이동하"
+  },
+  {
+   "role": "오순규",
+   "name": "이미경"
+  },
+  {
+   "role": "오순규",
+   "name": "문슬아"
+  },
+  {
+   "role": "김상호",
+   "name": "최영우"
+  },
+  {
+   "role": "김상호",
+   "name": "김진호"
+  },
+  {
+   "role": "이철재",
+   "name": "함승현"
+  },
+  {
+   "role": "이철재",
+   "name": "임천석"
+  },
+  {
+   "role": "상병",
+   "name": "서태이"
+  },
+  {
+   "role": "상병",
+   "name": "이재혁"
+  },
+  {
+   "role": "일병",
+   "name": "송유택"
+  },
+  {
+   "role": "일병",
+   "name": "전태성"
+  },
+  {
+   "role": "행보관",
+   "name": "임영진"
+  },
+  {
+   "role": "행보관",
+   "name": "안재영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1648"
+ }
+}

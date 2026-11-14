@@ -1,0 +1,118 @@
+{
+ "id": "TM158",
+ "title": "렌트",
+ "genre": "뮤지컬",
+ "from": "2004-07-02",
+ "to": "2004-10-31",
+ "venue": "연강홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202006300456018f9a5fb7dc0244bbabde307958363d0e.jpg",
+ "cast": [
+  "김수용",
+  "송용진",
+  "김세우",
+  "정선아",
+  "김보경",
+  "고명석",
+  "진현희",
+  "이상현",
+  "김호영",
+  "곽동욱",
+  "고경만",
+  "김소향",
+  "김상현",
+  "김효정",
+  "이경만",
+  "김윤지",
+  "문종원",
+  "조수빈",
+  "심재현"
+ ],
+ "state": "공연완료",
+ "producer": "신시뮤지컬컴퍼니",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "로저",
+   "name": "김수용"
+  },
+  {
+   "role": "로저",
+   "name": "송용진"
+  },
+  {
+   "role": "마크",
+   "name": "김세우"
+  },
+  {
+   "role": "미미",
+   "name": "정선아"
+  },
+  {
+   "role": "머린",
+   "name": "김보경"
+  },
+  {
+   "role": "머린",
+   "name": "고명석"
+  },
+  {
+   "role": "조앤",
+   "name": "진현희"
+  },
+  {
+   "role": "콜린",
+   "name": "이상현"
+  },
+  {
+   "role": "엔젤",
+   "name": "김호영"
+  },
+  {
+   "role": "베니",
+   "name": "곽동욱"
+  },
+  {
+   "role": "로저(커버)",
+   "name": "고경만"
+  },
+  {
+   "role": "미미(커버)",
+   "name": "김소향"
+  },
+  {
+   "role": "앙상블",
+   "name": "김상현"
+  },
+  {
+   "role": "앙상블",
+   "name": "김효정"
+  },
+  {
+   "role": "앙상블",
+   "name": "이경만"
+  },
+  {
+   "role": "앙상블",
+   "name": "김윤지"
+  },
+  {
+   "role": "앙상블",
+   "name": "문종원"
+  },
+  {
+   "role": "앙상블",
+   "name": "조수빈"
+  },
+  {
+   "role": "앙상블",
+   "name": "심재현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=158"
+ }
+}

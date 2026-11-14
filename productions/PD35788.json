@@ -1,0 +1,71 @@
+{
+ "id": "PD35788",
+ "title": "니 부모 얼굴이 보고 싶다",
+ "genre": "연극",
+ "from": "2012-06-24",
+ "to": "2012-07-29",
+ "venue": "세종문화회관 M씨어터",
+ "cast": [
+  "손숙",
+  "이선주",
+  "박용수",
+  "박지일",
+  "이대연",
+  "백지원",
+  "손종학",
+  "길해연",
+  "서이숙",
+  "김재건"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이예림 조모",
+   "name": "손숙"
+  },
+  {
+   "role": "이예림 조모",
+   "name": "이선주"
+  },
+  {
+   "role": "이예림 조부",
+   "name": "박용수"
+  },
+  {
+   "role": "김지수 부",
+   "name": "박지일"
+  },
+  {
+   "role": "김지수 부",
+   "name": "이대연"
+  },
+  {
+   "role": "김지수 모",
+   "name": "백지원"
+  },
+  {
+   "role": "남윤정 부",
+   "name": "손종학"
+  },
+  {
+   "role": "남윤정 모",
+   "name": "길해연"
+  },
+  {
+   "role": "남윤정 모",
+   "name": "서이숙"
+  },
+  {
+   "role": "",
+   "name": "김재건"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260418232848/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=35788"
+ }
+}

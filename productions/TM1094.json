@@ -1,0 +1,54 @@
+{
+ "id": "TM1094",
+ "title": "파이브 코스 러브",
+ "genre": "뮤지컬",
+ "from": "2008-02-22",
+ "to": "2008-04-27",
+ "venue": "충무아트홀 소극장블루",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008_파코럽 01.jpg",
+ "cast": [
+  "이율",
+  "김태한",
+  "김도원",
+  "심정완",
+  "박홍주",
+  "김선아"
+ ],
+ "state": "공연완료",
+ "producer": "(주)아츠플레이, 극단 두레",
+ "price": "R석 40,000원 / S석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "남자1",
+   "name": "이율"
+  },
+  {
+   "role": "남자1",
+   "name": "김태한"
+  },
+  {
+   "role": "남자2",
+   "name": "김도원"
+  },
+  {
+   "role": "남자2",
+   "name": "심정완"
+  },
+  {
+   "role": "여자",
+   "name": "박홍주"
+  },
+  {
+   "role": "여자",
+   "name": "김선아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1094"
+ }
+}

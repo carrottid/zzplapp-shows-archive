@@ -1,0 +1,26 @@
+{
+ "id": "PD14233",
+ "title": "서울의 착한 여자",
+ "genre": "연극",
+ "from": "2009-12-18",
+ "to": "2010-01-03",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "변민지"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "악사(바이올린)",
+   "name": "변민지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704015123/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=14233"
+ }
+}

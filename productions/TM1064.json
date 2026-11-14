@@ -1,0 +1,69 @@
+{
+ "id": "TM1064",
+ "title": "지하철1호선",
+ "genre": "뮤지컬",
+ "from": "2007-05-03",
+ "to": "2007-10-28",
+ "venue": "학전그린",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200923043110051ab490d05847c1b41b88fd3dd81cd9.jpg",
+ "cast": [
+  "김태형",
+  "임진아",
+  "김종구",
+  "이은지",
+  "이성욱",
+  "정문성",
+  "박학주",
+  "손현정",
+  "김명준"
+ ],
+ "state": "공연완료",
+ "producer": "극단 학전",
+ "price": "일반 3만원 / 대학생 2만4천원 / 청소년 1만8천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "포인터/과부/깔탕/작은놈 등",
+   "name": "김태형"
+  },
+  {
+   "role": "빨강바지/영자/회사원/창녀 등",
+   "name": "임진아"
+  },
+  {
+   "role": "철수/과부/노인/잡상인/부동산 등",
+   "name": "김종구"
+  },
+  {
+   "role": "청소부/날탕/아나운서/소녀가장/창녀 등",
+   "name": "이은지"
+  },
+  {
+   "role": "땅쇠/병태/과부/큰놈/단속반/소매치기 등",
+   "name": "이성욱"
+  },
+  {
+   "role": "안경/빨래판/단속반/남대생/취객 등",
+   "name": "정문성"
+  },
+  {
+   "role": "문디/최일병/과부/소매치기 등",
+   "name": "박학주"
+  },
+  {
+   "role": "선녀",
+   "name": "손현정"
+  },
+  {
+   "role": "제비/신문/김병장/장애아 등",
+   "name": "김명준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1064"
+ }
+}

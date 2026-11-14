@@ -1,0 +1,46 @@
+{
+ "id": "PD153686",
+ "title": "피어리스 - 더 하이스쿨 맥베스",
+ "genre": "연극",
+ "from": "2020-01-09",
+ "to": "2020-01-19",
+ "venue": "세종문화회관 S씨어터",
+ "cast": [
+  "부진서",
+  "오남영",
+  "변승록",
+  "정대용",
+  "김신록"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "M",
+   "name": "부진서"
+  },
+  {
+   "role": "L",
+   "name": "오남영"
+  },
+  {
+   "role": "남친",
+   "name": "변승록"
+  },
+  {
+   "role": "D",
+   "name": "정대용"
+  },
+  {
+   "role": "드러운 애 캐롤라인",
+   "name": "김신록"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240725140138/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=153686"
+ }
+}

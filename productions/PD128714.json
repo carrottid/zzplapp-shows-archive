@@ -1,0 +1,81 @@
+{
+ "id": "PD128714",
+ "title": "미스터쇼",
+ "genre": "뮤지컬",
+ "from": "2018-09-14",
+ "to": "2019-01-27",
+ "venue": "신한카드 SOL 페이 스퀘어 라이브홀",
+ "cast": [
+  "문용현",
+  "손웅",
+  "최용진",
+  "노진욱",
+  "이선",
+  "주재만",
+  "선인호",
+  "박도경",
+  "김사홍",
+  "정윤호",
+  "김진우",
+  "김성재"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "쇼MC",
+   "name": "문용현"
+  },
+  {
+   "role": "쇼MC",
+   "name": "손웅"
+  },
+  {
+   "role": "MR",
+   "name": "최용진"
+  },
+  {
+   "role": "MR",
+   "name": "노진욱"
+  },
+  {
+   "role": "MR",
+   "name": "이선"
+  },
+  {
+   "role": "MR",
+   "name": "주재만"
+  },
+  {
+   "role": "",
+   "name": "선인호"
+  },
+  {
+   "role": "",
+   "name": "박도경"
+  },
+  {
+   "role": "",
+   "name": "김사홍"
+  },
+  {
+   "role": "",
+   "name": "정윤호"
+  },
+  {
+   "role": "",
+   "name": "김진우"
+  },
+  {
+   "role": "",
+   "name": "김성재"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250515070700/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=128714"
+ }
+}

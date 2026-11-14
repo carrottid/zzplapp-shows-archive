@@ -1,0 +1,109 @@
+{
+ "id": "TM2113",
+ "title": "황태자 루돌프",
+ "genre": "뮤지컬",
+ "from": "2014-10-11",
+ "to": "2015-01-04",
+ "venue": "디큐브아트센터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201408250506257GDHXGK872W6ASSG.jpg",
+ "cast": [
+  "안재욱",
+  "임태경",
+  "팀",
+  "최현주",
+  "김보경",
+  "안시하",
+  "최민철",
+  "김성민",
+  "박철호",
+  "김덕환",
+  "길성원",
+  "이은율",
+  "전수미",
+  "정태준",
+  "오성원",
+  "강상범",
+  "윤지환"
+ ],
+ "state": "공연완료",
+ "producer": "EMK뮤지컬컴퍼니",
+ "price": "VIP석 13만원 / R석 11만원 / S석 8만원 / A석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "황태자 루돌프",
+   "name": "안재욱"
+  },
+  {
+   "role": "황태자 루돌프",
+   "name": "임태경"
+  },
+  {
+   "role": "황태자 루돌프",
+   "name": "팀"
+  },
+  {
+   "role": "마리 베체라",
+   "name": "최현주"
+  },
+  {
+   "role": "마리 베체라",
+   "name": "김보경"
+  },
+  {
+   "role": "마리 베체라",
+   "name": "안시하"
+  },
+  {
+   "role": "타페 수상",
+   "name": "최민철"
+  },
+  {
+   "role": "타페 수상",
+   "name": "김성민"
+  },
+  {
+   "role": "프란츠 요제프 황제",
+   "name": "박철호"
+  },
+  {
+   "role": "프란츠 요제프 황제",
+   "name": "김덕환"
+  },
+  {
+   "role": "라리쉬 백작부인",
+   "name": "길성원"
+  },
+  {
+   "role": "라리쉬 백작부인",
+   "name": "이은율"
+  },
+  {
+   "role": "스테파니 황태자비",
+   "name": "전수미"
+  },
+  {
+   "role": "빌리굿",
+   "name": "정태준"
+  },
+  {
+   "role": "웨일스 왕자",
+   "name": "오성원"
+  },
+  {
+   "role": "스쳅스 편집장",
+   "name": "강상범"
+  },
+  {
+   "role": "빌헬름 왕자",
+   "name": "윤지환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2113"
+ }
+}

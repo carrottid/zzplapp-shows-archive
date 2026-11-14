@@ -1,0 +1,71 @@
+{
+ "id": "PD34391",
+ "title": "광화문연가 - 울산",
+ "genre": "뮤지컬",
+ "from": "2012-05-04",
+ "to": "2012-05-06",
+ "venue": "울산문화예술회관 대공연장",
+ "cast": [
+  "조성모",
+  "임병근",
+  "리사",
+  "정선아",
+  "박호산",
+  "정원영",
+  "김태한",
+  "김장섭",
+  "구원영",
+  "김영주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "과거 상훈",
+   "name": "조성모"
+  },
+  {
+   "role": "현우",
+   "name": "임병근"
+  },
+  {
+   "role": "여주",
+   "name": "리사"
+  },
+  {
+   "role": "여주",
+   "name": "정선아"
+  },
+  {
+   "role": "현재 상훈",
+   "name": "박호산"
+  },
+  {
+   "role": "지용",
+   "name": "정원영"
+  },
+  {
+   "role": "진국",
+   "name": "김태한"
+  },
+  {
+   "role": "진국",
+   "name": "김장섭"
+  },
+  {
+   "role": "",
+   "name": "구원영"
+  },
+  {
+   "role": "",
+   "name": "김영주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20130201141913/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=34391"
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "id": "TM1796",
+ "title": "쉬 러브즈 미(She Loves Me)",
+ "genre": "뮤지컬",
+ "from": "2011-11-10",
+ "to": "2012-01-29",
+ "venue": "대학로 SH아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster8.jpg",
+ "cast": [
+  "박인배",
+  "정명은",
+  "곽선영",
+  "신미연",
+  "이민아",
+  "한기중",
+  "이창희",
+  "김태웅"
+ ],
+ "state": "공연완료",
+ "producer": "레히(LEHI)",
+ "price": "R석 6만원 / S석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "조지 노박",
+   "name": "박인배"
+  },
+  {
+   "role": "아말리아 발라시",
+   "name": "정명은"
+  },
+  {
+   "role": "아말리아 발라시",
+   "name": "곽선영"
+  },
+  {
+   "role": "일로나 리터",
+   "name": "신미연"
+  },
+  {
+   "role": "일로나 리터",
+   "name": "이민아"
+  },
+  {
+   "role": "마라첵",
+   "name": "한기중"
+  },
+  {
+   "role": "스티브 코달리",
+   "name": "이창희"
+  },
+  {
+   "role": "시포스",
+   "name": "김태웅"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1796"
+ }
+}

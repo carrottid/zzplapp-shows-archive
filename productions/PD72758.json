@@ -1,0 +1,61 @@
+{
+ "id": "PD72758",
+ "title": "뮤지컬 토크 콘서트 집들이 - 물드는 배우들",
+ "genre": "뮤지컬",
+ "from": "2014-08-25",
+ "to": "2014-08-25",
+ "venue": "유니플렉스 2관",
+ "cast": [
+  "이규형",
+  "정동화",
+  "정민",
+  "주민진",
+  "김지휘",
+  "이지호",
+  "배두훈",
+  "김용철"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "",
+   "name": "이규형"
+  },
+  {
+   "role": "",
+   "name": "정동화"
+  },
+  {
+   "role": "",
+   "name": "정민"
+  },
+  {
+   "role": "",
+   "name": "주민진"
+  },
+  {
+   "role": "",
+   "name": "김지휘"
+  },
+  {
+   "role": "",
+   "name": "이지호"
+  },
+  {
+   "role": "",
+   "name": "배두훈"
+  },
+  {
+   "role": "진행",
+   "name": "김용철"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20150421200734/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=72758"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "id": "PD24008",
+ "title": "애자",
+ "genre": "연극",
+ "from": "2011-05-13",
+ "to": "2011-07-31",
+ "venue": "한성아트홀 1관",
+ "cast": [
+  "이미화",
+  "육미라",
+  "김리나",
+  "김현정",
+  "박정곤",
+  "권오성",
+  "윤수혁",
+  "전정로",
+  "구대영",
+  "윤지영",
+  "류연희",
+  "이선민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "최영희",
+   "name": "이미화"
+  },
+  {
+   "role": "최영희",
+   "name": "육미라"
+  },
+  {
+   "role": "박애자",
+   "name": "김리나"
+  },
+  {
+   "role": "박애자",
+   "name": "김현정"
+  },
+  {
+   "role": "윤동팔",
+   "name": "박정곤"
+  },
+  {
+   "role": "윤동팔",
+   "name": "권오성"
+  },
+  {
+   "role": "양철민/박민석",
+   "name": "윤수혁"
+  },
+  {
+   "role": "양철민/박민석",
+   "name": "전정로"
+  },
+  {
+   "role": "양철민/박민석",
+   "name": "구대영"
+  },
+  {
+   "role": "이순영/변호정",
+   "name": "윤지영"
+  },
+  {
+   "role": "이순영/변호정",
+   "name": "류연희"
+  },
+  {
+   "role": "이순영/변호정",
+   "name": "이선민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20110918192453/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=24008"
+ }
+}

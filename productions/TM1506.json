@@ -1,0 +1,54 @@
+{
+ "id": "TM1506",
+ "title": "스켈리두",
+ "genre": "뮤지컬",
+ "from": "2009-10-09",
+ "to": "2009-12-31",
+ "venue": "우리극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_scarydo2009.JPG",
+ "cast": [
+  "고재근",
+  "박태성",
+  "이미경",
+  "강웅곤",
+  "정성호",
+  "김도원"
+ ],
+ "state": "공연완료",
+ "producer": "비갬아트컴퍼니",
+ "price": "40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이수민",
+   "name": "고재근"
+  },
+  {
+   "role": "이수민",
+   "name": "박태성"
+  },
+  {
+   "role": "유희",
+   "name": "이미경"
+  },
+  {
+   "role": "멀티걸",
+   "name": "강웅곤"
+  },
+  {
+   "role": "멀티맨",
+   "name": "정성호"
+  },
+  {
+   "role": "멀티맨",
+   "name": "김도원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1506"
+ }
+}

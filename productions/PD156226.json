@@ -1,0 +1,51 @@
+{
+ "id": "PD156226",
+ "title": "제41회 서울연극제 공식선정작 - 죽음의 집",
+ "genre": "연극",
+ "from": "2020-05-03",
+ "to": "2020-05-10",
+ "venue": "홍익대 대학로 아트센터 소극장",
+ "cast": [
+  "이강욱",
+  "이형훈",
+  "백석광",
+  "심완준",
+  "문현정",
+  "정새별"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "황상호",
+   "name": "이강욱"
+  },
+  {
+   "role": "이동욱",
+   "name": "이형훈"
+  },
+  {
+   "role": "이동욱",
+   "name": "백석광"
+  },
+  {
+   "role": "박영권",
+   "name": "심완준"
+  },
+  {
+   "role": "강문실",
+   "name": "문현정"
+  },
+  {
+   "role": "강문실",
+   "name": "정새별"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210920211945/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=156226"
+ }
+}

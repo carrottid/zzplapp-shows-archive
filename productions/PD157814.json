@@ -1,0 +1,26 @@
+{
+ "id": "PD157814",
+ "title": "인사이드",
+ "genre": "연극",
+ "from": "2020-06-14",
+ "to": "2020-06-28",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "김건호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "맷",
+   "name": "김건호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220812055123/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=157814"
+ }
+}

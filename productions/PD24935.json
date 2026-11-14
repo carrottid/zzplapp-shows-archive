@@ -1,0 +1,41 @@
+{
+ "id": "PD24935",
+ "title": "캣츠 - 전주",
+ "genre": "뮤지컬",
+ "from": "2011-09-02",
+ "to": "2011-09-04",
+ "venue": "한국소리문화의전당 모악당",
+ "cast": [
+  "박해미",
+  "홍지민",
+  "정민",
+  "에녹"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "그리자벨라",
+   "name": "박해미"
+  },
+  {
+   "role": "그리자벨라",
+   "name": "홍지민"
+  },
+  {
+   "role": "럼텀터거",
+   "name": "정민"
+  },
+  {
+   "role": "럼텀터거",
+   "name": "에녹"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241126223556/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=24935"
+ }
+}

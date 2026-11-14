@@ -1,0 +1,26 @@
+{
+ "id": "PD80254",
+ "title": "아비. 방연",
+ "genre": "연극",
+ "from": "2015-11-26",
+ "to": "2015-12-05",
+ "venue": "국립극장 달오름극장",
+ "cast": [
+  "빈준영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "봉석주",
+   "name": "빈준영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170907142610/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=80254"
+ }
+}

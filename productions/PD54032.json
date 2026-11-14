@@ -1,0 +1,56 @@
+{
+ "id": "PD54032",
+ "title": "어디가세요 복구씨",
+ "genre": "연극",
+ "from": "2013-11-01",
+ "to": "2013-11-17",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "김남진",
+  "백지원",
+  "이정은",
+  "장하란",
+  "신동훈",
+  "안창환",
+  "조민교"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "최끝",
+   "name": "김남진"
+  },
+  {
+   "role": "박순이",
+   "name": "백지원"
+  },
+  {
+   "role": "구두리",
+   "name": "이정은"
+  },
+  {
+   "role": "수현",
+   "name": "장하란"
+  },
+  {
+   "role": "진수",
+   "name": "신동훈"
+  },
+  {
+   "role": "복구",
+   "name": "안창환"
+  },
+  {
+   "role": "",
+   "name": "조민교"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251014033800/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=54032"
+ }
+}

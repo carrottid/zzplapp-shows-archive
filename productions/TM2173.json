@@ -1,0 +1,64 @@
+{
+ "id": "TM2173",
+ "title": "쿠거",
+ "genre": "뮤지컬",
+ "from": "2015-04-10",
+ "to": "2015-07-26",
+ "venue": "충무아트홀 소극장 블루",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20150327053953C6YHES648D7L6233.jpg",
+ "cast": [
+  "박해미",
+  "김선경",
+  "최혁주",
+  "김자미",
+  "임은영",
+  "하은섬",
+  "이주광",
+  "조태일"
+ ],
+ "state": "공연완료",
+ "producer": "쇼플레이",
+ "price": "전석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "릴리",
+   "name": "박해미"
+  },
+  {
+   "role": "릴리",
+   "name": "김선경"
+  },
+  {
+   "role": "클래리티",
+   "name": "최혁주"
+  },
+  {
+   "role": "클래리티",
+   "name": "김자미"
+  },
+  {
+   "role": "메리-마리",
+   "name": "임은영"
+  },
+  {
+   "role": "메리-마리",
+   "name": "하은섬"
+  },
+  {
+   "role": "멀티맨",
+   "name": "이주광"
+  },
+  {
+   "role": "멀티맨",
+   "name": "조태일"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2173"
+ }
+}

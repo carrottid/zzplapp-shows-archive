@@ -1,0 +1,26 @@
+{
+ "id": "PD148373",
+ "title": "내일보다 빛나는 오늘",
+ "genre": "뮤지컬",
+ "from": "2019-10-02",
+ "to": "2019-10-13",
+ "venue": "예그린씨어터",
+ "cast": [
+  "유시우"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "유시윤",
+   "name": "유시우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191014073242/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=148373"
+ }
+}

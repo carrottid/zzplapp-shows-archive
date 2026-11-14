@@ -1,0 +1,64 @@
+{
+ "id": "TM1954",
+ "title": "남자가 사랑할 때",
+ "genre": "뮤지컬",
+ "from": "2013-04-06",
+ "to": "2013-06-02",
+ "venue": "유니버설아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013man.jpg",
+ "cast": [
+  "홍경민",
+  "김재만",
+  "최성원",
+  "최낙희",
+  "한수연",
+  "채시현",
+  "브라이언",
+  "설성민"
+ ],
+ "state": "공연완료",
+ "producer": "뿌리컴퍼니, 드림콘텐츠",
+ "price": "VIP석 11만원/ R석 9만9천원/ S석 7만7천원/ A석 5만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "은수",
+   "name": "홍경민"
+  },
+  {
+   "role": "은수",
+   "name": "김재만"
+  },
+  {
+   "role": "은수",
+   "name": "최성원"
+  },
+  {
+   "role": "은수",
+   "name": "최낙희"
+  },
+  {
+   "role": "하윤",
+   "name": "한수연"
+  },
+  {
+   "role": "하윤",
+   "name": "채시현"
+  },
+  {
+   "role": "하윤",
+   "name": "브라이언"
+  },
+  {
+   "role": "은수",
+   "name": "설성민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1954"
+ }
+}

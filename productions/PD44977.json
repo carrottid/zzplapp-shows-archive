@@ -1,0 +1,46 @@
+{
+ "id": "PD44977",
+ "title": "영호와 리차드",
+ "genre": "연극",
+ "from": "2013-03-08",
+ "to": "2013-03-17",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "조영규",
+  "김명기",
+  "손고명",
+  "김민서",
+  "이지현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "리차드",
+   "name": "조영규"
+  },
+  {
+   "role": "영호",
+   "name": "김명기"
+  },
+  {
+   "role": "엄연희",
+   "name": "손고명"
+  },
+  {
+   "role": "손정란",
+   "name": "김민서"
+  },
+  {
+   "role": "오순분",
+   "name": "이지현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20160903032337/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=44977"
+ }
+}

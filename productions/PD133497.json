@@ -1,0 +1,71 @@
+{
+ "id": "PD133497",
+ "title": "그와 그녀의 목요일",
+ "genre": "연극",
+ "from": "2018-12-15",
+ "to": "2019-02-10",
+ "venue": "예그린씨어터",
+ "cast": [
+  "윤유선",
+  "우미화",
+  "성기윤",
+  "성열석",
+  "왕보인",
+  "김소정",
+  "백수민",
+  "정이수",
+  "김한종",
+  "김주영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "연옥",
+   "name": "윤유선"
+  },
+  {
+   "role": "연옥",
+   "name": "우미화"
+  },
+  {
+   "role": "정민",
+   "name": "성기윤"
+  },
+  {
+   "role": "정민",
+   "name": "성열석"
+  },
+  {
+   "role": "남자",
+   "name": "왕보인"
+  },
+  {
+   "role": "여자",
+   "name": "김소정"
+  },
+  {
+   "role": "이경",
+   "name": "백수민"
+  },
+  {
+   "role": "이경",
+   "name": "정이수"
+  },
+  {
+   "role": "덕수",
+   "name": "김한종"
+  },
+  {
+   "role": "덕수",
+   "name": "김주영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250428022453/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=133497"
+ }
+}

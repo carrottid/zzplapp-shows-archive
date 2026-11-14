@@ -1,0 +1,165 @@
+{
+ "date": "2023-10-02",
+ "sessions": [
+  {
+   "id": "PF222383",
+   "title": "22년 2개월",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유승현"
+    },
+    {
+     "name": "최수진"
+    },
+    {
+     "name": "안창용"
+    },
+    {
+     "name": "이현재"
+    }
+   ],
+   "color": {
+    "bg": "#0D0D0D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF222542",
+   "title": "타오르는 어둠 속에서",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (페이코홀)",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박정원"
+    },
+    {
+     "name": "주다온"
+    },
+    {
+     "name": "홍승안"
+    },
+    {
+     "name": "문혜원"
+    },
+    {
+     "name": "이진혁"
+    },
+    {
+     "name": "전해주"
+    },
+    {
+     "name": "김도원"
+    },
+    {
+     "name": "김하연"
+    },
+    {
+     "name": "조민호"
+    },
+    {
+     "name": "박주혁"
+    }
+   ],
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF222383",
+   "title": "22년 2개월",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "18:30",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이재환"
+    },
+    {
+     "name": "홍나현"
+    },
+    {
+     "name": "안창용"
+    },
+    {
+     "name": "이현재"
+    }
+   ],
+   "color": {
+    "bg": "#0D0D0D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF225323",
+   "title": "준생",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF224423",
+   "title": "집에 사는 몬스터",
+   "genre": "연극",
+   "venue": "LG아트센터 서울 (U+ 스테이지)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#0BA0BA",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF224517",
+   "title": "카페 쥬에네스",
+   "genre": "연극",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2B2622",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF224117",
+   "title": "판",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "20:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "현석준"
+    },
+    {
+     "name": "김지훈"
+    },
+    {
+     "name": "박은미"
+    },
+    {
+     "name": "송영미"
+    },
+    {
+     "name": "김효성"
+    },
+    {
+     "name": "임소라"
+    }
+   ],
+   "color": {
+    "bg": "#333C2B",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

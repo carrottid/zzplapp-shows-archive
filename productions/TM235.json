@@ -1,0 +1,38 @@
+{
+ "id": "TM235",
+ "title": "록뮤지컬 로미오와 줄리엣",
+ "genre": "뮤지컬",
+ "from": "2005-10-22",
+ "to": "2005-11-13",
+ "venue": "사다리아트센터 세모극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_rock.jpg",
+ "cast": [
+  "오지연",
+  "김도신",
+  "배희진"
+ ],
+ "state": "공연완료",
+ "producer": "빙 떼아뜨르 컴퍼니",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "주리아",
+   "name": "오지연"
+  },
+  {
+   "role": "주리아",
+   "name": "김도신"
+  },
+  {
+   "role": "주리아",
+   "name": "배희진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=235"
+ }
+}

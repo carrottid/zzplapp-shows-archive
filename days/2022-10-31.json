@@ -1,0 +1,61 @@
+{
+ "date": "2022-10-31",
+ "sessions": [
+  {
+   "id": "PF197464",
+   "title": "트레드밀",
+   "genre": "뮤지컬",
+   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF200066",
+   "title": "아이히만, 암흑이 시작 하는 곳에서",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF196199",
+   "title": "브론테",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#784E50",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF197464",
+   "title": "트레드밀",
+   "genre": "뮤지컬",
+   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF196113",
+   "title": "헤르츠클란",
+   "genre": "연극",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#3B1F2B",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "TM2305",
+ "title": "나와 나타샤와 흰 당나귀",
+ "genre": "뮤지컬",
+ "from": "2016-02-27",
+ "to": "2016-02-29",
+ "venue": "프로젝트박스 시야",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20160204113258JYUTUFCXF3P5BT8O.jpg",
+ "cast": [
+  "정인지",
+  "이상이",
+  "유승현"
+ ],
+ "state": "공연완료",
+ "producer": "우란문화재단",
+ "price": "전석 1만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "자야",
+   "name": "정인지"
+  },
+  {
+   "role": "백석",
+   "name": "이상이"
+  },
+  {
+   "role": "사내",
+   "name": "유승현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2305"
+ }
+}

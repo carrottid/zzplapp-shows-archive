@@ -1,0 +1,81 @@
+{
+ "id": "PD84684",
+ "title": "취미의 방",
+ "genre": "연극",
+ "from": "2015-11-28",
+ "to": "2016-02-21",
+ "venue": "플러스씨어터 (구. 컬처스페이스 엔유)",
+ "cast": [
+  "서범석",
+  "김진수",
+  "유태웅",
+  "최진석",
+  "맹상열",
+  "김늘메",
+  "정희태",
+  "주민진",
+  "지일주",
+  "안재영",
+  "송유현",
+  "백은혜"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아마노",
+   "name": "서범석"
+  },
+  {
+   "role": "아마노",
+   "name": "김진수"
+  },
+  {
+   "role": "아마노",
+   "name": "유태웅"
+  },
+  {
+   "role": "카네다",
+   "name": "최진석"
+  },
+  {
+   "role": "카네다",
+   "name": "맹상열"
+  },
+  {
+   "role": "미즈사와",
+   "name": "김늘메"
+  },
+  {
+   "role": "미즈사와",
+   "name": "정희태"
+  },
+  {
+   "role": "도이",
+   "name": "주민진"
+  },
+  {
+   "role": "도이",
+   "name": "지일주"
+  },
+  {
+   "role": "도이",
+   "name": "안재영"
+  },
+  {
+   "role": "미카",
+   "name": "송유현"
+  },
+  {
+   "role": "미카",
+   "name": "백은혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241014113758/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=84684"
+ }
+}

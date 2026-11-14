@@ -1,0 +1,89 @@
+{
+ "id": "TM2017",
+ "title": "머더 발라드",
+ "genre": "뮤지컬",
+ "from": "2013-11-05",
+ "to": "2014-01-26",
+ "venue": "롯데카드 아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013murder.jpg",
+ "cast": [
+  "최재웅",
+  "강태을",
+  "한지상",
+  "성태준",
+  "임정희",
+  "장은아",
+  "린아",
+  "박은미",
+  "홍경수",
+  "김신의",
+  "홍륜희",
+  "문진아",
+  "소정화"
+ ],
+ "state": "공연완료",
+ "producer": "㈜아시아브릿지, ㈜쇼플레이",
+ "price": "R석 77,000원 / S석 55,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "탐",
+   "name": "최재웅"
+  },
+  {
+   "role": "탐",
+   "name": "강태을"
+  },
+  {
+   "role": "탐",
+   "name": "한지상"
+  },
+  {
+   "role": "탐",
+   "name": "성태준"
+  },
+  {
+   "role": "사라",
+   "name": "임정희"
+  },
+  {
+   "role": "사라",
+   "name": "장은아"
+  },
+  {
+   "role": "사라",
+   "name": "린아"
+  },
+  {
+   "role": "사라",
+   "name": "박은미"
+  },
+  {
+   "role": "마이클",
+   "name": "홍경수"
+  },
+  {
+   "role": "마이클",
+   "name": "김신의"
+  },
+  {
+   "role": "나레이터",
+   "name": "홍륜희"
+  },
+  {
+   "role": "나레이터",
+   "name": "문진아"
+  },
+  {
+   "role": "나레이터",
+   "name": "소정화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2017"
+ }
+}

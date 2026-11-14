@@ -1,0 +1,26 @@
+{
+ "id": "PD71193",
+ "title": "어느 물리학자의 낮잠",
+ "genre": "연극",
+ "from": "2014-12-18",
+ "to": "2014-12-28",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "이형주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "단호박",
+   "name": "이형주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171106130711/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=71193"
+ }
+}

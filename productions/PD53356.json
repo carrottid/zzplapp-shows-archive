@@ -1,0 +1,71 @@
+{
+ "id": "PD53356",
+ "title": "나무꾼의 옷을 훔친 선녀",
+ "genre": "연극",
+ "from": "2013-10-04",
+ "to": "2013-10-31",
+ "venue": "미마지 아트센터 풀빛극장",
+ "cast": [
+  "이건영",
+  "유승국",
+  "박인경",
+  "조정윤",
+  "황채경",
+  "민선",
+  "위신애",
+  "안승원",
+  "송하림",
+  "안태규"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "백만석",
+   "name": "이건영"
+  },
+  {
+   "role": "백만석",
+   "name": "유승국"
+  },
+  {
+   "role": "신선녀",
+   "name": "박인경"
+  },
+  {
+   "role": "신선녀",
+   "name": "조정윤"
+  },
+  {
+   "role": "신선녀",
+   "name": "황채경"
+  },
+  {
+   "role": "박복혜",
+   "name": "민선"
+  },
+  {
+   "role": "박복혜",
+   "name": "위신애"
+  },
+  {
+   "role": "천호동",
+   "name": "안승원"
+  },
+  {
+   "role": "천호동",
+   "name": "송하림"
+  },
+  {
+   "role": "천호동",
+   "name": "안태규"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200805042425/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=53356"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "PD161942",
+ "title": "시간의 절벽",
+ "genre": "연극",
+ "from": "2020-12-03",
+ "to": "2020-12-13",
+ "venue": "대학로 스타시티 6층 후암스튜디오",
+ "cast": [
+  "최용민",
+  "윤상호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "선배작가",
+   "name": "최용민"
+  },
+  {
+   "role": "후배작가",
+   "name": "윤상호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230309134720/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=161942"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PD11079",
+ "title": "금녀와 정희",
+ "genre": "연극",
+ "from": "2009-06-30",
+ "to": "2009-07-19",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "백현주",
+  "권지숙",
+  "김용준",
+  "이지현",
+  "김유리",
+  "임윤주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "금녀",
+   "name": "백현주"
+  },
+  {
+   "role": "정희",
+   "name": "권지숙"
+  },
+  {
+   "role": "석진",
+   "name": "김용준"
+  },
+  {
+   "role": "신산댁",
+   "name": "이지현"
+  },
+  {
+   "role": "리을",
+   "name": "김유리"
+  },
+  {
+   "role": "미음",
+   "name": "임윤주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20150421192339/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=11079"
+ }
+}

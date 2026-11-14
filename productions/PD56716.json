@@ -1,0 +1,66 @@
+{
+ "id": "PD56716",
+ "title": "아가씨와 건달들 - 부산",
+ "genre": "뮤지컬",
+ "from": "2014-02-21",
+ "to": "2014-02-23",
+ "venue": "부산시민회관 대극장",
+ "cast": [
+  "김다현",
+  "류수영",
+  "송원근",
+  "김지우",
+  "이하늬",
+  "박준규",
+  "이율",
+  "신영숙",
+  "구원영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "스카이",
+   "name": "김다현"
+  },
+  {
+   "role": "스카이",
+   "name": "류수영"
+  },
+  {
+   "role": "스카이",
+   "name": "송원근"
+  },
+  {
+   "role": "사라",
+   "name": "김지우"
+  },
+  {
+   "role": "사라",
+   "name": "이하늬"
+  },
+  {
+   "role": "네이슨",
+   "name": "박준규"
+  },
+  {
+   "role": "네이슨",
+   "name": "이율"
+  },
+  {
+   "role": "아들레이드",
+   "name": "신영숙"
+  },
+  {
+   "role": "아들레이드",
+   "name": "구원영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20131220032546/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=56716"
+ }
+}

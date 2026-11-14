@@ -1,0 +1,61 @@
+{
+ "id": "PD36388",
+ "title": "서툰 사람들",
+ "genre": "연극",
+ "from": "2012-06-05",
+ "to": "2012-12-31",
+ "venue": "예스24아트원 2관",
+ "cast": [
+  "김민교",
+  "홍승균",
+  "조복래",
+  "조연진",
+  "심영은",
+  "김슬기",
+  "오강율",
+  "오현철"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "장덕배",
+   "name": "김민교"
+  },
+  {
+   "role": "장덕배",
+   "name": "홍승균"
+  },
+  {
+   "role": "장덕배",
+   "name": "조복래"
+  },
+  {
+   "role": "유화이",
+   "name": "조연진"
+  },
+  {
+   "role": "유화이",
+   "name": "심영은"
+  },
+  {
+   "role": "유화이",
+   "name": "김슬기"
+  },
+  {
+   "role": "김추락,서팔호,유달수",
+   "name": "오강율"
+  },
+  {
+   "role": "김추락,서팔호,유달수",
+   "name": "오현철"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250811235208/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=36388"
+ }
+}

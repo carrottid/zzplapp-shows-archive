@@ -1,0 +1,56 @@
+{
+ "id": "PD19657",
+ "title": "반도체 소녀",
+ "genre": "연극",
+ "from": "2010-12-11",
+ "to": "2011-01-30",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "오세철",
+  "류민용",
+  "이동용",
+  "곽지숙",
+  "임세운",
+  "이혜영",
+  "오주환"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "교수",
+   "name": "오세철"
+  },
+  {
+   "role": "교수",
+   "name": "류민용"
+  },
+  {
+   "role": "동용",
+   "name": "이동용"
+  },
+  {
+   "role": "정민",
+   "name": "곽지숙"
+  },
+  {
+   "role": "세운",
+   "name": "임세운"
+  },
+  {
+   "role": "혜영",
+   "name": "이혜영"
+  },
+  {
+   "role": "멀티맨",
+   "name": "오주환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20190916232130/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=19657"
+ }
+}

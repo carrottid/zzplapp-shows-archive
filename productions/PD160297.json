@@ -1,0 +1,36 @@
+{
+ "id": "PD160297",
+ "title": "신의 아그네스",
+ "genre": "연극",
+ "from": "2020-11-07",
+ "to": "2020-11-29",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "박해미",
+  "이수미",
+  "이지혜"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "닥터 리빙스턴",
+   "name": "박해미"
+  },
+  {
+   "role": "원장수녀",
+   "name": "이수미"
+  },
+  {
+   "role": "아그네스",
+   "name": "이지혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240805141530/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=160297"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "id": "TM385",
+ "title": "펑키펑키",
+ "genre": "뮤지컬",
+ "from": "2003-10-03",
+ "to": "2004-05-31",
+ "venue": "펑키하우스",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_0323300.gif",
+ "cast": [
+  "정태우"
+ ],
+ "state": "공연완료",
+ "producer": "쇼비티",
+ "price": "VIP-10만원/S-5만원/A,B-4만원/R,C,M-3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "몽이",
+   "name": "정태우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=385"
+ }
+}

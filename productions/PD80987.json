@@ -1,0 +1,71 @@
+{
+ "id": "PD80987",
+ "title": "벚꽃동산",
+ "genre": "연극",
+ "from": "2015-08-25",
+ "to": "2015-08-30",
+ "venue": "세종문화회관 M씨어터",
+ "cast": [
+  "예수정",
+  "장두이",
+  "황건",
+  "안병식",
+  "박현지",
+  "박설헌",
+  "주진모",
+  "손숙",
+  "성병숙",
+  "문병설"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "라네프스까야",
+   "name": "예수정"
+  },
+  {
+   "role": "가예프",
+   "name": "장두이"
+  },
+  {
+   "role": "로빠힌",
+   "name": "황건"
+  },
+  {
+   "role": "뜨로피모프",
+   "name": "안병식"
+  },
+  {
+   "role": "아냐",
+   "name": "박현지"
+  },
+  {
+   "role": "샤를로따",
+   "name": "박설헌"
+  },
+  {
+   "role": "",
+   "name": "주진모"
+  },
+  {
+   "role": "",
+   "name": "손숙"
+  },
+  {
+   "role": "",
+   "name": "성병숙"
+  },
+  {
+   "role": "",
+   "name": "문병설"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191209093722/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=80987"
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "PD75904",
+ "title": "스피킹 인 텅스",
+ "genre": "연극",
+ "from": "2015-05-01",
+ "to": "2015-07-19",
+ "venue": "수현재씨어터(DCF대명문화공장 3층)",
+ "cast": [
+  "이승준",
+  "강필석",
+  "김종구",
+  "정문성",
+  "전익령",
+  "강지원",
+  "김지현",
+  "정운선"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "레온&닉",
+   "name": "이승준"
+  },
+  {
+   "role": "레온&닉",
+   "name": "강필석"
+  },
+  {
+   "role": "피트&닐&존",
+   "name": "김종구"
+  },
+  {
+   "role": "피트&닐&존",
+   "name": "정문성"
+  },
+  {
+   "role": "쏘냐&발레리",
+   "name": "전익령"
+  },
+  {
+   "role": "쏘냐&발레리",
+   "name": "강지원"
+  },
+  {
+   "role": "제인&사라",
+   "name": "김지현"
+  },
+  {
+   "role": "제인&사라",
+   "name": "정운선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170716163551/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=75904"
+ }
+}

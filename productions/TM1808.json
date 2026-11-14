@@ -1,0 +1,39 @@
+{
+ "id": "TM1808",
+ "title": "라 레볼뤼시옹",
+ "genre": "뮤지컬",
+ "from": "2011-12-03",
+ "to": "2012-01-29",
+ "venue": "연우소극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)29.JPG",
+ "cast": [
+  "윤석원",
+  "박민성",
+  "문진아"
+ ],
+ "state": "공연완료",
+ "producer": "M J Starfish, 극단 작예모",
+ "price": "전석 3만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "홍규/레옹",
+   "name": "윤석원"
+  },
+  {
+   "role": "원표/피에르",
+   "name": "박민성"
+  },
+  {
+   "role": "서도/마리안느",
+   "name": "문진아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1808"
+ }
+}

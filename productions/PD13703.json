@@ -1,0 +1,61 @@
+{
+ "id": "PD13703",
+ "title": "침팬지",
+ "genre": "연극",
+ "from": "2009-11-03",
+ "to": "2010-01-03",
+ "venue": "대학로 스타시티 SM스테이지",
+ "cast": [
+  "박노식",
+  "장지웅",
+  "박성준",
+  "정지철",
+  "김진이",
+  "이지현",
+  "최지웅",
+  "윤영목"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "침팬지",
+   "name": "박노식"
+  },
+  {
+   "role": "침팬지",
+   "name": "장지웅"
+  },
+  {
+   "role": "박사",
+   "name": "박성준"
+  },
+  {
+   "role": "박사",
+   "name": "정지철"
+  },
+  {
+   "role": "카르멘",
+   "name": "김진이"
+  },
+  {
+   "role": "카르멘",
+   "name": "이지현"
+  },
+  {
+   "role": "요원",
+   "name": "최지웅"
+  },
+  {
+   "role": "요원",
+   "name": "윤영목"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20110824072924/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=13703"
+ }
+}

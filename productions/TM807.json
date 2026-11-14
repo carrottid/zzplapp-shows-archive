@@ -1,0 +1,39 @@
+{
+ "id": "TM807",
+ "title": "찰리 브라운",
+ "genre": "뮤지컬",
+ "from": "2007-04-07",
+ "to": "2007-05-06",
+ "venue": "대학로 씨어터 일",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200923045318c161866f534e446bb78c65b0ce9967b2.jpg",
+ "cast": [
+  "하강웅",
+  "성준서",
+  "오소연"
+ ],
+ "state": "공연완료",
+ "producer": "더굿컴퍼니",
+ "price": "전석 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "찰리",
+   "name": "하강웅"
+  },
+  {
+   "role": "스누피",
+   "name": "성준서"
+  },
+  {
+   "role": "샐리",
+   "name": "오소연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=807"
+ }
+}

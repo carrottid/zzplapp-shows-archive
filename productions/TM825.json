@@ -1,0 +1,94 @@
+{
+ "id": "TM825",
+ "title": "해어화",
+ "genre": "뮤지컬",
+ "from": "2007-08-03",
+ "to": "2007-10-07",
+ "venue": "한전아트센터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009170343471665ef5dfb7042d1afafd54cbcc7afd4.jpg",
+ "cast": [
+  "윤복희",
+  "최정연",
+  "박홍주",
+  "김수용",
+  "홍경인",
+  "정선아",
+  "이민아",
+  "이소유",
+  "이상현",
+  "주원성",
+  "홍승아",
+  "조승룡",
+  "김영주",
+  "김준태"
+ ],
+ "state": "공연완료",
+ "producer": "(주) 장강",
+ "price": "VIP석 10만원 / R석 7만원 / S석 6만원 / A석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "빵코",
+   "name": "윤복희"
+  },
+  {
+   "role": "빵코",
+   "name": "최정연"
+  },
+  {
+   "role": "은향",
+   "name": "박홍주"
+  },
+  {
+   "role": "은향",
+   "name": "김수용"
+  },
+  {
+   "role": "은향",
+   "name": "홍경인"
+  },
+  {
+   "role": "소연",
+   "name": "정선아"
+  },
+  {
+   "role": "소연",
+   "name": "이민아"
+  },
+  {
+   "role": "효재",
+   "name": "이소유"
+  },
+  {
+   "role": "여리",
+   "name": "이상현"
+  },
+  {
+   "role": "유도원",
+   "name": "주원성"
+  },
+  {
+   "role": "은향",
+   "name": "홍승아"
+  },
+  {
+   "role": "고천",
+   "name": "조승룡"
+  },
+  {
+   "role": "사비향",
+   "name": "김영주"
+  },
+  {
+   "role": "인권",
+   "name": "김준태"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=825"
+ }
+}

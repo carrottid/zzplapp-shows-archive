@@ -1,0 +1,63 @@
+{
+ "id": "TM2604",
+ "title": "문스토리",
+ "genre": "뮤지컬",
+ "from": "2018-07-27",
+ "to": "2018-07-29",
+ "venue": "현대카드 언더스테이지",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201807251115471aa0c05478974f679fc199cd7bd30761.jpg",
+ "cast": [
+  "박한근",
+  "조풍래",
+  "정휘",
+  "정희영",
+  "하현지",
+  "이도희",
+  "강혜인",
+  "서혜원"
+ ],
+ "state": "공연완료",
+ "price": "전석 3만 원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이헌",
+   "name": "박한근"
+  },
+  {
+   "role": "이헌",
+   "name": "조풍래"
+  },
+  {
+   "role": "용",
+   "name": "정휘"
+  },
+  {
+   "role": "용",
+   "name": "정희영"
+  },
+  {
+   "role": "린",
+   "name": "하현지"
+  },
+  {
+   "role": "린",
+   "name": "이도희"
+  },
+  {
+   "role": "수연",
+   "name": "강혜인"
+  },
+  {
+   "role": "수연",
+   "name": "서혜원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2604"
+ }
+}

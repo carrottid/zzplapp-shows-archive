@@ -1,0 +1,41 @@
+{
+ "id": "PD14701",
+ "title": "토너먼트",
+ "genre": "연극",
+ "from": "2010-04-20",
+ "to": "2010-04-25",
+ "venue": "LG아트센터",
+ "cast": [
+  "임철수",
+  "박수진",
+  "민대식",
+  "김진아"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "최씨",
+   "name": "임철수"
+  },
+  {
+   "role": "어머니",
+   "name": "박수진"
+  },
+  {
+   "role": "",
+   "name": "민대식"
+  },
+  {
+   "role": "",
+   "name": "김진아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704023437/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=14701"
+ }
+}

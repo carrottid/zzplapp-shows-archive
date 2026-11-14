@@ -1,0 +1,56 @@
+{
+ "id": "PD138167",
+ "title": "언체인",
+ "genre": "연극",
+ "from": "2019-04-03",
+ "to": "2019-06-09",
+ "venue": "브릭스 씨어터 (구, 콘텐츠 그라운드)",
+ "cast": [
+  "정성일",
+  "이강우",
+  "양승리",
+  "김대현",
+  "김바다",
+  "최석진",
+  "강승호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "마크",
+   "name": "정성일"
+  },
+  {
+   "role": "마크",
+   "name": "이강우"
+  },
+  {
+   "role": "마크",
+   "name": "양승리"
+  },
+  {
+   "role": "싱어",
+   "name": "김대현"
+  },
+  {
+   "role": "싱어",
+   "name": "김바다"
+  },
+  {
+   "role": "싱어",
+   "name": "최석진"
+  },
+  {
+   "role": "싱어",
+   "name": "강승호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230313054623/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=138167"
+ }
+}

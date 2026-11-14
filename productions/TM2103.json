@@ -1,0 +1,114 @@
+{
+ "id": "TM2103",
+ "title": "레베카",
+ "genre": "뮤지컬",
+ "from": "2014-09-06",
+ "to": "2014-11-09",
+ "venue": "블루스퀘어 삼성전자홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201407071110525O62JIXE8J7V16V7.jpg",
+ "cast": [
+  "오만석",
+  "민영기",
+  "엄기준",
+  "신영숙",
+  "옥주현",
+  "리사",
+  "임혜영",
+  "오소연",
+  "조휘",
+  "박인배",
+  "하은섬",
+  "최나래",
+  "이소유",
+  "김장섭",
+  "이광용",
+  "김지강",
+  "정의갑",
+  "허정규"
+ ],
+ "state": "공연완료",
+ "producer": "㈜EMK뮤지컬컴퍼니",
+ "price": "VIP석 13만원 / R석 11만원 / S석 8만원 / A석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "막심 드윈터",
+   "name": "오만석"
+  },
+  {
+   "role": "막심 드윈터",
+   "name": "민영기"
+  },
+  {
+   "role": "막심 드윈터",
+   "name": "엄기준"
+  },
+  {
+   "role": "댄버스 부인",
+   "name": "신영숙"
+  },
+  {
+   "role": "댄버스 부인",
+   "name": "옥주현"
+  },
+  {
+   "role": "댄버스 부인",
+   "name": "리사"
+  },
+  {
+   "role": "나(I)",
+   "name": "임혜영"
+  },
+  {
+   "role": "나(I)",
+   "name": "오소연"
+  },
+  {
+   "role": "잭 파벨",
+   "name": "조휘"
+  },
+  {
+   "role": "잭 파벨",
+   "name": "박인배"
+  },
+  {
+   "role": "반 호퍼 부인",
+   "name": "하은섬"
+  },
+  {
+   "role": "반 호퍼 부인",
+   "name": "최나래"
+  },
+  {
+   "role": "베아트리체",
+   "name": "이소유"
+  },
+  {
+   "role": "가일스",
+   "name": "김장섭"
+  },
+  {
+   "role": "프랭크 크롤리",
+   "name": "이광용"
+  },
+  {
+   "role": "벤",
+   "name": "김지강"
+  },
+  {
+   "role": "줄리앙 대령",
+   "name": "정의갑"
+  },
+  {
+   "role": "줄리앙 대령",
+   "name": "허정규"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2103"
+ }
+}

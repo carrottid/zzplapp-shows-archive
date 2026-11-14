@@ -1,0 +1,56 @@
+{
+ "id": "PD19850",
+ "title": "에어로빅보이즈",
+ "genre": "연극",
+ "from": "2011-01-05",
+ "to": "2011-01-07",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "박재운",
+  "박완규",
+  "송재룡",
+  "리우진",
+  "김승환",
+  "염혜란",
+  "박초롱"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "보스",
+   "name": "박재운"
+  },
+  {
+   "role": "대환",
+   "name": "박완규"
+  },
+  {
+   "role": "웅기",
+   "name": "송재룡"
+  },
+  {
+   "role": "승범",
+   "name": "리우진"
+  },
+  {
+   "role": "근호",
+   "name": "김승환"
+  },
+  {
+   "role": "순옥",
+   "name": "염혜란"
+  },
+  {
+   "role": "",
+   "name": "박초롱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170703234630/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=19850"
+ }
+}

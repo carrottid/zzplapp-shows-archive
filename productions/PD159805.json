@@ -1,0 +1,26 @@
+{
+ "id": "PD159805",
+ "title": "동행",
+ "genre": "연극",
+ "from": "2020-10-15",
+ "to": "2020-10-25",
+ "venue": "국립정동극장 세실",
+ "cast": [
+  "민소정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "유정",
+   "name": "민소정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220813083904/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=159805"
+ }
+}

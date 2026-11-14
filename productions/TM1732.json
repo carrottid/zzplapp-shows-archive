@@ -1,0 +1,74 @@
+{
+ "id": "TM1732",
+ "title": "내 마음의 풍금",
+ "genre": "뮤지컬",
+ "from": "2011-07-16",
+ "to": "2011-08-21",
+ "venue": "호암아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2011organ.jpg",
+ "cast": [
+  "팀",
+  "김승대",
+  "정운선",
+  "최연우",
+  "이수빈",
+  "선우",
+  "서영",
+  "김재만",
+  "이건영",
+  "정철호"
+ ],
+ "state": "공연완료",
+ "producer": "크레디아아트프로젝트",
+ "price": "R석 6만원/ S석 4만원/ 첫사랑석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "강동수",
+   "name": "팀"
+  },
+  {
+   "role": "강동수",
+   "name": "김승대"
+  },
+  {
+   "role": "최홍연",
+   "name": "정운선"
+  },
+  {
+   "role": "최홍연",
+   "name": "최연우"
+  },
+  {
+   "role": "최홍연",
+   "name": "이수빈"
+  },
+  {
+   "role": "양수정",
+   "name": "선우"
+  },
+  {
+   "role": "양수정",
+   "name": "서영"
+  },
+  {
+   "role": "박봉대",
+   "name": "김재만"
+  },
+  {
+   "role": "박봉대",
+   "name": "이건영"
+  },
+  {
+   "role": "손정복",
+   "name": "정철호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1732"
+ }
+}

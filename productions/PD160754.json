@@ -1,0 +1,56 @@
+{
+ "id": "PD160754",
+ "title": "모두의 남자",
+ "genre": "연극",
+ "from": "2020-11-17",
+ "to": "2020-11-29",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "정성호",
+  "정종훈",
+  "김지은",
+  "송현섭",
+  "송지나",
+  "이가을",
+  "차지예"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이강석",
+   "name": "정성호"
+  },
+  {
+   "role": "배상철",
+   "name": "정종훈"
+  },
+  {
+   "role": "오미자",
+   "name": "김지은"
+  },
+  {
+   "role": "이버섯",
+   "name": "송현섭"
+  },
+  {
+   "role": "배명희",
+   "name": "송지나"
+  },
+  {
+   "role": "김다혜",
+   "name": "이가을"
+  },
+  {
+   "role": "",
+   "name": "차지예"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240912000612/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=160754"
+ }
+}

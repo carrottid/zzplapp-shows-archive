@@ -1,0 +1,84 @@
+{
+ "id": "TM2080",
+ "title": "사랑은 비를 타고-Between Raindrops",
+ "genre": "뮤지컬",
+ "from": "2014-04-12",
+ "to": "2014-08-02",
+ "venue": "충무아트홀 소극장 블루",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20151130013426M5G7BN7AFUIXLH20.jpg",
+ "cast": [
+  "최원준",
+  "임두환",
+  "김낙연",
+  "황바울",
+  "김지온",
+  "이우종",
+  "조연진",
+  "김정현",
+  "권오성",
+  "조현우",
+  "정혜인",
+  "김지현"
+ ],
+ "state": "공연완료",
+ "producer": "팍스컬쳐",
+ "price": "전석 45,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "강지후",
+   "name": "최원준"
+  },
+  {
+   "role": "강지후",
+   "name": "임두환"
+  },
+  {
+   "role": "강지후",
+   "name": "김낙연"
+  },
+  {
+   "role": "김요한",
+   "name": "황바울"
+  },
+  {
+   "role": "김요한",
+   "name": "김지온"
+  },
+  {
+   "role": "김요한",
+   "name": "이우종"
+  },
+  {
+   "role": "박하",
+   "name": "조연진"
+  },
+  {
+   "role": "박하",
+   "name": "김정현"
+  },
+  {
+   "role": "샘",
+   "name": "권오성"
+  },
+  {
+   "role": "샘",
+   "name": "조현우"
+  },
+  {
+   "role": "유나",
+   "name": "정혜인"
+  },
+  {
+   "role": "유나",
+   "name": "김지현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2080"
+ }
+}

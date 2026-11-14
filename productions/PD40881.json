@@ -1,0 +1,76 @@
+{
+ "id": "PD40881",
+ "title": "밀당의 탄생",
+ "genre": "연극",
+ "from": "2012-11-10",
+ "to": "2013-02-11",
+ "venue": "대학로 자유극장",
+ "cast": [
+  "에녹",
+  "손승원",
+  "조영주",
+  "이유진",
+  "오대환",
+  "육현욱",
+  "최정화",
+  "장희아",
+  "강인영",
+  "김해정",
+  "최선희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "서동",
+   "name": "에녹"
+  },
+  {
+   "role": "서동",
+   "name": "손승원"
+  },
+  {
+   "role": "선화공주",
+   "name": "조영주"
+  },
+  {
+   "role": "선화공주",
+   "name": "이유진"
+  },
+  {
+   "role": "해명왕자",
+   "name": "오대환"
+  },
+  {
+   "role": "해명왕자",
+   "name": "육현욱"
+  },
+  {
+   "role": "고수",
+   "name": "최정화"
+  },
+  {
+   "role": "고수",
+   "name": "장희아"
+  },
+  {
+   "role": "남이",
+   "name": "강인영"
+  },
+  {
+   "role": "순이",
+   "name": "김해정"
+  },
+  {
+   "role": "순이",
+   "name": "최선희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241208192705/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=40881"
+ }
+}

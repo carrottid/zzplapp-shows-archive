@@ -1,0 +1,59 @@
+{
+ "id": "TM2154",
+ "title": "너에게 빛의 속도로 간다",
+ "genre": "뮤지컬",
+ "from": "2015-01-31",
+ "to": "2015-02-08",
+ "venue": "아트원씨어터 1관",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20150102022759DRVIMOUN41CM8XIQ.jpg",
+ "cast": [
+  "안재영",
+  "김지철",
+  "김민주",
+  "김도신",
+  "박세웅",
+  "손성민",
+  "최석진"
+ ],
+ "state": "공연완료",
+ "producer": "위 네트웍스",
+ "price": "R석 4만원, S석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "김건덕",
+   "name": "안재영"
+  },
+  {
+   "role": "이승엽",
+   "name": "김지철"
+  },
+  {
+   "role": "윤효정",
+   "name": "김민주"
+  },
+  {
+   "role": "김도식",
+   "name": "김도신"
+  },
+  {
+   "role": "홍성근",
+   "name": "박세웅"
+  },
+  {
+   "role": "덕호, 멀티",
+   "name": "손성민"
+  },
+  {
+   "role": "창수, 멀티",
+   "name": "최석진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2154"
+ }
+}

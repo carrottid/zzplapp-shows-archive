@@ -1,0 +1,59 @@
+{
+ "id": "TM2314",
+ "title": "러브 트릴로지: 청춘",
+ "genre": "뮤지컬",
+ "from": "2016-03-11",
+ "to": "2016-03-27",
+ "venue": "대학로 JH아트홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20160226033100D01ASL2RR3L08K6A.jpg",
+ "cast": [
+  "황다솔",
+  "황혜원",
+  "양한나",
+  "김진태",
+  "이요셉",
+  "오수경",
+  "고경민"
+ ],
+ "state": "공연완료",
+ "producer": "블루스프링",
+ "price": "전석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "오덕호",
+   "name": "황다솔"
+  },
+  {
+   "role": "이해민",
+   "name": "황혜원"
+  },
+  {
+   "role": "민다정",
+   "name": "양한나"
+  },
+  {
+   "role": "김호태",
+   "name": "김진태"
+  },
+  {
+   "role": "홍태일",
+   "name": "이요셉"
+  },
+  {
+   "role": "윤지원",
+   "name": "오수경"
+  },
+  {
+   "role": "이재진",
+   "name": "고경민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2314"
+ }
+}

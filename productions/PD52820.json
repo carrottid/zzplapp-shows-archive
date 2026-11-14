@@ -1,0 +1,61 @@
+{
+ "id": "PD52820",
+ "title": "블랙아웃",
+ "genre": "뮤지컬",
+ "from": "2013-10-04",
+ "to": "2013-10-27",
+ "venue": "한성아트홀 1관",
+ "cast": [
+  "김지민",
+  "정동근",
+  "정현철",
+  "김태유",
+  "선승일",
+  "정수용",
+  "설주미",
+  "김예진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김지민",
+   "name": "김지민"
+  },
+  {
+   "role": "정영훈",
+   "name": "정동근"
+  },
+  {
+   "role": "왕현철",
+   "name": "정현철"
+  },
+  {
+   "role": "김삼식",
+   "name": "김태유"
+  },
+  {
+   "role": "남궁승일",
+   "name": "선승일"
+  },
+  {
+   "role": "정수표",
+   "name": "정수용"
+  },
+  {
+   "role": "",
+   "name": "설주미"
+  },
+  {
+   "role": "",
+   "name": "김예진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210123044649/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=52820"
+ }
+}

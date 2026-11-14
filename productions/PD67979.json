@@ -1,0 +1,31 @@
+{
+ "id": "PD67979",
+ "title": "완벽한 관계",
+ "genre": "연극",
+ "from": "2014-10-20",
+ "to": "2014-10-30",
+ "venue": "홍익대 대학로 아트센터",
+ "cast": [
+  "손용환",
+  "김형민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "남자1",
+   "name": "손용환"
+  },
+  {
+   "role": "남자2",
+   "name": "김형민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171108132926/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=67979"
+ }
+}

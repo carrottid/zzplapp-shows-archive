@@ -1,0 +1,56 @@
+{
+ "id": "PD8122",
+ "title": "갈매기",
+ "genre": "연극",
+ "from": "2004-04-14",
+ "to": "2004-05-02",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "정재은",
+  "오만석",
+  "정동환",
+  "윤주상",
+  "이혜진",
+  "남명렬",
+  "손진환"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아르까지나",
+   "name": "정재은"
+  },
+  {
+   "role": "뜨레쁠레프",
+   "name": "오만석"
+  },
+  {
+   "role": "쏘린",
+   "name": "정동환"
+  },
+  {
+   "role": "도른",
+   "name": "윤주상"
+  },
+  {
+   "role": "니나",
+   "name": "이혜진"
+  },
+  {
+   "role": "뜨리고린",
+   "name": "남명렬"
+  },
+  {
+   "role": "",
+   "name": "손진환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171106131601/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=8122"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "TM2870",
+ "title": "HeShe Tag: 러브 송 쓰루",
+ "genre": "뮤지컬",
+ "from": "2019-09-20",
+ "to": "2019-09-22",
+ "venue": "CJ아지트 대학로",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20190916123123d2caad4d9da74f31802ea23f4b1795b4.jpg",
+ "cast": [
+  "루이스 초이",
+  "이시안",
+  "이랑서"
+ ],
+ "state": "공연완료",
+ "price": "무료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "출연진",
+   "name": "루이스 초이"
+  },
+  {
+   "role": "출연진",
+   "name": "이시안"
+  },
+  {
+   "role": "출연진",
+   "name": "이랑서"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2870"
+ }
+}

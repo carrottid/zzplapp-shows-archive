@@ -1,0 +1,51 @@
+{
+ "id": "PD1313",
+ "title": "10번타자",
+ "genre": "연극",
+ "from": "2007-09-28",
+ "to": "2007-10-14",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "윤미영",
+  "김진성",
+  "김우성",
+  "한상완",
+  "김정호",
+  "김하리"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "박영희",
+   "name": "윤미영"
+  },
+  {
+   "role": "김철수",
+   "name": "김진성"
+  },
+  {
+   "role": "이만수",
+   "name": "김우성"
+  },
+  {
+   "role": "노인",
+   "name": "한상완"
+  },
+  {
+   "role": "악사",
+   "name": "김정호"
+  },
+  {
+   "role": "악사",
+   "name": "김하리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171106130051/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=1313"
+ }
+}

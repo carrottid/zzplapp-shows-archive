@@ -1,0 +1,56 @@
+{
+ "id": "PD4864",
+ "title": "달이 물로 걸어오듯",
+ "genre": "연극",
+ "from": "2008-06-17",
+ "to": "2008-07-27",
+ "venue": "산울림 소극장",
+ "cast": [
+  "박상종",
+  "정세라",
+  "한경미",
+  "이명호",
+  "이현주",
+  "최규하",
+  "이승철"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "수남",
+   "name": "박상종"
+  },
+  {
+   "role": "경자",
+   "name": "정세라"
+  },
+  {
+   "role": "술집마담, 새엄마",
+   "name": "한경미"
+  },
+  {
+   "role": "검사",
+   "name": "이명호"
+  },
+  {
+   "role": "여종업원 미나, 여동생",
+   "name": "이현주"
+  },
+  {
+   "role": "형사, 국선변호사",
+   "name": "최규하"
+  },
+  {
+   "role": "",
+   "name": "이승철"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210505151713/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=4864"
+ }
+}

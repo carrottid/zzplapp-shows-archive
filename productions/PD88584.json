@@ -1,0 +1,76 @@
+{
+ "id": "PD88584",
+ "title": "세일즈맨의 죽음",
+ "genre": "연극",
+ "from": "2016-04-14",
+ "to": "2016-05-08",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "손진환",
+  "예수정",
+  "이승주",
+  "박용우",
+  "이남희",
+  "이문수",
+  "이형훈",
+  "유승락",
+  "이화정",
+  "최주연",
+  "민경은"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "윌리 로먼",
+   "name": "손진환"
+  },
+  {
+   "role": "린다 로먼",
+   "name": "예수정"
+  },
+  {
+   "role": "비프 로먼",
+   "name": "이승주"
+  },
+  {
+   "role": "해피 로먼",
+   "name": "박용우"
+  },
+  {
+   "role": "벤 로먼",
+   "name": "이남희"
+  },
+  {
+   "role": "찰리",
+   "name": "이문수"
+  },
+  {
+   "role": "",
+   "name": "이형훈"
+  },
+  {
+   "role": "",
+   "name": "유승락"
+  },
+  {
+   "role": "",
+   "name": "이화정"
+  },
+  {
+   "role": "",
+   "name": "최주연"
+  },
+  {
+   "role": "",
+   "name": "민경은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20231205080649/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=88584"
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "id": "TM2359",
+ "title": "고래고래",
+ "genre": "뮤지컬",
+ "from": "2016-08-18",
+ "to": "2016-11-13",
+ "venue": "유니플렉스 1관",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20160829122447CLK8W28XL4WT85MU.jpg",
+ "cast": [
+  "김신의",
+  "허규",
+  "이기찬",
+  "정상윤",
+  "이주광",
+  "김보강",
+  "최수형",
+  "김재범",
+  "박준후(박영필)",
+  "박한근",
+  "안두호",
+  "배두훈",
+  "김여진",
+  "이봄소리",
+  "민경아",
+  "정승준",
+  "손웅",
+  "박진"
+ ],
+ "state": "공연완료",
+ "producer": "아시아브릿지컨텐츠",
+ "price": "VIP석 7만 7천원, R석 6만 6천원, S석 5만 5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "영민",
+   "name": "김신의"
+  },
+  {
+   "role": "영민",
+   "name": "허규"
+  },
+  {
+   "role": "영민",
+   "name": "이기찬"
+  },
+  {
+   "role": "민우",
+   "name": "정상윤"
+  },
+  {
+   "role": "민우",
+   "name": "이주광"
+  },
+  {
+   "role": "민우",
+   "name": "김보강"
+  },
+  {
+   "role": "호빈",
+   "name": "최수형"
+  },
+  {
+   "role": "호빈",
+   "name": "김재범"
+  },
+  {
+   "role": "호빈",
+   "name": "박준후(박영필)"
+  },
+  {
+   "role": "병태",
+   "name": "박한근"
+  },
+  {
+   "role": "병태",
+   "name": "안두호"
+  },
+  {
+   "role": "병태",
+   "name": "배두훈"
+  },
+  {
+   "role": "혜경",
+   "name": "김여진"
+  },
+  {
+   "role": "혜경",
+   "name": "이봄소리"
+  },
+  {
+   "role": "혜경",
+   "name": "민경아"
+  },
+  {
+   "role": "매니저",
+   "name": "정승준"
+  },
+  {
+   "role": "매니저",
+   "name": "손웅"
+  },
+  {
+   "role": "매니저",
+   "name": "박진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2359"
+ }
+}

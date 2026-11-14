@@ -1,0 +1,56 @@
+{
+ "id": "PD38523",
+ "title": "내 이름은 강",
+ "genre": "연극",
+ "from": "2012-08-03",
+ "to": "2012-08-19",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "정석우",
+  "최승미",
+  "박은정",
+  "한상우",
+  "문하나",
+  "변민지",
+  "민상오"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "과학자",
+   "name": "정석우"
+  },
+  {
+   "role": "농부",
+   "name": "최승미"
+  },
+  {
+   "role": "할미",
+   "name": "박은정"
+  },
+  {
+   "role": "역무원",
+   "name": "한상우"
+  },
+  {
+   "role": "광대2",
+   "name": "문하나"
+  },
+  {
+   "role": "이야기꾼",
+   "name": "변민지"
+  },
+  {
+   "role": "",
+   "name": "민상오"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260418231109/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=38523"
+ }
+}

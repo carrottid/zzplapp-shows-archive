@@ -1,0 +1,56 @@
+{
+ "id": "PD100208",
+ "title": "북새통의 겨울이야기",
+ "genre": "연극",
+ "from": "2016-11-16",
+ "to": "2016-12-04",
+ "venue": "미마지 아트센터 눈빛극장",
+ "cast": [
+  "전영",
+  "정새별",
+  "안창현",
+  "박재현",
+  "김솔지",
+  "이용창",
+  "윤혜진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "",
+   "name": "전영"
+  },
+  {
+   "role": "",
+   "name": "정새별"
+  },
+  {
+   "role": "",
+   "name": "안창현"
+  },
+  {
+   "role": "",
+   "name": "박재현"
+  },
+  {
+   "role": "",
+   "name": "김솔지"
+  },
+  {
+   "role": "",
+   "name": "이용창"
+  },
+  {
+   "role": "가야금",
+   "name": "윤혜진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191212213150/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=100208"
+ }
+}

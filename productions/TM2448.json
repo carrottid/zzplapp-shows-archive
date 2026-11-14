@@ -1,0 +1,94 @@
+{
+ "id": "TM2448",
+ "title": "시라노",
+ "genre": "뮤지컬",
+ "from": "2017-07-07",
+ "to": "2017-10-08",
+ "venue": "LG아트센터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20170426034311762I067OQ84MNXIR.jpg",
+ "cast": [
+  "류정한",
+  "홍광호",
+  "김동완",
+  "최현주",
+  "린아",
+  "임병근",
+  "서경수",
+  "이창용",
+  "주종혁(라이언)",
+  "김대종",
+  "홍우진",
+  "임기홍",
+  "이용진",
+  "임재현"
+ ],
+ "state": "공연완료",
+ "producer": "RG, CJ E&M",
+ "price": "VIP석 14만원, R석 12만원, S석 8만원, A석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "시라노",
+   "name": "류정한"
+  },
+  {
+   "role": "시라노",
+   "name": "홍광호"
+  },
+  {
+   "role": "시라노",
+   "name": "김동완"
+  },
+  {
+   "role": "록산",
+   "name": "최현주"
+  },
+  {
+   "role": "록산",
+   "name": "린아"
+  },
+  {
+   "role": "크리스티앙",
+   "name": "임병근"
+  },
+  {
+   "role": "크리스티앙",
+   "name": "서경수"
+  },
+  {
+   "role": "드기슈",
+   "name": "이창용"
+  },
+  {
+   "role": "드기슈",
+   "name": "주종혁(라이언)"
+  },
+  {
+   "role": "르브레",
+   "name": "김대종"
+  },
+  {
+   "role": "르브레",
+   "name": "홍우진"
+  },
+  {
+   "role": "라그노",
+   "name": "임기홍"
+  },
+  {
+   "role": "발베르",
+   "name": "이용진"
+  },
+  {
+   "role": "카르봉",
+   "name": "임재현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2448"
+ }
+}

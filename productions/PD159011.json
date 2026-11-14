@@ -1,0 +1,86 @@
+{
+ "id": "PD159011",
+ "title": "비스티",
+ "genre": "뮤지컬",
+ "from": "2020-08-30",
+ "to": "2020-11-15",
+ "venue": "서경대학교 공연예술센터 SKON1관",
+ "cast": [
+  "김종구",
+  "정동화",
+  "정민",
+  "박규원",
+  "조풍래",
+  "안창용",
+  "손유동",
+  "구준모",
+  "홍승안",
+  "조훈",
+  "박정원",
+  "송광일",
+  "박준휘"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이재현",
+   "name": "김종구"
+  },
+  {
+   "role": "이재현",
+   "name": "정동화"
+  },
+  {
+   "role": "김주노",
+   "name": "정민"
+  },
+  {
+   "role": "김주노",
+   "name": "박규원"
+  },
+  {
+   "role": "알렉스",
+   "name": "조풍래"
+  },
+  {
+   "role": "알렉스",
+   "name": "안창용"
+  },
+  {
+   "role": "알렉스",
+   "name": "손유동"
+  },
+  {
+   "role": "이승우",
+   "name": "구준모"
+  },
+  {
+   "role": "이승우",
+   "name": "홍승안"
+  },
+  {
+   "role": "이승우",
+   "name": "조훈"
+  },
+  {
+   "role": "강민혁",
+   "name": "박정원"
+  },
+  {
+   "role": "강민혁",
+   "name": "송광일"
+  },
+  {
+   "role": "강민혁",
+   "name": "박준휘"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20211019001348/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=159011"
+ }
+}

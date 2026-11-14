@@ -1,0 +1,66 @@
+{
+ "id": "PD154086",
+ "title": "아트",
+ "genre": "연극",
+ "from": "2020-03-07",
+ "to": "2020-05-31",
+ "venue": "백암아트홀",
+ "cast": [
+  "이건명",
+  "엄기준",
+  "강필석",
+  "박건형",
+  "김재범",
+  "박은석",
+  "조재윤",
+  "이천희",
+  "박정복"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "세르주",
+   "name": "이건명"
+  },
+  {
+   "role": "세르주",
+   "name": "엄기준"
+  },
+  {
+   "role": "세르주",
+   "name": "강필석"
+  },
+  {
+   "role": "마크",
+   "name": "박건형"
+  },
+  {
+   "role": "마크",
+   "name": "김재범"
+  },
+  {
+   "role": "마크",
+   "name": "박은석"
+  },
+  {
+   "role": "이반",
+   "name": "조재윤"
+  },
+  {
+   "role": "이반",
+   "name": "이천희"
+  },
+  {
+   "role": "이반",
+   "name": "박정복"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251113060358/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=154086"
+ }
+}

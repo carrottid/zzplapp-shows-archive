@@ -1,0 +1,104 @@
+{
+ "id": "TM2192",
+ "title": "너에게 빛의 속도로 간다",
+ "genre": "뮤지컬",
+ "from": "2015-06-26",
+ "to": "2015-10-11",
+ "venue": "대학로 TOM 1관",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201505261118014TXJVELGMKGQB11I.jpg",
+ "cast": [
+  "안재영",
+  "강태을",
+  "민우혁",
+  "김지철",
+  "김찬호",
+  "전재홍",
+  "박세미",
+  "김민주",
+  "김도신",
+  "김주호",
+  "박세웅",
+  "김형균",
+  "손성민",
+  "최영우",
+  "최석진",
+  "김현진"
+ ],
+ "state": "공연완료",
+ "producer": "위네트웍스",
+ "price": "R석 3만원, S석 2만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "김건덕",
+   "name": "안재영"
+  },
+  {
+   "role": "김건덕",
+   "name": "강태을"
+  },
+  {
+   "role": "김건덕",
+   "name": "민우혁"
+  },
+  {
+   "role": "이승엽",
+   "name": "김지철"
+  },
+  {
+   "role": "이승엽",
+   "name": "김찬호"
+  },
+  {
+   "role": "이승엽",
+   "name": "전재홍"
+  },
+  {
+   "role": "윤효정",
+   "name": "박세미"
+  },
+  {
+   "role": "윤효정",
+   "name": "김민주"
+  },
+  {
+   "role": "김도식",
+   "name": "김도신"
+  },
+  {
+   "role": "김도식",
+   "name": "김주호"
+  },
+  {
+   "role": "홍감독",
+   "name": "박세웅"
+  },
+  {
+   "role": "홍감독",
+   "name": "김형균"
+  },
+  {
+   "role": "멀티1",
+   "name": "손성민"
+  },
+  {
+   "role": "멀티1",
+   "name": "최영우"
+  },
+  {
+   "role": "멀티2",
+   "name": "최석진"
+  },
+  {
+   "role": "멀티2",
+   "name": "김현진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2192"
+ }
+}

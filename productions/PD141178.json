@@ -1,0 +1,51 @@
+{
+ "id": "PD141178",
+ "title": "해를 쏜 소년",
+ "genre": "연극",
+ "from": "2019-04-10",
+ "to": "2019-04-21",
+ "venue": "예그린씨어터",
+ "cast": [
+  "한훈",
+  "송형원",
+  "강동웅",
+  "김영규",
+  "김은아",
+  "김정국"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "신기환",
+   "name": "한훈"
+  },
+  {
+   "role": "시치로",
+   "name": "송형원"
+  },
+  {
+   "role": "시치로",
+   "name": "강동웅"
+  },
+  {
+   "role": "구로다",
+   "name": "김영규"
+  },
+  {
+   "role": "오영신",
+   "name": "김은아"
+  },
+  {
+   "role": "이승만",
+   "name": "김정국"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241110213238/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=141178"
+ }
+}

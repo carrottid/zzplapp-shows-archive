@@ -1,0 +1,56 @@
+{
+ "id": "PD15748",
+ "title": "순우 삼촌",
+ "genre": "연극",
+ "from": "2010-04-22",
+ "to": "2010-05-01",
+ "venue": "세종문화회관 M씨어터",
+ "cast": [
+  "강신구",
+  "이정은",
+  "윤상화",
+  "황석정",
+  "주성환",
+  "레지나",
+  "박지환"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "강석준",
+   "name": "강신구"
+  },
+  {
+   "role": "정문자",
+   "name": "이정은"
+  },
+  {
+   "role": "전순우",
+   "name": "윤상화"
+  },
+  {
+   "role": "정수자",
+   "name": "황석정"
+  },
+  {
+   "role": "최종길",
+   "name": "주성환"
+  },
+  {
+   "role": "민다정",
+   "name": "레지나"
+  },
+  {
+   "role": "",
+   "name": "박지환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704020713/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=15748"
+ }
+}

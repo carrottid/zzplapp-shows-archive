@@ -1,0 +1,36 @@
+{
+ "id": "PD36048",
+ "title": "연극열전4 - The Lover (러버)",
+ "genre": "연극",
+ "from": "2012-06-28",
+ "to": "2012-08-13",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "송영창",
+  "이승비",
+  "김호진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "남편",
+   "name": "송영창"
+  },
+  {
+   "role": "아내",
+   "name": "이승비"
+  },
+  {
+   "role": "우유배달부",
+   "name": "김호진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250318173625/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=36048"
+ }
+}

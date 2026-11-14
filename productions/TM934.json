@@ -1,0 +1,39 @@
+{
+ "id": "TM934",
+ "title": "두근두근",
+ "genre": "뮤지컬",
+ "from": "2007-11-15",
+ "to": "2008-05-12",
+ "venue": "대학로 단막극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200916024127a5968b3470364968b88d4c486b192f68.jpg",
+ "cast": [
+  "이규형",
+  "신미영",
+  "윤대열"
+ ],
+ "state": "공연완료",
+ "producer": "극단 화살표",
+ "price": "일반3만원, 대학생 2만5천원, 청소년 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "한없이 외로운 남자",
+   "name": "이규형"
+  },
+  {
+   "role": "맨입사운드의 엉뚱발랄 새침데기",
+   "name": "신미영"
+  },
+  {
+   "role": "맨입사운드의 재롱둥이, 귀염둥이",
+   "name": "윤대열"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=934"
+ }
+}

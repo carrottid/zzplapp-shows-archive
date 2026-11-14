@@ -1,0 +1,51 @@
+{
+ "id": "PD5337",
+ "title": "두 메데아 - 2008서울국제공연예술제",
+ "genre": "연극",
+ "from": "2008-10-06",
+ "to": "2008-10-07",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "조정희",
+  "이경",
+  "추현옥",
+  "정의욱",
+  "김홍수",
+  "극단 서울공장"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "소리 광대",
+   "name": "조정희"
+  },
+  {
+   "role": "메데아1",
+   "name": "이경"
+  },
+  {
+   "role": "메데아2",
+   "name": "추현옥"
+  },
+  {
+   "role": "이아손",
+   "name": "정의욱"
+  },
+  {
+   "role": "크레온/광대",
+   "name": "김홍수"
+  },
+  {
+   "role": "",
+   "name": "극단 서울공장"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20120523064329/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=5337"
+ }
+}

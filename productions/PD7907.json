@@ -1,0 +1,36 @@
+{
+ "id": "PD7907",
+ "title": "헤드윅 - 원주",
+ "genre": "뮤지컬",
+ "from": "2009-02-21",
+ "to": "2009-02-21",
+ "venue": "원주 백운아트홀",
+ "cast": [
+  "송용진",
+  "이주광",
+  "전혜선"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "헤드윅",
+   "name": "송용진"
+  },
+  {
+   "role": "헤드윅",
+   "name": "이주광"
+  },
+  {
+   "role": "이츠학",
+   "name": "전혜선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170919072143/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=7907"
+ }
+}

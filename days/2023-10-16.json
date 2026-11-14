@@ -1,0 +1,29 @@
+{
+ "date": "2023-10-16",
+ "sessions": [
+  {
+   "id": "PF225122",
+   "title": "연적",
+   "genre": "연극",
+   "venue": "유니플렉스 (3관(소극장))",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#CD1818",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF224517",
+   "title": "카페 쥬에네스",
+   "genre": "연극",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2B2622",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "id": "TM1608",
+ "title": "분홍병사",
+ "genre": "뮤지컬",
+ "from": "2010-04-29",
+ "to": "2010-06-27",
+ "venue": "학전블루",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_soldatrose2010.jpg",
+ "cast": [
+  "김비비",
+  "박민성",
+  "방진의",
+  "강수영",
+  "임호준",
+  "김동규",
+  "전문지"
+ ],
+ "state": "공연완료",
+ "producer": "극단 학전",
+ "price": "성인 30,000원/ 어린이, 청소년 20,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "퍼즐 등",
+   "name": "김비비"
+  },
+  {
+   "role": "기관사/야간경비원 등",
+   "name": "박민성"
+  },
+  {
+   "role": "메이드인아시아/조수/곰돌이 등",
+   "name": "방진의"
+  },
+  {
+   "role": "바코드",
+   "name": "강수영"
+  },
+  {
+   "role": "아인슈타인/로봇 등",
+   "name": "임호준"
+  },
+  {
+   "role": "분홍병사",
+   "name": "김동규"
+  },
+  {
+   "role": "백설공주/경비원 등",
+   "name": "전문지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1608"
+ }
+}

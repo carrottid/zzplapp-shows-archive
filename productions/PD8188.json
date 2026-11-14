@@ -1,0 +1,61 @@
+{
+ "id": "PD8188",
+ "title": "라디오스타",
+ "genre": "뮤지컬",
+ "from": "2009-02-07",
+ "to": "2009-02-15",
+ "venue": "경기도문화의전당 대극장",
+ "cast": [
+  "김원준",
+  "김도현",
+  "정준하",
+  "서범석",
+  "서현철",
+  "서만석",
+  "김영환",
+  "최윤실"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "최곤",
+   "name": "김원준"
+  },
+  {
+   "role": "최곤",
+   "name": "김도현"
+  },
+  {
+   "role": "박민수",
+   "name": "정준하"
+  },
+  {
+   "role": "박민수",
+   "name": "서범석"
+  },
+  {
+   "role": "지국장",
+   "name": "서현철"
+  },
+  {
+   "role": "이스트리버 보컬",
+   "name": "서만석"
+  },
+  {
+   "role": "이스트리버 베이스",
+   "name": "김영환"
+  },
+  {
+   "role": "이스트리버 드럼",
+   "name": "최윤실"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170918082214/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=8188"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "PD70536",
+ "title": "노틀담의 곱추",
+ "genre": "뮤지컬",
+ "from": "2014-12-08",
+ "to": "2014-12-19",
+ "venue": "강동아트센터 대극장 한강",
+ "cast": [
+  "김영빈",
+  "최영선",
+  "최병찬",
+  "차수영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "콰지모도",
+   "name": "김영빈"
+  },
+  {
+   "role": "에스메랄다",
+   "name": "최영선"
+  },
+  {
+   "role": "클로팽",
+   "name": "최병찬"
+  },
+  {
+   "role": "플레시아",
+   "name": "차수영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240810004014/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=70536"
+ }
+}

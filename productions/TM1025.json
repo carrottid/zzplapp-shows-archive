@@ -1,0 +1,94 @@
+{
+ "id": "TM1025",
+ "title": "소리도둑",
+ "genre": "뮤지컬",
+ "from": "2008-04-05",
+ "to": "2008-05-25",
+ "venue": "호암아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008_소리도둑 02.jpg",
+ "cast": [
+  "박도연",
+  "심재영",
+  "남경주",
+  "최정원",
+  "송영창",
+  "라준",
+  "임선애",
+  "이현섭",
+  "임은영",
+  "김윤태",
+  "장이주",
+  "황성대",
+  "조순창",
+  "윤석현"
+ ],
+ "state": "공연완료",
+ "producer": "㈜쇼틱커뮤니케이션즈",
+ "price": "R석 60,000원/S석 45,000원/A석 35,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "아침",
+   "name": "박도연"
+  },
+  {
+   "role": "아침",
+   "name": "심재영"
+  },
+  {
+   "role": "유준",
+   "name": "남경주"
+  },
+  {
+   "role": "인경",
+   "name": "최정원"
+  },
+  {
+   "role": "최원장",
+   "name": "송영창"
+  },
+  {
+   "role": "치린",
+   "name": "라준"
+  },
+  {
+   "role": "필네",
+   "name": "임선애"
+  },
+  {
+   "role": "현섭",
+   "name": "이현섭"
+  },
+  {
+   "role": "다역녀",
+   "name": "임은영"
+  },
+  {
+   "role": "다역남",
+   "name": "김윤태"
+  },
+  {
+   "role": "노파",
+   "name": "장이주"
+  },
+  {
+   "role": "지광",
+   "name": "황성대"
+  },
+  {
+   "role": "앙상블",
+   "name": "조순창"
+  },
+  {
+   "role": "앙상블",
+   "name": "윤석현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1025"
+ }
+}

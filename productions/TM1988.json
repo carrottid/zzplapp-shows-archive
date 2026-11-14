@@ -1,0 +1,64 @@
+{
+ "id": "TM1988",
+ "title": "뮤직박스",
+ "genre": "뮤지컬",
+ "from": "2013-07-04",
+ "to": "2013-09-01",
+ "venue": "대학로문화공간 필링 1관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013mb.jpg",
+ "cast": [
+  "김수용",
+  "정원영",
+  "김수연",
+  "황만익",
+  "곽호웅",
+  "박유덕",
+  "이정수",
+  "강연정"
+ ],
+ "state": "공연완료",
+ "producer": "㈜심포니나인, ㈜제이콘컴퍼니",
+ "price": "R석 60,000원 ㅣ S석 45,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "민석",
+   "name": "김수용"
+  },
+  {
+   "role": "민석",
+   "name": "정원영"
+  },
+  {
+   "role": "하나",
+   "name": "김수연"
+  },
+  {
+   "role": "Mr.Enter",
+   "name": "황만익"
+  },
+  {
+   "role": "피노키오",
+   "name": "곽호웅"
+  },
+  {
+   "role": "허수아비",
+   "name": "박유덕"
+  },
+  {
+   "role": "지니",
+   "name": "이정수"
+  },
+  {
+   "role": "백설공주",
+   "name": "강연정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1988"
+ }
+}

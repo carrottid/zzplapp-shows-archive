@@ -1,0 +1,109 @@
+{
+ "id": "TM2166",
+ "title": "로기수",
+ "genre": "뮤지컬",
+ "from": "2015-03-12",
+ "to": "2015-05-31",
+ "venue": "대학로 DCF대명문화공장 1관 비발디파크홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20150203110147TLW37X5CWRXVSM55.jpg",
+ "cast": [
+  "김대현",
+  "윤나무",
+  "유일",
+  "김종구",
+  "홍우진",
+  "임춘길",
+  "장대웅",
+  "오의식",
+  "정순원",
+  "이우종",
+  "임강희",
+  "이지숙",
+  "양경원",
+  "김민건",
+  "김성수",
+  "김지혜",
+  "권동호"
+ ],
+ "state": "공연완료",
+ "producer": "아이엠컬처",
+ "price": "R석 6만6천원, S석 4만4천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "로기수",
+   "name": "김대현"
+  },
+  {
+   "role": "로기수",
+   "name": "윤나무"
+  },
+  {
+   "role": "로기수",
+   "name": "유일"
+  },
+  {
+   "role": "로기진",
+   "name": "김종구"
+  },
+  {
+   "role": "로기진",
+   "name": "홍우진"
+  },
+  {
+   "role": "프랜",
+   "name": "임춘길"
+  },
+  {
+   "role": "프랜",
+   "name": "장대웅"
+  },
+  {
+   "role": "배철식",
+   "name": "오의식"
+  },
+  {
+   "role": "배철식",
+   "name": "정순원"
+  },
+  {
+   "role": "배철식",
+   "name": "이우종"
+  },
+  {
+   "role": "민복심",
+   "name": "임강희"
+  },
+  {
+   "role": "민복심",
+   "name": "이지숙"
+  },
+  {
+   "role": "이화룡",
+   "name": "양경원"
+  },
+  {
+   "role": "이화룡",
+   "name": "김민건"
+  },
+  {
+   "role": "황구판",
+   "name": "김성수"
+  },
+  {
+   "role": "장개순",
+   "name": "김지혜"
+  },
+  {
+   "role": "돗드",
+   "name": "권동호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2166"
+ }
+}

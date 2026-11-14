@@ -1,0 +1,81 @@
+{
+ "id": "PD150296",
+ "title": "그대를 사랑합니다",
+ "genre": "연극",
+ "from": "2019-11-22",
+ "to": "2020-02-02",
+ "venue": "NOL 서경스퀘어 스콘 1관",
+ "cast": [
+  "이순재",
+  "박인환",
+  "손숙",
+  "정영숙",
+  "이문수",
+  "신철진",
+  "연운경",
+  "박혜진",
+  "이혜",
+  "문고운",
+  "최유찬",
+  "김호진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김만석",
+   "name": "이순재"
+  },
+  {
+   "role": "김만석",
+   "name": "박인환"
+  },
+  {
+   "role": "송이뿐",
+   "name": "손숙"
+  },
+  {
+   "role": "송이뿐",
+   "name": "정영숙"
+  },
+  {
+   "role": "장군봉",
+   "name": "이문수"
+  },
+  {
+   "role": "장군봉",
+   "name": "신철진"
+  },
+  {
+   "role": "조순이",
+   "name": "연운경"
+  },
+  {
+   "role": "조순이",
+   "name": "박혜진"
+  },
+  {
+   "role": "연아",
+   "name": "이혜"
+  },
+  {
+   "role": "연아",
+   "name": "문고운"
+  },
+  {
+   "role": "원씨 외",
+   "name": "최유찬"
+  },
+  {
+   "role": "원씨 외",
+   "name": "김호진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250717161707/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=150296"
+ }
+}

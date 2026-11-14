@@ -1,0 +1,61 @@
+{
+ "id": "PD15801",
+ "title": "오늘의 책은 어디로 사라졌을까?",
+ "genre": "연극",
+ "from": "2010-02-23",
+ "to": "2010-05-09",
+ "venue": "미마지 아트센터 풀빛극장",
+ "cast": [
+  "백운철",
+  "선명균",
+  "우정국",
+  "이현호",
+  "이상혁",
+  "박기덕",
+  "김유진",
+  "김신록"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "광석",
+   "name": "백운철"
+  },
+  {
+   "role": "광석",
+   "name": "선명균"
+  },
+  {
+   "role": "현식",
+   "name": "우정국"
+  },
+  {
+   "role": "현식",
+   "name": "이현호"
+  },
+  {
+   "role": "재하",
+   "name": "이상혁"
+  },
+  {
+   "role": "재하",
+   "name": "박기덕"
+  },
+  {
+   "role": "우정",
+   "name": "김유진"
+  },
+  {
+   "role": "유정",
+   "name": "김신록"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704035649/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=15801"
+ }
+}

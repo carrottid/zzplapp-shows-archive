@@ -1,0 +1,66 @@
+{
+ "id": "PD108960",
+ "title": "달밤",
+ "genre": "연극",
+ "from": "2017-06-08",
+ "to": "2017-06-18",
+ "venue": "미마지 아트센터 물빛극장",
+ "cast": [
+  "김현중",
+  "홍현택",
+  "박경주",
+  "강인대",
+  "김상우",
+  "서유덕",
+  "이효애",
+  "신유주",
+  "이경주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이선생",
+   "name": "김현중"
+  },
+  {
+   "role": "황수건",
+   "name": "홍현택"
+  },
+  {
+   "role": "김윤건/불우선생",
+   "name": "박경주"
+  },
+  {
+   "role": "가네무라/북한장교",
+   "name": "강인대"
+  },
+  {
+   "role": "원배달",
+   "name": "김상우"
+  },
+  {
+   "role": "방물장수",
+   "name": "서유덕"
+  },
+  {
+   "role": "",
+   "name": "이효애"
+  },
+  {
+   "role": "",
+   "name": "신유주"
+  },
+  {
+   "role": "",
+   "name": "이경주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240920233246/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=108960"
+ }
+}

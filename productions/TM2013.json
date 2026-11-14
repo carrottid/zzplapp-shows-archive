@@ -1,0 +1,49 @@
+{
+ "id": "TM2013",
+ "title": "무녀도동리",
+ "genre": "뮤지컬",
+ "from": "2013-10-11",
+ "to": "2013-11-03",
+ "venue": "국립중앙박물관 내 극장 용",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013mnd.jpg",
+ "cast": [
+  "김선경",
+  "노현희",
+  "김수용",
+  "홍희원",
+  "문가영"
+ ],
+ "state": "공연완료",
+ "producer": "국립박물관문화재단, (재)경주문화재단",
+ "price": "VIP석 55,000원 / R석 45,000원 / S석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "어머니 모화",
+   "name": "김선경"
+  },
+  {
+   "role": "어머니 모화",
+   "name": "노현희"
+  },
+  {
+   "role": "아들 욱이",
+   "name": "김수용"
+  },
+  {
+   "role": "아들 욱이",
+   "name": "홍희원"
+  },
+  {
+   "role": "딸 낭이",
+   "name": "문가영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2013"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "PD138269",
+ "title": "마지막 동화",
+ "genre": "연극",
+ "from": "2019-02-28",
+ "to": "2019-03-03",
+ "venue": "대학로 소극장 혜화당",
+ "cast": [
+  "김언수",
+  "이제우",
+  "이선준"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "작가",
+   "name": "김언수"
+  },
+  {
+   "role": "거북이",
+   "name": "이제우"
+  },
+  {
+   "role": "토끼",
+   "name": "이선준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260521014915/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=138269"
+ }
+}

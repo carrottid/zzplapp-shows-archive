@@ -1,0 +1,94 @@
+{
+ "id": "TM1968",
+ "title": "오디션",
+ "genre": "뮤지컬",
+ "from": "2012-11-08",
+ "to": "2012-12-30",
+ "venue": "대학로 열린극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2012audition.jpg",
+ "cast": [
+  "김형균",
+  "장덕수",
+  "권정현",
+  "이은정",
+  "이찬미",
+  "오의식",
+  "김대곤",
+  "이태화",
+  "데빈",
+  "이건호",
+  "강유미",
+  "송지현",
+  "최혁",
+  "김철진"
+ ],
+ "state": "공연완료",
+ "producer": "오픈런뮤지컬컴퍼니",
+ "price": "정가 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "박병태",
+   "name": "김형균"
+  },
+  {
+   "role": "박병태",
+   "name": "장덕수"
+  },
+  {
+   "role": "김선아",
+   "name": "권정현"
+  },
+  {
+   "role": "김선아",
+   "name": "이은정"
+  },
+  {
+   "role": "김선아",
+   "name": "이찬미"
+  },
+  {
+   "role": "최준철",
+   "name": "오의식"
+  },
+  {
+   "role": "최준철",
+   "name": "김대곤"
+  },
+  {
+   "role": "최준철",
+   "name": "이태화"
+  },
+  {
+   "role": "정찬희",
+   "name": "데빈"
+  },
+  {
+   "role": "정찬희",
+   "name": "이건호"
+  },
+  {
+   "role": "홍초롱",
+   "name": "강유미"
+  },
+  {
+   "role": "홍초롱",
+   "name": "송지현"
+  },
+  {
+   "role": "홍다복",
+   "name": "최혁"
+  },
+  {
+   "role": "홍다복",
+   "name": "김철진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1968"
+ }
+}

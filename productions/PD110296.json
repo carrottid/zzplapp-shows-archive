@@ -1,0 +1,81 @@
+{
+ "id": "PD110296",
+ "title": "햄릿 - 부산",
+ "genre": "뮤지컬",
+ "from": "2017-09-09",
+ "to": "2017-09-10",
+ "venue": "부산시민회관 대극장",
+ "cast": [
+  "서은광",
+  "켄",
+  "최서연",
+  "김준현",
+  "안유진",
+  "전수미",
+  "김승대",
+  "에녹",
+  "이상준",
+  "백기범",
+  "김유나",
+  "문경초"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "햄릿",
+   "name": "서은광"
+  },
+  {
+   "role": "햄릿",
+   "name": "켄"
+  },
+  {
+   "role": "오필리어",
+   "name": "최서연"
+  },
+  {
+   "role": "클라우디우스",
+   "name": "김준현"
+  },
+  {
+   "role": "거투르트",
+   "name": "안유진"
+  },
+  {
+   "role": "거투르트",
+   "name": "전수미"
+  },
+  {
+   "role": "레어티스",
+   "name": "김승대"
+  },
+  {
+   "role": "레어티스",
+   "name": "에녹"
+  },
+  {
+   "role": "폴로니우스/무덤지기",
+   "name": "이상준"
+  },
+  {
+   "role": "",
+   "name": "백기범"
+  },
+  {
+   "role": "",
+   "name": "김유나"
+  },
+  {
+   "role": "",
+   "name": "문경초"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171121171718/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=110296"
+ }
+}

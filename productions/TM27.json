@@ -1,0 +1,49 @@
+{
+ "id": "TM27",
+ "title": "슬픔 혹은",
+ "genre": "뮤지컬",
+ "from": "2006-01-10",
+ "to": "2006-04-09",
+ "venue": "두레홀 2관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_so.jpg",
+ "cast": [
+  "추정화",
+  "장덕수",
+  "이지원",
+  "구옥분",
+  "김진욱"
+ ],
+ "state": "공연완료",
+ "producer": "극단 두레",
+ "price": "일반 30,000원/청소년 17,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "수진",
+   "name": "추정화"
+  },
+  {
+   "role": "수진",
+   "name": "장덕수"
+  },
+  {
+   "role": "수진",
+   "name": "이지원"
+  },
+  {
+   "role": "수진",
+   "name": "구옥분"
+  },
+  {
+   "role": "응덕",
+   "name": "김진욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=27"
+ }
+}

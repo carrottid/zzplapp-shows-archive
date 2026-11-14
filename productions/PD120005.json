@@ -1,0 +1,86 @@
+{
+ "id": "PD120005",
+ "title": "명성황후 - 대구",
+ "genre": "뮤지컬",
+ "from": "2018-04-19",
+ "to": "2018-04-22",
+ "venue": "대구 계명아트센터",
+ "cast": [
+  "김소현",
+  "최현주",
+  "양준모",
+  "손준호",
+  "박완",
+  "오종혁",
+  "최우혁",
+  "이희정",
+  "정의욱",
+  "김도형",
+  "이정열",
+  "박성환",
+  "김진철"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "명성황후",
+   "name": "김소현"
+  },
+  {
+   "role": "명성황후",
+   "name": "최현주"
+  },
+  {
+   "role": "고종",
+   "name": "양준모"
+  },
+  {
+   "role": "고종",
+   "name": "손준호"
+  },
+  {
+   "role": "고종",
+   "name": "박완"
+  },
+  {
+   "role": "홍계훈",
+   "name": "오종혁"
+  },
+  {
+   "role": "홍계훈",
+   "name": "최우혁"
+  },
+  {
+   "role": "대원군",
+   "name": "이희정"
+  },
+  {
+   "role": "대원군",
+   "name": "정의욱"
+  },
+  {
+   "role": "미우라",
+   "name": "김도형"
+  },
+  {
+   "role": "미우라",
+   "name": "이정열"
+  },
+  {
+   "role": "미우라",
+   "name": "박성환"
+  },
+  {
+   "role": "",
+   "name": "김진철"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220626201127/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=120005"
+ }
+}

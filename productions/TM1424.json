@@ -1,0 +1,29 @@
+{
+ "id": "TM1424",
+ "title": "더 팬츠",
+ "genre": "뮤지컬",
+ "from": "2009-04-17",
+ "to": "2009-06-14",
+ "venue": "원더스페이스 네모극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_ThePants-Poster.jpg",
+ "cast": [
+  "임천석"
+ ],
+ "state": "공연완료",
+ "producer": "플랜위즈",
+ "price": "R석 44,000원 S석 33,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "앙상블",
+   "name": "임천석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1424"
+ }
+}

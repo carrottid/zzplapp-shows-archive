@@ -1,0 +1,25 @@
+{
+ "date": "2021-08-02",
+ "sessions": [
+  {
+   "id": "PF175875",
+   "title": "토지 Ⅰ",
+   "genre": "연극",
+   "venue": "예술의전당 [서울] (CJ 토월극장)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#97342A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF176659",
+   "title": "고등탭퍼",
+   "genre": "연극",
+   "venue": "연우소극장",
+   "time": "20:00",
+   "castSource": "none"
+  }
+ ]
+}

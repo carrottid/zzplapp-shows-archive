@@ -1,0 +1,41 @@
+{
+ "id": "PD132854",
+ "title": "경성광인",
+ "genre": "뮤지컬",
+ "from": "2018-10-26",
+ "to": "2018-11-04",
+ "venue": "나온 씨어터",
+ "cast": [
+  "김보경",
+  "옥경민",
+  "전흥선",
+  "안재현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "세광",
+   "name": "김보경"
+  },
+  {
+   "role": "나희",
+   "name": "옥경민"
+  },
+  {
+   "role": "윤원",
+   "name": "전흥선"
+  },
+  {
+   "role": "홍희",
+   "name": "안재현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250517001253/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=132854"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "id": "TM416",
+ "title": "로미오와 줄리엣",
+ "genre": "뮤지컬",
+ "from": "2002-08-17",
+ "to": "2002-08-25",
+ "venue": "예술의전당 토월극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_로미오2002.bmp",
+ "cast": [
+  "송영두",
+  "김선영",
+  "민영기",
+  "조정은"
+ ],
+ "state": "공연완료",
+ "producer": "서울예술단",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "로미오",
+   "name": "송영두"
+  },
+  {
+   "role": "로미오",
+   "name": "김선영"
+  },
+  {
+   "role": "로미오",
+   "name": "민영기"
+  },
+  {
+   "role": "로미오",
+   "name": "조정은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=416"
+ }
+}

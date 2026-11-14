@@ -1,0 +1,84 @@
+{
+ "id": "TM1530",
+ "title": "진짜진짜 좋아해",
+ "genre": "뮤지컬",
+ "from": "2009-11-28",
+ "to": "2010-03-01",
+ "venue": "나루아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2009jinjja2.JPG",
+ "cast": [
+  "박해미",
+  "신애라",
+  "오정해",
+  "박상면",
+  "변우민",
+  "김진수",
+  "오산하",
+  "효민",
+  "박영린",
+  "이윤경",
+  "유현수",
+  "강지우"
+ ],
+ "state": "공연완료",
+ "producer": "(주)MC컬처피아",
+ "price": "VIP석 8만원 / R석 6만원 / S석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "신장미",
+   "name": "박해미"
+  },
+  {
+   "role": "신장미",
+   "name": "신애라"
+  },
+  {
+   "role": "신장미",
+   "name": "오정해"
+  },
+  {
+   "role": "구감독",
+   "name": "박상면"
+  },
+  {
+   "role": "구감독",
+   "name": "변우민"
+  },
+  {
+   "role": "구감독",
+   "name": "김진수"
+  },
+  {
+   "role": "오정화",
+   "name": "오산하"
+  },
+  {
+   "role": "오정화",
+   "name": "효민"
+  },
+  {
+   "role": "오정화",
+   "name": "박영린"
+  },
+  {
+   "role": "오정화",
+   "name": "이윤경"
+  },
+  {
+   "role": "강진영",
+   "name": "유현수"
+  },
+  {
+   "role": "강진영",
+   "name": "강지우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1530"
+ }
+}

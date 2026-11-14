@@ -1,0 +1,46 @@
+{
+ "id": "PD145994",
+ "title": "이토록 보통의",
+ "genre": "뮤지컬",
+ "from": "2019-09-07",
+ "to": "2019-11-10",
+ "venue": "예스24스테이지 3관",
+ "cast": [
+  "최연우",
+  "이예은",
+  "성태준",
+  "정욱진",
+  "정휘"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "제이",
+   "name": "최연우"
+  },
+  {
+   "role": "제이",
+   "name": "이예은"
+  },
+  {
+   "role": "은기",
+   "name": "성태준"
+  },
+  {
+   "role": "은기",
+   "name": "정욱진"
+  },
+  {
+   "role": "은기",
+   "name": "정휘"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20211018223913/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=145994"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "PD40605",
+ "title": "노인과 바다",
+ "genre": "연극",
+ "from": "2012-10-09",
+ "to": "2012-11-04",
+ "venue": "대학로 열린극장",
+ "cast": [
+  "정성희",
+  "이동준"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "노인",
+   "name": "정성희"
+  },
+  {
+   "role": "청년",
+   "name": "이동준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170909235618/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=40605"
+ }
+}

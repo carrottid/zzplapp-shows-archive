@@ -1,0 +1,56 @@
+{
+ "id": "PD14420",
+ "title": "체크메이트",
+ "genre": "연극",
+ "from": "2010-01-08",
+ "to": "2010-01-31",
+ "venue": "미마지 아트센터 풀빛극장",
+ "cast": [
+  "선명균",
+  "우정국",
+  "지우",
+  "김유진",
+  "신정현",
+  "이소영",
+  "김진성"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "마태오",
+   "name": "선명균"
+  },
+  {
+   "role": "박대박, 국왕",
+   "name": "우정국"
+  },
+  {
+   "role": "손집도, 시의",
+   "name": "지우"
+  },
+  {
+   "role": "현지선, 지선왕비",
+   "name": "김유진"
+  },
+  {
+   "role": "노아",
+   "name": "신정현"
+  },
+  {
+   "role": "최가희, 가희왕비",
+   "name": "이소영"
+  },
+  {
+   "role": "",
+   "name": "김진성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250516050154/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=14420"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "PD40823",
+ "title": "죽음과 소녀",
+ "genre": "연극",
+ "from": "2012-11-02",
+ "to": "2012-11-17",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "양조아",
+  "손상규",
+  "양종욱"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "빠울리나",
+   "name": "양조아"
+  },
+  {
+   "role": "헤라르도",
+   "name": "손상규"
+  },
+  {
+   "role": "로베르또",
+   "name": "양종욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170703232404/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=40823"
+ }
+}

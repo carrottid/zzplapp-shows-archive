@@ -1,0 +1,76 @@
+{
+ "id": "PD139887",
+ "title": "제40회 서울연극제 공식선정작 - 데모크라시",
+ "genre": "연극",
+ "from": "2019-05-17",
+ "to": "2019-05-22",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "김종태",
+  "권태건",
+  "선종남",
+  "이승훈",
+  "강진휘",
+  "박기륭",
+  "김성환",
+  "박경찬",
+  "김하라",
+  "김진복",
+  "최건우"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "빌리 브란트",
+   "name": "김종태"
+  },
+  {
+   "role": "귄터 기욤",
+   "name": "권태건"
+  },
+  {
+   "role": "헤르베르트 베너",
+   "name": "선종남"
+  },
+  {
+   "role": "아르노 크레츠만",
+   "name": "이승훈"
+  },
+  {
+   "role": "헬무트 슈미트",
+   "name": "강진휘"
+  },
+  {
+   "role": "헌스 겐셔",
+   "name": "박기륭"
+  },
+  {
+   "role": "",
+   "name": "김성환"
+  },
+  {
+   "role": "",
+   "name": "박경찬"
+  },
+  {
+   "role": "",
+   "name": "김하라"
+  },
+  {
+   "role": "",
+   "name": "김진복"
+  },
+  {
+   "role": "",
+   "name": "최건우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260521193355/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=139887"
+ }
+}

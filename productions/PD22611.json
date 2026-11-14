@@ -1,0 +1,66 @@
+{
+ "id": "PD22611",
+ "title": "바울",
+ "genre": "뮤지컬",
+ "from": "2011-04-08",
+ "to": "2012-01-11",
+ "venue": "대학로 스타시티 콘텐츠룸(구.대학로 아트홀 마리카1관)",
+ "cast": [
+  "윤성현",
+  "김태훈",
+  "신혜진",
+  "이재현",
+  "김은진",
+  "김희정",
+  "정욱일",
+  "장경원",
+  "박우연"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "바울",
+   "name": "윤성현"
+  },
+  {
+   "role": "바울",
+   "name": "김태훈"
+  },
+  {
+   "role": "엘루마",
+   "name": "신혜진"
+  },
+  {
+   "role": "스데반",
+   "name": "이재현"
+  },
+  {
+   "role": "루디아",
+   "name": "김은진"
+  },
+  {
+   "role": "유니게",
+   "name": "김희정"
+  },
+  {
+   "role": "바나바",
+   "name": "정욱일"
+  },
+  {
+   "role": "",
+   "name": "장경원"
+  },
+  {
+   "role": "",
+   "name": "박우연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171025123038/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=22611"
+ }
+}

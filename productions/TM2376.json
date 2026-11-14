@@ -1,0 +1,104 @@
+{
+ "id": "TM2376",
+ "title": "록키",
+ "genre": "뮤지컬",
+ "from": "2016-11-01",
+ "to": "2017-01-15",
+ "venue": "디큐브아트센터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2016092802314356CAC8M61RT12210.jpg",
+ "cast": [
+  "신성우",
+  "김도현",
+  "송창의",
+  "윤형렬",
+  "최우리",
+  "김지우",
+  "조휘",
+  "박재윤",
+  "신구",
+  "김진태",
+  "송용태",
+  "김하라",
+  "김병호",
+  "백주연",
+  "황만익",
+  "홍경수"
+ ],
+ "state": "공연완료",
+ "producer": "엠뮤지컬아트",
+ "price": "VIP석 13만원, R석 11만원, S석 8만원, A석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "록키",
+   "name": "신성우"
+  },
+  {
+   "role": "록키",
+   "name": "김도현"
+  },
+  {
+   "role": "록키",
+   "name": "송창의"
+  },
+  {
+   "role": "록키",
+   "name": "윤형렬"
+  },
+  {
+   "role": "애드리안",
+   "name": "최우리"
+  },
+  {
+   "role": "애드리안",
+   "name": "김지우"
+  },
+  {
+   "role": "아폴로",
+   "name": "조휘"
+  },
+  {
+   "role": "아폴로",
+   "name": "박재윤"
+  },
+  {
+   "role": "미키",
+   "name": "신구"
+  },
+  {
+   "role": "미키",
+   "name": "김진태"
+  },
+  {
+   "role": "미키",
+   "name": "송용태"
+  },
+  {
+   "role": "폴리",
+   "name": "김하라"
+  },
+  {
+   "role": "폴리",
+   "name": "김병호"
+  },
+  {
+   "role": "글로리아",
+   "name": "백주연"
+  },
+  {
+   "role": "저건스",
+   "name": "황만익"
+  },
+  {
+   "role": "저건스",
+   "name": "홍경수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2376"
+ }
+}

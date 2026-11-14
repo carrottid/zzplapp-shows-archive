@@ -1,0 +1,56 @@
+{
+ "id": "PD67640",
+ "title": "왕의 나라 - 대구",
+ "genre": "뮤지컬",
+ "from": "2014-11-08",
+ "to": "2014-11-09",
+ "venue": "대구 오페라하우스",
+ "cast": [
+  "이태원",
+  "김동찬",
+  "권용일",
+  "장은주",
+  "고봉조",
+  "석현오",
+  "이영매"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "노국공주",
+   "name": "이태원"
+  },
+  {
+   "role": "공민왕",
+   "name": "김동찬"
+  },
+  {
+   "role": "손홍량",
+   "name": "권용일"
+  },
+  {
+   "role": "여랑",
+   "name": "장은주"
+  },
+  {
+   "role": "홍언박",
+   "name": "고봉조"
+  },
+  {
+   "role": "홍건적대장",
+   "name": "석현오"
+  },
+  {
+   "role": "",
+   "name": "이영매"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170908173002/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=67640"
+ }
+}

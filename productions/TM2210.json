@@ -1,0 +1,79 @@
+{
+ "id": "TM2210",
+ "title": "로미오 앤 줄리엣",
+ "genre": "뮤지컬",
+ "from": "2015-09-12",
+ "to": "2015-10-11",
+ "venue": "블루스퀘어 삼성전자홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20150831034358L3G0S17IY1ODD81G.jpg",
+ "cast": [
+  "씨릴 니꼴라이(Cyril Niccolai)",
+  "조이 에스뗄(Joy Esther)",
+  "존 아이젠(John Eyzen)",
+  "스테판 네빌(Stephane Neville)",
+  "톰 로스(Tom Ross)",
+  "글라디스 프레올리(Gwladys Fraioli)",
+  "새바스티앙 엘 샤또(Sebastien El Chato)",
+  "모니엑 보어스마(Moniek Boersma)",
+  "프레드릭 샤르뜨(Frederic Charter)",
+  "스테판 메트로(Stephane Metro)",
+  "브리짓 벤디띠(Brigitte Venditti)"
+ ],
+ "state": "공연완료",
+ "producer": "마스트엔터테인먼트",
+ "price": "VIP석 16만원, OP석 15만원, R석 13만원, S석 9만원, A석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "로미오",
+   "name": "씨릴 니꼴라이(Cyril Niccolai)"
+  },
+  {
+   "role": "줄리엣",
+   "name": "조이 에스뗄(Joy Esther)"
+  },
+  {
+   "role": "머큐시오",
+   "name": "존 아이젠(John Eyzen)"
+  },
+  {
+   "role": "벤볼리오",
+   "name": "스테판 네빌(Stephane Neville)"
+  },
+  {
+   "role": "티볼트",
+   "name": "톰 로스(Tom Ross)"
+  },
+  {
+   "role": "유모",
+   "name": "글라디스 프레올리(Gwladys Fraioli)"
+  },
+  {
+   "role": "캐플렛 경",
+   "name": "새바스티앙 엘 샤또(Sebastien El Chato)"
+  },
+  {
+   "role": "캐플렛 경 부인",
+   "name": "모니엑 보어스마(Moniek Boersma)"
+  },
+  {
+   "role": "신부",
+   "name": "프레드릭 샤르뜨(Frederic Charter)"
+  },
+  {
+   "role": "영주",
+   "name": "스테판 메트로(Stephane Metro)"
+  },
+  {
+   "role": "몬테규 경 부인",
+   "name": "브리짓 벤디띠(Brigitte Venditti)"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2210"
+ }
+}

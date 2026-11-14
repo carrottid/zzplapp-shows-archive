@@ -1,0 +1,56 @@
+{
+ "id": "PD161588",
+ "title": "창공",
+ "genre": "연극",
+ "from": "2020-12-16",
+ "to": "2020-12-16",
+ "venue": "국립정동극장 세실",
+ "cast": [
+  "신현묵",
+  "김일교",
+  "황기석",
+  "이동우",
+  "강고은",
+  "김준표",
+  "김민지"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "윤동주",
+   "name": "신현묵"
+  },
+  {
+   "role": "송몽규",
+   "name": "김일교"
+  },
+  {
+   "role": "멀티",
+   "name": "황기석"
+  },
+  {
+   "role": "거울 속 동주",
+   "name": "이동우"
+  },
+  {
+   "role": "선생님",
+   "name": "강고은"
+  },
+  {
+   "role": "키보드",
+   "name": "김준표"
+  },
+  {
+   "role": "",
+   "name": "김민지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250618112004/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=161588"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PD64963",
+ "title": "래빗홀",
+ "genre": "연극",
+ "from": "2014-08-21",
+ "to": "2014-09-06",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "강애심",
+  "이항나",
+  "송영근",
+  "전수아",
+  "이기현",
+  "김지용"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "냇",
+   "name": "강애심"
+  },
+  {
+   "role": "베카",
+   "name": "이항나"
+  },
+  {
+   "role": "하위",
+   "name": "송영근"
+  },
+  {
+   "role": "이지",
+   "name": "전수아"
+  },
+  {
+   "role": "제이슨",
+   "name": "이기현"
+  },
+  {
+   "role": "제이슨",
+   "name": "김지용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240507165618/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=64963"
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "PD74534",
+ "title": "2015 신춘문예 단막극제 - 초대",
+ "genre": "연극",
+ "from": "2015-03-18",
+ "to": "2015-03-24",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "김왕근",
+  "김병희",
+  "이교엽",
+  "박도하",
+  "임주환",
+  "김석환",
+  "방훈",
+  "김권"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "백차장",
+   "name": "김왕근"
+  },
+  {
+   "role": "김과장",
+   "name": "김병희"
+  },
+  {
+   "role": "권대리",
+   "name": "이교엽"
+  },
+  {
+   "role": "회사원",
+   "name": "박도하"
+  },
+  {
+   "role": "회사원",
+   "name": "임주환"
+  },
+  {
+   "role": "회사원",
+   "name": "김석환"
+  },
+  {
+   "role": "회사원",
+   "name": "방훈"
+  },
+  {
+   "role": "",
+   "name": "김권"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210818080813/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=74534"
+ }
+}

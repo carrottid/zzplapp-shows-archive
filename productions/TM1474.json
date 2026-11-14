@@ -1,0 +1,54 @@
+{
+ "id": "TM1474",
+ "title": "New Musical 한여름밤의 꿈",
+ "genre": "뮤지컬",
+ "from": "2009-08-26",
+ "to": "2009-08-31",
+ "venue": "경희대학교 평화의전당",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_untitled2.bmp",
+ "cast": [
+  "최은석",
+  "이홍기",
+  "서경수",
+  "권정현",
+  "정인지",
+  "이재원"
+ ],
+ "state": "공연완료",
+ "producer": "BM Theatre, 보라컬쳐노믹스",
+ "price": "R석 50,000원/ S석 30,000원/ A석 20,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "라이샌더",
+   "name": "최은석"
+  },
+  {
+   "role": "라이샌더",
+   "name": "이홍기"
+  },
+  {
+   "role": "드미트리우스",
+   "name": "서경수"
+  },
+  {
+   "role": "허미어",
+   "name": "권정현"
+  },
+  {
+   "role": "헬레나",
+   "name": "정인지"
+  },
+  {
+   "role": "로빈",
+   "name": "이재원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1474"
+ }
+}

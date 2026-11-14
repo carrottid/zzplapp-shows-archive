@@ -1,0 +1,81 @@
+{
+ "id": "PD158272",
+ "title": "하모니카",
+ "genre": "뮤지컬",
+ "from": "2020-07-17",
+ "to": "2020-08-30",
+ "venue": "예그린씨어터",
+ "cast": [
+  "박웅",
+  "조정환",
+  "민아람",
+  "조희민",
+  "홍종화",
+  "제희형",
+  "김영환",
+  "권혁준",
+  "문남권",
+  "최신권",
+  "유영섭",
+  "엄대"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "현수",
+   "name": "박웅"
+  },
+  {
+   "role": "현수",
+   "name": "조정환"
+  },
+  {
+   "role": "장유진",
+   "name": "민아람"
+  },
+  {
+   "role": "장유진",
+   "name": "조희민"
+  },
+  {
+   "role": "최영기",
+   "name": "홍종화"
+  },
+  {
+   "role": "최영기",
+   "name": "제희형"
+  },
+  {
+   "role": "김호준",
+   "name": "김영환"
+  },
+  {
+   "role": "김호준",
+   "name": "권혁준"
+  },
+  {
+   "role": "전정우",
+   "name": "문남권"
+  },
+  {
+   "role": "전정우",
+   "name": "최신권"
+  },
+  {
+   "role": "멀티",
+   "name": "유영섭"
+  },
+  {
+   "role": "멀티",
+   "name": "엄대"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250114060636/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=158272"
+ }
+}

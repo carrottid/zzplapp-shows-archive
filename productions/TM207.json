@@ -1,0 +1,79 @@
+{
+ "id": "TM207",
+ "title": "모스키토",
+ "genre": "뮤지컬",
+ "from": "2004-10-29",
+ "to": "2005-02-06",
+ "venue": "백암아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_mos.gif",
+ "cast": [
+  "안덕용",
+  "라준",
+  "안유진",
+  "방진의",
+  "강수영",
+  "김찬",
+  "신성록",
+  "오경희",
+  "정인애",
+  "최원석",
+  "배근영"
+ ],
+ "state": "공연완료",
+ "producer": "문화방송,백암아트홀,극단 학전",
+ "price": "R석 35,000원/S석 25,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "차대권",
+   "name": "안덕용"
+  },
+  {
+   "role": "차대권",
+   "name": "라준"
+  },
+  {
+   "role": "차대권",
+   "name": "안유진"
+  },
+  {
+   "role": "차대권",
+   "name": "방진의"
+  },
+  {
+   "role": "차대권",
+   "name": "강수영"
+  },
+  {
+   "role": "차대권",
+   "name": "김찬"
+  },
+  {
+   "role": "차대권",
+   "name": "신성록"
+  },
+  {
+   "role": "차대권",
+   "name": "오경희"
+  },
+  {
+   "role": "컴짱",
+   "name": "정인애"
+  },
+  {
+   "role": "범생",
+   "name": "최원석"
+  },
+  {
+   "role": "범생",
+   "name": "배근영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=207"
+ }
+}

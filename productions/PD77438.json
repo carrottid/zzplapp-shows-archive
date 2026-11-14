@@ -1,0 +1,51 @@
+{
+ "id": "PD77438",
+ "title": "카프카의 소송",
+ "genre": "연극",
+ "from": "2015-05-15",
+ "to": "2015-05-31",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "노은정",
+  "성원",
+  "박재성",
+  "이호철",
+  "구본혁",
+  "김대호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "레니",
+   "name": "노은정"
+  },
+  {
+   "role": "",
+   "name": "성원"
+  },
+  {
+   "role": "",
+   "name": "박재성"
+  },
+  {
+   "role": "",
+   "name": "이호철"
+  },
+  {
+   "role": "",
+   "name": "구본혁"
+  },
+  {
+   "role": "",
+   "name": "김대호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240414132821/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=77438"
+ }
+}

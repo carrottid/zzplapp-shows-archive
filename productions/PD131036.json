@@ -1,0 +1,51 @@
+{
+ "id": "PD131036",
+ "title": "스토리 오브 마이 라이프",
+ "genre": "뮤지컬",
+ "from": "2018-11-27",
+ "to": "2019-02-17",
+ "venue": "백암아트홀",
+ "cast": [
+  "강필석",
+  "송원근",
+  "조성윤",
+  "정동화",
+  "이창용",
+  "정원영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "토마스",
+   "name": "강필석"
+  },
+  {
+   "role": "토마스",
+   "name": "송원근"
+  },
+  {
+   "role": "토마스",
+   "name": "조성윤"
+  },
+  {
+   "role": "앨빈",
+   "name": "정동화"
+  },
+  {
+   "role": "앨빈",
+   "name": "이창용"
+  },
+  {
+   "role": "앨빈",
+   "name": "정원영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191212075207/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=131036"
+ }
+}

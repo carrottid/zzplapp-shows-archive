@@ -1,0 +1,66 @@
+{
+ "id": "PD99299",
+ "title": "이랑",
+ "genre": "연극",
+ "from": "2016-10-13",
+ "to": "2016-10-30",
+ "venue": "대학로 열린극장",
+ "cast": [
+  "홍은정",
+  "윤일식",
+  "정충구",
+  "신덕규",
+  "김정아",
+  "김홍근",
+  "김수민",
+  "공혜진",
+  "김종현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이랑",
+   "name": "홍은정"
+  },
+  {
+   "role": "남이",
+   "name": "윤일식"
+  },
+  {
+   "role": "일직차사",
+   "name": "정충구"
+  },
+  {
+   "role": "월직차사",
+   "name": "신덕규"
+  },
+  {
+   "role": "서율",
+   "name": "김정아"
+  },
+  {
+   "role": "윤원",
+   "name": "김홍근"
+  },
+  {
+   "role": "",
+   "name": "김수민"
+  },
+  {
+   "role": "",
+   "name": "공혜진"
+  },
+  {
+   "role": "",
+   "name": "김종현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171108020458/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=99299"
+ }
+}

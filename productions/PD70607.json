@@ -1,0 +1,56 @@
+{
+ "id": "PD70607",
+ "title": "노란봉투",
+ "genre": "연극",
+ "from": "2014-11-25",
+ "to": "2014-12-14",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "안병식",
+  "김민선",
+  "조시현",
+  "백성철",
+  "김민하",
+  "양정윤",
+  "윤미경"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이고",
+   "name": "안병식"
+  },
+  {
+   "role": "영희",
+   "name": "김민선"
+  },
+  {
+   "role": "지호",
+   "name": "조시현"
+  },
+  {
+   "role": "병로",
+   "name": "백성철"
+  },
+  {
+   "role": "강호",
+   "name": "김민하"
+  },
+  {
+   "role": "아진",
+   "name": "양정윤"
+  },
+  {
+   "role": "",
+   "name": "윤미경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170910175611/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=70607"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "id": "PD68262",
+ "title": "올슉업",
+ "genre": "뮤지컬",
+ "from": "2014-11-28",
+ "to": "2015-02-01",
+ "venue": "홍익대 대학로 아트센터 대극장",
+ "cast": [
+  "손호영",
+  "김동준",
+  "산들",
+  "유권",
+  "김예원",
+  "정재은",
+  "정찬우",
+  "강성진",
+  "류수화",
+  "주아",
+  "김재만",
+  "안세하",
+  "구옥분",
+  "가희",
+  "김태윤"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "엘비스",
+   "name": "손호영"
+  },
+  {
+   "role": "엘비스",
+   "name": "김동준"
+  },
+  {
+   "role": "엘비스",
+   "name": "산들"
+  },
+  {
+   "role": "엘비스",
+   "name": "유권"
+  },
+  {
+   "role": "나탈리",
+   "name": "김예원"
+  },
+  {
+   "role": "나탈리",
+   "name": "정재은"
+  },
+  {
+   "role": "짐",
+   "name": "정찬우"
+  },
+  {
+   "role": "짐",
+   "name": "강성진"
+  },
+  {
+   "role": "실비아",
+   "name": "류수화"
+  },
+  {
+   "role": "실비아",
+   "name": "주아"
+  },
+  {
+   "role": "데니스",
+   "name": "김재만"
+  },
+  {
+   "role": "데니스",
+   "name": "안세하"
+  },
+  {
+   "role": "산드라",
+   "name": "구옥분"
+  },
+  {
+   "role": "산드라",
+   "name": "가희"
+  },
+  {
+   "role": "",
+   "name": "김태윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251108185009/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=68262"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "id": "PD130914",
+ "title": "시카고 - 대전",
+ "genre": "뮤지컬",
+ "from": "2018-11-29",
+ "to": "2018-12-01",
+ "venue": "충남대학교 정심화국제문화회관 정심화홀",
+ "cast": [
+  "최정원",
+  "박칼린",
+  "아이비",
+  "김지우",
+  "남경주",
+  "안재욱",
+  "김경선",
+  "김영주",
+  "차정현",
+  "임동섭",
+  "정설웅",
+  "최원섭"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "벨마 켈리",
+   "name": "최정원"
+  },
+  {
+   "role": "벨마 켈리",
+   "name": "박칼린"
+  },
+  {
+   "role": "록시 하트",
+   "name": "아이비"
+  },
+  {
+   "role": "록시 하트",
+   "name": "김지우"
+  },
+  {
+   "role": "빌리 플린",
+   "name": "남경주"
+  },
+  {
+   "role": "빌리 플린",
+   "name": "안재욱"
+  },
+  {
+   "role": "마마 모튼",
+   "name": "김경선"
+  },
+  {
+   "role": "마마 모튼",
+   "name": "김영주"
+  },
+  {
+   "role": "에이모스 하트",
+   "name": "차정현"
+  },
+  {
+   "role": "스윙",
+   "name": "임동섭"
+  },
+  {
+   "role": "",
+   "name": "정설웅"
+  },
+  {
+   "role": "",
+   "name": "최원섭"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191215184850/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=130914"
+ }
+}

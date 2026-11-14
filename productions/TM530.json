@@ -1,0 +1,73 @@
+{
+ "id": "TM530",
+ "title": "러쉬",
+ "genre": "뮤지컬",
+ "from": "2000-10-14",
+ "to": "2000-11-12",
+ "venue": "호암아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2000_러쉬 01.jpg",
+ "cast": [
+  "김정렬",
+  "송영규",
+  "서지영",
+  "김선화",
+  "김형묵",
+  "라미란",
+  "조용수",
+  "장선희",
+  "박지원",
+  "권근용"
+ ],
+ "state": "공연완료",
+ "producer": "뮤지컬캠프 록시",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "스카이",
+   "name": "김정렬"
+  },
+  {
+   "role": "스카이",
+   "name": "송영규"
+  },
+  {
+   "role": "스카이",
+   "name": "서지영"
+  },
+  {
+   "role": "스카이",
+   "name": "김선화"
+  },
+  {
+   "role": "스카이",
+   "name": "김형묵"
+  },
+  {
+   "role": "스카이",
+   "name": "라미란"
+  },
+  {
+   "role": "갱스터",
+   "name": "조용수"
+  },
+  {
+   "role": "갱스터",
+   "name": "장선희"
+  },
+  {
+   "role": "치니의 친구",
+   "name": "박지원"
+  },
+  {
+   "role": "갱스터",
+   "name": "권근용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=530"
+ }
+}

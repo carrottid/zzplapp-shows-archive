@@ -1,0 +1,100 @@
+{
+ "id": "PD127813",
+ "title": "춘향",
+ "genre": "연극",
+ "from": "2018-07-18",
+ "to": "2018-08-12",
+ "venue": "나온 씨어터",
+ "cast": [
+  "민충석",
+  "백익남",
+  "이춘희",
+  "박창순",
+  "김현",
+  "조은데",
+  "송은지",
+  "이수인",
+  "고애리",
+  "윤대홍",
+  "서재하",
+  "장승연",
+  "김치몽",
+  "김솔지",
+  "엄태훈"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "변학도",
+   "name": "민충석"
+  },
+  {
+   "role": "변학도",
+   "name": "백익남"
+  },
+  {
+   "role": "성춘향",
+   "name": "이춘희"
+  },
+  {
+   "role": "이몽룡",
+   "name": "박창순"
+  },
+  {
+   "role": "이몽룡",
+   "name": "김현"
+  },
+  {
+   "role": "월매",
+   "name": "조은데"
+  },
+  {
+   "role": "월매",
+   "name": "송은지"
+  },
+  {
+   "role": "몽룡 부",
+   "name": "이수인"
+  },
+  {
+   "role": "몽룡 부",
+   "name": "김현"
+  },
+  {
+   "role": "몽룡 모",
+   "name": "고애리"
+  },
+  {
+   "role": "",
+   "name": "윤대홍"
+  },
+  {
+   "role": "",
+   "name": "서재하"
+  },
+  {
+   "role": "",
+   "name": "장승연"
+  },
+  {
+   "role": "",
+   "name": "김치몽"
+  },
+  {
+   "role": "",
+   "name": "김솔지"
+  },
+  {
+   "role": "",
+   "name": "엄태훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241105195920/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=127813"
+ }
+}

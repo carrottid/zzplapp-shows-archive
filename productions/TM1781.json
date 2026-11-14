@@ -1,0 +1,64 @@
+{
+ "id": "TM1781",
+ "title": "언틸더데이",
+ "genre": "뮤지컬",
+ "from": "2011-09-16",
+ "to": "2011-09-16",
+ "venue": "문화일보홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200319052740230464a443f94f3d945ad8cd0dd41044.jpg",
+ "cast": [
+  "김학준",
+  "이영호",
+  "김재한",
+  "국중웅",
+  "하은섬",
+  "양정윤",
+  "설재근",
+  "지효진"
+ ],
+ "state": "공연완료",
+ "producer": "희원극단",
+ "images": [],
+ "links": [],
+ "openRun": true,
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "주명식",
+   "name": "김학준"
+  },
+  {
+   "role": "주명식",
+   "name": "이영호"
+  },
+  {
+   "role": "최민혁",
+   "name": "김재한"
+  },
+  {
+   "role": "최민혁",
+   "name": "국중웅"
+  },
+  {
+   "role": "주인희",
+   "name": "하은섬"
+  },
+  {
+   "role": "강순천",
+   "name": "양정윤"
+  },
+  {
+   "role": "김선관",
+   "name": "설재근"
+  },
+  {
+   "role": "강순천",
+   "name": "지효진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1781"
+ }
+}

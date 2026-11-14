@@ -1,0 +1,34 @@
+{
+ "id": "TM871",
+ "title": "펑키펑키",
+ "genre": "뮤지컬",
+ "from": "2007-04-18",
+ "to": "2007-12-31",
+ "venue": "명동 우림 펑키하우스",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009230452041e029f7ba507440b8a415f2d852e1c59.bmp",
+ "cast": [
+  "오상원",
+  "이상준"
+ ],
+ "state": "공연완료",
+ "producer": "쇼비티",
+ "price": "가장 잘 보이는 see석 일반 40,000원 / 대학생 25,000원 / 청소년 20,000원(11월16일공연부터 가장 잘 보이는 see석 30,000원)",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "테리",
+   "name": "오상원"
+  },
+  {
+   "role": "김PD",
+   "name": "이상준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=871"
+ }
+}

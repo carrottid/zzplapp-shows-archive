@@ -1,0 +1,61 @@
+{
+ "id": "PD72414",
+ "title": "황금연못 - 울산",
+ "genre": "연극",
+ "from": "2015-02-07",
+ "to": "2015-02-08",
+ "venue": "울산문화예술회관 대공연장",
+ "cast": [
+  "이순재",
+  "신구",
+  "나문희",
+  "성병숙",
+  "우미화",
+  "이주원",
+  "이도엽",
+  "홍시로"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "노만",
+   "name": "이순재"
+  },
+  {
+   "role": "노만",
+   "name": "신구"
+  },
+  {
+   "role": "에셀",
+   "name": "나문희"
+  },
+  {
+   "role": "에셀",
+   "name": "성병숙"
+  },
+  {
+   "role": "첼시",
+   "name": "우미화"
+  },
+  {
+   "role": "찰리 마틴",
+   "name": "이주원"
+  },
+  {
+   "role": "빌 레이",
+   "name": "이도엽"
+  },
+  {
+   "role": "빌리 레이",
+   "name": "홍시로"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250913132319/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=72414"
+ }
+}

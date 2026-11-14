@@ -1,0 +1,38 @@
+{
+ "id": "TM3007",
+ "title": "삼국유사",
+ "genre": "뮤지컬",
+ "from": "2020-11-06",
+ "to": "2020-11-07",
+ "venue": "건국대학교 새천년관 대공연장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091401434872f2b64c3da2441e85d2b55ebc515300.jpg",
+ "cast": [
+  "최인형",
+  "박근식",
+  "랑연"
+ ],
+ "state": "공연완료",
+ "producer": "쎈스 CenS",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "일연",
+   "name": "최인형"
+  },
+  {
+   "role": "주몽",
+   "name": "박근식"
+  },
+  {
+   "role": "선화공주",
+   "name": "랑연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3007"
+ }
+}

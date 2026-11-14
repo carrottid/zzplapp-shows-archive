@@ -1,0 +1,41 @@
+{
+ "id": "PD147112",
+ "title": "우리집 가수",
+ "genre": "연극",
+ "from": "2019-08-27",
+ "to": "2019-09-08",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "서민성",
+  "맹주영",
+  "성아름",
+  "김정현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "성창열(고물장수)",
+   "name": "서민성"
+  },
+  {
+   "role": "성정동(백수)",
+   "name": "맹주영"
+  },
+  {
+   "role": "성아름(연극배우)",
+   "name": "성아름"
+  },
+  {
+   "role": "김정현(회사원)",
+   "name": "김정현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250428081332/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=147112"
+ }
+}

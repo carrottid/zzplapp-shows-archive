@@ -1,0 +1,69 @@
+{
+ "id": "TM1794",
+ "title": "부활-더 골든데이즈",
+ "genre": "뮤지컬",
+ "from": "2011-12-04",
+ "to": "2011-12-25",
+ "venue": "나루아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)-11.jpg",
+ "cast": [
+  "최필립",
+  "이윤미",
+  "김재만",
+  "손광업",
+  "김경선",
+  "우상민",
+  "조남희",
+  "배수현",
+  "홍예나"
+ ],
+ "state": "공연완료",
+ "producer": "극단 현대극장",
+ "price": "R석 7만원 / S석 5만원 / A석 3만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "석주명",
+   "name": "최필립"
+  },
+  {
+   "role": "나비요정",
+   "name": "이윤미"
+  },
+  {
+   "role": "이영철",
+   "name": "김재만"
+  },
+  {
+   "role": "카스토",
+   "name": "손광업"
+  },
+  {
+   "role": "석지민",
+   "name": "김경선"
+  },
+  {
+   "role": "지도위원 진하",
+   "name": "우상민"
+  },
+  {
+   "role": "차성호",
+   "name": "조남희"
+  },
+  {
+   "role": "위원병관",
+   "name": "배수현"
+  },
+  {
+   "role": "송윤희",
+   "name": "홍예나"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1794"
+ }
+}

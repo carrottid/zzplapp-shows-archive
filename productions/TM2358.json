@@ -1,0 +1,99 @@
+{
+ "id": "TM2358",
+ "title": "곤 투모로우",
+ "genre": "뮤지컬",
+ "from": "2016-09-10",
+ "to": "2016-10-23",
+ "venue": "광림아트센터 BBCH홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201608291223285I462401P03GTY1K.jpg",
+ "cast": [
+  "강필석",
+  "임병근",
+  "이동하",
+  "김재범",
+  "김무열",
+  "이율",
+  "김민종",
+  "조순창",
+  "박영수",
+  "김법래",
+  "임별",
+  "김수로",
+  "강성진",
+  "정하루",
+  "이시후"
+ ],
+ "state": "공연완료",
+ "producer": "아시아브릿지컨텐츠",
+ "price": "VIP석 13만원, R석 11만원, S석 8만원, A석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "김옥균",
+   "name": "강필석"
+  },
+  {
+   "role": "김옥균",
+   "name": "임병근"
+  },
+  {
+   "role": "김옥균",
+   "name": "이동하"
+  },
+  {
+   "role": "홍종우",
+   "name": "김재범"
+  },
+  {
+   "role": "홍종우",
+   "name": "김무열"
+  },
+  {
+   "role": "홍종우",
+   "name": "이율"
+  },
+  {
+   "role": "고종",
+   "name": "김민종"
+  },
+  {
+   "role": "고종",
+   "name": "조순창"
+  },
+  {
+   "role": "고종",
+   "name": "박영수"
+  },
+  {
+   "role": "이완 총리",
+   "name": "김법래"
+  },
+  {
+   "role": "이완 총리",
+   "name": "임별"
+  },
+  {
+   "role": "와다",
+   "name": "김수로"
+  },
+  {
+   "role": "와다",
+   "name": "강성진"
+  },
+  {
+   "role": "와다",
+   "name": "정하루"
+  },
+  {
+   "role": "종윤",
+   "name": "이시후"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2358"
+ }
+}

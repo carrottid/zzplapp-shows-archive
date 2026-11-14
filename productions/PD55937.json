@@ -1,0 +1,81 @@
+{
+ "id": "PD55937",
+ "title": "아이 러브 유 비코즈",
+ "genre": "뮤지컬",
+ "from": "2013-12-06",
+ "to": "2014-02-02",
+ "venue": "한성아트홀",
+ "cast": [
+  "주환",
+  "박유덕",
+  "최은석",
+  "오대성",
+  "김유나",
+  "유리아",
+  "황수영",
+  "하미미",
+  "문지영",
+  "이재혁",
+  "설혜선",
+  "김솔"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "오스틴",
+   "name": "주환"
+  },
+  {
+   "role": "오스틴",
+   "name": "박유덕"
+  },
+  {
+   "role": "제프",
+   "name": "최은석"
+  },
+  {
+   "role": "제프",
+   "name": "오대성"
+  },
+  {
+   "role": "마시",
+   "name": "김유나"
+  },
+  {
+   "role": "마시",
+   "name": "유리아"
+  },
+  {
+   "role": "다이아나",
+   "name": "황수영"
+  },
+  {
+   "role": "다이아나",
+   "name": "하미미"
+  },
+  {
+   "role": "멀티걸 & 맨",
+   "name": "문지영"
+  },
+  {
+   "role": "멀티걸 & 맨",
+   "name": "이재혁"
+  },
+  {
+   "role": "멀티걸 & 맨",
+   "name": "설혜선"
+  },
+  {
+   "role": "멀티걸 & 맨",
+   "name": "김솔"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250428025551/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=55937"
+ }
+}

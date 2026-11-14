@@ -1,0 +1,51 @@
+{
+ "id": "PD97110",
+ "title": "결혼전야",
+ "genre": "연극",
+ "from": "2016-09-01",
+ "to": "2016-09-11",
+ "venue": "후암스테이지",
+ "cast": [
+  "심소영",
+  "차승호",
+  "고한민",
+  "박현진",
+  "오현채",
+  "편준의"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김형숙",
+   "name": "심소영"
+  },
+  {
+   "role": "최형준",
+   "name": "차승호"
+  },
+  {
+   "role": "최정준",
+   "name": "고한민"
+  },
+  {
+   "role": "최 선",
+   "name": "박현진"
+  },
+  {
+   "role": "구미주",
+   "name": "오현채"
+  },
+  {
+   "role": "문혁기",
+   "name": "편준의"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230330104142/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=97110"
+ }
+}

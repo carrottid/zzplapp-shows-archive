@@ -1,0 +1,29 @@
+{
+ "id": "TM1203",
+ "title": "젤소미나",
+ "genre": "뮤지컬",
+ "from": "2008-07-19",
+ "to": "2008-09-21",
+ "venue": "유시어터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008_젤소미나.jpg",
+ "cast": [
+  "베니"
+ ],
+ "state": "공연완료",
+ "producer": "극단 유, 유시어터, 쇼플레이",
+ "price": "일반석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "젤소미나",
+   "name": "베니"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1203"
+ }
+}

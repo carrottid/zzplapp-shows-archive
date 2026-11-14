@@ -1,0 +1,69 @@
+{
+ "id": "TM1871",
+ "title": "헤드윅",
+ "genre": "뮤지컬",
+ "from": "2012-08-11",
+ "to": "2012-10-28",
+ "venue": "KT&G 상상아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster22.jpg",
+ "cast": [
+  "오만석",
+  "박건형",
+  "이영미",
+  "안유진",
+  "이준",
+  "김민기",
+  "Zakky",
+  "채제민",
+  "서재혁"
+ ],
+ "state": "공연완료",
+ "producer": "쇼노트",
+ "price": "R석 6만6천원 / S석 5만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "헤드윅",
+   "name": "오만석"
+  },
+  {
+   "role": "헤드윅",
+   "name": "박건형"
+  },
+  {
+   "role": "이츠학",
+   "name": "이영미"
+  },
+  {
+   "role": "이츠학",
+   "name": "안유진"
+  },
+  {
+   "role": "앵그리인치 밴드",
+   "name": "이준"
+  },
+  {
+   "role": "앵그리인치 밴드",
+   "name": "김민기"
+  },
+  {
+   "role": "앵그리인치 밴드",
+   "name": "Zakky"
+  },
+  {
+   "role": "앵그리인치 밴드",
+   "name": "채제민"
+  },
+  {
+   "role": "앵그리인치 밴드",
+   "name": "서재혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1871"
+ }
+}

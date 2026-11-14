@@ -1,0 +1,101 @@
+{
+ "id": "PD160119",
+ "title": "동굴 가족",
+ "genre": "연극",
+ "from": "2020-10-15",
+ "to": "2020-11-01",
+ "venue": "예그린씨어터",
+ "cast": [
+  "이순재",
+  "정창옥",
+  "박우열",
+  "박재민",
+  "지주연",
+  "김인수",
+  "정인범",
+  "태윤",
+  "길지혁",
+  "허은영",
+  "유정기",
+  "나호숙",
+  "김보람",
+  "이규빈",
+  "이유빈",
+  "김태진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "왕",
+   "name": "이순재"
+  },
+  {
+   "role": "왕",
+   "name": "정창옥"
+  },
+  {
+   "role": "공작",
+   "name": "박우열"
+  },
+  {
+   "role": "공작",
+   "name": "박재민"
+  },
+  {
+   "role": "소녀",
+   "name": "지주연"
+  },
+  {
+   "role": "아버지",
+   "name": "김인수"
+  },
+  {
+   "role": "아버지",
+   "name": "정인범"
+  },
+  {
+   "role": "소년",
+   "name": "태윤"
+  },
+  {
+   "role": "소년",
+   "name": "길지혁"
+  },
+  {
+   "role": "젊은여왕",
+   "name": "허은영"
+  },
+  {
+   "role": "",
+   "name": "유정기"
+  },
+  {
+   "role": "",
+   "name": "나호숙"
+  },
+  {
+   "role": "",
+   "name": "김보람"
+  },
+  {
+   "role": "",
+   "name": "이규빈"
+  },
+  {
+   "role": "",
+   "name": "이유빈"
+  },
+  {
+   "role": "",
+   "name": "김태진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250712070327/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=160119"
+ }
+}

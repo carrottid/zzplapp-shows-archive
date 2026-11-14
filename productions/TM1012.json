@@ -1,0 +1,78 @@
+{
+ "id": "TM1012",
+ "title": "풀몬티",
+ "genre": "뮤지컬",
+ "from": "2003-12-06",
+ "to": "2004-01-18",
+ "venue": "한전아츠풀센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_풀몬티.JPG",
+ "cast": [
+  "변우민",
+  "김장섭",
+  "진도희",
+  "이미라",
+  "문경택",
+  "박시원",
+  "하은섬",
+  "황현정",
+  "고경만",
+  "이현진",
+  "임형준"
+ ],
+ "state": "공연완료",
+ "producer": "루트원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "제리",
+   "name": "변우민"
+  },
+  {
+   "role": "제리",
+   "name": "김장섭"
+  },
+  {
+   "role": "제리",
+   "name": "진도희"
+  },
+  {
+   "role": "제리",
+   "name": "이미라"
+  },
+  {
+   "role": "제리",
+   "name": "문경택"
+  },
+  {
+   "role": "제리",
+   "name": "박시원"
+  },
+  {
+   "role": "제리",
+   "name": "하은섬"
+  },
+  {
+   "role": "제리",
+   "name": "황현정"
+  },
+  {
+   "role": "제리",
+   "name": "고경만"
+  },
+  {
+   "role": "제리",
+   "name": "이현진"
+  },
+  {
+   "role": "제리",
+   "name": "임형준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1012"
+ }
+}

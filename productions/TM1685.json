@@ -1,0 +1,84 @@
+{
+ "id": "TM1685",
+ "title": "코로네이션 볼",
+ "genre": "뮤지컬",
+ "from": "2010-12-24",
+ "to": "2011-01-17",
+ "venue": "예술의전당 토월극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_coronation ball(2010).jpg",
+ "cast": [
+  "홍경수",
+  "손준호",
+  "정원영",
+  "윤성모",
+  "윤영석",
+  "김성민",
+  "진주",
+  "문혜영",
+  "이영미",
+  "신영숙",
+  "엄태리",
+  "베이지"
+ ],
+ "state": "공연완료",
+ "producer": "AP 컴퍼니",
+ "price": "VIP석 100,000원 / R석 70,000원 / S석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "조니 록포르",
+   "name": "홍경수"
+  },
+  {
+   "role": "조니 록포르",
+   "name": "손준호"
+  },
+  {
+   "role": "지기",
+   "name": "정원영"
+  },
+  {
+   "role": "지기",
+   "name": "윤성모"
+  },
+  {
+   "role": "제로 장비에",
+   "name": "윤영석"
+  },
+  {
+   "role": "제로 장비에",
+   "name": "김성민"
+  },
+  {
+   "role": "마리 잔느",
+   "name": "진주"
+  },
+  {
+   "role": "마리 잔느",
+   "name": "문혜영"
+  },
+  {
+   "role": "스텔라 스포트라이트/사디아",
+   "name": "이영미"
+  },
+  {
+   "role": "스텔라 스포트라이트/사디아",
+   "name": "신영숙"
+  },
+  {
+   "role": "크리스탈",
+   "name": "엄태리"
+  },
+  {
+   "role": "크리스탈",
+   "name": "베이지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1685"
+ }
+}

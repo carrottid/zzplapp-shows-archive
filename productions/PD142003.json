@@ -1,0 +1,86 @@
+{
+ "id": "PD142003",
+ "title": "흉터",
+ "genre": "연극",
+ "from": "2019-06-01",
+ "to": "2019-12-29",
+ "venue": "미마지 아트센터 풀빛극장",
+ "cast": [
+  "이종환",
+  "김상훈",
+  "전청일",
+  "김희수",
+  "고예현",
+  "이현서",
+  "유원진",
+  "이궁아라",
+  "석봉준",
+  "엄현수",
+  "양승환",
+  "박승유",
+  "지선우"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "동훈",
+   "name": "이종환"
+  },
+  {
+   "role": "동훈",
+   "name": "김상훈"
+  },
+  {
+   "role": "동훈",
+   "name": "전청일"
+  },
+  {
+   "role": "동훈",
+   "name": "김희수"
+  },
+  {
+   "role": "지은",
+   "name": "고예현"
+  },
+  {
+   "role": "지은",
+   "name": "이현서"
+  },
+  {
+   "role": "지은",
+   "name": "유원진"
+  },
+  {
+   "role": "지은",
+   "name": "이궁아라"
+  },
+  {
+   "role": "재용",
+   "name": "석봉준"
+  },
+  {
+   "role": "재용",
+   "name": "엄현수"
+  },
+  {
+   "role": "재용",
+   "name": "양승환"
+  },
+  {
+   "role": "재용",
+   "name": "박승유"
+  },
+  {
+   "role": "",
+   "name": "지선우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250612150134/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=142003"
+ }
+}

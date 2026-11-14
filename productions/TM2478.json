@@ -1,0 +1,128 @@
+{
+ "id": "TM2478",
+ "title": "서른 즈음에",
+ "genre": "뮤지컬",
+ "from": "2017-10-20",
+ "to": "2017-12-02",
+ "venue": "이화여자대학교 삼성홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20170925055940863AS5AH0QF2U6L3.jpg",
+ "cast": [
+  "산들",
+  "백형훈",
+  "이정열",
+  "조순창",
+  "유주혜",
+  "Kei(케이)",
+  "정예지",
+  "김려원",
+  "김도신",
+  "최석진",
+  "김현진",
+  "조은솔",
+  "이한밀",
+  "한규정",
+  "윤진영",
+  "정연호",
+  "이휴",
+  "정민희",
+  "서연정",
+  "김경용"
+ ],
+ "state": "공연완료",
+ "producer": "㈜에그플랜트",
+ "price": "R석 7만원 / S석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "젊은현식",
+   "name": "산들"
+  },
+  {
+   "role": "젊은현식",
+   "name": "백형훈"
+  },
+  {
+   "role": "중년현식",
+   "name": "이정열"
+  },
+  {
+   "role": "중년현식",
+   "name": "조순창"
+  },
+  {
+   "role": "옥희",
+   "name": "유주혜"
+  },
+  {
+   "role": "옥희",
+   "name": "Kei(케이)"
+  },
+  {
+   "role": "혜원",
+   "name": "정예지"
+  },
+  {
+   "role": "혜원",
+   "name": "김려원"
+  },
+  {
+   "role": "오과장",
+   "name": "김도신"
+  },
+  {
+   "role": "이대리",
+   "name": "최석진"
+  },
+  {
+   "role": "이대리",
+   "name": "김현진"
+  },
+  {
+   "role": "이대리/앙상블",
+   "name": "조은솔"
+  },
+  {
+   "role": "젊은현식 엄마",
+   "name": "김현진"
+  },
+  {
+   "role": "상철",
+   "name": "이한밀"
+  },
+  {
+   "role": "상철",
+   "name": "한규정"
+  },
+  {
+   "role": "진영",
+   "name": "윤진영"
+  },
+  {
+   "role": "연호",
+   "name": "정연호"
+  },
+  {
+   "role": "아내/앙상블",
+   "name": "이휴"
+  },
+  {
+   "role": "앙상블",
+   "name": "정민희"
+  },
+  {
+   "role": "앙상블",
+   "name": "서연정"
+  },
+  {
+   "role": "스윙",
+   "name": "김경용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2478"
+ }
+}

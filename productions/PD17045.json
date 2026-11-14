@@ -1,0 +1,31 @@
+{
+ "id": "PD17045",
+ "title": "가정식 백반 맛있게 먹는법",
+ "genre": "연극",
+ "from": "2010-06-09",
+ "to": "2010-06-20",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "임형택",
+  "김문식"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "양상호",
+   "name": "임형택"
+  },
+  {
+   "role": "김종태",
+   "name": "김문식"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704045156/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=17045"
+ }
+}

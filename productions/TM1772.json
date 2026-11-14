@@ -1,0 +1,64 @@
+{
+ "id": "TM1772",
+ "title": "에릭사티",
+ "genre": "뮤지컬",
+ "from": "2011-09-30",
+ "to": "2011-10-02",
+ "venue": "대학로문화공간 필링 1관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_post er.jpg",
+ "cast": [
+  "박호산",
+  "이주광",
+  "한성식",
+  "이태린",
+  "김용호",
+  "원현지",
+  "강초롱",
+  "조인아"
+ ],
+ "state": "공연완료",
+ "producer": "안산문화예술의전당",
+ "price": "R석 3만원 / S석 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "에릭 사티",
+   "name": "박호산"
+  },
+  {
+   "role": "토미",
+   "name": "이주광"
+  },
+  {
+   "role": "중대장 외",
+   "name": "한성식"
+  },
+  {
+   "role": "수잔",
+   "name": "이태린"
+  },
+  {
+   "role": "연출가",
+   "name": "김용호"
+  },
+  {
+   "role": "쌍둥이",
+   "name": "원현지"
+  },
+  {
+   "role": "소년",
+   "name": "강초롱"
+  },
+  {
+   "role": "발레리나",
+   "name": "조인아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1772"
+ }
+}

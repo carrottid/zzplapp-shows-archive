@@ -1,0 +1,61 @@
+{
+ "id": "PD139922",
+ "title": "넓은 하늘의 무지개를 보면 내 마음은 춤춘다",
+ "genre": "연극",
+ "from": "2019-04-12",
+ "to": "2019-04-21",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "김재건",
+  "박윤희",
+  "박완규",
+  "한윤춘",
+  "김성철",
+  "조성국",
+  "최지혜",
+  "배현아"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "조병식",
+   "name": "김재건"
+  },
+  {
+   "role": "조한수",
+   "name": "박윤희"
+  },
+  {
+   "role": "조원우",
+   "name": "박완규"
+  },
+  {
+   "role": "신태호",
+   "name": "한윤춘"
+  },
+  {
+   "role": "박수영",
+   "name": "김성철"
+  },
+  {
+   "role": "박수영",
+   "name": "조성국"
+  },
+  {
+   "role": "김정숙",
+   "name": "최지혜"
+  },
+  {
+   "role": "",
+   "name": "배현아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251009144218/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=139922"
+ }
+}

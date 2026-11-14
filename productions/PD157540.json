@@ -1,0 +1,31 @@
+{
+ "id": "PD157540",
+ "title": "산울림 고전극장 - 돼지떼",
+ "genre": "연극",
+ "from": "2020-06-24",
+ "to": "2020-07-05",
+ "venue": "산울림 소극장",
+ "cast": [
+  "김소정",
+  "박수진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "조르주 상드",
+   "name": "김소정"
+  },
+  {
+   "role": "아멜리",
+   "name": "박수진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240305050335/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=157540"
+ }
+}

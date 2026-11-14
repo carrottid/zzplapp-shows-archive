@@ -1,0 +1,66 @@
+{
+ "id": "PD57297",
+ "title": "타이밍",
+ "genre": "연극",
+ "from": "2014-02-06",
+ "to": "2014-04-27",
+ "venue": "대학로 예술극장 나무와 물",
+ "cast": [
+  "서지훈",
+  "한창완",
+  "최효종",
+  "김재익",
+  "차형은",
+  "유일한",
+  "권오경",
+  "조유미",
+  "남소하"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "강건",
+   "name": "서지훈"
+  },
+  {
+   "role": "강건",
+   "name": "한창완"
+  },
+  {
+   "role": "정민",
+   "name": "최효종"
+  },
+  {
+   "role": "정민",
+   "name": "김재익"
+  },
+  {
+   "role": "정민",
+   "name": "차형은"
+  },
+  {
+   "role": "오호",
+   "name": "유일한"
+  },
+  {
+   "role": "오호",
+   "name": "권오경"
+  },
+  {
+   "role": "미경",
+   "name": "조유미"
+  },
+  {
+   "role": "미경",
+   "name": "남소하"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251217040458/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=57297"
+ }
+}

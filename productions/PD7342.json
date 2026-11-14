@@ -1,0 +1,46 @@
+{
+ "id": "PD7342",
+ "title": "고도를 기다리며",
+ "genre": "연극",
+ "from": "2008-11-18",
+ "to": "2008-12-28",
+ "venue": "산울림 소극장",
+ "cast": [
+  "한명구",
+  "박상종",
+  "전국환",
+  "박윤석",
+  "김민석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "블라디미르",
+   "name": "한명구"
+  },
+  {
+   "role": "에스트라공",
+   "name": "박상종"
+  },
+  {
+   "role": "포조",
+   "name": "전국환"
+  },
+  {
+   "role": "럭키",
+   "name": "박윤석"
+  },
+  {
+   "role": "소년",
+   "name": "김민석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704015049/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=7342"
+ }
+}

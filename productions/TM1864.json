@@ -1,0 +1,64 @@
+{
+ "id": "TM1864",
+ "title": "프로포즈",
+ "genre": "뮤지컬",
+ "from": "2012-07-07",
+ "to": "2012-08-05",
+ "venue": "충무아트홀 중극장 블랙",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)58.jpg",
+ "cast": [
+  "윤석현",
+  "정욱진",
+  "조민희",
+  "최수진",
+  "이원",
+  "이재호",
+  "박지아",
+  "조진아"
+ ],
+ "state": "공연완료",
+ "producer": "(주)쇼앤라이프",
+ "price": "전석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "민호",
+   "name": "윤석현"
+  },
+  {
+   "role": "민호",
+   "name": "정욱진"
+  },
+  {
+   "role": "은경",
+   "name": "조민희"
+  },
+  {
+   "role": "은경",
+   "name": "최수진"
+  },
+  {
+   "role": "형철",
+   "name": "이원"
+  },
+  {
+   "role": "형철",
+   "name": "이재호"
+  },
+  {
+   "role": "진영",
+   "name": "박지아"
+  },
+  {
+   "role": "진영",
+   "name": "조진아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1864"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "id": "TM848",
+ "title": "마리아 마리아",
+ "genre": "뮤지컬",
+ "from": "2007-08-23",
+ "to": "2007-08-26",
+ "venue": "충무아트홀 대극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009170303197f1af20e8cef4468ab3b28fe18e72103.jpg",
+ "cast": [
+  "강효성",
+  "김보강",
+  "이승철"
+ ],
+ "state": "공연완료",
+ "producer": "조아뮤지컬컴퍼니",
+ "price": "R석 7만원 / S석 5만원 / A석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "마리아",
+   "name": "강효성"
+  },
+  {
+   "role": "예수",
+   "name": "김보강"
+  },
+  {
+   "role": "바리새인",
+   "name": "이승철"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=848"
+ }
+}

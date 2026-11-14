@@ -1,0 +1,69 @@
+{
+ "id": "TM758",
+ "title": "판타스틱스",
+ "genre": "뮤지컬",
+ "from": "2006-11-21",
+ "to": "2007-01-21",
+ "venue": "동숭아트센터 소극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200928035311eceac9cd7fd34862b38a321746e867d9.jpg",
+ "cast": [
+  "최재웅",
+  "최용민",
+  "권홍석",
+  "한성식",
+  "배승길",
+  "임혜영",
+  "서현철",
+  "이현철",
+  "조승연"
+ ],
+ "state": "공연완료",
+ "producer": "이다엔터테인먼트",
+ "price": "일반,대학생 3만원 / 중고생 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "엘가로",
+   "name": "최재웅"
+  },
+  {
+   "role": "허클비",
+   "name": "최용민"
+  },
+  {
+   "role": "허클비",
+   "name": "권홍석"
+  },
+  {
+   "role": "벨로미",
+   "name": "한성식"
+  },
+  {
+   "role": "마트",
+   "name": "배승길"
+  },
+  {
+   "role": "루이자",
+   "name": "임혜영"
+  },
+  {
+   "role": "헨리",
+   "name": "서현철"
+  },
+  {
+   "role": "머티머",
+   "name": "이현철"
+  },
+  {
+   "role": "뮤트",
+   "name": "조승연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=758"
+ }
+}

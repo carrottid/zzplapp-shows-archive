@@ -1,0 +1,48 @@
+{
+ "id": "TM470",
+ "title": "갓스펠",
+ "genre": "뮤지컬",
+ "from": "2001-06-12",
+ "to": "2001-07-08",
+ "venue": "문화일보홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_g2_사본.jpg",
+ "cast": [
+  "추정화",
+  "최윤",
+  "황지영",
+  "안나민",
+  "전성우"
+ ],
+ "state": "공연완료",
+ "producer": "극단 두레",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "소냐",
+   "name": "추정화"
+  },
+  {
+   "role": "소냐",
+   "name": "최윤"
+  },
+  {
+   "role": "소냐",
+   "name": "황지영"
+  },
+  {
+   "role": "소냐",
+   "name": "안나민"
+  },
+  {
+   "role": "제프리",
+   "name": "전성우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=470"
+ }
+}

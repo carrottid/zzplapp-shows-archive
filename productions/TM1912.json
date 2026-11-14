@@ -1,0 +1,94 @@
+{
+ "id": "TM1912",
+ "title": "벽을 뚫는 남자",
+ "genre": "뮤지컬",
+ "from": "2012-11-27",
+ "to": "2013-02-06",
+ "venue": "이화여대 삼성홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster29.jpg",
+ "cast": [
+  "임창정",
+  "이종혁",
+  "고창석",
+  "임형준",
+  "오소연",
+  "구원영",
+  "김대종",
+  "강연종",
+  "조진아",
+  "이지송",
+  "심재현",
+  "김동현",
+  "나세나",
+  "송형은"
+ ],
+ "state": "공연완료",
+ "producer": "쇼노트, CJ E&M",
+ "price": "R석 10만원 / S석 8만원 / A석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "듀티율",
+   "name": "임창정"
+  },
+  {
+   "role": "듀티율",
+   "name": "이종혁"
+  },
+  {
+   "role": "듀블/경찰2/변호사",
+   "name": "고창석"
+  },
+  {
+   "role": "듀블/경찰2/변호사",
+   "name": "임형준"
+  },
+  {
+   "role": "이사벨",
+   "name": "오소연"
+  },
+  {
+   "role": "야채장사(매춘부)",
+   "name": "구원영"
+  },
+  {
+   "role": "부장/검사/죄수",
+   "name": "김대종"
+  },
+  {
+   "role": "화가",
+   "name": "강연종"
+  },
+  {
+   "role": "공무원 M양",
+   "name": "조진아"
+  },
+  {
+   "role": "신문팔이",
+   "name": "이지송"
+  },
+  {
+   "role": "공무원 C씨 / 경찰1 / 형무소장",
+   "name": "심재현"
+  },
+  {
+   "role": "공무원 B씨 / 간수1 / 파시스트",
+   "name": "김동현"
+  },
+  {
+   "role": "공무원 A부인 / 공산주의자",
+   "name": "나세나"
+  },
+  {
+   "role": "간수2 / 재판장 / 거지",
+   "name": "송형은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1912"
+ }
+}

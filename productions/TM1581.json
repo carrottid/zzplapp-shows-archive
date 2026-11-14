@@ -1,0 +1,54 @@
+{
+ "id": "TM1581",
+ "title": "죠수미 콤플렉스",
+ "genre": "뮤지컬",
+ "from": "2010-02-19",
+ "to": "2010-02-28",
+ "venue": "르메이에르소극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_josumi2010.jpg",
+ "cast": [
+  "하은섬",
+  "김수정",
+  "정나온",
+  "최윤",
+  "김상윤",
+  "김도형"
+ ],
+ "state": "공연완료",
+ "producer": "(주)인스리아컴퍼니",
+ "price": "전석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "마리아 팔코네이",
+   "name": "하은섬"
+  },
+  {
+   "role": "차차 로페즈",
+   "name": "김수정"
+  },
+  {
+   "role": "차차 로페즈",
+   "name": "정나온"
+  },
+  {
+   "role": "어니스트 티쉬",
+   "name": "최윤"
+  },
+  {
+   "role": "알베르토 발사모",
+   "name": "김상윤"
+  },
+  {
+   "role": "필립 리차드",
+   "name": "김도형"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1581"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "PD102886",
+ "title": "바다 한 가운데서",
+ "genre": "연극",
+ "from": "2016-12-26",
+ "to": "2017-01-01",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "이승철",
+  "신선영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "인물1",
+   "name": "이승철"
+  },
+  {
+   "role": "우체부, 하녀",
+   "name": "신선영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250210014515/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=102886"
+ }
+}

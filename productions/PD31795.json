@@ -1,0 +1,56 @@
+{
+ "id": "PD31795",
+ "title": "맘마미아 - 광주",
+ "genre": "뮤지컬",
+ "from": "2012-03-10",
+ "to": "2012-03-11",
+ "venue": "남한산성아트홀 (광주 문화스포츠센터)",
+ "cast": [
+  "최정원",
+  "전수경",
+  "황현정",
+  "이경미",
+  "성기윤",
+  "박윤희",
+  "황만익"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "도나",
+   "name": "최정원"
+  },
+  {
+   "role": "타냐",
+   "name": "전수경"
+  },
+  {
+   "role": "타냐",
+   "name": "황현정"
+  },
+  {
+   "role": "로지",
+   "name": "이경미"
+  },
+  {
+   "role": "샘",
+   "name": "성기윤"
+  },
+  {
+   "role": "빌",
+   "name": "박윤희"
+  },
+  {
+   "role": "해리",
+   "name": "황만익"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171024222937/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=31795"
+ }
+}

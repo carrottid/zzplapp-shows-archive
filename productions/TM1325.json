@@ -1,0 +1,114 @@
+{
+ "id": "TM1325",
+ "title": "색즉시공",
+ "genre": "뮤지컬",
+ "from": "2008-12-23",
+ "to": "2009-01-25",
+ "venue": "마포아트센터 아트홀 맥",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008saek.JPG",
+ "cast": [
+  "최정원",
+  "장승조(장현덕)",
+  "박소연",
+  "최연우",
+  "유채영",
+  "홍승아",
+  "김재만",
+  "하동준",
+  "김동현",
+  "이정선",
+  "임선호",
+  "박상언",
+  "김용철",
+  "최유리",
+  "이진성",
+  "이미림",
+  "강미선",
+  "박선하"
+ ],
+ "state": "공연완료",
+ "producer": "바다뮤지컬컴퍼니",
+ "price": "R석 6만원/S석 5만원/A석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "달수",
+   "name": "최정원"
+  },
+  {
+   "role": "달수",
+   "name": "장승조(장현덕)"
+  },
+  {
+   "role": "윤경",
+   "name": "박소연"
+  },
+  {
+   "role": "윤경",
+   "name": "최연우"
+  },
+  {
+   "role": "채경",
+   "name": "유채영"
+  },
+  {
+   "role": "채경",
+   "name": "홍승아"
+  },
+  {
+   "role": "기세",
+   "name": "김재만"
+  },
+  {
+   "role": "상민",
+   "name": "하동준"
+  },
+  {
+   "role": "진석",
+   "name": "김동현"
+  },
+  {
+   "role": "필수",
+   "name": "이정선"
+  },
+  {
+   "role": "주형",
+   "name": "임선호"
+  },
+  {
+   "role": "병수",
+   "name": "박상언"
+  },
+  {
+   "role": "철영",
+   "name": "김용철"
+  },
+  {
+   "role": "경선",
+   "name": "최유리"
+  },
+  {
+   "role": "다은",
+   "name": "이진성"
+  },
+  {
+   "role": "유미",
+   "name": "이미림"
+  },
+  {
+   "role": "현정",
+   "name": "강미선"
+  },
+  {
+   "role": "민영",
+   "name": "박선하"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1325"
+ }
+}

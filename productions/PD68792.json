@@ -1,0 +1,56 @@
+{
+ "id": "PD68792",
+ "title": "도로시밴드",
+ "genre": "뮤지컬",
+ "from": "2014-11-14",
+ "to": "2015-02-15",
+ "venue": "CJ 아지트 대학로(구 SM아트홀)",
+ "cast": [
+  "이민지",
+  "지혜연",
+  "정민",
+  "이성환",
+  "한시원",
+  "권오성",
+  "홍종화"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "도로시",
+   "name": "이민지"
+  },
+  {
+   "role": "도로시",
+   "name": "지혜연"
+  },
+  {
+   "role": "토토",
+   "name": "정민"
+  },
+  {
+   "role": "사자",
+   "name": "이성환"
+  },
+  {
+   "role": "양철",
+   "name": "한시원"
+  },
+  {
+   "role": "양철",
+   "name": "권오성"
+  },
+  {
+   "role": "허수아비",
+   "name": "홍종화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240624044805/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=68792"
+ }
+}

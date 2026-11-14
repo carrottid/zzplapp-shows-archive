@@ -1,0 +1,71 @@
+{
+ "id": "PD123601",
+ "title": "컨트롤트레인",
+ "genre": "연극",
+ "from": "2018-03-07",
+ "to": "2018-03-11",
+ "venue": "소극장 혜화당(구.까망 소극장)",
+ "cast": [
+  "구여라",
+  "권윤애",
+  "김근영",
+  "배민수",
+  "성호석",
+  "원종하",
+  "이준수",
+  "강길완",
+  "김현지",
+  "박종찬"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "독서광",
+   "name": "구여라"
+  },
+  {
+   "role": "줄리엣",
+   "name": "권윤애"
+  },
+  {
+   "role": "주인공",
+   "name": "김근영"
+  },
+  {
+   "role": "대망가",
+   "name": "배민수"
+  },
+  {
+   "role": "로미오",
+   "name": "성호석"
+  },
+  {
+   "role": "체스광",
+   "name": "원종하"
+  },
+  {
+   "role": "",
+   "name": "이준수"
+  },
+  {
+   "role": "",
+   "name": "강길완"
+  },
+  {
+   "role": "",
+   "name": "김현지"
+  },
+  {
+   "role": "",
+   "name": "박종찬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241206225351/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=123601"
+ }
+}

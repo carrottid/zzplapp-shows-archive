@@ -1,0 +1,51 @@
+{
+ "id": "PD115467",
+ "title": "리스크",
+ "genre": "연극",
+ "from": "2017-10-31",
+ "to": "2017-11-05",
+ "venue": "세실극장",
+ "cast": [
+  "양희준",
+  "서정후",
+  "윤서하",
+  "정경훈",
+  "김로완",
+  "한서연"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아루투로",
+   "name": "양희준"
+  },
+  {
+   "role": "미케레",
+   "name": "서정후"
+  },
+  {
+   "role": "도르테야",
+   "name": "윤서하"
+  },
+  {
+   "role": "사회자",
+   "name": "정경훈"
+  },
+  {
+   "role": "서커스단원",
+   "name": "김로완"
+  },
+  {
+   "role": "서커스단원",
+   "name": "한서연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210924164537/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=115467"
+ }
+}

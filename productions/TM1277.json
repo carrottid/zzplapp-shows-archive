@@ -1,0 +1,119 @@
+{
+ "id": "TM1277",
+ "title": "라디오스타",
+ "genre": "뮤지컬",
+ "from": "2008-11-18",
+ "to": "2008-12-31",
+ "venue": "국립중앙박물관 극장 용",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_radiostar2008.JPG",
+ "cast": [
+  "김원준",
+  "김도현",
+  "서범석",
+  "정준하",
+  "신의정",
+  "서현철",
+  "서만석",
+  "김영환",
+  "최윤실",
+  "최미소",
+  "박명훈",
+  "최종훈",
+  "차정현",
+  "홍륜희",
+  "이은상",
+  "박지환",
+  "정동진",
+  "김동현",
+  "천상민"
+ ],
+ "state": "공연완료",
+ "producer": "(주)쇼플레이",
+ "price": "VIP패키지석 10만원/R석 7만원/S석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "최곤",
+   "name": "김원준"
+  },
+  {
+   "role": "최곤",
+   "name": "김도현"
+  },
+  {
+   "role": "박민수",
+   "name": "서범석"
+  },
+  {
+   "role": "박민수",
+   "name": "정준하"
+  },
+  {
+   "role": "강PD",
+   "name": "신의정"
+  },
+  {
+   "role": "지국장",
+   "name": "서현철"
+  },
+  {
+   "role": "이스트리버 보컬",
+   "name": "서만석"
+  },
+  {
+   "role": "이스트리버 보컬",
+   "name": "김영환"
+  },
+  {
+   "role": "이스트리버 보컬",
+   "name": "최윤실"
+  },
+  {
+   "role": "이스트리버 보컬",
+   "name": "최미소"
+  },
+  {
+   "role": "김국장",
+   "name": "박명훈"
+  },
+  {
+   "role": "박기사",
+   "name": "최종훈"
+  },
+  {
+   "role": "최영도",
+   "name": "차정현"
+  },
+  {
+   "role": "순영",
+   "name": "홍륜희"
+  },
+  {
+   "role": "호영",
+   "name": "이은상"
+  },
+  {
+   "role": "호영",
+   "name": "박지환"
+  },
+  {
+   "role": "앙상블",
+   "name": "정동진"
+  },
+  {
+   "role": "앙상블",
+   "name": "김동현"
+  },
+  {
+   "role": "앙상블",
+   "name": "천상민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1277"
+ }
+}

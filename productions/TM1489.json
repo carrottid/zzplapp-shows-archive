@@ -1,0 +1,44 @@
+{
+ "id": "TM1489",
+ "title": "웨잇포유",
+ "genre": "뮤지컬",
+ "from": "2009-06-02",
+ "to": "2009-08-30",
+ "venue": "대학로 예술마당 3관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_posterwait.jpg",
+ "cast": [
+  "박호산",
+  "고경만",
+  "유하나",
+  "김수진"
+ ],
+ "state": "공연완료",
+ "producer": "P.A.Lab",
+ "price": "전석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "빌리",
+   "name": "박호산"
+  },
+  {
+   "role": "빌리",
+   "name": "고경만"
+  },
+  {
+   "role": "루아",
+   "name": "유하나"
+  },
+  {
+   "role": "루아",
+   "name": "김수진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1489"
+ }
+}

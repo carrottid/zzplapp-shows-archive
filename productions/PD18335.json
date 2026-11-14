@@ -1,0 +1,51 @@
+{
+ "id": "PD18335",
+ "title": "메노포즈 - 수원",
+ "genre": "뮤지컬",
+ "from": "2010-10-30",
+ "to": "2010-10-31",
+ "venue": "경기아트센터 대극장",
+ "cast": [
+  "홍지민",
+  "진도희",
+  "혜은이",
+  "이윤표",
+  "이영자",
+  "김현진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "전문직 여성",
+   "name": "홍지민"
+  },
+  {
+   "role": "전문직 여성",
+   "name": "진도희"
+  },
+  {
+   "role": "한물간 연속극 배우",
+   "name": "혜은이"
+  },
+  {
+   "role": "한물간 연속극 배우",
+   "name": "이윤표"
+  },
+  {
+   "role": "전업주부",
+   "name": "이영자"
+  },
+  {
+   "role": "웰빙주부",
+   "name": "김현진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230728004508/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=18335"
+ }
+}

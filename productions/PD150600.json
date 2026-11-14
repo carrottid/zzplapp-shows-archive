@@ -1,0 +1,41 @@
+{
+ "id": "PD150600",
+ "title": "그대와 영원히",
+ "genre": "연극",
+ "from": "2019-11-15",
+ "to": "2019-12-29",
+ "venue": "한성아트홀 1관",
+ "cast": [
+  "조예서",
+  "박재현",
+  "황지환",
+  "최율하"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "진서연",
+   "name": "조예서"
+  },
+  {
+   "role": "강민우",
+   "name": "박재현"
+  },
+  {
+   "role": "강민우",
+   "name": "황지환"
+  },
+  {
+   "role": "박혜경",
+   "name": "최율하"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240714200038/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=150600"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "id": "TM1983",
+ "title": "태화강",
+ "genre": "뮤지컬",
+ "from": "2013-06-28",
+ "to": "2013-06-29",
+ "venue": "국립극장 해오름극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013tae.jpg",
+ "cast": [
+  "민영기",
+  "서지유",
+  "배해선",
+  "이소유",
+  "박윤희"
+ ],
+ "state": "공연완료",
+ "producer": "국립극장, 울산광역시문화예술회관",
+ "price": "R석 5만원/ S석 3만원/ A석 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "울뫼",
+   "name": "민영기"
+  },
+  {
+   "role": "미리별",
+   "name": "서지유"
+  },
+  {
+   "role": "여울",
+   "name": "배해선"
+  },
+  {
+   "role": "요화",
+   "name": "이소유"
+  },
+  {
+   "role": "율포",
+   "name": "박윤희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1983"
+ }
+}

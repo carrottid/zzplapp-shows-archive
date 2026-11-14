@@ -1,0 +1,44 @@
+{
+ "id": "TM1664",
+ "title": "라디오스타",
+ "genre": "뮤지컬",
+ "from": "2010-11-16",
+ "to": "2011-01-02",
+ "venue": "올림픽공원 우리금융아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_radiostar-s.jpg",
+ "cast": [
+  "김원준",
+  "송용진",
+  "임창정",
+  "정준하"
+ ],
+ "state": "공연완료",
+ "producer": "쇼플레이",
+ "price": "VIP석 90,000원 / R석 80,000원 / S석 70,000원 /A석 60,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "최곤",
+   "name": "김원준"
+  },
+  {
+   "role": "최곤",
+   "name": "송용진"
+  },
+  {
+   "role": "박민수",
+   "name": "임창정"
+  },
+  {
+   "role": "박민수",
+   "name": "정준하"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1664"
+ }
+}

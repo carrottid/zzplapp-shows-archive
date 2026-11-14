@@ -1,0 +1,51 @@
+{
+ "id": "PD101811",
+ "title": "누가 그들을 만들었는가",
+ "genre": "연극",
+ "from": "2016-12-14",
+ "to": "2016-12-17",
+ "venue": "대학로 열린극장",
+ "cast": [
+  "민병욱",
+  "김관장",
+  "백승문",
+  "전정욱",
+  "최찬영",
+  "이다해"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "교관",
+   "name": "민병욱"
+  },
+  {
+   "role": "대철",
+   "name": "김관장"
+  },
+  {
+   "role": "동호",
+   "name": "백승문"
+  },
+  {
+   "role": "한규",
+   "name": "전정욱"
+  },
+  {
+   "role": "희수",
+   "name": "최찬영"
+  },
+  {
+   "role": "기자",
+   "name": "이다해"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170910054010/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=101811"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "id": "PD54574",
+ "title": "청춘밴드 제로",
+ "genre": "뮤지컬",
+ "from": "2013-11-20",
+ "to": "2014-01-01",
+ "venue": "백암아트홀",
+ "cast": [
+  "유환웅",
+  "조환준",
+  "신현묵",
+  "조선형",
+  "박승원",
+  "노민혁",
+  "문종민",
+  "백선주",
+  "서민정",
+  "방기범",
+  "김권",
+  "오준영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "최강인",
+   "name": "유환웅"
+  },
+  {
+   "role": "최강인",
+   "name": "조환준"
+  },
+  {
+   "role": "최강인",
+   "name": "신현묵"
+  },
+  {
+   "role": "설사준",
+   "name": "조선형"
+  },
+  {
+   "role": "설사준",
+   "name": "박승원"
+  },
+  {
+   "role": "정지오",
+   "name": "노민혁"
+  },
+  {
+   "role": "정지오",
+   "name": "문종민"
+  },
+  {
+   "role": "박태림",
+   "name": "백선주"
+  },
+  {
+   "role": "박태림",
+   "name": "서민정"
+  },
+  {
+   "role": "오덕원",
+   "name": "방기범"
+  },
+  {
+   "role": "오덕원",
+   "name": "김권"
+  },
+  {
+   "role": "DJ오(목소리출연)",
+   "name": "오준영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241108160511/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=54574"
+ }
+}

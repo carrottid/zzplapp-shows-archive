@@ -1,0 +1,41 @@
+{
+ "id": "PD153092",
+ "title": "장수상회 - 울산",
+ "genre": "연극",
+ "from": "2020-06-07",
+ "to": "2020-06-07",
+ "venue": "울산문화예술회관 대공연장",
+ "cast": [
+  "이순재",
+  "신구",
+  "손숙",
+  "박정수"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김성칠",
+   "name": "이순재"
+  },
+  {
+   "role": "김성칠",
+   "name": "신구"
+  },
+  {
+   "role": "임금님",
+   "name": "손숙"
+  },
+  {
+   "role": "임금님",
+   "name": "박정수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200216061927/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=153092"
+ }
+}

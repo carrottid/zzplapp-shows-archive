@@ -1,0 +1,84 @@
+{
+ "id": "TM1652",
+ "title": "그리스",
+ "genre": "뮤지컬",
+ "from": "2010-09-29",
+ "to": "2010-10-31",
+ "venue": "충무아트홀 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2010grease2.jpg",
+ "cast": [
+  "김산호",
+  "박준후(박영필)",
+  "손승현",
+  "박주용",
+  "조형균",
+  "정승민",
+  "장혜민",
+  "김수정",
+  "김경화",
+  "이소영",
+  "박하나",
+  "김유나"
+ ],
+ "state": "공연완료",
+ "producer": "㈜오디뮤지컬컴퍼니, ㈜CJ엔터테인먼트",
+ "price": "VIP석 7만원 / R석 6만원 / S석 5만원 / A석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "대니",
+   "name": "김산호"
+  },
+  {
+   "role": "대니",
+   "name": "박준후(박영필)"
+  },
+  {
+   "role": "케니키",
+   "name": "손승현"
+  },
+  {
+   "role": "로저",
+   "name": "박주용"
+  },
+  {
+   "role": "두디",
+   "name": "조형균"
+  },
+  {
+   "role": "소니",
+   "name": "정승민"
+  },
+  {
+   "role": "샌디",
+   "name": "장혜민"
+  },
+  {
+   "role": "샌디",
+   "name": "김수정"
+  },
+  {
+   "role": "리조",
+   "name": "김경화"
+  },
+  {
+   "role": "잔",
+   "name": "이소영"
+  },
+  {
+   "role": "프렌치",
+   "name": "박하나"
+  },
+  {
+   "role": "마티",
+   "name": "김유나"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1652"
+ }
+}

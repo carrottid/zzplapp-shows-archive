@@ -1,0 +1,41 @@
+{
+ "id": "PD105669",
+ "title": "나의 스타에게",
+ "genre": "연극",
+ "from": "2017-03-21",
+ "to": "2017-04-09",
+ "venue": "한성아트홀 2관",
+ "cast": [
+  "노현희",
+  "유단비",
+  "민채원",
+  "윤관식"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "노순정",
+   "name": "노현희"
+  },
+  {
+   "role": "노스타",
+   "name": "유단비"
+  },
+  {
+   "role": "마성질",
+   "name": "민채원"
+  },
+  {
+   "role": "윤감독",
+   "name": "윤관식"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240720094026/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=105669"
+ }
+}

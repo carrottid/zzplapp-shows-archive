@@ -1,0 +1,71 @@
+{
+ "id": "PD100849",
+ "title": "플라나리아",
+ "genre": "연극",
+ "from": "2016-10-13",
+ "to": "2016-10-19",
+ "venue": "소극장 혜화당(구.까망 소극장)",
+ "cast": [
+  "김성규",
+  "천슬기",
+  "박수진",
+  "이청안",
+  "최병조",
+  "전호현",
+  "김별",
+  "배나경",
+  "이규성",
+  "윤유정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "남자",
+   "name": "김성규"
+  },
+  {
+   "role": "근시녀/리셉션",
+   "name": "천슬기"
+  },
+  {
+   "role": "해설/매니저",
+   "name": "박수진"
+  },
+  {
+   "role": "대장녀/잔인녀",
+   "name": "이청안"
+  },
+  {
+   "role": "혀짤배기남",
+   "name": "최병조"
+  },
+  {
+   "role": "절름남/외톨이3",
+   "name": "전호현"
+  },
+  {
+   "role": "",
+   "name": "김별"
+  },
+  {
+   "role": "",
+   "name": "배나경"
+  },
+  {
+   "role": "",
+   "name": "이규성"
+  },
+  {
+   "role": "",
+   "name": "윤유정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241205225531/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=100849"
+ }
+}

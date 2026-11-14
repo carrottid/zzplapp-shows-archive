@@ -1,0 +1,36 @@
+{
+ "id": "PD46971",
+ "title": "나의 황홀한 실종기",
+ "genre": "연극",
+ "from": "2013-04-12",
+ "to": "2013-05-12",
+ "venue": "산울림 소극장",
+ "cast": [
+  "손숙",
+  "서은경",
+  "박윤석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "윤금숙",
+   "name": "손숙"
+  },
+  {
+   "role": "딸",
+   "name": "서은경"
+  },
+  {
+   "role": "목소리",
+   "name": "박윤석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704012648/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=46971"
+ }
+}

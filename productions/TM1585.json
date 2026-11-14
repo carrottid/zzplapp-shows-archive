@@ -1,0 +1,44 @@
+{
+ "id": "TM1585",
+ "title": "사랑에 관한 다섯 개의 소묘",
+ "genre": "뮤지컬",
+ "from": "2010-02-26",
+ "to": "2010-05-30",
+ "venue": "윤당아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2010 somyo.jpg",
+ "cast": [
+  "이성호",
+  "김아영",
+  "손홍민",
+  "김문주"
+ ],
+ "state": "공연완료",
+ "producer": "극단 오늘, 윤당아트홀",
+ "price": "전석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "전라도 남자/할아버지",
+   "name": "이성호"
+  },
+  {
+   "role": "전라도 여자/할머니",
+   "name": "김아영"
+  },
+  {
+   "role": "노총각/남편",
+   "name": "손홍민"
+  },
+  {
+   "role": "여대생",
+   "name": "김문주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1585"
+ }
+}

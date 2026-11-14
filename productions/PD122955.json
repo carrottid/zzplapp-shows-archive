@@ -1,0 +1,46 @@
+{
+ "id": "PD122955",
+ "title": "깊게 자자, 죽음의 문턱까지",
+ "genre": "연극",
+ "from": "2018-05-04",
+ "to": "2018-05-13",
+ "venue": "유니플렉스 2관",
+ "cast": [
+  "김연재",
+  "류성",
+  "이종승",
+  "김진아",
+  "고훈목"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "여 노인",
+   "name": "김연재"
+  },
+  {
+   "role": "박사",
+   "name": "류성"
+  },
+  {
+   "role": "남자",
+   "name": "이종승"
+  },
+  {
+   "role": "여자",
+   "name": "김진아"
+  },
+  {
+   "role": "야나기하라",
+   "name": "고훈목"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241202133531/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=122955"
+ }
+}

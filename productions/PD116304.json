@@ -1,0 +1,41 @@
+{
+ "id": "PD116304",
+ "title": "헤드윅 - 부산",
+ "genre": "뮤지컬",
+ "from": "2017-12-09",
+ "to": "2017-12-10",
+ "venue": "센텀시티 소향씨어터 신한카드홀",
+ "cast": [
+  "오만석",
+  "유연석",
+  "전혜선",
+  "제이민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "헤드윅",
+   "name": "오만석"
+  },
+  {
+   "role": "헤드윅",
+   "name": "유연석"
+  },
+  {
+   "role": "이츠학",
+   "name": "전혜선"
+  },
+  {
+   "role": "이츠학",
+   "name": "제이민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230831191120/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=116304"
+ }
+}

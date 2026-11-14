@@ -1,0 +1,56 @@
+{
+ "id": "PD98751",
+ "title": "바람이 불어오는 곳",
+ "genre": "뮤지컬",
+ "from": "2016-11-18",
+ "to": "2017-01-22",
+ "venue": "예그린씨어터",
+ "cast": [
+  "김소년",
+  "박형규",
+  "황려진",
+  "박두성",
+  "언희",
+  "이현도",
+  "박정권"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이풍세",
+   "name": "김소년"
+  },
+  {
+   "role": "이풍세",
+   "name": "박형규"
+  },
+  {
+   "role": "최고은",
+   "name": "황려진"
+  },
+  {
+   "role": "김상백",
+   "name": "박두성"
+  },
+  {
+   "role": "백은영",
+   "name": "언희"
+  },
+  {
+   "role": "홍영후",
+   "name": "이현도"
+  },
+  {
+   "role": "멀티맨",
+   "name": "박정권"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171106125932/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=98751"
+ }
+}

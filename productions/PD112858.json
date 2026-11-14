@@ -1,0 +1,71 @@
+{
+ "id": "PD112858",
+ "title": "거짓말 - 일일일일",
+ "genre": "연극",
+ "from": "2017-08-24",
+ "to": "2017-09-03",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "김세동",
+  "하재성",
+  "김정화",
+  "김형준",
+  "이강호",
+  "김민선",
+  "강지연",
+  "박미르",
+  "김선기",
+  "이은정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "남자",
+   "name": "김세동"
+  },
+  {
+   "role": "남자",
+   "name": "하재성"
+  },
+  {
+   "role": "남자",
+   "name": "김정화"
+  },
+  {
+   "role": "남자",
+   "name": "김형준"
+  },
+  {
+   "role": "",
+   "name": "이강호"
+  },
+  {
+   "role": "여자",
+   "name": "김민선"
+  },
+  {
+   "role": "여자",
+   "name": "강지연"
+  },
+  {
+   "role": "여자",
+   "name": "박미르"
+  },
+  {
+   "role": "여자",
+   "name": "김선기"
+  },
+  {
+   "role": "",
+   "name": "이은정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220526015726/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=112858"
+ }
+}

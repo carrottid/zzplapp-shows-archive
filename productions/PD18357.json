@@ -1,0 +1,51 @@
+{
+ "id": "PD18357",
+ "title": "친정엄마 - 제주",
+ "genre": "뮤지컬",
+ "from": "2010-10-16",
+ "to": "2010-10-17",
+ "venue": "제주아트센터",
+ "cast": [
+  "김수미",
+  "선우용녀",
+  "정나온",
+  "오정해",
+  "민경옥",
+  "홍윤희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "엄마",
+   "name": "김수미"
+  },
+  {
+   "role": "엄마",
+   "name": "선우용녀"
+  },
+  {
+   "role": "딸",
+   "name": "정나온"
+  },
+  {
+   "role": "딸",
+   "name": "오정해"
+  },
+  {
+   "role": "시어머니",
+   "name": "민경옥"
+  },
+  {
+   "role": "서울댁",
+   "name": "홍윤희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251208173135/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=18357"
+ }
+}

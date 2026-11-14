@@ -1,0 +1,76 @@
+{
+ "id": "PD83558",
+ "title": "허튼 웃음",
+ "genre": "연극",
+ "from": "2015-10-16",
+ "to": "2015-11-15",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "채송화",
+  "강수영",
+  "이세영",
+  "김조연",
+  "임주용",
+  "노희석",
+  "김경환",
+  "서미영",
+  "김화영",
+  "이경선",
+  "이정근"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "선미,선덕",
+   "name": "채송화"
+  },
+  {
+   "role": "진명,천명",
+   "name": "강수영"
+  },
+  {
+   "role": "진명,천명",
+   "name": "이세영"
+  },
+  {
+   "role": "수용,용수",
+   "name": "김조연"
+  },
+  {
+   "role": "용호,용춘",
+   "name": "임주용"
+  },
+  {
+   "role": "단원남,화랑1",
+   "name": "노희석"
+  },
+  {
+   "role": "단원남,화랑2",
+   "name": "김경환"
+  },
+  {
+   "role": "",
+   "name": "서미영"
+  },
+  {
+   "role": "",
+   "name": "김화영"
+  },
+  {
+   "role": "",
+   "name": "이경선"
+  },
+  {
+   "role": "",
+   "name": "이정근"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200815164223/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=83558"
+ }
+}

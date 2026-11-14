@@ -1,0 +1,74 @@
+{
+ "id": "PD125767",
+ "title": "국경의 남쪽",
+ "genre": "뮤지컬",
+ "from": "2018-06-29",
+ "to": "2018-07-15",
+ "venue": "두산아트센터 연강홀",
+ "cast": [
+  "최인형",
+  "강상준",
+  "김건혜",
+  "송문선",
+  "하선진",
+  "박석용",
+  "고미경",
+  "김백현",
+  "신상언"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "선호",
+   "name": "최인형"
+  },
+  {
+   "role": "선호",
+   "name": "강상준"
+  },
+  {
+   "role": "박형사",
+   "name": "최인형"
+  },
+  {
+   "role": "박형사",
+   "name": "강상준"
+  },
+  {
+   "role": "연화",
+   "name": "김건혜"
+  },
+  {
+   "role": "연화",
+   "name": "송문선"
+  },
+  {
+   "role": "경주",
+   "name": "하선진"
+  },
+  {
+   "role": "선호 아버지",
+   "name": "박석용"
+  },
+  {
+   "role": "선호 어머니",
+   "name": "고미경"
+  },
+  {
+   "role": "",
+   "name": "김백현"
+  },
+  {
+   "role": "",
+   "name": "신상언"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210115235903/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=125767"
+ }
+}

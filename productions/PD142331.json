@@ -1,0 +1,41 @@
+{
+ "id": "PD142331",
+ "title": "춘향전쟁",
+ "genre": "연극",
+ "from": "2019-06-05",
+ "to": "2019-06-23",
+ "venue": "국립정동극장(서울)",
+ "cast": [
+  "김봉영",
+  "오단해",
+  "오대석",
+  "김대곤"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "신감독, 소리꾼",
+   "name": "김봉영"
+  },
+  {
+   "role": "신감독, 소리꾼",
+   "name": "오단해"
+  },
+  {
+   "role": "이세형",
+   "name": "오대석"
+  },
+  {
+   "role": "이세형",
+   "name": "김대곤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230926195206/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=142331"
+ }
+}

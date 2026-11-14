@@ -1,0 +1,80 @@
+{
+ "id": "PD103392",
+ "title": "쓰릴 미",
+ "genre": "뮤지컬",
+ "from": "2017-02-14",
+ "to": "2017-05-28",
+ "venue": "백암아트홀",
+ "cast": [
+  "강필석",
+  "최재웅",
+  "정상윤",
+  "김재범",
+  "이창용",
+  "정욱진",
+  "김무열",
+  "이율",
+  "정동화",
+  "에녹",
+  "송원근"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "나",
+   "name": "강필석"
+  },
+  {
+   "role": "나",
+   "name": "최재웅"
+  },
+  {
+   "role": "나",
+   "name": "정상윤"
+  },
+  {
+   "role": "나",
+   "name": "김재범"
+  },
+  {
+   "role": "",
+   "name": "이창용"
+  },
+  {
+   "role": "",
+   "name": "정욱진"
+  },
+  {
+   "role": "그",
+   "name": "김무열"
+  },
+  {
+   "role": "그",
+   "name": "이율"
+  },
+  {
+   "role": "그",
+   "name": "정상윤"
+  },
+  {
+   "role": "그",
+   "name": "정동화"
+  },
+  {
+   "role": "",
+   "name": "에녹"
+  },
+  {
+   "role": "",
+   "name": "송원근"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251116130302/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=103392"
+ }
+}

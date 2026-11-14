@@ -1,0 +1,59 @@
+{
+ "id": "TM2141",
+ "title": "타이거",
+ "genre": "뮤지컬",
+ "from": "2015-02-05",
+ "to": "2015-02-08",
+ "venue": "세종문화회관 M씨어터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20150127105623Y323K8HGB2146C4P.jpg",
+ "cast": [
+  "김준겸",
+  "김지유",
+  "맹원태",
+  "구명훈",
+  "박영주",
+  "최윤우",
+  "김예진"
+ ],
+ "state": "공연완료",
+ "producer": "뮤지컬파크, ㈜스트로우",
+ "price": "R석 7만원 / S석 5만원 / A석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "홍승혁",
+   "name": "김준겸"
+  },
+  {
+   "role": "이서연",
+   "name": "김지유"
+  },
+  {
+   "role": "김민성",
+   "name": "맹원태"
+  },
+  {
+   "role": "연구소장",
+   "name": "구명훈"
+  },
+  {
+   "role": "산지기 노인",
+   "name": "박영주"
+  },
+  {
+   "role": "점쟁이",
+   "name": "최윤우"
+  },
+  {
+   "role": "관광안내원/대장",
+   "name": "김예진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2141"
+ }
+}

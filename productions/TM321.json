@@ -1,0 +1,59 @@
+{
+ "id": "TM321",
+ "title": "클럽 하늘",
+ "genre": "뮤지컬",
+ "from": "2004-04-01",
+ "to": "2004-04-18",
+ "venue": "하늘극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_play_975.jpg",
+ "cast": [
+  "이준혁",
+  "김선아",
+  "김용래",
+  "맹상열",
+  "이은주",
+  "민세희",
+  "김상아"
+ ],
+ "state": "공연완료",
+ "producer": "국립 중앙극장",
+ "price": "일반 25,000원/학생 15,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "라이샌더",
+   "name": "이준혁"
+  },
+  {
+   "role": "라이샌더",
+   "name": "김선아"
+  },
+  {
+   "role": "라이샌더",
+   "name": "김용래"
+  },
+  {
+   "role": "라이샌더",
+   "name": "맹상열"
+  },
+  {
+   "role": "앙상블",
+   "name": "이은주"
+  },
+  {
+   "role": "앙상블",
+   "name": "민세희"
+  },
+  {
+   "role": "앙상블",
+   "name": "김상아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=321"
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "id": "TM1005",
+ "title": "더플레이 엑스",
+ "genre": "뮤지컬",
+ "from": "2005-04-02",
+ "to": "2005-06-26",
+ "venue": "발렌타인극장 2관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2005 x.JPG",
+ "cast": [
+  "김영민",
+  "조은별",
+  "박은영",
+  "오수윤",
+  "조기왕",
+  "이동수",
+  "홍민희"
+ ],
+ "state": "공연완료",
+ "producer": "발렌타인엔터테인먼트",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "아무개/애개",
+   "name": "김영민"
+  },
+  {
+   "role": "아무개/애개",
+   "name": "조은별"
+  },
+  {
+   "role": "아무개/애개",
+   "name": "박은영"
+  },
+  {
+   "role": "아무개/애개",
+   "name": "오수윤"
+  },
+  {
+   "role": "아무개/애개",
+   "name": "조기왕"
+  },
+  {
+   "role": "아무개/애개",
+   "name": "이동수"
+  },
+  {
+   "role": "아무개/애개",
+   "name": "홍민희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1005"
+ }
+}

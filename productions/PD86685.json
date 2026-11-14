@@ -1,0 +1,76 @@
+{
+ "id": "PD86685",
+ "title": "죽여주는 이야기 - 대구",
+ "genre": "연극",
+ "from": "2016-01-07",
+ "to": "2016-03-13",
+ "venue": "아트플러스씨어터 1관",
+ "cast": [
+  "최종윤",
+  "김진엽",
+  "이주영",
+  "박민우",
+  "윤토왕",
+  "이연승",
+  "김현지",
+  "이현진",
+  "김정빈",
+  "이창해",
+  "승준영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "안락사",
+   "name": "최종윤"
+  },
+  {
+   "role": "안락사",
+   "name": "김진엽"
+  },
+  {
+   "role": "안락사",
+   "name": "이주영"
+  },
+  {
+   "role": "안락사",
+   "name": "박민우"
+  },
+  {
+   "role": "마돈나",
+   "name": "윤토왕"
+  },
+  {
+   "role": "마돈나",
+   "name": "이연승"
+  },
+  {
+   "role": "마돈나",
+   "name": "김현지"
+  },
+  {
+   "role": "바보레옹",
+   "name": "이현진"
+  },
+  {
+   "role": "바보레옹",
+   "name": "김정빈"
+  },
+  {
+   "role": "바보레옹",
+   "name": "이창해"
+  },
+  {
+   "role": "바보레옹",
+   "name": "승준영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250113134836/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=86685"
+ }
+}

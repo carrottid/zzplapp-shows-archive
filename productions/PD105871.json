@@ -1,0 +1,56 @@
+{
+ "id": "PD105871",
+ "title": "사랑해요 당신",
+ "genre": "연극",
+ "from": "2017-04-04",
+ "to": "2017-05-28",
+ "venue": "예그린씨어터",
+ "cast": [
+  "이순재",
+  "장용",
+  "정영숙",
+  "오미연",
+  "김동규",
+  "문용현",
+  "문고운"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "한상우",
+   "name": "이순재"
+  },
+  {
+   "role": "한상우",
+   "name": "장용"
+  },
+  {
+   "role": "주윤애",
+   "name": "정영숙"
+  },
+  {
+   "role": "주윤애",
+   "name": "오미연"
+  },
+  {
+   "role": "한종태",
+   "name": "김동규"
+  },
+  {
+   "role": "한종태",
+   "name": "문용현"
+  },
+  {
+   "role": "간병인 외 멀티",
+   "name": "문고운"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240723111932/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=105871"
+ }
+}

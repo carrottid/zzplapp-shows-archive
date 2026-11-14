@@ -1,0 +1,46 @@
+{
+ "id": "PD127704",
+ "title": "마리아 마리아",
+ "genre": "뮤지컬",
+ "from": "2018-07-28",
+ "to": "2018-08-05",
+ "venue": "충무아트센터 중극장 블랙",
+ "cast": [
+  "안유진",
+  "소냐",
+  "허규",
+  "도율희",
+  "황민수"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "마리아",
+   "name": "안유진"
+  },
+  {
+   "role": "마리아",
+   "name": "소냐"
+  },
+  {
+   "role": "예수",
+   "name": "허규"
+  },
+  {
+   "role": "코러스",
+   "name": "도율희"
+  },
+  {
+   "role": "코러스",
+   "name": "황민수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200811012401/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=127704"
+ }
+}

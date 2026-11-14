@@ -1,0 +1,71 @@
+{
+ "id": "PD83694",
+ "title": "라이어 타임",
+ "genre": "뮤지컬",
+ "from": "2015-10-23",
+ "to": "2015-11-15",
+ "venue": "예스24아트원 2관",
+ "cast": [
+  "황민수",
+  "박강현",
+  "이경욱",
+  "남궁혜인",
+  "정다희",
+  "박성환",
+  "이현진",
+  "전재현",
+  "김정은",
+  "박재성"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "안단테",
+   "name": "황민수"
+  },
+  {
+   "role": "안단테",
+   "name": "박강현"
+  },
+  {
+   "role": "안박사",
+   "name": "이경욱"
+  },
+  {
+   "role": "모혜나",
+   "name": "남궁혜인"
+  },
+  {
+   "role": "모혜나",
+   "name": "정다희"
+  },
+  {
+   "role": "차대호",
+   "name": "박성환"
+  },
+  {
+   "role": "할머니",
+   "name": "이현진"
+  },
+  {
+   "role": "멀티",
+   "name": "전재현"
+  },
+  {
+   "role": "멀티",
+   "name": "김정은"
+  },
+  {
+   "role": "멀티",
+   "name": "박재성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241015071602/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=83694"
+ }
+}

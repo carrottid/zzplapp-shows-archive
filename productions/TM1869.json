@@ -1,0 +1,94 @@
+{
+ "id": "TM1869",
+ "title": "위키드",
+ "genre": "뮤지컬",
+ "from": "2012-05-29",
+ "to": "2012-10-07",
+ "venue": "블루스퀘어 삼성전자홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)62.jpg",
+ "cast": [
+  "젬마 릭스(Jemma Rix)",
+  "수지 매더스(Suzie Mathers)",
+  "매기 커크패트릭(Maggie Kirkpatrick)",
+  "데이비드 해리스(David Harris)",
+  "리처드 H 블레이크(Richasrd H. Bake)",
+  "글렌 호그스트롬(Glen Hogstrom)",
+  "네이슨 카터(Nathan Carter)",
+  "제니 디노이어(Jenny Dinoia)",
+  "엘리사 콜라(Elisa Colla)",
+  "제임스 스미스(James Smith)",
+  "존 오하라(John O`hara)",
+  "클레어 조지(Claire George)",
+  "라이언 셰퍼드(Ryan Sheppard)",
+  "그레텔 스칼렛(Gretel Scalett)"
+ ],
+ "state": "공연완료",
+ "producer": "설앤컴퍼니, CJ E＆M, 인터파크씨어터",
+ "price": "VIP석 16만원 / R석 13만원 / S석 9만원 / A석 7만원 / B석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "엘파바",
+   "name": "젬마 릭스(Jemma Rix)"
+  },
+  {
+   "role": "글린다",
+   "name": "수지 매더스(Suzie Mathers)"
+  },
+  {
+   "role": "모리블 학장",
+   "name": "매기 커크패트릭(Maggie Kirkpatrick)"
+  },
+  {
+   "role": "피에로",
+   "name": "데이비드 해리스(David Harris)"
+  },
+  {
+   "role": "피에로",
+   "name": "리처드 H 블레이크(Richasrd H. Bake)"
+  },
+  {
+   "role": "오즈의 마법사",
+   "name": "글렌 호그스트롬(Glen Hogstrom)"
+  },
+  {
+   "role": "딜라몬드 교수",
+   "name": "네이슨 카터(Nathan Carter)"
+  },
+  {
+   "role": "엘파바 얼터",
+   "name": "제니 디노이어(Jenny Dinoia)"
+  },
+  {
+   "role": "네사로즈",
+   "name": "엘리사 콜라(Elisa Colla)"
+  },
+  {
+   "role": "보크",
+   "name": "제임스 스미스(James Smith)"
+  },
+  {
+   "role": "초록마녀의 아빠",
+   "name": "존 오하라(John O`hara)"
+  },
+  {
+   "role": "조산사",
+   "name": "클레어 조지(Claire George)"
+  },
+  {
+   "role": "치스터리/댄스캡틴",
+   "name": "라이언 셰퍼드(Ryan Sheppard)"
+  },
+  {
+   "role": "초록마녀의 엄마",
+   "name": "그레텔 스칼렛(Gretel Scalett)"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1869"
+ }
+}

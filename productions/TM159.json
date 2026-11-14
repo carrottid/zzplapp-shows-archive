@@ -1,0 +1,43 @@
+{
+ "id": "TM159",
+ "title": "청혼",
+ "genre": "뮤지컬",
+ "from": "2005-04-02",
+ "to": "2005-04-17",
+ "venue": "대학로 단막극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_ch.gif",
+ "cast": [
+  "이기욱",
+  "김하얀",
+  "임현빈",
+  "장승조(장현덕)"
+ ],
+ "state": "공연완료",
+ "producer": "극단 행복한 사람들",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "보험설계사/기욱",
+   "name": "이기욱"
+  },
+  {
+   "role": "보험설계사/기욱",
+   "name": "김하얀"
+  },
+  {
+   "role": "보험설계사/기욱",
+   "name": "임현빈"
+  },
+  {
+   "role": "보험설계사/기욱",
+   "name": "장승조(장현덕)"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=159"
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "id": "PD135689",
+ "title": "광화문연가 - 전주",
+ "genre": "뮤지컬",
+ "from": "2019-02-08",
+ "to": "2019-02-10",
+ "venue": "한국소리문화의전당 모악당",
+ "cast": [
+  "안재욱",
+  "이건명",
+  "강필석",
+  "구원영",
+  "김호영",
+  "이석훈",
+  "정욱진",
+  "이찬동",
+  "이은율",
+  "린지",
+  "정연",
+  "장은아",
+  "오석원"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "중년 명우",
+   "name": "안재욱"
+  },
+  {
+   "role": "중년 명우",
+   "name": "이건명"
+  },
+  {
+   "role": "중년 명우",
+   "name": "강필석"
+  },
+  {
+   "role": "월하",
+   "name": "구원영"
+  },
+  {
+   "role": "월하",
+   "name": "김호영"
+  },
+  {
+   "role": "월하",
+   "name": "이석훈"
+  },
+  {
+   "role": "젊은 명우",
+   "name": "정욱진"
+  },
+  {
+   "role": "젊은 명우",
+   "name": "이찬동"
+  },
+  {
+   "role": "중년 수아",
+   "name": "이은율"
+  },
+  {
+   "role": "젊은 수아",
+   "name": "린지"
+  },
+  {
+   "role": "시영",
+   "name": "정연"
+  },
+  {
+   "role": "시영",
+   "name": "장은아"
+  },
+  {
+   "role": "",
+   "name": "오석원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191022000246/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=135689"
+ }
+}

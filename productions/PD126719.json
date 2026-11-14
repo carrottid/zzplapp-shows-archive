@@ -1,0 +1,76 @@
+{
+ "id": "PD126719",
+ "title": "궁전의 여인들",
+ "genre": "연극",
+ "from": "2018-06-22",
+ "to": "2018-07-01",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "차유경",
+  "김연지",
+  "정여원",
+  "조아라",
+  "이유선",
+  "김가희",
+  "김홍근",
+  "김시윤",
+  "정충구",
+  "윤일식",
+  "이상준"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "차마담",
+   "name": "차유경"
+  },
+  {
+   "role": "김양",
+   "name": "김연지"
+  },
+  {
+   "role": "이양",
+   "name": "정여원"
+  },
+  {
+   "role": "박양",
+   "name": "조아라"
+  },
+  {
+   "role": "여고생",
+   "name": "이유선"
+  },
+  {
+   "role": "흐양",
+   "name": "김가희"
+  },
+  {
+   "role": "",
+   "name": "김홍근"
+  },
+  {
+   "role": "",
+   "name": "김시윤"
+  },
+  {
+   "role": "",
+   "name": "정충구"
+  },
+  {
+   "role": "",
+   "name": "윤일식"
+  },
+  {
+   "role": "",
+   "name": "이상준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251013095155/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=126719"
+ }
+}

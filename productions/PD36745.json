@@ -1,0 +1,31 @@
+{
+ "id": "PD36745",
+ "title": "여섯 주 여섯 번의 댄스레슨",
+ "genre": "연극",
+ "from": "2012-07-24",
+ "to": "2012-09-02",
+ "venue": "두산아트센터 연강홀",
+ "cast": [
+  "고두심",
+  "지현준"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "릴리",
+   "name": "고두심"
+  },
+  {
+   "role": "마이클",
+   "name": "지현준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250517021230/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=36745"
+ }
+}

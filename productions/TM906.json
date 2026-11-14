@@ -1,0 +1,54 @@
+{
+ "id": "TM906",
+ "title": "아이러브유 비코즈",
+ "genre": "뮤지컬",
+ "from": "2007-12-13",
+ "to": "2008-03-02",
+ "venue": "두산아트센터 연강홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200915044618462592ab87b14229bbb8d37f690b4665.jpg",
+ "cast": [
+  "전진오",
+  "서정현",
+  "김태한",
+  "백주희",
+  "장대웅",
+  "최가인"
+ ],
+ "state": "공연완료",
+ "producer": "설앤컴퍼니,CJ엔터테인먼트",
+ "price": "R석 5만원/ S석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "오스틴",
+   "name": "전진오"
+  },
+  {
+   "role": "마시",
+   "name": "서정현"
+  },
+  {
+   "role": "제프",
+   "name": "김태한"
+  },
+  {
+   "role": "다이애나",
+   "name": "백주희"
+  },
+  {
+   "role": "멀티맨",
+   "name": "장대웅"
+  },
+  {
+   "role": "멀티우먼",
+   "name": "최가인"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=906"
+ }
+}

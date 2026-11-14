@@ -1,0 +1,74 @@
+{
+ "id": "TM1233",
+ "title": "빨래",
+ "genre": "뮤지컬",
+ "from": "2008-08-29",
+ "to": "2008-12-31",
+ "venue": "알과핵 소극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008_빨래 02.jpg",
+ "cast": [
+  "엄태리",
+  "박호산",
+  "박정표",
+  "이정은",
+  "이봉련",
+  "강승완",
+  "이성욱",
+  "정문성",
+  "이석",
+  "강유미"
+ ],
+ "state": "공연완료",
+ "producer": "명랑씨어터 수박",
+ "price": "R석(1층) 40,000원 S석(2층) 35,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "나영",
+   "name": "엄태리"
+  },
+  {
+   "role": "솔롱고",
+   "name": "박호산"
+  },
+  {
+   "role": "솔롱고",
+   "name": "박정표"
+  },
+  {
+   "role": "주인할매",
+   "name": "이정은"
+  },
+  {
+   "role": "주인할매",
+   "name": "이봉련"
+  },
+  {
+   "role": "빵",
+   "name": "강승완"
+  },
+  {
+   "role": "구씨",
+   "name": "이성욱"
+  },
+  {
+   "role": "낫심",
+   "name": "정문성"
+  },
+  {
+   "role": "공익요원",
+   "name": "이석"
+  },
+  {
+   "role": "여직원",
+   "name": "강유미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1233"
+ }
+}

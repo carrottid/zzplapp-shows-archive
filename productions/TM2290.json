@@ -1,0 +1,44 @@
+{
+ "id": "TM2290",
+ "title": "천사에 관하여: 타락천사",
+ "genre": "뮤지컬",
+ "from": "2016-01-07",
+ "to": "2016-03-31",
+ "venue": "대학로 예술마당 4관",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20180802051652360820704bb943b9a7d14558d254cab4.jpg",
+ "cast": [
+  "고훈정",
+  "황경석",
+  "배승길",
+  "박규원"
+ ],
+ "state": "공연완료",
+ "producer": "MJ Starfish",
+ "price": "전석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "루카",
+   "name": "고훈정"
+  },
+  {
+   "role": "루카",
+   "name": "황경석"
+  },
+  {
+   "role": "발렌티노",
+   "name": "배승길"
+  },
+  {
+   "role": "발렌티노",
+   "name": "박규원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2290"
+ }
+}

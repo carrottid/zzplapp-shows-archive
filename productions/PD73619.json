@@ -1,0 +1,86 @@
+{
+ "id": "PD73619",
+ "title": "그날들 - 부산",
+ "genre": "뮤지컬",
+ "from": "2015-04-17",
+ "to": "2015-04-19",
+ "venue": "센텀시티 소향씨어터 롯데카드홀",
+ "cast": [
+  "유준상",
+  "이건명",
+  "최재웅",
+  "김승대",
+  "오종혁",
+  "지창욱",
+  "김지현",
+  "서현철",
+  "이정열",
+  "최지호",
+  "김산호",
+  "박정표",
+  "정순원"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "정학",
+   "name": "유준상"
+  },
+  {
+   "role": "정학",
+   "name": "이건명"
+  },
+  {
+   "role": "정학",
+   "name": "최재웅"
+  },
+  {
+   "role": "무영",
+   "name": "김승대"
+  },
+  {
+   "role": "무영",
+   "name": "오종혁"
+  },
+  {
+   "role": "무영",
+   "name": "지창욱"
+  },
+  {
+   "role": "그녀",
+   "name": "김지현"
+  },
+  {
+   "role": "운영관",
+   "name": "서현철"
+  },
+  {
+   "role": "운영관",
+   "name": "이정열"
+  },
+  {
+   "role": "대식",
+   "name": "최지호"
+  },
+  {
+   "role": "대식",
+   "name": "김산호"
+  },
+  {
+   "role": "상구",
+   "name": "박정표"
+  },
+  {
+   "role": "상구",
+   "name": "정순원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20150421200856/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=73619"
+ }
+}

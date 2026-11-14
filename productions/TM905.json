@@ -1,0 +1,79 @@
+{
+ "id": "TM905",
+ "title": "알타보이즈",
+ "genre": "뮤지컬",
+ "from": "2007-12-15",
+ "to": "2008-03-02",
+ "venue": "대학로 문화공간 이다 1관",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009150435288f07369693024785828bea4c8b1b6c78.jpg",
+ "cast": [
+  "정동화",
+  "정민",
+  "주원",
+  "한지상",
+  "무현",
+  "이창희",
+  "에녹",
+  "라준",
+  "육현욱",
+  "윤석원",
+  "이창용"
+ ],
+ "state": "공연완료",
+ "producer": "뮤지컬해븐, 트라이프로",
+ "price": "일반 4만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "매튜",
+   "name": "정동화"
+  },
+  {
+   "role": "매튜",
+   "name": "정민"
+  },
+  {
+   "role": "매튜",
+   "name": "주원"
+  },
+  {
+   "role": "마크",
+   "name": "한지상"
+  },
+  {
+   "role": "마크",
+   "name": "무현"
+  },
+  {
+   "role": "루크",
+   "name": "이창희"
+  },
+  {
+   "role": "루크",
+   "name": "에녹"
+  },
+  {
+   "role": "후안",
+   "name": "라준"
+  },
+  {
+   "role": "후안",
+   "name": "육현욱"
+  },
+  {
+   "role": "에이브라함",
+   "name": "윤석원"
+  },
+  {
+   "role": "에이브라함",
+   "name": "이창용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=905"
+ }
+}

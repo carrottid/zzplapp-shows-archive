@@ -1,0 +1,83 @@
+{
+ "id": "TM740",
+ "title": "풀몬티",
+ "genre": "뮤지컬",
+ "from": "2006-11-25",
+ "to": "2007-02-25",
+ "venue": "연강홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200928034337e089d1eb7e614b1fb31069fa48f7a4ed.jpg",
+ "cast": [
+  "김세우",
+  "서영주",
+  "임철형",
+  "정준하",
+  "김성일",
+  "조정근",
+  "심재현",
+  "김영환",
+  "임선애",
+  "이재영",
+  "최혁주"
+ ],
+ "state": "공연완료",
+ "producer": "루트원,CJ엔터테인먼트,연강홀",
+ "price": "R석 6만원 / S석 5만원 / A석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "제리",
+   "name": "김세우"
+  },
+  {
+   "role": "제리",
+   "name": "서영주"
+  },
+  {
+   "role": "데이브",
+   "name": "임철형"
+  },
+  {
+   "role": "데이브",
+   "name": "정준하"
+  },
+  {
+   "role": "해롤드",
+   "name": "김성일"
+  },
+  {
+   "role": "호스",
+   "name": "조정근"
+  },
+  {
+   "role": "데이브",
+   "name": "정준하"
+  },
+  {
+   "role": "말콤",
+   "name": "심재현"
+  },
+  {
+   "role": "잇슨",
+   "name": "김영환"
+  },
+  {
+   "role": "비키",
+   "name": "임선애"
+  },
+  {
+   "role": "조지",
+   "name": "이재영"
+  },
+  {
+   "role": "조지",
+   "name": "최혁주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=740"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PD70313",
+ "title": "레미제라블",
+ "genre": "연극",
+ "from": "2012-12-19",
+ "to": "2012-12-30",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "오현경",
+  "박웅",
+  "원종철",
+  "송현섭",
+  "신주호",
+  "김휘연"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "질르 노르망",
+   "name": "오현경"
+  },
+  {
+   "role": "주교",
+   "name": "박웅"
+  },
+  {
+   "role": "앙졸라",
+   "name": "원종철"
+  },
+  {
+   "role": "톨로미에스",
+   "name": "송현섭"
+  },
+  {
+   "role": "리스톨리에",
+   "name": "신주호"
+  },
+  {
+   "role": "죄수, 경찰",
+   "name": "김휘연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240910114257/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=70313"
+ }
+}

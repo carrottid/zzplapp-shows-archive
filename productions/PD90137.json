@@ -1,0 +1,41 @@
+{
+ "id": "PD90137",
+ "title": "2016 신춘문예 클래식전 - 변기",
+ "genre": "연극",
+ "from": "2016-03-26",
+ "to": "2016-04-03",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "박호산",
+  "이종윤",
+  "신문성",
+  "염승철"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "주교",
+   "name": "박호산"
+  },
+  {
+   "role": "고위 수도승 1",
+   "name": "이종윤"
+  },
+  {
+   "role": "고위 수도승 2",
+   "name": "신문성"
+  },
+  {
+   "role": "젊은 수도승",
+   "name": "염승철"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170616070656/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=90137"
+ }
+}

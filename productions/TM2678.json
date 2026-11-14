@@ -1,0 +1,44 @@
+{
+ "id": "TM2678",
+ "title": "아빠 얼굴 예쁘네요",
+ "genre": "뮤지컬",
+ "from": "2019-03-01",
+ "to": "2019-03-24",
+ "venue": "학전블루",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2019022204184387e7413c34dc4b06aff464181b13508a.jpg",
+ "cast": [
+  "이홍재",
+  "방진수",
+  "김다영",
+  "김지윤"
+ ],
+ "state": "공연완료",
+ "producer": "학전",
+ "price": "2만 원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "탄이/연이 아빠",
+   "name": "이홍재"
+  },
+  {
+   "role": "연이 엄마/선생님",
+   "name": "방진수"
+  },
+  {
+   "role": "연이",
+   "name": "김다영"
+  },
+  {
+   "role": "순이",
+   "name": "김지윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2678"
+ }
+}

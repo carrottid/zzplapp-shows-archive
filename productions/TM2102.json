@@ -1,0 +1,99 @@
+{
+ "id": "TM2102",
+ "title": "비스티보이즈",
+ "genre": "뮤지컬",
+ "from": "2014-07-11",
+ "to": "2014-09-14",
+ "venue": "대학로 DCF대명문화공장 1관 비발디파크홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20140613013929BO7L7DQ83V107GJV.jpg",
+ "cast": [
+  "이규형",
+  "정동화",
+  "김종구",
+  "김지휘",
+  "이지호",
+  "배두훈",
+  "정민",
+  "주종혁(라이언)",
+  "김보강",
+  "안재영",
+  "엄태형",
+  "고은성",
+  "이현",
+  "주민진",
+  "김도빈"
+ ],
+ "state": "공연완료",
+ "producer": "NEO PRODUCTION",
+ "price": "R석 60,000원 / S석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이재현",
+   "name": "이규형"
+  },
+  {
+   "role": "이재현",
+   "name": "정동화"
+  },
+  {
+   "role": "이재현",
+   "name": "김종구"
+  },
+  {
+   "role": "이승우",
+   "name": "김지휘"
+  },
+  {
+   "role": "이승우",
+   "name": "이지호"
+  },
+  {
+   "role": "이승우",
+   "name": "배두훈"
+  },
+  {
+   "role": "김주노",
+   "name": "정민"
+  },
+  {
+   "role": "김주노",
+   "name": "주종혁(라이언)"
+  },
+  {
+   "role": "김주노",
+   "name": "김보강"
+  },
+  {
+   "role": "강민혁",
+   "name": "안재영"
+  },
+  {
+   "role": "강민혁",
+   "name": "엄태형"
+  },
+  {
+   "role": "강민혁",
+   "name": "고은성"
+  },
+  {
+   "role": "알렉스",
+   "name": "이현"
+  },
+  {
+   "role": "알렉스",
+   "name": "주민진"
+  },
+  {
+   "role": "알렉스",
+   "name": "김도빈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2102"
+ }
+}

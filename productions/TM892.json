@@ -1,0 +1,49 @@
+{
+ "id": "TM892",
+ "title": "컨페션",
+ "genre": "뮤지컬",
+ "from": "2007-11-06",
+ "to": "2008-02-03",
+ "venue": "충무아트홀 소극장 블루",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020091602591462475a6944ff4111b202f383a545ad7a.jpg",
+ "cast": [
+  "윤공주",
+  "김우형",
+  "문성혁",
+  "임은영",
+  "문지원"
+ ],
+ "state": "공연완료",
+ "producer": "충무아트홀, 쇼틱커뮤니케이션즈, 크레디아",
+ "price": "R석 3만5천원, S석 2만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "김태연",
+   "name": "윤공주"
+  },
+  {
+   "role": "이주현",
+   "name": "김우형"
+  },
+  {
+   "role": "사장",
+   "name": "문성혁"
+  },
+  {
+   "role": "정미정",
+   "name": "임은영"
+  },
+  {
+   "role": "이혜미",
+   "name": "문지원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=892"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "PD110237",
+ "title": "제8회 페스티벌 개판 - 게스트하우스 낙화",
+ "genre": "연극",
+ "from": "2017-07-11",
+ "to": "2017-07-16",
+ "venue": "후암스테이지",
+ "cast": [
+  "민샛별",
+  "조은별"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "설하",
+   "name": "민샛별"
+  },
+  {
+   "role": "유빈",
+   "name": "조은별"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240908124121/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=110237"
+ }
+}

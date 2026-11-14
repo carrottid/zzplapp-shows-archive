@@ -1,0 +1,109 @@
+{
+ "id": "TM885",
+ "title": "마리아 마리아",
+ "genre": "뮤지컬",
+ "from": "2007-11-16",
+ "to": "2007-12-31",
+ "venue": "국립중앙박물관 극장 용",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009160200106273d54b7dac4c82bffbac2afed8f822.jpg",
+ "cast": [
+  "윤복희",
+  "강효성",
+  "황지현",
+  "차지연",
+  "김보강",
+  "이필승",
+  "박민성",
+  "김태형",
+  "고경만",
+  "정윤식",
+  "김기상",
+  "김유정",
+  "이재혁",
+  "엄주필",
+  "최미용",
+  "이성미",
+  "김찬호"
+ ],
+ "state": "공연완료",
+ "producer": "국립중앙박물관문화재단, 조아뮤지컬컴퍼니",
+ "price": "VIP(패키지)10만원, R석 7만원, S석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "소경",
+   "name": "윤복희"
+  },
+  {
+   "role": "마리아",
+   "name": "강효성"
+  },
+  {
+   "role": "마리아",
+   "name": "황지현"
+  },
+  {
+   "role": "마리아",
+   "name": "차지연"
+  },
+  {
+   "role": "예수",
+   "name": "김보강"
+  },
+  {
+   "role": "예수",
+   "name": "이필승"
+  },
+  {
+   "role": "바리새인",
+   "name": "박민성"
+  },
+  {
+   "role": "대제사장",
+   "name": "김태형"
+  },
+  {
+   "role": "안티바스",
+   "name": "고경만"
+  },
+  {
+   "role": "베드로",
+   "name": "정윤식"
+  },
+  {
+   "role": "제사장",
+   "name": "김기상"
+  },
+  {
+   "role": "리사",
+   "name": "김유정"
+  },
+  {
+   "role": "유다",
+   "name": "이재혁"
+  },
+  {
+   "role": "야고보",
+   "name": "엄주필"
+  },
+  {
+   "role": "마틸다",
+   "name": "최미용"
+  },
+  {
+   "role": "아나이스",
+   "name": "이성미"
+  },
+  {
+   "role": "도마",
+   "name": "김찬호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=885"
+ }
+}

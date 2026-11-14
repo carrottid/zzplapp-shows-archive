@@ -1,0 +1,26 @@
+{
+ "id": "PD152742",
+ "title": "하프라이프",
+ "genre": "연극",
+ "from": "2019-12-05",
+ "to": "2019-12-08",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "이란희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "안나",
+   "name": "이란희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240518191937/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=152742"
+ }
+}

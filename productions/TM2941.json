@@ -1,0 +1,129 @@
+{
+ "id": "TM2941",
+ "title": "적벽",
+ "genre": "뮤지컬",
+ "from": "2020-02-14",
+ "to": "2020-02-23",
+ "venue": "정동극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202002070150185c32af0fe3df4db89afb778f7a858d25.jpg",
+ "cast": [
+  "황규철",
+  "최정원",
+  "이상화",
+  "임지수",
+  "안이호",
+  "박인혜",
+  "한진수",
+  "강나현",
+  "정지혜",
+  "김하연",
+  "이진주",
+  "김은경",
+  "신예주",
+  "엄지",
+  "김현호",
+  "김민국",
+  "황보나",
+  "한승호",
+  "김연겸",
+  "이세영",
+  "전효정"
+ ],
+ "state": "공연완료",
+ "producer": "정동극장",
+ "price": "R석 6만 원 / S석 4만 원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "유비",
+   "name": "황규철"
+  },
+  {
+   "role": "관우",
+   "name": "최정원"
+  },
+  {
+   "role": "장비",
+   "name": "이상화"
+  },
+  {
+   "role": "공명",
+   "name": "임지수"
+  },
+  {
+   "role": "조조",
+   "name": "안이호"
+  },
+  {
+   "role": "조조",
+   "name": "박인혜"
+  },
+  {
+   "role": "정욱",
+   "name": "한진수"
+  },
+  {
+   "role": "정욱",
+   "name": "강나현"
+  },
+  {
+   "role": "도창",
+   "name": "정지혜"
+  },
+  {
+   "role": "조자룡",
+   "name": "김하연"
+  },
+  {
+   "role": "주유",
+   "name": "이진주"
+  },
+  {
+   "role": "미부인",
+   "name": "김은경"
+  },
+  {
+   "role": "서서",
+   "name": "신예주"
+  },
+  {
+   "role": "동자",
+   "name": "엄지"
+  },
+  {
+   "role": "골내종",
+   "name": "김현호"
+  },
+  {
+   "role": "전동다리",
+   "name": "김민국"
+  },
+  {
+   "role": "구먹쇠",
+   "name": "황보나"
+  },
+  {
+   "role": "노숙",
+   "name": "한승호"
+  },
+  {
+   "role": "황개",
+   "name": "김연겸"
+  },
+  {
+   "role": "문빙",
+   "name": "이세영"
+  },
+  {
+   "role": "조군",
+   "name": "전효정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2941"
+ }
+}

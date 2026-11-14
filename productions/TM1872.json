@@ -1,0 +1,59 @@
+{
+ "id": "TM1872",
+ "title": "김종욱 찾기",
+ "genre": "뮤지컬",
+ "from": "2012-06-05",
+ "to": "2013-02-17",
+ "venue": "대학로 예술마당 1관",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200317044406c36b4ed0f7824c52b1e668cafec898d3.jpg",
+ "cast": [
+  "최원준",
+  "윤석현",
+  "강동호",
+  "문진아",
+  "한수연",
+  "심정완",
+  "김종구"
+ ],
+ "state": "공연완료",
+ "producer": "CJ E&M, 뮤지컬해븐",
+ "price": "첫사랑석 4만원(6월 특별가)/ 김종욱석 5만원/ 나마스떼석(2인) 12만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "김종욱/첫사랑을 찾아주는 남자",
+   "name": "최원준"
+  },
+  {
+   "role": "김종욱/첫사랑을 찾아주는 남자",
+   "name": "윤석현"
+  },
+  {
+   "role": "김종욱/첫사랑을 찾아주는 남자",
+   "name": "강동호"
+  },
+  {
+   "role": "첫사랑을 찾는 여자",
+   "name": "문진아"
+  },
+  {
+   "role": "첫사랑을 찾는 여자",
+   "name": "한수연"
+  },
+  {
+   "role": "멀티맨",
+   "name": "심정완"
+  },
+  {
+   "role": "멀티맨",
+   "name": "김종구"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1872"
+ }
+}

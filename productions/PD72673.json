@@ -1,0 +1,71 @@
+{
+ "id": "PD72673",
+ "title": "곤, 더 버스커",
+ "genre": "뮤지컬",
+ "from": "2015-02-20",
+ "to": "2015-03-22",
+ "venue": "두산아트센터 연강홀",
+ "cast": [
+  "김신의",
+  "허규",
+  "김보강",
+  "김효정",
+  "정운",
+  "윤성원",
+  "최욱로",
+  "권세정",
+  "손지애",
+  "데빈"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "최곤",
+   "name": "김신의"
+  },
+  {
+   "role": "최곤",
+   "name": "허규"
+  },
+  {
+   "role": "원석",
+   "name": "김보강"
+  },
+  {
+   "role": "니나",
+   "name": "김효정"
+  },
+  {
+   "role": "국장",
+   "name": "정운"
+  },
+  {
+   "role": "송PD",
+   "name": "윤성원"
+  },
+  {
+   "role": "송PD",
+   "name": "최욱로"
+  },
+  {
+   "role": "영애",
+   "name": "권세정"
+  },
+  {
+   "role": "영애",
+   "name": "손지애"
+  },
+  {
+   "role": "",
+   "name": "데빈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250720161552/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=72673"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "id": "TM1641",
+ "title": "두번째 태양",
+ "genre": "뮤지컬",
+ "from": "2010-09-23",
+ "to": "2010-09-30",
+ "venue": "세종문화회관 M씨어터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2010 ssun.jpg",
+ "cast": [
+  "김성원",
+  "우상민",
+  "정원영",
+  "조유신",
+  "한애리",
+  "최윤정"
+ ],
+ "state": "공연완료",
+ "producer": "극단 현대극장",
+ "price": "R석 50,000원 /S석 40,000원/A석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "하람",
+   "name": "김성원"
+  },
+  {
+   "role": "마고",
+   "name": "우상민"
+  },
+  {
+   "role": "찬솔",
+   "name": "정원영"
+  },
+  {
+   "role": "갈매",
+   "name": "조유신"
+  },
+  {
+   "role": "소이",
+   "name": "한애리"
+  },
+  {
+   "role": "아진",
+   "name": "최윤정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1641"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "id": "PD110784",
+ "title": "지구를 지켜라",
+ "genre": "연극",
+ "from": "2017-08-10",
+ "to": "2017-10-22",
+ "venue": "충무아트센터 중극장 블랙",
+ "cast": [
+  "박영수",
+  "정욱진",
+  "강영석",
+  "키",
+  "허규",
+  "윤소호",
+  "김도빈",
+  "김윤지",
+  "최문정",
+  "육현욱",
+  "안두호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "병구",
+   "name": "박영수"
+  },
+  {
+   "role": "병구",
+   "name": "정욱진"
+  },
+  {
+   "role": "병구",
+   "name": "강영석"
+  },
+  {
+   "role": "병구",
+   "name": "키"
+  },
+  {
+   "role": "만식",
+   "name": "허규"
+  },
+  {
+   "role": "만식",
+   "name": "윤소호"
+  },
+  {
+   "role": "만식",
+   "name": "김도빈"
+  },
+  {
+   "role": "순이",
+   "name": "김윤지"
+  },
+  {
+   "role": "순이",
+   "name": "최문정"
+  },
+  {
+   "role": "추형사 (멀티)",
+   "name": "육현욱"
+  },
+  {
+   "role": "추형사 (멀티)",
+   "name": "안두호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260308071530/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=110784"
+ }
+}

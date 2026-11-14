@@ -1,0 +1,34 @@
+{
+ "id": "TM278",
+ "title": "세미뮤지컬 우먼",
+ "genre": "뮤지컬",
+ "from": "2004-08-06",
+ "to": "2004-08-29",
+ "venue": "한양레퍼토리씨어터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_woman.gif",
+ "cast": [
+  "김영주",
+  "박준면"
+ ],
+ "state": "공연완료",
+ "producer": "Movement 茂ː蔭",
+ "price": "일반 20,000 원 / 중고생 10,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "여자1",
+   "name": "김영주"
+  },
+  {
+   "role": "여자1",
+   "name": "박준면"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=278"
+ }
+}

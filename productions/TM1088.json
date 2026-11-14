@@ -1,0 +1,38 @@
+{
+ "id": "TM1088",
+ "title": "지하철1호선",
+ "genre": "뮤지컬",
+ "from": "1998-01-01",
+ "to": "1998-06-30",
+ "venue": "학전그린",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_ji.jpg",
+ "cast": [
+  "권형준",
+  "서지영",
+  "이황의"
+ ],
+ "state": "공연완료",
+ "producer": "극단 학전",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "안경/재수생/단속반/과부 등",
+   "name": "권형준"
+  },
+  {
+   "role": "안경/재수생/단속반/과부 등",
+   "name": "서지영"
+  },
+  {
+   "role": "안경/재수생/단속반/과부 등",
+   "name": "이황의"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1088"
+ }
+}

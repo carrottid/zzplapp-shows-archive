@@ -1,0 +1,51 @@
+{
+ "id": "PD87559",
+ "title": "텐",
+ "genre": "연극",
+ "from": "2016-01-08",
+ "to": "2016-07-31",
+ "venue": "대학로 스타시티 카지노 전용관(구, 타이니앨리스)",
+ "cast": [
+  "이보아",
+  "신은아",
+  "김동규",
+  "이진실",
+  "허인범",
+  "송길호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "혜영",
+   "name": "이보아"
+  },
+  {
+   "role": "혜영",
+   "name": "신은아"
+  },
+  {
+   "role": "준호",
+   "name": "김동규"
+  },
+  {
+   "role": "준호",
+   "name": "이진실"
+  },
+  {
+   "role": "멀티남",
+   "name": "허인범"
+  },
+  {
+   "role": "멀티남",
+   "name": "송길호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240920225939/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=87559"
+ }
+}

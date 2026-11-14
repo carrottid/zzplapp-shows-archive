@@ -1,0 +1,41 @@
+{
+ "id": "PD62771",
+ "title": "비내리는 고모령 - 대구",
+ "genre": "뮤지컬",
+ "from": "2014-07-11",
+ "to": "2014-07-11",
+ "venue": "대구 수성아트피아 용지홀",
+ "cast": [
+  "김동훈",
+  "이지영",
+  "황현아",
+  "박명선"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "동영",
+   "name": "김동훈"
+  },
+  {
+   "role": "연홍",
+   "name": "이지영"
+  },
+  {
+   "role": "포주",
+   "name": "황현아"
+  },
+  {
+   "role": "복수",
+   "name": "박명선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240418004119/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=62771"
+ }
+}

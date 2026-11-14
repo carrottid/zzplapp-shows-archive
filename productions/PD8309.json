@@ -1,0 +1,36 @@
+{
+ "id": "PD8309",
+ "title": "친정엄마와 2박3일 - 수원",
+ "genre": "연극",
+ "from": "2009-03-21",
+ "to": "2009-03-22",
+ "venue": "경기도문화의전당 대극장",
+ "cast": [
+  "강부자",
+  "전미선",
+  "이서림"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "엄마",
+   "name": "강부자"
+  },
+  {
+   "role": "딸",
+   "name": "전미선"
+  },
+  {
+   "role": "딸",
+   "name": "이서림"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170918205016/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=8309"
+ }
+}

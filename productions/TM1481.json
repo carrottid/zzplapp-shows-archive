@@ -1,0 +1,69 @@
+{
+ "id": "TM1481",
+ "title": "두번째 태양",
+ "genre": "뮤지컬",
+ "from": "2009-08-28",
+ "to": "2009-09-01",
+ "venue": "마포아트센터 아트홀 맥",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008 ssun0.jpg",
+ "cast": [
+  "김성원",
+  "우상민",
+  "남경읍",
+  "배수현",
+  "유승목",
+  "조유신",
+  "한애리",
+  "이경수",
+  "이현주"
+ ],
+ "state": "공연완료",
+ "producer": "극단 현대극장",
+ "price": "R석 25,000원 /S석 15,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "하람",
+   "name": "김성원"
+  },
+  {
+   "role": "마고",
+   "name": "우상민"
+  },
+  {
+   "role": "이든",
+   "name": "남경읍"
+  },
+  {
+   "role": "백순",
+   "name": "배수현"
+  },
+  {
+   "role": "원로",
+   "name": "유승목"
+  },
+  {
+   "role": "갈매",
+   "name": "조유신"
+  },
+  {
+   "role": "소이",
+   "name": "한애리"
+  },
+  {
+   "role": "찬솔",
+   "name": "이경수"
+  },
+  {
+   "role": "아진",
+   "name": "이현주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1481"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "PD40114",
+ "title": "프로젝트 빅보이 - 광염소나타",
+ "genre": "연극",
+ "from": "2012-10-10",
+ "to": "2012-10-14",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "김로완",
+  "조용경",
+  "임은조",
+  "김희정",
+  "이인열"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "피령",
+   "name": "김로완"
+  },
+  {
+   "role": "피령",
+   "name": "조용경"
+  },
+  {
+   "role": "김하나",
+   "name": "임은조"
+  },
+  {
+   "role": "천한나",
+   "name": "김희정"
+  },
+  {
+   "role": "안교수",
+   "name": "이인열"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171108140102/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=40114"
+ }
+}

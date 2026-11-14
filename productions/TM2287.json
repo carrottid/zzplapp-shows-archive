@@ -1,0 +1,84 @@
+{
+ "id": "TM2287",
+ "title": "아랑가",
+ "genre": "뮤지컬",
+ "from": "2016-02-14",
+ "to": "2016-04-10",
+ "venue": "충무아트홀 중극장 블랙",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20180803122644296e83df94674fd0aef35f51b5f6fe45.jpg",
+ "cast": [
+  "강필석",
+  "윤형렬",
+  "이율",
+  "고상호",
+  "최연우",
+  "이봄소리",
+  "이정열",
+  "김태한",
+  "최석진",
+  "김현진",
+  "박인혜",
+  "정지혜"
+ ],
+ "state": "공연완료",
+ "producer": "인사이트엔터테인먼트",
+ "price": "전석 6만6천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "개로",
+   "name": "강필석"
+  },
+  {
+   "role": "개로",
+   "name": "윤형렬"
+  },
+  {
+   "role": "도미",
+   "name": "이율"
+  },
+  {
+   "role": "도미",
+   "name": "고상호"
+  },
+  {
+   "role": "아랑",
+   "name": "최연우"
+  },
+  {
+   "role": "아랑",
+   "name": "이봄소리"
+  },
+  {
+   "role": "도림",
+   "name": "이정열"
+  },
+  {
+   "role": "도림",
+   "name": "김태한"
+  },
+  {
+   "role": "사한",
+   "name": "최석진"
+  },
+  {
+   "role": "사한",
+   "name": "김현진"
+  },
+  {
+   "role": "도창",
+   "name": "박인혜"
+  },
+  {
+   "role": "도창",
+   "name": "정지혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2287"
+ }
+}

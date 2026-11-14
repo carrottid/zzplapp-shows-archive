@@ -1,0 +1,61 @@
+{
+ "id": "PD15345",
+ "title": "금발이 너무해 - 대구",
+ "genre": "뮤지컬",
+ "from": "2010-05-01",
+ "to": "2010-05-09",
+ "venue": "대구 오페라하우스",
+ "cast": [
+  "제시카",
+  "김지우",
+  "이하늬",
+  "김도현",
+  "김동욱",
+  "고영빈",
+  "추정화",
+  "전수경"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "엘 우즈",
+   "name": "제시카"
+  },
+  {
+   "role": "엘 우즈",
+   "name": "김지우"
+  },
+  {
+   "role": "엘 우즈",
+   "name": "이하늬"
+  },
+  {
+   "role": "에밋",
+   "name": "김도현"
+  },
+  {
+   "role": "에밋",
+   "name": "김동욱"
+  },
+  {
+   "role": "워너",
+   "name": "고영빈"
+  },
+  {
+   "role": "폴렛",
+   "name": "추정화"
+  },
+  {
+   "role": "폴렛",
+   "name": "전수경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170918163011/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=15345"
+ }
+}

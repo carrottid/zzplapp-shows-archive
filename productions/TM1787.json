@@ -1,0 +1,62 @@
+{
+ "id": "TM1787",
+ "title": "파라다이스 티켓",
+ "genre": "뮤지컬",
+ "from": "2011-11-11",
+ "to": "2012-01-01",
+ "venue": "화,목,금 8시 / 수 5시,8시 / 토 4시,7시 / 일, 공휴일 3시,6시 (월 공연없음)",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)14.jpg",
+ "cast": [
+  "김진수",
+  "전진오",
+  "이영윤",
+  "허규",
+  "이승현",
+  "임은영",
+  "박채원",
+  "김대곤"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "상태",
+   "name": "김진수"
+  },
+  {
+   "role": "상태",
+   "name": "전진오"
+  },
+  {
+   "role": "호순",
+   "name": "이영윤"
+  },
+  {
+   "role": "민우",
+   "name": "허규"
+  },
+  {
+   "role": "민우",
+   "name": "이승현"
+  },
+  {
+   "role": "옥자",
+   "name": "임은영"
+  },
+  {
+   "role": "옥자",
+   "name": "박채원"
+  },
+  {
+   "role": "춘광",
+   "name": "김대곤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1787"
+ }
+}

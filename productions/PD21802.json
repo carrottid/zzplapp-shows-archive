@@ -1,0 +1,76 @@
+{
+ "id": "PD21802",
+ "title": "피아프",
+ "genre": "연극",
+ "from": "2011-04-30",
+ "to": "2011-06-05",
+ "venue": "충무아트센터 중극장 블랙",
+ "cast": [
+  "최정원",
+  "이경미",
+  "황현정",
+  "서만석",
+  "권지숙",
+  "조운",
+  "한성식",
+  "황만익",
+  "김병희",
+  "김정익",
+  "홍준기"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "피아프",
+   "name": "최정원"
+  },
+  {
+   "role": "뜨완",
+   "name": "이경미"
+  },
+  {
+   "role": "말린",
+   "name": "황현정"
+  },
+  {
+   "role": "",
+   "name": "서만석"
+  },
+  {
+   "role": "",
+   "name": "권지숙"
+  },
+  {
+   "role": "",
+   "name": "조운"
+  },
+  {
+   "role": "",
+   "name": "한성식"
+  },
+  {
+   "role": "",
+   "name": "황만익"
+  },
+  {
+   "role": "",
+   "name": "김병희"
+  },
+  {
+   "role": "",
+   "name": "김정익"
+  },
+  {
+   "role": "",
+   "name": "홍준기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230313054604/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=21802"
+ }
+}

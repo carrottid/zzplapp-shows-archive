@@ -1,0 +1,76 @@
+{
+ "id": "PD123820",
+ "title": "번지점프를 하다",
+ "genre": "뮤지컬",
+ "from": "2018-06-12",
+ "to": "2018-08-26",
+ "venue": "세종문화회관 M씨어터",
+ "cast": [
+  "강필석",
+  "이지훈",
+  "임강희",
+  "김지현",
+  "최우혁",
+  "이휘종",
+  "이아진",
+  "최호중",
+  "진상현",
+  "이다정",
+  "강기헌"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "인우",
+   "name": "강필석"
+  },
+  {
+   "role": "인우",
+   "name": "이지훈"
+  },
+  {
+   "role": "태희",
+   "name": "임강희"
+  },
+  {
+   "role": "태희",
+   "name": "김지현"
+  },
+  {
+   "role": "현빈",
+   "name": "최우혁"
+  },
+  {
+   "role": "현빈",
+   "name": "이휘종"
+  },
+  {
+   "role": "혜주",
+   "name": "이아진"
+  },
+  {
+   "role": "대근",
+   "name": "최호중"
+  },
+  {
+   "role": "기석",
+   "name": "진상현"
+  },
+  {
+   "role": "",
+   "name": "이다정"
+  },
+  {
+   "role": "",
+   "name": "강기헌"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20221001220429/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=123820"
+ }
+}

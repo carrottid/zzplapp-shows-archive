@@ -1,0 +1,64 @@
+{
+ "id": "TM2041",
+ "title": "넌센스 A-Men",
+ "genre": "뮤지컬",
+ "from": "2013-12-13",
+ "to": "2013-12-31",
+ "venue": "우리금융아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013amen.jpg",
+ "cast": [
+  "송용태",
+  "홍록기",
+  "손진영",
+  "김재만",
+  "홍석천",
+  "박준혁",
+  "송용진",
+  "무현"
+ ],
+ "state": "공연완료",
+ "producer": "(주)팍스컬쳐",
+ "price": "VIP석 90,000원/ A-Men석 80,000원/ R석 70,000원/ S석 50,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "메리 레지나",
+   "name": "송용태"
+  },
+  {
+   "role": "메리 휴버트",
+   "name": "홍록기"
+  },
+  {
+   "role": "메리 휴버트",
+   "name": "손진영"
+  },
+  {
+   "role": "메리 엠네지아",
+   "name": "김재만"
+  },
+  {
+   "role": "메리 리오",
+   "name": "홍석천"
+  },
+  {
+   "role": "메리 리오",
+   "name": "박준혁"
+  },
+  {
+   "role": "로버트 앤",
+   "name": "송용진"
+  },
+  {
+   "role": "로버트 앤",
+   "name": "무현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2041"
+ }
+}

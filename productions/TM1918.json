@@ -1,0 +1,89 @@
+{
+ "id": "TM1918",
+ "title": "막돼먹은 영애씨",
+ "genre": "뮤지컬",
+ "from": "2012-11-20",
+ "to": "2013-01-13",
+ "venue": "KT&G 상상아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)88.jpg",
+ "cast": [
+  "김현숙",
+  "연보라",
+  "서성종",
+  "한우열",
+  "박성광",
+  "임기홍",
+  "원종환",
+  "백주희",
+  "손지윤",
+  "전성민(김유영)",
+  "박진주",
+  "최원준",
+  "임강성"
+ ],
+ "state": "공연완료",
+ "producer": "CJ E&M",
+ "price": "전석 6만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이영애",
+   "name": "김현숙"
+  },
+  {
+   "role": "이영애",
+   "name": "연보라"
+  },
+  {
+   "role": "사장",
+   "name": "서성종"
+  },
+  {
+   "role": "사장",
+   "name": "한우열"
+  },
+  {
+   "role": "과장",
+   "name": "박성광"
+  },
+  {
+   "role": "과장",
+   "name": "임기홍"
+  },
+  {
+   "role": "과장",
+   "name": "원종환"
+  },
+  {
+   "role": "지원",
+   "name": "백주희"
+  },
+  {
+   "role": "지원",
+   "name": "손지윤"
+  },
+  {
+   "role": "태희",
+   "name": "전성민(김유영)"
+  },
+  {
+   "role": "태희",
+   "name": "박진주"
+  },
+  {
+   "role": "원준",
+   "name": "최원준"
+  },
+  {
+   "role": "원준",
+   "name": "임강성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1918"
+ }
+}

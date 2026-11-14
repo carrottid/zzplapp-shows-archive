@@ -1,0 +1,66 @@
+{
+ "id": "PD157052",
+ "title": "난설",
+ "genre": "뮤지컬",
+ "from": "2020-06-30",
+ "to": "2020-09-06",
+ "venue": "브릭스 씨어터 (구, 콘텐츠 그라운드)",
+ "cast": [
+  "안유진",
+  "정인지",
+  "김려원",
+  "정성일",
+  "양승리",
+  "안재영",
+  "최호승",
+  "최석진",
+  "유현석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "허초희",
+   "name": "안유진"
+  },
+  {
+   "role": "허초희",
+   "name": "정인지"
+  },
+  {
+   "role": "허초희",
+   "name": "김려원"
+  },
+  {
+   "role": "이달",
+   "name": "정성일"
+  },
+  {
+   "role": "이달",
+   "name": "양승리"
+  },
+  {
+   "role": "이달",
+   "name": "안재영"
+  },
+  {
+   "role": "허균",
+   "name": "최호승"
+  },
+  {
+   "role": "허균",
+   "name": "최석진"
+  },
+  {
+   "role": "허균",
+   "name": "유현석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250122102947/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=157052"
+ }
+}

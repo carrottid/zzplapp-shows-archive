@@ -1,0 +1,56 @@
+{
+ "id": "PD43023",
+ "title": "메디아 온 미디어",
+ "genre": "연극",
+ "from": "2012-12-22",
+ "to": "2012-12-30",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "김미옥",
+  "이진성",
+  "염순식",
+  "최수빈",
+  "홍기용",
+  "연해성",
+  "정혜영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "메디아",
+   "name": "김미옥"
+  },
+  {
+   "role": "크레온",
+   "name": "이진성"
+  },
+  {
+   "role": "이아손",
+   "name": "염순식"
+  },
+  {
+   "role": "유모",
+   "name": "최수빈"
+  },
+  {
+   "role": "아이게우스, 코러스",
+   "name": "홍기용"
+  },
+  {
+   "role": "글로체, 코러스",
+   "name": "연해성"
+  },
+  {
+   "role": "",
+   "name": "정혜영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20211204065855/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=43023"
+ }
+}

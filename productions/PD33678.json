@@ -1,0 +1,61 @@
+{
+ "id": "PD33678",
+ "title": "연극열전4 - M.Butterfly",
+ "genre": "연극",
+ "from": "2012-04-24",
+ "to": "2012-06-06",
+ "venue": "세종문화회관 M씨어터",
+ "cast": [
+  "김영민",
+  "김다현",
+  "정동화",
+  "손진환",
+  "정수영",
+  "한동규",
+  "이소희",
+  "김보정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "르네",
+   "name": "김영민"
+  },
+  {
+   "role": "송 릴링",
+   "name": "김다현"
+  },
+  {
+   "role": "송 릴링",
+   "name": "정동화"
+  },
+  {
+   "role": "뚤룽/판사",
+   "name": "손진환"
+  },
+  {
+   "role": "헬가",
+   "name": "정수영"
+  },
+  {
+   "role": "마르끄",
+   "name": "한동규"
+  },
+  {
+   "role": "친",
+   "name": "이소희"
+  },
+  {
+   "role": "",
+   "name": "김보정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240421055454/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=33678"
+ }
+}

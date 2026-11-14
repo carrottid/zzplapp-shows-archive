@@ -1,0 +1,41 @@
+{
+ "id": "PD125137",
+ "title": "체인징 파트너",
+ "genre": "연극",
+ "from": "2018-05-11",
+ "to": "2018-06-30",
+ "venue": "예그린씨어터",
+ "cast": [
+  "신아윤",
+  "김여진",
+  "김종민",
+  "김금인"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김희선",
+   "name": "신아윤"
+  },
+  {
+   "role": "김희선",
+   "name": "김여진"
+  },
+  {
+   "role": "채민석",
+   "name": "김종민"
+  },
+  {
+   "role": "김희성",
+   "name": "김금인"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251217022114/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=125137"
+ }
+}

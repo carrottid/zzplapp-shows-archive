@@ -1,0 +1,89 @@
+{
+ "id": "TM1346",
+ "title": "자나, 돈트!",
+ "genre": "뮤지컬",
+ "from": "2009-02-07",
+ "to": "2009-03-31",
+ "venue": "세종문화회관 M씨어터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2009zanna.JPG",
+ "cast": [
+  "김호영",
+  "이준혁",
+  "에녹",
+  "박주형",
+  "최유하",
+  "김경선",
+  "김태훈",
+  "우금지",
+  "무현",
+  "김재우",
+  "이태린",
+  "장원령",
+  "윤유경"
+ ],
+ "state": "공연완료",
+ "producer": "(재)세종문화회관, 인터파크INT, 신시뮤지컬컴퍼니",
+ "price": "R석 60,000원 /S석 50,000원 /A석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "자나",
+   "name": "김호영"
+  },
+  {
+   "role": "자나",
+   "name": "이준혁"
+  },
+  {
+   "role": "스티브",
+   "name": "에녹"
+  },
+  {
+   "role": "마이크",
+   "name": "박주형"
+  },
+  {
+   "role": "케이트",
+   "name": "최유하"
+  },
+  {
+   "role": "로버타",
+   "name": "김경선"
+  },
+  {
+   "role": "탱크",
+   "name": "김태훈"
+  },
+  {
+   "role": "캔디",
+   "name": "우금지"
+  },
+  {
+   "role": "벅",
+   "name": "무현"
+  },
+  {
+   "role": "앙상블",
+   "name": "김재우"
+  },
+  {
+   "role": "앙상블",
+   "name": "이태린"
+  },
+  {
+   "role": "앙상블",
+   "name": "장원령"
+  },
+  {
+   "role": "앙상블",
+   "name": "윤유경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1346"
+ }
+}

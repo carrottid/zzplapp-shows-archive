@@ -1,0 +1,84 @@
+{
+ "id": "TM2633",
+ "title": "풍월주",
+ "genre": "뮤지컬",
+ "from": "2018-12-04",
+ "to": "2019-02-17",
+ "venue": "유니플렉스 1관",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20181002105337fd024034e7f84848924e3468c4eec88d.jpg",
+ "cast": [
+  "성태준",
+  "이율",
+  "임준혁",
+  "박정원",
+  "손유동",
+  "김지현",
+  "문진아",
+  "원종환",
+  "조순창",
+  "신창주",
+  "김연진",
+  "김혜미"
+ ],
+ "state": "공연완료",
+ "producer": "㈜랑",
+ "price": "부이(귀에대고속삭임)석 6만6천원 / 아라(바다)석 5만5천원 / 애수(마음을 서글프게하는 슬픈 시름)석 4만4천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "열",
+   "name": "성태준"
+  },
+  {
+   "role": "열",
+   "name": "이율"
+  },
+  {
+   "role": "열",
+   "name": "임준혁"
+  },
+  {
+   "role": "사담",
+   "name": "박정원"
+  },
+  {
+   "role": "사담",
+   "name": "손유동"
+  },
+  {
+   "role": "진성여왕",
+   "name": "김지현"
+  },
+  {
+   "role": "진성여왕",
+   "name": "문진아"
+  },
+  {
+   "role": "운장",
+   "name": "원종환"
+  },
+  {
+   "role": "운장",
+   "name": "조순창"
+  },
+  {
+   "role": "궁곰",
+   "name": "신창주"
+  },
+  {
+   "role": "부인",
+   "name": "김연진"
+  },
+  {
+   "role": "부인",
+   "name": "김혜미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2633"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "id": "PD101044",
+ "title": "세일즈맨의 죽음",
+ "genre": "연극",
+ "from": "2016-12-13",
+ "to": "2016-12-22",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "이순재",
+  "손숙",
+  "이문수",
+  "김태훈",
+  "맹봉학",
+  "최동구",
+  "이윤주",
+  "윤민구",
+  "박재이"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "윌리",
+   "name": "이순재"
+  },
+  {
+   "role": "린다",
+   "name": "손숙"
+  },
+  {
+   "role": "벤",
+   "name": "이문수"
+  },
+  {
+   "role": "찰리",
+   "name": "김태훈"
+  },
+  {
+   "role": "찰리",
+   "name": "맹봉학"
+  },
+  {
+   "role": "버나드",
+   "name": "최동구"
+  },
+  {
+   "role": "제니",
+   "name": "이윤주"
+  },
+  {
+   "role": "",
+   "name": "윤민구"
+  },
+  {
+   "role": "",
+   "name": "박재이"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241014105055/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=101044"
+ }
+}

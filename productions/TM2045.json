@@ -1,0 +1,94 @@
+{
+ "id": "TM2045",
+ "title": "디스 라이프 : 주그리우스리",
+ "genre": "뮤지컬",
+ "from": "2014-01-07",
+ "to": "2014-02-26",
+ "venue": "예그린씨어터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_thislife2013.jpg",
+ "cast": [
+  "황건",
+  "고상호",
+  "김시권",
+  "고훈정",
+  "박주희",
+  "서태영",
+  "나세나",
+  "서예림",
+  "서정식",
+  "한규정",
+  "허은미",
+  "서미정",
+  "윤승욱",
+  "유승국"
+ ],
+ "state": "공연완료",
+ "producer": "뮤지컬컴퍼니 두왑, 예그린씨어터",
+ "price": "전석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "태을",
+   "name": "황건"
+  },
+  {
+   "role": "태을",
+   "name": "고상호"
+  },
+  {
+   "role": "호경",
+   "name": "김시권"
+  },
+  {
+   "role": "호경",
+   "name": "고훈정"
+  },
+  {
+   "role": "거북할매",
+   "name": "박주희"
+  },
+  {
+   "role": "거북할매",
+   "name": "서태영"
+  },
+  {
+   "role": "강덕",
+   "name": "나세나"
+  },
+  {
+   "role": "강덕",
+   "name": "서예림"
+  },
+  {
+   "role": "근식",
+   "name": "서정식"
+  },
+  {
+   "role": "근식",
+   "name": "한규정"
+  },
+  {
+   "role": "소피",
+   "name": "허은미"
+  },
+  {
+   "role": "소피",
+   "name": "서미정"
+  },
+  {
+   "role": "정구",
+   "name": "윤승욱"
+  },
+  {
+   "role": "정구",
+   "name": "유승국"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2045"
+ }
+}

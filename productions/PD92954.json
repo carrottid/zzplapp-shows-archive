@@ -1,0 +1,51 @@
+{
+ "id": "PD92954",
+ "title": "비커밍 맘",
+ "genre": "뮤지컬",
+ "from": "2016-07-02",
+ "to": "2016-07-03",
+ "venue": "백암아트홀",
+ "cast": [
+  "윤소영",
+  "하지승",
+  "언희",
+  "정보라",
+  "이세원",
+  "신재열"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "예비엄마 수연",
+   "name": "윤소영"
+  },
+  {
+   "role": "예비아빠 준호",
+   "name": "하지승"
+  },
+  {
+   "role": "지은",
+   "name": "언희"
+  },
+  {
+   "role": "친정엄마/민희",
+   "name": "정보라"
+  },
+  {
+   "role": "박대리",
+   "name": "이세원"
+  },
+  {
+   "role": "",
+   "name": "신재열"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191023065921/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=92954"
+ }
+}

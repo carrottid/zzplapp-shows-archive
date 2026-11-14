@@ -1,0 +1,84 @@
+{
+ "id": "TM1875",
+ "title": "웨딩",
+ "genre": "뮤지컬",
+ "from": "2012-06-14",
+ "to": "2012-07-29",
+ "venue": "PMC 대학로 자유극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)64.JPG",
+ "cast": [
+  "김지은",
+  "이충주",
+  "손광업",
+  "손현승",
+  "김하은",
+  "김달림",
+  "김설영",
+  "하우영",
+  "신창호",
+  "최선교",
+  "이은경",
+  "신상민"
+ ],
+ "state": "공연완료",
+ "producer": "㈜피엠씨프러덕션",
+ "price": "전석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "신부",
+   "name": "김지은"
+  },
+  {
+   "role": "신랑",
+   "name": "이충주"
+  },
+  {
+   "role": "신부 아버지",
+   "name": "손광업"
+  },
+  {
+   "role": "신부 아버지",
+   "name": "손현승"
+  },
+  {
+   "role": "처제",
+   "name": "김하은"
+  },
+  {
+   "role": "신부 들러리",
+   "name": "김달림"
+  },
+  {
+   "role": "관객",
+   "name": "김설영"
+  },
+  {
+   "role": "관객",
+   "name": "하우영"
+  },
+  {
+   "role": "스트리퍼",
+   "name": "신창호"
+  },
+  {
+   "role": "신랑 들러리",
+   "name": "최선교"
+  },
+  {
+   "role": "신랑 들러리",
+   "name": "이은경"
+  },
+  {
+   "role": "웨딩플래너",
+   "name": "신상민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1875"
+ }
+}

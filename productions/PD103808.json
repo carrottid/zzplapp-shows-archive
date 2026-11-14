@@ -1,0 +1,46 @@
+{
+ "id": "PD103808",
+ "title": "임꺽정, 그가 온다",
+ "genre": "뮤지컬",
+ "from": "2017-02-17",
+ "to": "2017-03-26",
+ "venue": "예그린씨어터",
+ "cast": [
+  "송인현",
+  "정흥채",
+  "김태완",
+  "이요셉",
+  "안재민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "가파치",
+   "name": "송인현"
+  },
+  {
+   "role": "가파치",
+   "name": "정흥채"
+  },
+  {
+   "role": "남상렬",
+   "name": "김태완"
+  },
+  {
+   "role": "엄기철",
+   "name": "이요셉"
+  },
+  {
+   "role": "서우",
+   "name": "안재민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240527195442/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=103808"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "id": "PD97285",
+ "title": "명동 로망스",
+ "genre": "뮤지컬",
+ "from": "2016-08-27",
+ "to": "2016-08-28",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "고상호",
+  "배두훈",
+  "박호산",
+  "김준원",
+  "지현준",
+  "안유진",
+  "전성민",
+  "원종환",
+  "홍륜희",
+  "박범정",
+  "김주호",
+  "정민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "장선호",
+   "name": "고상호"
+  },
+  {
+   "role": "장선호",
+   "name": "배두훈"
+  },
+  {
+   "role": "이중섭",
+   "name": "박호산"
+  },
+  {
+   "role": "이중섭",
+   "name": "김준원"
+  },
+  {
+   "role": "이중섭",
+   "name": "지현준"
+  },
+  {
+   "role": "전혜린",
+   "name": "안유진"
+  },
+  {
+   "role": "전혜린",
+   "name": "전성민"
+  },
+  {
+   "role": "박인환",
+   "name": "원종환"
+  },
+  {
+   "role": "성여인",
+   "name": "홍륜희"
+  },
+  {
+   "role": "성여인",
+   "name": "박범정"
+  },
+  {
+   "role": "채홍익",
+   "name": "김주호"
+  },
+  {
+   "role": "채홍익",
+   "name": "정민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20211020001344/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=97285"
+ }
+}

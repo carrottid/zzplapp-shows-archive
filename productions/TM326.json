@@ -1,0 +1,59 @@
+{
+ "id": "TM326",
+ "title": "모차르트의 마술피리",
+ "genre": "뮤지컬",
+ "from": "2004-07-23",
+ "to": "2005-01-30",
+ "venue": "세우아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_042026.gif",
+ "cast": [
+  "기희진",
+  "정동화",
+  "이성욱",
+  "설재근",
+  "심우성",
+  "차혜정",
+  "이찬미"
+ ],
+ "state": "공연완료",
+ "producer": "조아뮤지컬컴퍼니",
+ "price": "패키지석(식사+공연프로그램포함)-30,000원/일반석 15,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "밤의여왕",
+   "name": "기희진"
+  },
+  {
+   "role": "밤의여왕",
+   "name": "정동화"
+  },
+  {
+   "role": "밤의여왕",
+   "name": "이성욱"
+  },
+  {
+   "role": "밤의여왕",
+   "name": "설재근"
+  },
+  {
+   "role": "밤의여왕",
+   "name": "심우성"
+  },
+  {
+   "role": "시녀",
+   "name": "차혜정"
+  },
+  {
+   "role": "시녀",
+   "name": "이찬미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=326"
+ }
+}

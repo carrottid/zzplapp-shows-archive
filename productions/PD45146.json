@@ -1,0 +1,66 @@
+{
+ "id": "PD45146",
+ "title": "셜록홈즈 - 대구",
+ "genre": "뮤지컬",
+ "from": "2013-04-26",
+ "to": "2013-04-28",
+ "venue": "대구 수성아트피아 용지홀",
+ "cast": [
+  "송용진",
+  "김수용",
+  "김은정",
+  "구민진",
+  "장승조",
+  "이경수",
+  "선우",
+  "김효연",
+  "한규원"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "셜록홈즈",
+   "name": "송용진"
+  },
+  {
+   "role": "셜록홈즈",
+   "name": "김수용"
+  },
+  {
+   "role": "제인 왓슨",
+   "name": "김은정"
+  },
+  {
+   "role": "제인 왓슨",
+   "name": "구민진"
+  },
+  {
+   "role": "에릭 앤더슨/아담 앤더슨",
+   "name": "장승조"
+  },
+  {
+   "role": "에릭 앤더슨/아담 앤더슨",
+   "name": "이경수"
+  },
+  {
+   "role": "루시 존스",
+   "name": "선우"
+  },
+  {
+   "role": "루시 존스",
+   "name": "김효연"
+  },
+  {
+   "role": "슬레이니",
+   "name": "한규원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241208104045/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=45146"
+ }
+}

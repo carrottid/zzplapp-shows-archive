@@ -1,0 +1,45 @@
+{
+ "id": "PD20419",
+ "title": "이자람의 판소리 - 억척가",
+ "genre": "연극",
+ "from": "2011-06-14",
+ "to": "2011-06-19",
+ "venue": "LG아트센터",
+ "cast": [
+  "김홍식",
+  "이향하",
+  "장혁조",
+  "이자람"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "",
+   "name": "김홍식"
+  },
+  {
+   "role": "",
+   "name": "이향하"
+  },
+  {
+   "role": "",
+   "name": "장혁조"
+  },
+  {
+   "role": "",
+   "name": "이자람"
+  },
+  {
+   "role": "소리가",
+   "name": "이자람"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170617185840/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=20419"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "PD156985",
+ "title": "미치지 않고서야",
+ "genre": "연극",
+ "from": "2020-05-19",
+ "to": "2020-05-24",
+ "venue": "소극장 혜화당(구.까망 소극장)",
+ "cast": [
+  "권순미",
+  "장용웅",
+  "신현규",
+  "장준우"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "딸",
+   "name": "권순미"
+  },
+  {
+   "role": "엄마",
+   "name": "장용웅"
+  },
+  {
+   "role": "아빠",
+   "name": "신현규"
+  },
+  {
+   "role": "아들",
+   "name": "장준우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250717060519/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=156985"
+ }
+}

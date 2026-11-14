@@ -1,0 +1,26 @@
+{
+ "id": "PD50674",
+ "title": "이순신 - 대구",
+ "genre": "뮤지컬",
+ "from": "2013-09-06",
+ "to": "2013-09-07",
+ "venue": "대구 수성아트피아 용지홀",
+ "cast": [
+  "민영기"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이순신",
+   "name": "민영기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171025115312/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=50674"
+ }
+}

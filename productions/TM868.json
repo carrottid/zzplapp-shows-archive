@@ -1,0 +1,69 @@
+{
+ "id": "TM868",
+ "title": "실연남녀",
+ "genre": "뮤지컬",
+ "from": "2007-10-13",
+ "to": "2007-12-09",
+ "venue": "대학로 문화공간 이다 1관",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200917015547d779c21917ee461c94b553037b2a4146.jpg",
+ "cast": [
+  "변우민",
+  "안신우",
+  "손광업",
+  "김재만",
+  "엄기준",
+  "신성록",
+  "강지우",
+  "양소민",
+  "한애리"
+ ],
+ "state": "공연완료",
+ "producer": "엠뮤지컬컴퍼니",
+ "price": "R석 5만원, S석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이운수",
+   "name": "변우민"
+  },
+  {
+   "role": "이운수",
+   "name": "안신우"
+  },
+  {
+   "role": "이재수",
+   "name": "손광업"
+  },
+  {
+   "role": "이재수",
+   "name": "김재만"
+  },
+  {
+   "role": "강연오",
+   "name": "엄기준"
+  },
+  {
+   "role": "강연오",
+   "name": "신성록"
+  },
+  {
+   "role": "강연오",
+   "name": "강지우"
+  },
+  {
+   "role": "윤지아",
+   "name": "양소민"
+  },
+  {
+   "role": "윤지아",
+   "name": "한애리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=868"
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "id": "PD45173",
+ "title": "미운남자",
+ "genre": "연극",
+ "from": "2013-02-16",
+ "to": "2013-11-30",
+ "venue": "후암스테이지",
+ "cast": [
+  "최일화",
+  "김동현",
+  "이승영",
+  "장희수",
+  "신혜정",
+  "김가영",
+  "임정은",
+  "노시홍",
+  "오일룡",
+  "이상옥"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "남편",
+   "name": "최일화"
+  },
+  {
+   "role": "남편",
+   "name": "김동현"
+  },
+  {
+   "role": "남편",
+   "name": "이승영"
+  },
+  {
+   "role": "아내",
+   "name": "장희수"
+  },
+  {
+   "role": "아내",
+   "name": "신혜정"
+  },
+  {
+   "role": "아내",
+   "name": "김가영"
+  },
+  {
+   "role": "아내",
+   "name": "임정은"
+  },
+  {
+   "role": "멀티맨",
+   "name": "노시홍"
+  },
+  {
+   "role": "멀티맨",
+   "name": "오일룡"
+  },
+  {
+   "role": "멀티맨",
+   "name": "이상옥"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250421115756/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=45173"
+ }
+}

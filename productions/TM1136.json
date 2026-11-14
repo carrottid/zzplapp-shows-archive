@@ -1,0 +1,64 @@
+{
+ "id": "TM1136",
+ "title": "인터넷 데이팅",
+ "genre": "뮤지컬",
+ "from": "2008-03-28",
+ "to": "2008-06-29",
+ "venue": "아티스탄홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008_인터넷데이팅 01.jpg",
+ "cast": [
+  "임진아",
+  "지니",
+  "조찬희",
+  "장혜리",
+  "김준겸",
+  "김용철",
+  "김에셀",
+  "김지숙"
+ ],
+ "state": "공연완료",
+ "producer": "(주)아티스탄",
+ "price": "R석 (특별할인 평일 이벤트) 1만원 / S석 (특별할인 평일 이벤트) 1만원 / R석 (특별할인 주말 이벤트) 1만2천원 / S석 (특별할인 주말 이벤트) 1만2천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "제니",
+   "name": "임진아"
+  },
+  {
+   "role": "제니",
+   "name": "지니"
+  },
+  {
+   "role": "새대가리",
+   "name": "조찬희"
+  },
+  {
+   "role": "엄마/버그",
+   "name": "장혜리"
+  },
+  {
+   "role": "에드왈도",
+   "name": "김준겸"
+  },
+  {
+   "role": "스티브",
+   "name": "김용철"
+  },
+  {
+   "role": "안드레아",
+   "name": "김에셀"
+  },
+  {
+   "role": "제시카",
+   "name": "김지숙"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1136"
+ }
+}

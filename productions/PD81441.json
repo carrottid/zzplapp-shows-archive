@@ -1,0 +1,81 @@
+{
+ "id": "PD81441",
+ "title": "만리향",
+ "genre": "연극",
+ "from": "2015-09-02",
+ "to": "2015-09-20",
+ "venue": "예그린씨어터",
+ "cast": [
+  "김효숙",
+  "김현정",
+  "성노진",
+  "천재홍",
+  "이교엽",
+  "김경남",
+  "백선우",
+  "배소현",
+  "김지은",
+  "김효선",
+  "문학연",
+  "송영주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "어머니",
+   "name": "김효숙"
+  },
+  {
+   "role": "어머니",
+   "name": "김현정"
+  },
+  {
+   "role": "첫째",
+   "name": "성노진"
+  },
+  {
+   "role": "첫째",
+   "name": "천재홍"
+  },
+  {
+   "role": "둘째",
+   "name": "이교엽"
+  },
+  {
+   "role": "둘째",
+   "name": "김경남"
+  },
+  {
+   "role": "셋째",
+   "name": "백선우"
+  },
+  {
+   "role": "셋째",
+   "name": "배소현"
+  },
+  {
+   "role": "아내",
+   "name": "김지은"
+  },
+  {
+   "role": "아내",
+   "name": "김효선"
+  },
+  {
+   "role": "유숙",
+   "name": "문학연"
+  },
+  {
+   "role": "유숙",
+   "name": "송영주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210818080839/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=81441"
+ }
+}

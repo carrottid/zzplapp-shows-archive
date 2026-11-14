@@ -1,0 +1,46 @@
+{
+ "id": "PD108370",
+ "title": "프로즌",
+ "genre": "연극",
+ "from": "2017-06-06",
+ "to": "2017-07-16",
+ "venue": "예그린씨어터",
+ "cast": [
+  "이석준",
+  "박호산",
+  "이창훈",
+  "우현주",
+  "정수영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "랄프",
+   "name": "이석준"
+  },
+  {
+   "role": "랄프",
+   "name": "박호산"
+  },
+  {
+   "role": "랄프",
+   "name": "이창훈"
+  },
+  {
+   "role": "낸시",
+   "name": "우현주"
+  },
+  {
+   "role": "아그네샤",
+   "name": "정수영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230110180924/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=108370"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PD69803",
+ "title": "마이 버킷 리스트",
+ "genre": "뮤지컬",
+ "from": "2014-11-13",
+ "to": "2015-01-03",
+ "venue": "홍익대 대학로 아트센터 소극장",
+ "cast": [
+  "박유덕",
+  "이규형",
+  "주민진",
+  "이지호",
+  "김태경",
+  "배두훈"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "강구",
+   "name": "박유덕"
+  },
+  {
+   "role": "강구",
+   "name": "이규형"
+  },
+  {
+   "role": "강구",
+   "name": "주민진"
+  },
+  {
+   "role": "해기",
+   "name": "이지호"
+  },
+  {
+   "role": "해기",
+   "name": "김태경"
+  },
+  {
+   "role": "해기",
+   "name": "배두훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210507131138/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=69803"
+ }
+}

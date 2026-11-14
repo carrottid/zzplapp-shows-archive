@@ -1,0 +1,66 @@
+{
+ "id": "PD136510",
+ "title": "아내가 사라졌다",
+ "genre": "연극",
+ "from": "2019-01-05",
+ "to": "2019-01-16",
+ "venue": "미마지 아트센터 물빛극장",
+ "cast": [
+  "윤민구",
+  "어은비",
+  "김수찬",
+  "이나리",
+  "이주한",
+  "김동명",
+  "김현수",
+  "이예지",
+  "권현우"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "수동",
+   "name": "윤민구"
+  },
+  {
+   "role": "안젤라",
+   "name": "어은비"
+  },
+  {
+   "role": "대장",
+   "name": "김수찬"
+  },
+  {
+   "role": "딸",
+   "name": "이나리"
+  },
+  {
+   "role": "참모장",
+   "name": "이주한"
+  },
+  {
+   "role": "시인",
+   "name": "김동명"
+  },
+  {
+   "role": "",
+   "name": "김현수"
+  },
+  {
+   "role": "",
+   "name": "이예지"
+  },
+  {
+   "role": "",
+   "name": "권현우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240804200633/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=136510"
+ }
+}

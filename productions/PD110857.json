@@ -1,0 +1,76 @@
+{
+ "id": "PD110857",
+ "title": "헤드윅",
+ "genre": "뮤지컬",
+ "from": "2017-08-18",
+ "to": "2017-11-05",
+ "venue": "홍익대 대학로 아트센터 대극장",
+ "cast": [
+  "오만석",
+  "유연석",
+  "마이클 리",
+  "정문성",
+  "조형균",
+  "전혜선",
+  "제이민",
+  "유리아",
+  "김민기",
+  "Zakky Kim",
+  "이준"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "헤드윅",
+   "name": "오만석"
+  },
+  {
+   "role": "헤드윅",
+   "name": "유연석"
+  },
+  {
+   "role": "헤드윅",
+   "name": "마이클 리"
+  },
+  {
+   "role": "헤드윅",
+   "name": "정문성"
+  },
+  {
+   "role": "",
+   "name": "조형균"
+  },
+  {
+   "role": "이츠학",
+   "name": "전혜선"
+  },
+  {
+   "role": "이츠학",
+   "name": "제이민"
+  },
+  {
+   "role": "이츠학",
+   "name": "유리아"
+  },
+  {
+   "role": "디앵그리인치",
+   "name": "김민기"
+  },
+  {
+   "role": "디앵그리인치",
+   "name": "Zakky Kim"
+  },
+  {
+   "role": "디앵그리인치",
+   "name": "이준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251010023501/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=110857"
+ }
+}

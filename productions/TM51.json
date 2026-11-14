@@ -1,0 +1,74 @@
+{
+ "id": "TM51",
+ "title": "알타보이즈",
+ "genre": "뮤지컬",
+ "from": "2006-04-11",
+ "to": "2006-05-21",
+ "venue": "충무아트홀 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_db-altarboys(2006).jpg",
+ "cast": [
+  "김태우",
+  "송용진",
+  "최성원",
+  "이철주",
+  "한지상",
+  "김무열",
+  "라준",
+  "이태희",
+  "김태한",
+  "김종원"
+ ],
+ "state": "공연완료",
+ "producer": "뮤지컬 해븐, CJ엔터테이먼트, 옐로우9",
+ "price": "R석 6만원/S석 5만원/A석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "매튜",
+   "name": "김태우"
+  },
+  {
+   "role": "매튜",
+   "name": "송용진"
+  },
+  {
+   "role": "마크",
+   "name": "최성원"
+  },
+  {
+   "role": "마크",
+   "name": "이철주"
+  },
+  {
+   "role": "마크",
+   "name": "한지상"
+  },
+  {
+   "role": "루크",
+   "name": "김무열"
+  },
+  {
+   "role": "루크",
+   "name": "라준"
+  },
+  {
+   "role": "후안",
+   "name": "이태희"
+  },
+  {
+   "role": "에이브라함",
+   "name": "김태한"
+  },
+  {
+   "role": "에이브라함",
+   "name": "김종원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=51"
+ }
+}

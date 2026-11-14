@@ -1,0 +1,36 @@
+{
+ "id": "PD17406",
+ "title": "메카로 가는 길",
+ "genre": "연극",
+ "from": "2010-08-06",
+ "to": "2010-08-22",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "예수정",
+  "서인석",
+  "원영애"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "미스헬렌",
+   "name": "예수정"
+  },
+  {
+   "role": "마리우스",
+   "name": "서인석"
+  },
+  {
+   "role": "엘사",
+   "name": "원영애"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240913102957/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=17406"
+ }
+}

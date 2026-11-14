@@ -1,0 +1,76 @@
+{
+ "id": "PD146337",
+ "title": "더 가이즈",
+ "genre": "연극",
+ "from": "2019-10-03",
+ "to": "2019-12-31",
+ "venue": "한성아트홀 2관",
+ "cast": [
+  "채종국",
+  "고철순",
+  "김세중",
+  "고동균",
+  "노수빈",
+  "손윤필",
+  "민진홍",
+  "우석준",
+  "유의봉",
+  "구옥분",
+  "윤종빈"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "레용",
+   "name": "채종국"
+  },
+  {
+   "role": "레용",
+   "name": "고철순"
+  },
+  {
+   "role": "고윤발",
+   "name": "김세중"
+  },
+  {
+   "role": "고윤발",
+   "name": "고동균"
+  },
+  {
+   "role": "이슨기",
+   "name": "노수빈"
+  },
+  {
+   "role": "이슨기",
+   "name": "손윤필"
+  },
+  {
+   "role": "주니뎁",
+   "name": "민진홍"
+  },
+  {
+   "role": "주니뎁",
+   "name": "우석준"
+  },
+  {
+   "role": "주니뎁",
+   "name": "유의봉"
+  },
+  {
+   "role": "마털다",
+   "name": "구옥분"
+  },
+  {
+   "role": "마털다",
+   "name": "윤종빈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20211203141241/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=146337"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "id": "PD89470",
+ "title": "아찔한 연애 - 대구",
+ "genre": "연극",
+ "from": "2016-03-18",
+ "to": "2016-06-19",
+ "venue": "아트플러스씨어터 1관",
+ "cast": [
+  "김지영",
+  "박인경",
+  "이혜정",
+  "이창건",
+  "오민학",
+  "백창하",
+  "임홍조"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "나현실",
+   "name": "김지영"
+  },
+  {
+   "role": "나현실",
+   "name": "박인경"
+  },
+  {
+   "role": "나현실",
+   "name": "이혜정"
+  },
+  {
+   "role": "구경만",
+   "name": "이창건"
+  },
+  {
+   "role": "전우성",
+   "name": "오민학"
+  },
+  {
+   "role": "손중기",
+   "name": "백창하"
+  },
+  {
+   "role": "채민수",
+   "name": "임홍조"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250815205927/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=89470"
+ }
+}

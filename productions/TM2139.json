@@ -1,0 +1,59 @@
+{
+ "id": "TM2139",
+ "title": "서시",
+ "genre": "뮤지컬",
+ "from": "2014-11-20",
+ "to": "2014-12-07",
+ "venue": "게릴라극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2014112703403134MNI326Q11WO6X4.jpg",
+ "cast": [
+  "임현준",
+  "송준형",
+  "김신혜",
+  "박인화",
+  "김영학",
+  "전진아",
+  "최용림"
+ ],
+ "state": "공연완료",
+ "producer": "연희단거리패",
+ "price": "전석 2만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "동주",
+   "name": "임현준"
+  },
+  {
+   "role": "의사",
+   "name": "송준형"
+  },
+  {
+   "role": "요코",
+   "name": "김신혜"
+  },
+  {
+   "role": "어머니",
+   "name": "박인화"
+  },
+  {
+   "role": "아버지",
+   "name": "김영학"
+  },
+  {
+   "role": "혜원",
+   "name": "전진아"
+  },
+  {
+   "role": "재숙",
+   "name": "최용림"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2139"
+ }
+}

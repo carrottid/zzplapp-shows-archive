@@ -1,0 +1,59 @@
+{
+ "id": "TM2251",
+ "title": "시카고",
+ "genre": "뮤지컬",
+ "from": "2015-11-14",
+ "to": "2016-02-06",
+ "venue": "디큐브아트센터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201510051138003S8Q4YD76M7H8UA4.jpg",
+ "cast": [
+  "최정원",
+  "아이비",
+  "이종혁",
+  "성기윤",
+  "전수경",
+  "김경선",
+  "류창우"
+ ],
+ "state": "공연완료",
+ "producer": "신시컴퍼니",
+ "price": "VIP석 13만원, OP석 11만원, R석 11만원, S석 8만원, A석 5",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "벨마 켈리",
+   "name": "최정원"
+  },
+  {
+   "role": "록시 하트",
+   "name": "아이비"
+  },
+  {
+   "role": "빌리 플린",
+   "name": "이종혁"
+  },
+  {
+   "role": "빌리 플린",
+   "name": "성기윤"
+  },
+  {
+   "role": "마마 모튼",
+   "name": "전수경"
+  },
+  {
+   "role": "마마 모튼",
+   "name": "김경선"
+  },
+  {
+   "role": "에이 모스",
+   "name": "류창우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2251"
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "id": "TM1443",
+ "title": "마이 스케어리 걸",
+ "genre": "뮤지컬",
+ "from": "2009-05-30",
+ "to": "2009-07-19",
+ "venue": "더스테이지",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2009msg.jpg",
+ "cast": [
+  "신성록",
+  "김재범",
+  "방진의",
+  "손현정",
+  "김진희",
+  "전재홍",
+  "유기호",
+  "진상현"
+ ],
+ "state": "공연완료",
+ "producer": "(주)뮤지컬해븐, (주)인터파크INT",
+ "price": "전석 45,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "황대우",
+   "name": "신성록"
+  },
+  {
+   "role": "황대우",
+   "name": "김재범"
+  },
+  {
+   "role": "이미나",
+   "name": "방진의"
+  },
+  {
+   "role": "이미나",
+   "name": "손현정"
+  },
+  {
+   "role": "백장미",
+   "name": "김진희"
+  },
+  {
+   "role": "이성식",
+   "name": "전재홍"
+  },
+  {
+   "role": "홍규 외 멀티맨 1",
+   "name": "유기호"
+  },
+  {
+   "role": "계동 외 멀티맨 2",
+   "name": "진상현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1443"
+ }
+}

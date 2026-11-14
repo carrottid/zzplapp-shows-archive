@@ -1,0 +1,46 @@
+{
+ "id": "PD131023",
+ "title": "인형의 집",
+ "genre": "연극",
+ "from": "2018-11-06",
+ "to": "2018-11-25",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "정운선",
+  "이기돈",
+  "김도완",
+  "우정원",
+  "홍승균"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "노라",
+   "name": "정운선"
+  },
+  {
+   "role": "헬메르 토르발",
+   "name": "이기돈"
+  },
+  {
+   "role": "닐스 크로그스타드",
+   "name": "김도완"
+  },
+  {
+   "role": "크리스티네 린데 부인",
+   "name": "우정원"
+  },
+  {
+   "role": "랑크 박사",
+   "name": "홍승균"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250428030857/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=131023"
+ }
+}

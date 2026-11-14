@@ -1,0 +1,29 @@
+{
+ "id": "TM1499",
+ "title": "당신도 울고 있나요?",
+ "genre": "뮤지컬",
+ "from": "2009-09-08",
+ "to": "2009-10-31",
+ "venue": "대학로 예술마당 3관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_crying2009.jpg",
+ "cast": [
+  "김선경"
+ ],
+ "state": "공연완료",
+ "producer": "(주)ZERA",
+ "price": "일반 40,000원/중고생 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "선경",
+   "name": "김선경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1499"
+ }
+}

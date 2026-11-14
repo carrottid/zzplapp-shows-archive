@@ -1,0 +1,73 @@
+{
+ "id": "TM1705",
+ "title": "스노우드롭2",
+ "genre": "뮤지컬",
+ "from": "2011-02-09",
+ "to": "2011-06-15",
+ "venue": "대학로 샘 아트홀(스노우드롭 전용관)",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/2020031906220144d748846322461b8cd09d2e274c645f.jpg",
+ "cast": [
+  "이대희",
+  "이중성",
+  "김지성",
+  "이승연",
+  "박수화",
+  "조문홍",
+  "김주선",
+  "박범준",
+  "조훈휘",
+  "김재근"
+ ],
+ "state": "공연완료",
+ "producer": "샘 뮤지컬",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "루시퍼",
+   "name": "이대희"
+  },
+  {
+   "role": "오마담",
+   "name": "이중성"
+  },
+  {
+   "role": "오마담",
+   "name": "김지성"
+  },
+  {
+   "role": "오마담",
+   "name": "이승연"
+  },
+  {
+   "role": "스마일",
+   "name": "박수화"
+  },
+  {
+   "role": "슈바이처",
+   "name": "조문홍"
+  },
+  {
+   "role": "헛다리",
+   "name": "김주선"
+  },
+  {
+   "role": "헛다리",
+   "name": "박범준"
+  },
+  {
+   "role": "인질",
+   "name": "조훈휘"
+  },
+  {
+   "role": "인질",
+   "name": "김재근"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1705"
+ }
+}

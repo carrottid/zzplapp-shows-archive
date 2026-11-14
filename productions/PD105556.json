@@ -1,0 +1,71 @@
+{
+ "id": "PD105556",
+ "title": "킬 미 나우",
+ "genre": "연극",
+ "from": "2017-04-25",
+ "to": "2017-07-16",
+ "venue": "충무아트센터 중극장 블랙",
+ "cast": [
+  "이석준",
+  "이승준",
+  "윤나무",
+  "신성민",
+  "이지현",
+  "신은정",
+  "이진희",
+  "정운선",
+  "오정택",
+  "문성일"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "제이크",
+   "name": "이석준"
+  },
+  {
+   "role": "제이크",
+   "name": "이승준"
+  },
+  {
+   "role": "조이",
+   "name": "윤나무"
+  },
+  {
+   "role": "조이",
+   "name": "신성민"
+  },
+  {
+   "role": "로빈",
+   "name": "이지현"
+  },
+  {
+   "role": "로빈",
+   "name": "신은정"
+  },
+  {
+   "role": "트와일라",
+   "name": "이진희"
+  },
+  {
+   "role": "트와일라",
+   "name": "정운선"
+  },
+  {
+   "role": "라우디",
+   "name": "오정택"
+  },
+  {
+   "role": "라우디",
+   "name": "문성일"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220429044657/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=105556"
+ }
+}

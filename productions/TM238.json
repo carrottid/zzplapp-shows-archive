@@ -1,0 +1,74 @@
+{
+ "id": "TM238",
+ "title": "비밀의 정원",
+ "genre": "뮤지컬",
+ "from": "2005-10-25",
+ "to": "2005-12-04",
+ "venue": "백암아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_05004676.gif",
+ "cast": [
+  "최정원",
+  "오재익",
+  "이계창",
+  "나성아",
+  "함태영",
+  "주아",
+  "하은섬",
+  "김희진",
+  "여승희",
+  "강동호"
+ ],
+ "state": "공연완료",
+ "producer": "컴퍼니원",
+ "price": "R석 5만원 / S석 3만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "정원",
+   "name": "최정원"
+  },
+  {
+   "role": "정원",
+   "name": "오재익"
+  },
+  {
+   "role": "앙상블",
+   "name": "이계창"
+  },
+  {
+   "role": "앙상블",
+   "name": "나성아"
+  },
+  {
+   "role": "앙상블",
+   "name": "함태영"
+  },
+  {
+   "role": "앙상블",
+   "name": "주아"
+  },
+  {
+   "role": "앙상블",
+   "name": "하은섬"
+  },
+  {
+   "role": "앙상블",
+   "name": "김희진"
+  },
+  {
+   "role": "앙상블",
+   "name": "여승희"
+  },
+  {
+   "role": "앙상블",
+   "name": "강동호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=238"
+ }
+}

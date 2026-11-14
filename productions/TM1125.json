@@ -1,0 +1,69 @@
+{
+ "id": "TM1125",
+ "title": "솔로의 단계",
+ "genre": "뮤지컬",
+ "from": "2007-12-07",
+ "to": "2007-12-31",
+ "venue": "대학로 성균소극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 솔로 01.jpg",
+ "cast": [
+  "김수용",
+  "이광현",
+  "장윤진",
+  "김원식",
+  "김희진",
+  "안승옥",
+  "최윤정",
+  "안나민",
+  "박시범"
+ ],
+ "state": "공연완료",
+ "producer": "SUS4",
+ "price": "전석 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "공봉호",
+   "name": "김수용"
+  },
+  {
+   "role": "공봉호",
+   "name": "이광현"
+  },
+  {
+   "role": "공봉호",
+   "name": "장윤진"
+  },
+  {
+   "role": "공봉호",
+   "name": "김원식"
+  },
+  {
+   "role": "공봉호",
+   "name": "김희진"
+  },
+  {
+   "role": "공봉호",
+   "name": "안승옥"
+  },
+  {
+   "role": "맹수진",
+   "name": "최윤정"
+  },
+  {
+   "role": "맹수진",
+   "name": "안나민"
+  },
+  {
+   "role": "공봉호",
+   "name": "박시범"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1125"
+ }
+}

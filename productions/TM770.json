@@ -1,0 +1,54 @@
+{
+ "id": "TM770",
+ "title": "인당수 사랑가",
+ "genre": "뮤지컬",
+ "from": "2007-01-05",
+ "to": "2007-02-25",
+ "venue": "원더스페이스(구.사다리아트센터) 네모극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009250324371ba41fda30ee40faa96ef5b25df09f99.jpg",
+ "cast": [
+  "이지은",
+  "김승대",
+  "고승수",
+  "남문철",
+  "이상은",
+  "오대환"
+ ],
+ "state": "공연완료",
+ "producer": "(주)파임커뮤니케이션즈",
+ "price": "일반 3만원 / 대학생 2만5천원 / 청소년 1만7천원 / 금 낮 전석 1만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "춘향",
+   "name": "이지은"
+  },
+  {
+   "role": "몽룡",
+   "name": "김승대"
+  },
+  {
+   "role": "변학도",
+   "name": "고승수"
+  },
+  {
+   "role": "심봉사",
+   "name": "남문철"
+  },
+  {
+   "role": "방자",
+   "name": "이상은"
+  },
+  {
+   "role": "동네처녀",
+   "name": "오대환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=770"
+ }
+}

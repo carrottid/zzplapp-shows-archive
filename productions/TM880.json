@@ -1,0 +1,54 @@
+{
+ "id": "TM880",
+ "title": "밴디트-또 다른 시작",
+ "genre": "뮤지컬",
+ "from": "2007-11-30",
+ "to": "2007-12-31",
+ "venue": "문화일보홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200915054152912868e266b146c287f6b24933deed35.jpg",
+ "cast": [
+  "이소유",
+  "소찬휘",
+  "이영미",
+  "리사",
+  "한지상",
+  "전민준(전역산)"
+ ],
+ "state": "공연완료",
+ "producer": "문화예술기획 렛츠, P&C기획",
+ "price": "R석 5만원, S석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "한경애",
+   "name": "이소유"
+  },
+  {
+   "role": "한경애",
+   "name": "소찬휘"
+  },
+  {
+   "role": "최영서",
+   "name": "이영미"
+  },
+  {
+   "role": "최영서",
+   "name": "리사"
+  },
+  {
+   "role": "나레이터/아이돌스타",
+   "name": "한지상"
+  },
+  {
+   "role": "나레이터/아이돌스타",
+   "name": "전민준(전역산)"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=880"
+ }
+}

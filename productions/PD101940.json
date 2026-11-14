@@ -1,0 +1,96 @@
+{
+ "id": "PD101940",
+ "title": "데스노트",
+ "genre": "뮤지컬",
+ "from": "2017-01-03",
+ "to": "2017-01-26",
+ "venue": "예술의전당 오페라극장",
+ "cast": [
+  "한지상",
+  "김준수",
+  "박혜나",
+  "강홍석",
+  "벤",
+  "서영주",
+  "이수빈",
+  "임하람",
+  "차정현",
+  "김수영",
+  "김솔",
+  "김지욱",
+  "강기헌",
+  "변형범",
+  "황수정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "라이토",
+   "name": "한지상"
+  },
+  {
+   "role": "엘(L)",
+   "name": "김준수"
+  },
+  {
+   "role": "렘",
+   "name": "박혜나"
+  },
+  {
+   "role": "류크",
+   "name": "강홍석"
+  },
+  {
+   "role": "미사",
+   "name": "벤"
+  },
+  {
+   "role": "소이치로",
+   "name": "서영주"
+  },
+  {
+   "role": "",
+   "name": "이수빈"
+  },
+  {
+   "role": "",
+   "name": "임하람"
+  },
+  {
+   "role": "",
+   "name": "차정현"
+  },
+  {
+   "role": "",
+   "name": "김수영"
+  },
+  {
+   "role": "",
+   "name": "김솔"
+  },
+  {
+   "role": "",
+   "name": "김지욱"
+  },
+  {
+   "role": "",
+   "name": "강기헌"
+  },
+  {
+   "role": "",
+   "name": "변형범"
+  },
+  {
+   "role": "",
+   "name": "황수정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260516083553/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=101940"
+ }
+}

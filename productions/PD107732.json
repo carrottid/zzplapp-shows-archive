@@ -1,0 +1,96 @@
+{
+ "id": "PD107732",
+ "title": "신과 함께_저승편",
+ "genre": "뮤지컬",
+ "from": "2017-06-30",
+ "to": "2017-07-22",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "김다현",
+  "박영수",
+  "송용진",
+  "김우형",
+  "김도빈",
+  "정원영",
+  "최인형",
+  "김건혜",
+  "이혜수",
+  "김용한",
+  "임재혁",
+  "금승훈",
+  "김백현",
+  "신상언",
+  "이은솔"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "진기한",
+   "name": "김다현"
+  },
+  {
+   "role": "진기한",
+   "name": "박영수"
+  },
+  {
+   "role": "강림",
+   "name": "송용진"
+  },
+  {
+   "role": "강림",
+   "name": "김우형"
+  },
+  {
+   "role": "김자홍",
+   "name": "김도빈"
+  },
+  {
+   "role": "김자홍",
+   "name": "정원영"
+  },
+  {
+   "role": "해원맥",
+   "name": "최인형"
+  },
+  {
+   "role": "덕춘",
+   "name": "김건혜"
+  },
+  {
+   "role": "덕춘",
+   "name": "이혜수"
+  },
+  {
+   "role": "원귀",
+   "name": "김용한"
+  },
+  {
+   "role": "원귀",
+   "name": "임재혁"
+  },
+  {
+   "role": "",
+   "name": "금승훈"
+  },
+  {
+   "role": "",
+   "name": "김백현"
+  },
+  {
+   "role": "",
+   "name": "신상언"
+  },
+  {
+   "role": "",
+   "name": "이은솔"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251011221247/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=107732"
+ }
+}

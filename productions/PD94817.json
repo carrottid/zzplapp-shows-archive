@@ -1,0 +1,51 @@
+{
+ "id": "PD94817",
+ "title": "줄리 앤 폴",
+ "genre": "뮤지컬",
+ "from": "2016-07-04",
+ "to": "2016-07-05",
+ "venue": "CJ 아지트 대학로(구 SM아트홀)",
+ "cast": [
+  "곽선영",
+  "정욱진",
+  "송광일",
+  "한우열",
+  "윤사봉",
+  "이경욱"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "줄리",
+   "name": "곽선영"
+  },
+  {
+   "role": "폴",
+   "name": "정욱진"
+  },
+  {
+   "role": "나폴레옹",
+   "name": "송광일"
+  },
+  {
+   "role": "장",
+   "name": "한우열"
+  },
+  {
+   "role": "파리시장",
+   "name": "윤사봉"
+  },
+  {
+   "role": "예술가 대표",
+   "name": "이경욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241014154004/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=94817"
+ }
+}

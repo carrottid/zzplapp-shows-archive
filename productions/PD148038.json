@@ -1,0 +1,76 @@
+{
+ "id": "PD148038",
+ "title": "옥상 위 달빛이 머무는 자리",
+ "genre": "연극",
+ "from": "2019-09-10",
+ "to": "2019-09-22",
+ "venue": "대학로 SH 아트홀",
+ "cast": [
+  "양창완",
+  "임성주",
+  "하성민",
+  "이태식",
+  "김승현",
+  "신락훈",
+  "오정연",
+  "최혜주",
+  "시민지",
+  "박하늘",
+  "김만중"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "노숙자",
+   "name": "양창완"
+  },
+  {
+   "role": "노숙자",
+   "name": "임성주"
+  },
+  {
+   "role": "철수",
+   "name": "하성민"
+  },
+  {
+   "role": "철수",
+   "name": "이태식"
+  },
+  {
+   "role": "젊은 남편",
+   "name": "김승현"
+  },
+  {
+   "role": "젊은 남편",
+   "name": "신락훈"
+  },
+  {
+   "role": "젊은 아내",
+   "name": "오정연"
+  },
+  {
+   "role": "젊은 아내",
+   "name": "최혜주"
+  },
+  {
+   "role": "여고생",
+   "name": "시민지"
+  },
+  {
+   "role": "여고생",
+   "name": "박하늘"
+  },
+  {
+   "role": "군인",
+   "name": "김만중"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250620073159/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=148038"
+ }
+}

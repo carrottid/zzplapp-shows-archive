@@ -1,0 +1,86 @@
+{
+ "id": "PD143750",
+ "title": "너를 위한 글자",
+ "genre": "뮤지컬",
+ "from": "2019-07-06",
+ "to": "2019-09-01",
+ "venue": "예스24스테이지 1관",
+ "cast": [
+  "강필석",
+  "정동화",
+  "정욱진",
+  "윤소호",
+  "이정화",
+  "강혜인",
+  "이봄소리",
+  "서혜원",
+  "에녹",
+  "정상윤",
+  "이용규",
+  "백승렬",
+  "임별"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "투리",
+   "name": "강필석"
+  },
+  {
+   "role": "투리",
+   "name": "정동화"
+  },
+  {
+   "role": "투리",
+   "name": "정욱진"
+  },
+  {
+   "role": "투리",
+   "name": "윤소호"
+  },
+  {
+   "role": "캐롤리나",
+   "name": "이정화"
+  },
+  {
+   "role": "캐롤리나",
+   "name": "강혜인"
+  },
+  {
+   "role": "캐롤리나",
+   "name": "이봄소리"
+  },
+  {
+   "role": "캐롤리나",
+   "name": "서혜원"
+  },
+  {
+   "role": "도미니코",
+   "name": "에녹"
+  },
+  {
+   "role": "도미니코",
+   "name": "정상윤"
+  },
+  {
+   "role": "도미니코",
+   "name": "이용규"
+  },
+  {
+   "role": "도미니코",
+   "name": "백승렬"
+  },
+  {
+   "role": "",
+   "name": "임별"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250711125559/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=143750"
+ }
+}

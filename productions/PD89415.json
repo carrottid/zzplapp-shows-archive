@@ -1,0 +1,91 @@
+{
+ "id": "PD89415",
+ "title": "백중사 이야기",
+ "genre": "연극",
+ "from": "2016-03-10",
+ "to": "2016-04-10",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "조운",
+  "여욱환",
+  "김영준",
+  "김도완",
+  "한규남",
+  "송부건",
+  "김세환",
+  "김진곤",
+  "한인수",
+  "위지영",
+  "김대영",
+  "이화",
+  "김타연",
+  "엄태나"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "백중사",
+   "name": "조운"
+  },
+  {
+   "role": "이병장",
+   "name": "여욱환"
+  },
+  {
+   "role": "이병장",
+   "name": "김영준"
+  },
+  {
+   "role": "이병장",
+   "name": "김도완"
+  },
+  {
+   "role": "부대장,오중사",
+   "name": "한규남"
+  },
+  {
+   "role": "부대장,오중사",
+   "name": "송부건"
+  },
+  {
+   "role": "박병장",
+   "name": "김세환"
+  },
+  {
+   "role": "박상병",
+   "name": "김진곤"
+  },
+  {
+   "role": "김일병",
+   "name": "한인수"
+  },
+  {
+   "role": "",
+   "name": "위지영"
+  },
+  {
+   "role": "",
+   "name": "김대영"
+  },
+  {
+   "role": "",
+   "name": "이화"
+  },
+  {
+   "role": "",
+   "name": "김타연"
+  },
+  {
+   "role": "",
+   "name": "엄태나"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250808084752/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=89415"
+ }
+}

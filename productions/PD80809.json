@@ -1,0 +1,36 @@
+{
+ "id": "PD80809",
+ "title": "세월호 - 세상이 발칵 & 삼풍백화점 & 짧은 하루",
+ "genre": "연극",
+ "from": "2015-08-19",
+ "to": "2015-08-23",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "안병찬",
+  "박옥출",
+  "양택호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "세상이 발칵",
+   "name": "안병찬"
+  },
+  {
+   "role": "세상이 발칵",
+   "name": "박옥출"
+  },
+  {
+   "role": "세상이 발칵",
+   "name": "양택호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241106220149/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=80809"
+ }
+}

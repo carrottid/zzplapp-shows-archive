@@ -1,0 +1,56 @@
+{
+ "id": "PD7892",
+ "title": "인간의 시간",
+ "genre": "연극",
+ "from": "2008-12-19",
+ "to": "2008-12-27",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "이호재",
+  "박웅",
+  "장미자",
+  "이남희",
+  "길해연",
+  "김뢰하",
+  "추귀정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이원형",
+   "name": "이호재"
+  },
+  {
+   "role": "아버지",
+   "name": "박웅"
+  },
+  {
+   "role": "고모",
+   "name": "장미자"
+  },
+  {
+   "role": "정광석",
+   "name": "이남희"
+  },
+  {
+   "role": "박태경",
+   "name": "길해연"
+  },
+  {
+   "role": "장년 이원형",
+   "name": "김뢰하"
+  },
+  {
+   "role": "",
+   "name": "추귀정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250623021510/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=7892"
+ }
+}

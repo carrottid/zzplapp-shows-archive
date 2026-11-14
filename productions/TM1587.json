@@ -1,0 +1,54 @@
+{
+ "id": "TM1587",
+ "title": "스켈리두",
+ "genre": "뮤지컬",
+ "from": "2010-03-12",
+ "to": "2010-06-12",
+ "venue": "대학로 컬투홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_scarydo2010.jpg",
+ "cast": [
+  "김중기",
+  "윤덕현",
+  "유환웅",
+  "김명",
+  "조헌정",
+  "김샛별"
+ ],
+ "state": "공연완료",
+ "producer": "비갬아트컴퍼니, 컬트엔터테인먼트",
+ "price": "일반석 35,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "정지훈 외 다역",
+   "name": "김중기"
+  },
+  {
+   "role": "정지훈 외 다역",
+   "name": "윤덕현"
+  },
+  {
+   "role": "이수민",
+   "name": "유환웅"
+  },
+  {
+   "role": "이수민",
+   "name": "김명"
+  },
+  {
+   "role": "유희",
+   "name": "조헌정"
+  },
+  {
+   "role": "유희",
+   "name": "김샛별"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1587"
+ }
+}

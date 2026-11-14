@@ -1,0 +1,46 @@
+{
+ "id": "PD147526",
+ "title": "오시에 오시게",
+ "genre": "뮤지컬",
+ "from": "2019-10-04",
+ "to": "2019-10-27",
+ "venue": "국립정동극장(서울)",
+ "cast": [
+  "안이호",
+  "유성재",
+  "김승용",
+  "임찬민",
+  "박준휘"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "충삼",
+   "name": "안이호"
+  },
+  {
+   "role": "하응",
+   "name": "유성재"
+  },
+  {
+   "role": "성진",
+   "name": "김승용"
+  },
+  {
+   "role": "승영",
+   "name": "임찬민"
+  },
+  {
+   "role": "승영",
+   "name": "박준휘"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20211016034012/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=147526"
+ }
+}

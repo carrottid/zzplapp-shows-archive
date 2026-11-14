@@ -1,0 +1,26 @@
+{
+ "id": "PD154722",
+ "title": "신유치료자",
+ "genre": "연극",
+ "from": "2020-02-20",
+ "to": "2020-02-23",
+ "venue": "연극실험실 혜화동 1번지",
+ "cast": [
+  "박현민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "프랭크",
+   "name": "박현민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260214133028/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=154722"
+ }
+}

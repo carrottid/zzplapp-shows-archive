@@ -1,0 +1,56 @@
+{
+ "id": "PD7287",
+ "title": "클레오파트라",
+ "genre": "뮤지컬",
+ "from": "2008-12-24",
+ "to": "2008-12-25",
+ "venue": "대구 수성아트피아 용지홀",
+ "cast": [
+  "김선경",
+  "박지윤",
+  "김법래",
+  "민영기",
+  "최성원",
+  "서정현",
+  "정찬우"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "클레오파트라",
+   "name": "김선경"
+  },
+  {
+   "role": "클레오파트라",
+   "name": "박지윤"
+  },
+  {
+   "role": "시저",
+   "name": "김법래"
+  },
+  {
+   "role": "안토니우스",
+   "name": "민영기"
+  },
+  {
+   "role": "옥타비아누스",
+   "name": "최성원"
+  },
+  {
+   "role": "플루비아",
+   "name": "서정현"
+  },
+  {
+   "role": "아폴로도로스",
+   "name": "정찬우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171025133231/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=7287"
+ }
+}

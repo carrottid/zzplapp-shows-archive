@@ -1,0 +1,76 @@
+{
+ "id": "PD54013",
+ "title": "노트르담 드 파리 - 창원",
+ "genre": "뮤지컬",
+ "from": "2013-11-22",
+ "to": "2013-11-24",
+ "venue": "창원 성산아트홀 대극장",
+ "cast": [
+  "홍광호",
+  "윤형렬",
+  "윤공주",
+  "정동하",
+  "전동석",
+  "마이클 리",
+  "최민철",
+  "김성민",
+  "박은석",
+  "이정화",
+  "안솔지"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "콰지모도",
+   "name": "홍광호"
+  },
+  {
+   "role": "콰지모도",
+   "name": "윤형렬"
+  },
+  {
+   "role": "에스메랄다",
+   "name": "윤공주"
+  },
+  {
+   "role": "그랭그와르",
+   "name": "정동하"
+  },
+  {
+   "role": "그랭그와르",
+   "name": "전동석"
+  },
+  {
+   "role": "그랭그와르",
+   "name": "마이클 리"
+  },
+  {
+   "role": "프롤로",
+   "name": "최민철"
+  },
+  {
+   "role": "페뷔스",
+   "name": "김성민"
+  },
+  {
+   "role": "페뷔스",
+   "name": "박은석"
+  },
+  {
+   "role": "플뢰르 드 리스",
+   "name": "이정화"
+  },
+  {
+   "role": "플뢰르 드 리스",
+   "name": "안솔지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200613151258/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=54013"
+ }
+}

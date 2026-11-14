@@ -1,0 +1,79 @@
+{
+ "id": "TM1297",
+ "title": "한 여름 밤의 악몽",
+ "genre": "뮤지컬",
+ "from": "2008-10-18",
+ "to": "2008-11-16",
+ "venue": "동국대학교 이해랑 예술극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200520055141b08a08ef53f547ceb317d85aa1b7e3f2.jpg",
+ "cast": [
+  "김늘봄",
+  "황지영",
+  "홍금단",
+  "이훈진",
+  "김일우",
+  "이동수",
+  "한성식",
+  "안덕용",
+  "최영준",
+  "이성원",
+  "이재경"
+ ],
+ "state": "공연완료",
+ "producer": "극단 자명종",
+ "price": "R석 20,000원/S석 15,000원/A석 10,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "임황/고종",
+   "name": "김늘봄"
+  },
+  {
+   "role": "손말명",
+   "name": "황지영"
+  },
+  {
+   "role": "손말명",
+   "name": "홍금단"
+  },
+  {
+   "role": "동춘/고락",
+   "name": "이훈진"
+  },
+  {
+   "role": "동춘/고락",
+   "name": "김일우"
+  },
+  {
+   "role": "허성",
+   "name": "이동수"
+  },
+  {
+   "role": "허성",
+   "name": "한성식"
+  },
+  {
+   "role": "춘풍/하룡",
+   "name": "안덕용"
+  },
+  {
+   "role": "길상/춘배",
+   "name": "최영준"
+  },
+  {
+   "role": "길상/춘배",
+   "name": "이성원"
+  },
+  {
+   "role": "순진/주월",
+   "name": "이재경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1297"
+ }
+}

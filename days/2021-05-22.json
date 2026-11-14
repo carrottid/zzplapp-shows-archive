@@ -1,0 +1,781 @@
+{
+ "date": "2021-05-22",
+ "sessions": [
+  {
+   "id": "PF171029",
+   "title": "검은 사제들",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#09080D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF171876",
+   "title": "그레이트 코멧",
+   "genre": "뮤지컬",
+   "venue": "유니버설아트센터",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2B0B0A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF171440",
+   "title": "더 픽션",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#59544D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF173251",
+   "title": "드라큘라",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0D1B22",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF171776",
+   "title": "시카고",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#9C121C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF173021",
+   "title": "안녕, 여름",
+   "genre": "연극",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#47749F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF173704",
+   "title": "완벽한 타인",
+   "genre": "연극",
+   "venue": "세종문화회관 (세종M씨어터)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#8C8C59",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF173006",
+   "title": "위키드",
+   "genre": "뮤지컬",
+   "venue": "드림씨어터 [부산]",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF174121",
+   "title": "유진규 마임 50년 기념공연: 내가 가면 그게 길이지",
+   "genre": "연극",
+   "venue": "예술의전당 [서울] (자유소극장)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#62585C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF172434",
+   "title": "태양의 노래",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#735B8B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF171644",
+   "title": "팬텀",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#161614",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF172378",
+   "title": "포미니츠",
+   "genre": "뮤지컬",
+   "venue": "국립정동극장",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#231E1B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF172854",
+   "title": "해롤드와 모드",
+   "genre": "연극",
+   "venue": "KT&G 상상마당 대치아트홀",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF172965",
+   "title": "나빌레라",
+   "genre": "뮤지컬",
+   "venue": "예술의전당 [서울] (CJ 토월극장)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#D6A210",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF171918",
+   "title": "데스트랩",
+   "genre": "연극",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#161515",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF173680",
+   "title": "라 레볼뤼시옹",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#5C0F1E",
+    "fg": "#E8C170"
+   }
+  },
+  {
+   "id": "PF171329",
+   "title": "명동로망스",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#B89C2E",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF174053",
+   "title": "무인도 탈출기",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#97854F",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF172855",
+   "title": "문스토리",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#52465A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF171829",
+   "title": "미드나잇: 액터뮤지션",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#080E17",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF174020",
+   "title": "밤에 먹는 무화과",
+   "genre": "연극",
+   "venue": "두산아트센터 (Space111)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#E60000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF171752",
+   "title": "브라더스 까라마조프",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A2540",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF171872",
+   "title": "블루레인",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0F2747",
+    "fg": "#A8DCFF"
+   }
+  },
+  {
+   "id": "PF172764",
+   "title": "빈센트 리버",
+   "genre": "연극",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#4A3A2E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF174443",
+   "title": "소년이 그랬다",
+   "genre": "연극",
+   "venue": "국립극단 [용산] (백성희장민호극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF171442",
+   "title": "쓰릴 미",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#917E54",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF171589",
+   "title": "아이위시",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#260C25",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF172598",
+   "title": "유리동물원",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#5D7389",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF174200",
+   "title": "전설은 이렇게 만들어졌다",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF172728",
+   "title": "제42회 서울연극제, 붉은 낙엽",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#040001",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF172729",
+   "title": "제42회 서울연극제, 생활풍경",
+   "genre": "연극",
+   "venue": "아르코예술극장 (소극장)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#412C3C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF172905",
+   "title": "창업",
+   "genre": "뮤지컬",
+   "venue": "예그린씨어터",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#181C22",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF174613",
+   "title": "판 페스티벌, 선데이 월드",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF173309",
+   "title": "헬로우 미스미스터",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (1관)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#E4AD01",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF174177",
+   "title": "라틴아메리카 프로젝트 Ⅲ",
+   "genre": "연극",
+   "venue": "연우소극장",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF173704",
+   "title": "완벽한 타인",
+   "genre": "연극",
+   "venue": "세종문화회관 (세종M씨어터)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#8C8C59",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF174197",
+   "title": "자본2: 어디에나 어디에도",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF172757",
+   "title": "제42회 서울연극제, JUNGLE",
+   "genre": "연극",
+   "venue": "대학로예술극장 (대극장)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#05060B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF174293",
+   "title": "데미안",
+   "genre": "연극",
+   "venue": "더 줌 아트센터",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF171029",
+   "title": "검은 사제들",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#09080D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF171440",
+   "title": "더 픽션",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#59544D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF172764",
+   "title": "빈센트 리버",
+   "genre": "연극",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#4A3A2E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF171442",
+   "title": "쓰릴 미",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#917E54",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF173021",
+   "title": "안녕, 여름",
+   "genre": "연극",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#47749F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF174121",
+   "title": "유진규 마임 50년 기념공연: 내가 가면 그게 길이지",
+   "genre": "연극",
+   "venue": "예술의전당 [서울] (자유소극장)",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#62585C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF172378",
+   "title": "포미니츠",
+   "genre": "뮤지컬",
+   "venue": "국립정동극장",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#231E1B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF171876",
+   "title": "그레이트 코멧",
+   "genre": "뮤지컬",
+   "venue": "유니버설아트센터",
+   "time": "18:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#2B0B0A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF171918",
+   "title": "데스트랩",
+   "genre": "연극",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "18:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#161515",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF171776",
+   "title": "시카고",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "18:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#9C121C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF172598",
+   "title": "유리동물원",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "18:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#5D7389",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF172434",
+   "title": "태양의 노래",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "18:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#735B8B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF172854",
+   "title": "해롤드와 모드",
+   "genre": "연극",
+   "venue": "KT&G 상상마당 대치아트홀",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF172965",
+   "title": "나빌레라",
+   "genre": "뮤지컬",
+   "venue": "예술의전당 [서울] (CJ 토월극장)",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#D6A210",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF173251",
+   "title": "드라큘라",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0D1B22",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF173680",
+   "title": "라 레볼뤼시옹",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#5C0F1E",
+    "fg": "#E8C170"
+   }
+  },
+  {
+   "id": "PF174177",
+   "title": "라틴아메리카 프로젝트 Ⅲ",
+   "genre": "연극",
+   "venue": "연우소극장",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF171329",
+   "title": "명동로망스",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#B89C2E",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF174053",
+   "title": "무인도 탈출기",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#97854F",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF172855",
+   "title": "문스토리",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#52465A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF171829",
+   "title": "미드나잇: 액터뮤지션",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#080E17",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF171752",
+   "title": "브라더스 까라마조프",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A2540",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF171872",
+   "title": "블루레인",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0F2747",
+    "fg": "#A8DCFF"
+   }
+  },
+  {
+   "id": "PF171589",
+   "title": "아이위시",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#260C25",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF173006",
+   "title": "위키드",
+   "genre": "뮤지컬",
+   "venue": "드림씨어터 [부산]",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF174200",
+   "title": "전설은 이렇게 만들어졌다",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF172905",
+   "title": "창업",
+   "genre": "뮤지컬",
+   "venue": "예그린씨어터",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#181C22",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF171644",
+   "title": "팬텀",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#161614",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF173309",
+   "title": "헬로우 미스미스터",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (1관)",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#E4AD01",
+    "fg": "#111111"
+   }
+  }
+ ]
+}

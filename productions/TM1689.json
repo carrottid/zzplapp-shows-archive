@@ -1,0 +1,104 @@
+{
+ "id": "TM1689",
+ "title": "씨저스 패밀리",
+ "genre": "뮤지컬",
+ "from": "2011-02-11",
+ "to": "2011-04-24",
+ "venue": "충무아트홀 중극장 블랙",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster - 2.jpg",
+ "cast": [
+  "조원희",
+  "이병준",
+  "서영주",
+  "노현희",
+  "유채정",
+  "함승현",
+  "임영진",
+  "유승현",
+  "이세기",
+  "김현숙",
+  "오수인",
+  "정연",
+  "은설",
+  "박소향",
+  "유태경",
+  "이재혁"
+ ],
+ "state": "공연완료",
+ "producer": "㈜무크컴퍼니",
+ "price": "씨저스석 5만5천원 / 패밀리석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "박치기",
+   "name": "조원희"
+  },
+  {
+   "role": "박치기",
+   "name": "이병준"
+  },
+  {
+   "role": "박치기",
+   "name": "서영주"
+  },
+  {
+   "role": "원장",
+   "name": "노현희"
+  },
+  {
+   "role": "원장",
+   "name": "유채정"
+  },
+  {
+   "role": "찰스",
+   "name": "함승현"
+  },
+  {
+   "role": "찰스",
+   "name": "임영진"
+  },
+  {
+   "role": "찰스",
+   "name": "유승현"
+  },
+  {
+   "role": "찰스",
+   "name": "이세기"
+  },
+  {
+   "role": "마담",
+   "name": "김현숙"
+  },
+  {
+   "role": "마담",
+   "name": "오수인"
+  },
+  {
+   "role": "마담",
+   "name": "정연"
+  },
+  {
+   "role": "샤론리",
+   "name": "은설"
+  },
+  {
+   "role": "샤론리",
+   "name": "박소향"
+  },
+  {
+   "role": "철가방",
+   "name": "유태경"
+  },
+  {
+   "role": "철가방",
+   "name": "이재혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1689"
+ }
+}

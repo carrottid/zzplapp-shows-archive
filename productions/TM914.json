@@ -1,0 +1,64 @@
+{
+ "id": "TM914",
+ "title": "뮤직 인 마이 하트",
+ "genre": "뮤지컬",
+ "from": "2008-09-12",
+ "to": "2009-02-01",
+ "venue": "PMC대학로자유극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008_뮤직인마이하트2.jpg",
+ "cast": [
+  "지니",
+  "정명은",
+  "정성운",
+  "김한성",
+  "윤동하",
+  "정철호",
+  "전문지",
+  "원종환"
+ ],
+ "state": "공연완료",
+ "producer": "(주)피엠씨프로덕션",
+ "price": "일반석 40,000원/학생석 20,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이민아",
+   "name": "지니"
+  },
+  {
+   "role": "이민아",
+   "name": "정명은"
+  },
+  {
+   "role": "장재혁",
+   "name": "정성운"
+  },
+  {
+   "role": "장재혁",
+   "name": "김한성"
+  },
+  {
+   "role": "장재혁",
+   "name": "윤동하"
+  },
+  {
+   "role": "조연",
+   "name": "정철호"
+  },
+  {
+   "role": "언더",
+   "name": "전문지"
+  },
+  {
+   "role": "주인공",
+   "name": "원종환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=914"
+ }
+}

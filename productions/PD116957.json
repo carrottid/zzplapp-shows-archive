@@ -1,0 +1,46 @@
+{
+ "id": "PD116957",
+ "title": "미스대디",
+ "genre": "뮤지컬",
+ "from": "2017-12-11",
+ "to": "2017-12-11",
+ "venue": "CJ 아지트 대학로(구 SM아트홀)",
+ "cast": [
+  "최현선",
+  "진태화",
+  "윤성원",
+  "강연정",
+  "김현진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "버드",
+   "name": "최현선"
+  },
+  {
+   "role": "준",
+   "name": "진태화"
+  },
+  {
+   "role": "머큐리",
+   "name": "윤성원"
+  },
+  {
+   "role": "폴리 외",
+   "name": "강연정"
+  },
+  {
+   "role": "찰리 외",
+   "name": "김현진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210824125120/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=116957"
+ }
+}

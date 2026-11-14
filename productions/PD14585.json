@@ -1,0 +1,61 @@
+{
+ "id": "PD14585",
+ "title": "헤어스프레이 - 대구",
+ "genre": "뮤지컬",
+ "from": "2010-02-15",
+ "to": "2010-02-21",
+ "venue": "대구 오페라하우스",
+ "cast": [
+  "권소현",
+  "박경림",
+  "김민영",
+  "문천식",
+  "이인철",
+  "정동화",
+  "오진영",
+  "김자경"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "트레이시",
+   "name": "권소현"
+  },
+  {
+   "role": "트레이시",
+   "name": "박경림"
+  },
+  {
+   "role": "트레이시",
+   "name": "김민영"
+  },
+  {
+   "role": "에드나",
+   "name": "문천식"
+  },
+  {
+   "role": "윌버",
+   "name": "이인철"
+  },
+  {
+   "role": "링크",
+   "name": "정동화"
+  },
+  {
+   "role": "엠버",
+   "name": "오진영"
+  },
+  {
+   "role": "페니",
+   "name": "김자경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250522191659/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=14585"
+ }
+}

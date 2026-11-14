@@ -1,0 +1,44 @@
+{
+ "id": "TM37",
+ "title": "천상시계",
+ "genre": "뮤지컬",
+ "from": "2006-01-31",
+ "to": "2006-02-12",
+ "venue": "예술의전당 토월극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_06000013.gif",
+ "cast": [
+  "남문철",
+  "장대성",
+  "최대훈",
+  "염혜정"
+ ],
+ "state": "공연완료",
+ "producer": "극단 아리랑",
+ "price": "VIP석 7만원/R석 5만원/S석 3만원/A석 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이천",
+   "name": "남문철"
+  },
+  {
+   "role": "이천",
+   "name": "장대성"
+  },
+  {
+   "role": "이천",
+   "name": "최대훈"
+  },
+  {
+   "role": "이천",
+   "name": "염혜정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=37"
+ }
+}

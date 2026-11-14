@@ -1,0 +1,86 @@
+{
+ "id": "PD131590",
+ "title": "노트르담 드 파리 - 전주",
+ "genre": "뮤지컬",
+ "from": "2018-12-01",
+ "to": "2018-12-02",
+ "venue": "한국소리문화의전당 모악당",
+ "cast": [
+  "케이윌",
+  "윤형렬",
+  "윤공주",
+  "정유지",
+  "마이클 리",
+  "서범석",
+  "최민철",
+  "최수형",
+  "박시원",
+  "이지수",
+  "이봄소리",
+  "함연지",
+  "이유청"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "콰지모도",
+   "name": "케이윌"
+  },
+  {
+   "role": "콰지모도",
+   "name": "윤형렬"
+  },
+  {
+   "role": "에스메랄다",
+   "name": "윤공주"
+  },
+  {
+   "role": "에스메랄다",
+   "name": "정유지"
+  },
+  {
+   "role": "그랭구와르",
+   "name": "마이클 리"
+  },
+  {
+   "role": "프롤로",
+   "name": "서범석"
+  },
+  {
+   "role": "프롤로",
+   "name": "최민철"
+  },
+  {
+   "role": "페뷔스",
+   "name": "최수형"
+  },
+  {
+   "role": "클로팽",
+   "name": "박시원"
+  },
+  {
+   "role": "",
+   "name": "이지수"
+  },
+  {
+   "role": "",
+   "name": "이봄소리"
+  },
+  {
+   "role": "",
+   "name": "함연지"
+  },
+  {
+   "role": "",
+   "name": "이유청"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230128155507/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=131590"
+ }
+}

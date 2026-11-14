@@ -1,0 +1,66 @@
+{
+ "id": "PD15176",
+ "title": "키스할까요 ?",
+ "genre": "연극",
+ "from": "2010-03-05",
+ "to": "2010-05-09",
+ "venue": "대학로 예술극장 나무와 물",
+ "cast": [
+  "강문희",
+  "홍예인",
+  "홍서준",
+  "장봉태",
+  "황동주",
+  "최희열",
+  "박윤이",
+  "배성호",
+  "강종인"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "최지숙",
+   "name": "강문희"
+  },
+  {
+   "role": "최지숙",
+   "name": "홍예인"
+  },
+  {
+   "role": "이준휘",
+   "name": "홍서준"
+  },
+  {
+   "role": "이준휘",
+   "name": "장봉태"
+  },
+  {
+   "role": "이곤",
+   "name": "황동주"
+  },
+  {
+   "role": "이곤",
+   "name": "최희열"
+  },
+  {
+   "role": "정하니",
+   "name": "박윤이"
+  },
+  {
+   "role": "멀티맨",
+   "name": "배성호"
+  },
+  {
+   "role": "멀티맨",
+   "name": "강종인"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240423035822/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=15176"
+ }
+}

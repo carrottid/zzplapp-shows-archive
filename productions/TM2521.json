@@ -1,0 +1,79 @@
+{
+ "id": "TM2521",
+ "title": "앤 ANNE",
+ "genre": "뮤지컬",
+ "from": "2017-12-29",
+ "to": "2018-02-04",
+ "venue": "드림아트센터 2관 더블케이씨어터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201801020206550S61501SEB2T4SVR.jpg",
+ "cast": [
+  "차준호",
+  "최현미",
+  "송영미",
+  "임소윤",
+  "신혜지",
+  "임찬민",
+  "조혜령",
+  "서대흥",
+  "이혜원",
+  "유도겸",
+  "조흠"
+ ],
+ "state": "공연완료",
+ "producer": "극단 걸판",
+ "price": "전석 20,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "매슈",
+   "name": "차준호"
+  },
+  {
+   "role": "마릴라",
+   "name": "최현미"
+  },
+  {
+   "role": "앤1",
+   "name": "송영미"
+  },
+  {
+   "role": "앤1",
+   "name": "임소윤"
+  },
+  {
+   "role": "앤2",
+   "name": "신혜지"
+  },
+  {
+   "role": "앤3",
+   "name": "임찬민"
+  },
+  {
+   "role": "다이애나",
+   "name": "조혜령"
+  },
+  {
+   "role": "길버트",
+   "name": "서대흥"
+  },
+  {
+   "role": "린드부인",
+   "name": "이혜원"
+  },
+  {
+   "role": "필립스",
+   "name": "유도겸"
+  },
+  {
+   "role": "찰리",
+   "name": "조흠"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2521"
+ }
+}

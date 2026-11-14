@@ -1,0 +1,99 @@
+{
+ "id": "TM1104",
+ "title": "지저스 지저스",
+ "genre": "뮤지컬",
+ "from": "2008-06-18",
+ "to": "2008-06-20",
+ "venue": "국립극장 해오름극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008_지저스지저스.jpg",
+ "cast": [
+  "팀",
+  "윤복희",
+  "박철호",
+  "이재영",
+  "이흥구",
+  "윤영환",
+  "곽은태",
+  "최오식",
+  "오성원",
+  "김호",
+  "고원석",
+  "김신중",
+  "이성환",
+  "오성민",
+  "윤공주"
+ ],
+ "state": "공연완료",
+ "producer": "극단미리암",
+ "price": "R석 9만원, S석 7만원, A석 5만원, B석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "예수",
+   "name": "팀"
+  },
+  {
+   "role": "베다니 마리아",
+   "name": "윤복희"
+  },
+  {
+   "role": "모세/세례요한",
+   "name": "박철호"
+  },
+  {
+   "role": "간음녀",
+   "name": "이재영"
+  },
+  {
+   "role": "이사야",
+   "name": "이흥구"
+  },
+  {
+   "role": "노아",
+   "name": "윤영환"
+  },
+  {
+   "role": "유다 파라오",
+   "name": "곽은태"
+  },
+  {
+   "role": "앙상블",
+   "name": "최오식"
+  },
+  {
+   "role": "앙상블",
+   "name": "오성원"
+  },
+  {
+   "role": "앙상블",
+   "name": "김호"
+  },
+  {
+   "role": "앙상블",
+   "name": "고원석"
+  },
+  {
+   "role": "앙상블",
+   "name": "김신중"
+  },
+  {
+   "role": "앙상블",
+   "name": "이성환"
+  },
+  {
+   "role": "앙상블",
+   "name": "오성민"
+  },
+  {
+   "role": "앙상블",
+   "name": "윤공주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1104"
+ }
+}

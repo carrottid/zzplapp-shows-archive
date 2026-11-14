@@ -1,0 +1,81 @@
+{
+ "id": "PD160335",
+ "title": "나는 지금 나를 기억한다",
+ "genre": "연극",
+ "from": "2020-10-17",
+ "to": "2020-10-25",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "박지아",
+  "구자승",
+  "조주현",
+  "나종민",
+  "장하란",
+  "하지웅",
+  "강동수",
+  "이랑",
+  "이나경",
+  "김태우",
+  "채승혜",
+  "김남희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "중년여인",
+   "name": "박지아"
+  },
+  {
+   "role": "마임이스트",
+   "name": "구자승"
+  },
+  {
+   "role": "연출",
+   "name": "조주현"
+  },
+  {
+   "role": "경비원",
+   "name": "나종민"
+  },
+  {
+   "role": "여배우",
+   "name": "장하란"
+  },
+  {
+   "role": "후배연출가",
+   "name": "하지웅"
+  },
+  {
+   "role": "",
+   "name": "강동수"
+  },
+  {
+   "role": "",
+   "name": "이랑"
+  },
+  {
+   "role": "",
+   "name": "이나경"
+  },
+  {
+   "role": "",
+   "name": "김태우"
+  },
+  {
+   "role": "",
+   "name": "채승혜"
+  },
+  {
+   "role": "",
+   "name": "김남희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240619195340/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=160335"
+ }
+}

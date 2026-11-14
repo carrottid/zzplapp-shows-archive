@@ -1,0 +1,61 @@
+{
+ "id": "PD140733",
+ "title": "빨래 - 대구",
+ "genre": "뮤지컬",
+ "from": "2019-06-27",
+ "to": "2019-06-30",
+ "venue": "대구 수성아트피아 용지홀",
+ "cast": [
+  "엄태리",
+  "노희찬",
+  "강정임",
+  "양미경",
+  "한우열",
+  "안두호",
+  "이태오",
+  "송나영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "나영",
+   "name": "엄태리"
+  },
+  {
+   "role": "솔롱고",
+   "name": "노희찬"
+  },
+  {
+   "role": "주인할매",
+   "name": "강정임"
+  },
+  {
+   "role": "희정엄마",
+   "name": "양미경"
+  },
+  {
+   "role": "구씨",
+   "name": "한우열"
+  },
+  {
+   "role": "빵",
+   "name": "안두호"
+  },
+  {
+   "role": "",
+   "name": "이태오"
+  },
+  {
+   "role": "",
+   "name": "송나영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260516103904/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=140733"
+ }
+}

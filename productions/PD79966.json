@@ -1,0 +1,66 @@
+{
+ "id": "PD79966",
+ "title": "강철왕",
+ "genre": "연극",
+ "from": "2015-08-14",
+ "to": "2015-08-30",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "김동원",
+  "조영규",
+  "김명기",
+  "강득종",
+  "원경식",
+  "박선애",
+  "조용의",
+  "정다함",
+  "유성진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "왕기",
+   "name": "김동원"
+  },
+  {
+   "role": "성국",
+   "name": "조영규"
+  },
+  {
+   "role": "근이, 모씨, C사장",
+   "name": "김명기"
+  },
+  {
+   "role": "식이, A회장, 썬글래스1",
+   "name": "강득종"
+  },
+  {
+   "role": "박사, 기계 나레이션",
+   "name": "원경식"
+  },
+  {
+   "role": "앵커, 기자1, 통역사2",
+   "name": "박선애"
+  },
+  {
+   "role": "",
+   "name": "조용의"
+  },
+  {
+   "role": "",
+   "name": "정다함"
+  },
+  {
+   "role": "",
+   "name": "유성진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200805072539/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=79966"
+ }
+}

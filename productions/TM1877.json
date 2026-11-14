@@ -1,0 +1,99 @@
+{
+ "id": "TM1877",
+ "title": "왕세자 실종사건",
+ "genre": "뮤지컬",
+ "from": "2012-08-07",
+ "to": "2012-10-28",
+ "venue": "대학로 아트원시어터 1관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s-1).jpg",
+ "cast": [
+  "이상현",
+  "조순창",
+  "홍륜희",
+  "서태영",
+  "김경수",
+  "박재윤",
+  "이지숙",
+  "전성민(김유영)",
+  "무현",
+  "이천영",
+  "연보라",
+  "송희정",
+  "김선표",
+  "김재형",
+  "김혜인"
+ ],
+ "state": "공연완료",
+ "producer": "극단 죽도록 달린다, 이든 프로덕션",
+ "price": "R석 6만원 / S석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "왕",
+   "name": "이상현"
+  },
+  {
+   "role": "왕",
+   "name": "조순창"
+  },
+  {
+   "role": "중전",
+   "name": "홍륜희"
+  },
+  {
+   "role": "중전",
+   "name": "서태영"
+  },
+  {
+   "role": "구동",
+   "name": "김경수"
+  },
+  {
+   "role": "구동",
+   "name": "박재윤"
+  },
+  {
+   "role": "자숙",
+   "name": "이지숙"
+  },
+  {
+   "role": "자숙",
+   "name": "전성민(김유영)"
+  },
+  {
+   "role": "하내관",
+   "name": "무현"
+  },
+  {
+   "role": "하내관",
+   "name": "이천영"
+  },
+  {
+   "role": "최상궁",
+   "name": "연보라"
+  },
+  {
+   "role": "최상궁",
+   "name": "송희정"
+  },
+  {
+   "role": "의관",
+   "name": "김선표"
+  },
+  {
+   "role": "자객",
+   "name": "김재형"
+  },
+  {
+   "role": "보모상궁",
+   "name": "김혜인"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1877"
+ }
+}

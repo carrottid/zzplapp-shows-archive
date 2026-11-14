@@ -1,0 +1,56 @@
+{
+ "id": "PD69615",
+ "title": "미국아버지",
+ "genre": "연극",
+ "from": "2014-11-13",
+ "to": "2014-11-22",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "윤상화",
+  "이동혁",
+  "이기현",
+  "이정미",
+  "김경익",
+  "박기륭",
+  "김동규"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "빌",
+   "name": "윤상화"
+  },
+  {
+   "role": "윌",
+   "name": "이동혁"
+  },
+  {
+   "role": "빌리",
+   "name": "이기현"
+  },
+  {
+   "role": "데르하민",
+   "name": "이정미"
+  },
+  {
+   "role": "데이빗",
+   "name": "김경익"
+  },
+  {
+   "role": "자말",
+   "name": "박기륭"
+  },
+  {
+   "role": "",
+   "name": "김동규"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704000044/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=69615"
+ }
+}

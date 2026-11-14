@@ -1,0 +1,66 @@
+{
+ "id": "PD114835",
+ "title": "칠서",
+ "genre": "뮤지컬",
+ "from": "2017-11-10",
+ "to": "2017-11-17",
+ "venue": "충무아트센터 대극장",
+ "cast": [
+  "박영수",
+  "정원영",
+  "박강현",
+  "최인형",
+  "김용한",
+  "신상언",
+  "정지만",
+  "강상준",
+  "임재혁"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "서양갑",
+   "name": "박영수"
+  },
+  {
+   "role": "허균",
+   "name": "정원영"
+  },
+  {
+   "role": "광해",
+   "name": "박강현"
+  },
+  {
+   "role": "칠서",
+   "name": "최인형"
+  },
+  {
+   "role": "칠서",
+   "name": "김용한"
+  },
+  {
+   "role": "칠서",
+   "name": "신상언"
+  },
+  {
+   "role": "칠서",
+   "name": "정지만"
+  },
+  {
+   "role": "",
+   "name": "강상준"
+  },
+  {
+   "role": "",
+   "name": "임재혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20211024095837/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=114835"
+ }
+}

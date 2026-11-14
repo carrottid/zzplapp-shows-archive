@@ -1,0 +1,59 @@
+{
+ "id": "TM1286",
+ "title": "두드림러브",
+ "genre": "뮤지컬",
+ "from": "2008-10-31",
+ "to": "2008-12-31",
+ "venue": "르메이에르 소극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_08dodream.gif",
+ "cast": [
+  "박시범",
+  "김소향",
+  "전소영",
+  "김사라",
+  "명재환",
+  "전진희",
+  "왕시명"
+ ],
+ "state": "공연완료",
+ "producer": "(주)꿈의제왕",
+ "price": "전석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "명훈",
+   "name": "박시범"
+  },
+  {
+   "role": "수희",
+   "name": "김소향"
+  },
+  {
+   "role": "수희",
+   "name": "전소영"
+  },
+  {
+   "role": "수희",
+   "name": "김사라"
+  },
+  {
+   "role": "멀티맨",
+   "name": "명재환"
+  },
+  {
+   "role": "앙상블",
+   "name": "전진희"
+  },
+  {
+   "role": "앙상블",
+   "name": "왕시명"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1286"
+ }
+}

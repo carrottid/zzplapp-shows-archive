@@ -1,0 +1,56 @@
+{
+ "id": "PD71335",
+ "title": "반야삼촌",
+ "genre": "연극",
+ "from": "2015-01-03",
+ "to": "2015-01-06",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "김승언",
+  "이윤화",
+  "박윤석",
+  "이영수",
+  "박옥출",
+  "김정",
+  "황은후"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "나반야",
+   "name": "김승언"
+  },
+  {
+   "role": "정마리",
+   "name": "이윤화"
+  },
+  {
+   "role": "김세열",
+   "name": "박윤석"
+  },
+  {
+   "role": "지동욱",
+   "name": "이영수"
+  },
+  {
+   "role": "이연심",
+   "name": "박옥출"
+  },
+  {
+   "role": "김선희",
+   "name": "김정"
+  },
+  {
+   "role": "",
+   "name": "황은후"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220813094055/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=71335"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "id": "PD51510",
+ "title": "클로저",
+ "genre": "연극",
+ "from": "2013-08-31",
+ "to": "2013-12-01",
+ "venue": "예스24아트원 1관",
+ "cast": [
+  "이윤지",
+  "진세연",
+  "이혜",
+  "신성록",
+  "최수형",
+  "이동하",
+  "서범석",
+  "배성우",
+  "김영필",
+  "김혜나",
+  "차수연"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "앨리스",
+   "name": "이윤지"
+  },
+  {
+   "role": "앨리스",
+   "name": "진세연"
+  },
+  {
+   "role": "앨리스",
+   "name": "이혜"
+  },
+  {
+   "role": "댄",
+   "name": "신성록"
+  },
+  {
+   "role": "댄",
+   "name": "최수형"
+  },
+  {
+   "role": "댄",
+   "name": "이동하"
+  },
+  {
+   "role": "래리",
+   "name": "서범석"
+  },
+  {
+   "role": "래리",
+   "name": "배성우"
+  },
+  {
+   "role": "래리",
+   "name": "김영필"
+  },
+  {
+   "role": "안나",
+   "name": "김혜나"
+  },
+  {
+   "role": "안나",
+   "name": "차수연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250804213332/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=51510"
+ }
+}

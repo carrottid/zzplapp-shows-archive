@@ -1,0 +1,56 @@
+{
+ "id": "PD156244",
+ "title": "연극열전8 - 아들 Le Fils",
+ "genre": "연극",
+ "from": "2020-09-15",
+ "to": "2020-11-22",
+ "venue": "예스24아트원 2관",
+ "cast": [
+  "이석준",
+  "이주승",
+  "강승호",
+  "정수영",
+  "양서빈",
+  "송영숙",
+  "안현호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "피에르",
+   "name": "이석준"
+  },
+  {
+   "role": "니콜라",
+   "name": "이주승"
+  },
+  {
+   "role": "니콜라",
+   "name": "강승호"
+  },
+  {
+   "role": "안느",
+   "name": "정수영"
+  },
+  {
+   "role": "소피아",
+   "name": "양서빈"
+  },
+  {
+   "role": "의사",
+   "name": "송영숙"
+  },
+  {
+   "role": "간호사",
+   "name": "안현호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250207173944/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=156244"
+ }
+}

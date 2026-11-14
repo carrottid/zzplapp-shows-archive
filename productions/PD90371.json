@@ -1,0 +1,96 @@
+{
+ "id": "PD90371",
+ "title": "보도지침",
+ "genre": "연극",
+ "from": "2016-03-26",
+ "to": "2016-06-12",
+ "venue": "예스24스테이지 3관",
+ "cast": [
+  "송용진",
+  "김준원",
+  "김대현",
+  "안재영",
+  "이명행",
+  "김주완",
+  "이시후",
+  "에녹",
+  "최대훈",
+  "장용철",
+  "이승기",
+  "강기둥",
+  "김대곤",
+  "이봉련",
+  "박민정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "주혁",
+   "name": "송용진"
+  },
+  {
+   "role": "주혁",
+   "name": "김준원"
+  },
+  {
+   "role": "정배",
+   "name": "김대현"
+  },
+  {
+   "role": "정배",
+   "name": "안재영"
+  },
+  {
+   "role": "승욱",
+   "name": "이명행"
+  },
+  {
+   "role": "승욱",
+   "name": "김주완"
+  },
+  {
+   "role": "승욱",
+   "name": "이시후"
+  },
+  {
+   "role": "돈결",
+   "name": "에녹"
+  },
+  {
+   "role": "돈결",
+   "name": "최대훈"
+  },
+  {
+   "role": "원달",
+   "name": "장용철"
+  },
+  {
+   "role": "원달",
+   "name": "이승기"
+  },
+  {
+   "role": "남자",
+   "name": "강기둥"
+  },
+  {
+   "role": "남자",
+   "name": "김대곤"
+  },
+  {
+   "role": "",
+   "name": "이봉련"
+  },
+  {
+   "role": "",
+   "name": "박민정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240706025501/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=90371"
+ }
+}

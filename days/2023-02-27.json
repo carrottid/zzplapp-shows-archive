@@ -1,0 +1,29 @@
+{
+ "date": "2023-02-27",
+ "sessions": [
+  {
+   "id": "PF204346",
+   "title": "데미안",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2B1D1A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF212559",
+   "title": "세상친구",
+   "genre": "연극",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#444334",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

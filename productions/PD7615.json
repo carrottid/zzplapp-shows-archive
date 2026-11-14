@@ -1,0 +1,41 @@
+{
+ "id": "PD7615",
+ "title": "피고지고 피고지고",
+ "genre": "연극",
+ "from": "2008-11-14",
+ "to": "2008-11-28",
+ "venue": "국립극장 달오름극장",
+ "cast": [
+  "이문수",
+  "김재건",
+  "오영수",
+  "계미경"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "왕오",
+   "name": "이문수"
+  },
+  {
+   "role": "천축",
+   "name": "김재건"
+  },
+  {
+   "role": "국전",
+   "name": "오영수"
+  },
+  {
+   "role": "난타",
+   "name": "계미경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704041809/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=7615"
+ }
+}

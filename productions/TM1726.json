@@ -1,0 +1,54 @@
+{
+ "id": "TM1726",
+ "title": "오즈의 마법사",
+ "genre": "뮤지컬",
+ "from": "2011-05-01",
+ "to": "2011-05-29",
+ "venue": "유니버설아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_oz2011.jpg",
+ "cast": [
+  "오소연",
+  "박준혁",
+  "박시원",
+  "김태형",
+  "최수진",
+  "정영아"
+ ],
+ "state": "공연완료",
+ "producer": "㈜EMK뮤지컬컴퍼니",
+ "price": "VIP석 66,000 / R석 55,000 / S석 44,000원 / A석 33,000원 / 에메랄드시티석 77,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "도로시",
+   "name": "오소연"
+  },
+  {
+   "role": "허수아비",
+   "name": "박준혁"
+  },
+  {
+   "role": "양철맨",
+   "name": "박시원"
+  },
+  {
+   "role": "사자",
+   "name": "김태형"
+  },
+  {
+   "role": "착한마녀 글린다",
+   "name": "최수진"
+  },
+  {
+   "role": "나쁜마녀",
+   "name": "정영아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1726"
+ }
+}

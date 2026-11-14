@@ -1,0 +1,109 @@
+{
+ "id": "TM1051",
+ "title": "햄릿",
+ "genre": "뮤지컬",
+ "from": "2008-02-21",
+ "to": "2008-04-05",
+ "venue": "극장 용",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008 season2.jpg",
+ "cast": [
+  "고영빈",
+  "김수용",
+  "정명은",
+  "신주연",
+  "김성기",
+  "조유신",
+  "강효성",
+  "김영주",
+  "송용태",
+  "최병광",
+  "이수철",
+  "강동호",
+  "선영",
+  "안현식",
+  "김수영",
+  "임병근",
+  "윤지영"
+ ],
+ "state": "공연완료",
+ "producer": "피엠지네트웍스",
+ "price": "VIP석 10만원, R석 7만원, S석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "햄릿",
+   "name": "고영빈"
+  },
+  {
+   "role": "햄릿",
+   "name": "김수용"
+  },
+  {
+   "role": "오필리어",
+   "name": "정명은"
+  },
+  {
+   "role": "오필리어",
+   "name": "신주연"
+  },
+  {
+   "role": "클라우디우스",
+   "name": "김성기"
+  },
+  {
+   "role": "클라우디우스",
+   "name": "조유신"
+  },
+  {
+   "role": "퀸",
+   "name": "강효성"
+  },
+  {
+   "role": "퀸",
+   "name": "김영주"
+  },
+  {
+   "role": "폴로니우스",
+   "name": "송용태"
+  },
+  {
+   "role": "폴로니우스",
+   "name": "최병광"
+  },
+  {
+   "role": "호레이쇼",
+   "name": "이수철"
+  },
+  {
+   "role": "레어티즈",
+   "name": "강동호"
+  },
+  {
+   "role": "헬레나",
+   "name": "선영"
+  },
+  {
+   "role": "앙상블",
+   "name": "안현식"
+  },
+  {
+   "role": "앙상블",
+   "name": "김수영"
+  },
+  {
+   "role": "앙상블",
+   "name": "임병근"
+  },
+  {
+   "role": "앙상블",
+   "name": "윤지영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1051"
+ }
+}

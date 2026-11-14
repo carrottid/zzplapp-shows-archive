@@ -1,0 +1,61 @@
+{
+ "id": "PD63542",
+ "title": "이바노프",
+ "genre": "연극",
+ "from": "2014-07-10",
+ "to": "2014-07-20",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "남성진",
+  "권성덕",
+  "장보규",
+  "이주실",
+  "전국향",
+  "손종학",
+  "문지영",
+  "진성웅"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이바노프",
+   "name": "남성진"
+  },
+  {
+   "role": "샤벨스키",
+   "name": "권성덕"
+  },
+  {
+   "role": "레베제프",
+   "name": "장보규"
+  },
+  {
+   "role": "아브도찌야",
+   "name": "이주실"
+  },
+  {
+   "role": "지나이다",
+   "name": "전국향"
+  },
+  {
+   "role": "보르낀",
+   "name": "손종학"
+  },
+  {
+   "role": "",
+   "name": "문지영"
+  },
+  {
+   "role": "",
+   "name": "진성웅"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220520040602/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=63542"
+ }
+}

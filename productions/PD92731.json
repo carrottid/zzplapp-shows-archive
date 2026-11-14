@@ -1,0 +1,96 @@
+{
+ "id": "PD92731",
+ "title": "원로연극제 - 태",
+ "genre": "연극",
+ "from": "2016-06-03",
+ "to": "2016-06-12",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "오현경",
+  "정진각",
+  "손병호",
+  "성지루",
+  "천승목",
+  "송영광",
+  "김준범",
+  "윤민영",
+  "조유진",
+  "정지영",
+  "유재연",
+  "조원준",
+  "이준영",
+  "배건일",
+  "김봉현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "박중림",
+   "name": "오현경"
+  },
+  {
+   "role": "신숙주",
+   "name": "정진각"
+  },
+  {
+   "role": "세조",
+   "name": "손병호"
+  },
+  {
+   "role": "종",
+   "name": "성지루"
+  },
+  {
+   "role": "종",
+   "name": "천승목"
+  },
+  {
+   "role": "왕방연",
+   "name": "송영광"
+  },
+  {
+   "role": "왕방연",
+   "name": "김준범"
+  },
+  {
+   "role": "종부",
+   "name": "윤민영"
+  },
+  {
+   "role": "종부",
+   "name": "조유진"
+  },
+  {
+   "role": "",
+   "name": "정지영"
+  },
+  {
+   "role": "",
+   "name": "유재연"
+  },
+  {
+   "role": "",
+   "name": "조원준"
+  },
+  {
+   "role": "",
+   "name": "이준영"
+  },
+  {
+   "role": "",
+   "name": "배건일"
+  },
+  {
+   "role": "",
+   "name": "김봉현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240813151621/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=92731"
+ }
+}

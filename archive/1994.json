@@ -1,0 +1,34 @@
+{
+ "productions": [
+  {
+   "id": "TM1093",
+   "title": "지하철1호선",
+   "genre": "뮤지컬",
+   "from": "1994-05-14",
+   "to": "1994-07-31",
+   "venue": "학전소극장",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_ji.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#140C14",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "TM1032",
+   "title": "캣츠",
+   "genre": "뮤지컬",
+   "from": "1994-02-24",
+   "to": "1994-03-12",
+   "venue": "예술의전당 오페라극장",
+   "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_cats2.jpg",
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#151413",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

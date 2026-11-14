@@ -1,0 +1,36 @@
+{
+ "id": "PD69604",
+ "title": "리타",
+ "genre": "연극",
+ "from": "2014-12-03",
+ "to": "2015-02-01",
+ "venue": "예스24스테이지 1관",
+ "cast": [
+  "공효진",
+  "강혜정",
+  "황재헌"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "리타",
+   "name": "공효진"
+  },
+  {
+   "role": "리타",
+   "name": "강혜정"
+  },
+  {
+   "role": "프랭크",
+   "name": "황재헌"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20231117042519/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=69604"
+ }
+}

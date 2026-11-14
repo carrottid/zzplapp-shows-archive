@@ -1,0 +1,51 @@
+{
+ "id": "PD80893",
+ "title": "정글라이프 - 울산",
+ "genre": "뮤지컬",
+ "from": "2015-10-07",
+ "to": "2015-10-24",
+ "venue": "울산 현대예술관 소공연장",
+ "cast": [
+  "박태성",
+  "문혜원",
+  "한다은",
+  "조환준",
+  "김수민",
+  "김채은"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "오레오",
+   "name": "박태성"
+  },
+  {
+   "role": "홍호란",
+   "name": "문혜원"
+  },
+  {
+   "role": "하예나",
+   "name": "한다은"
+  },
+  {
+   "role": "이원순",
+   "name": "조환준"
+  },
+  {
+   "role": "피동희",
+   "name": "김수민"
+  },
+  {
+   "role": "미화",
+   "name": "김채은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170912041835/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=80893"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "id": "PD75790",
+ "title": "왕의 나라",
+ "genre": "뮤지컬",
+ "from": "2015-05-22",
+ "to": "2015-05-23",
+ "venue": "국립극장 해오름극장",
+ "cast": [
+  "민영기",
+  "이태원",
+  "강기섭",
+  "설화",
+  "김동진",
+  "석현오",
+  "장은주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "공민왕",
+   "name": "민영기"
+  },
+  {
+   "role": "노국공주",
+   "name": "이태원"
+  },
+  {
+   "role": "홍언박",
+   "name": "강기섭"
+  },
+  {
+   "role": "여랑",
+   "name": "설화"
+  },
+  {
+   "role": "손홍량",
+   "name": "김동진"
+  },
+  {
+   "role": "홍건적 두령",
+   "name": "석현오"
+  },
+  {
+   "role": "",
+   "name": "장은주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250616135312/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=75790"
+ }
+}

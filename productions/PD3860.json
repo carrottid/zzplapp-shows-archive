@@ -1,0 +1,56 @@
+{
+ "id": "PD3860",
+ "title": "국립극단 제211회 정기공연 - 한국연극100주년기념 백년언약",
+ "genre": "연극",
+ "from": "2008-05-28",
+ "to": "2008-06-01",
+ "venue": "국립극장 해오름극장",
+ "cast": [
+  "장민호",
+  "백성희",
+  "이상직",
+  "서상원",
+  "이영호",
+  "서희승",
+  "이문수"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "남편",
+   "name": "장민호"
+  },
+  {
+   "role": "새댁",
+   "name": "백성희"
+  },
+  {
+   "role": "상이군인",
+   "name": "이상직"
+  },
+  {
+   "role": "남자",
+   "name": "서상원"
+  },
+  {
+   "role": "장교",
+   "name": "이영호"
+  },
+  {
+   "role": "인애모자원 원장",
+   "name": "서희승"
+  },
+  {
+   "role": "",
+   "name": "이문수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170912032621/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=3860"
+ }
+}

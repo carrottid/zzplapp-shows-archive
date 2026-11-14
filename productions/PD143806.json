@@ -1,0 +1,56 @@
+{
+ "id": "PD143806",
+ "title": "면목동",
+ "genre": "연극",
+ "from": "2019-06-19",
+ "to": "2019-06-23",
+ "venue": "삼일로 창고극장",
+ "cast": [
+  "본주",
+  "여가휘",
+  "송지나",
+  "황지영",
+  "김진여",
+  "이선우",
+  "송기종"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "홍성민",
+   "name": "본주"
+  },
+  {
+   "role": "홍성민",
+   "name": "여가휘"
+  },
+  {
+   "role": "나지운",
+   "name": "송지나"
+  },
+  {
+   "role": "나지운",
+   "name": "황지영"
+  },
+  {
+   "role": "배두경",
+   "name": "김진여"
+  },
+  {
+   "role": "배두경",
+   "name": "이선우"
+  },
+  {
+   "role": "배달원",
+   "name": "송기종"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240725122659/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=143806"
+ }
+}

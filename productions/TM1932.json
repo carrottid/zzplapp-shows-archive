@@ -1,0 +1,99 @@
+{
+ "id": "TM1932",
+ "title": "심야식당",
+ "genre": "뮤지컬",
+ "from": "2012-12-11",
+ "to": "2013-02-17",
+ "venue": "동숭아트센터 동숭홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)100.jpg",
+ "cast": [
+  "송영창",
+  "박지일",
+  "박혜나",
+  "서현철",
+  "정수한",
+  "김늘메",
+  "임기홍",
+  "정의욱",
+  "차청화",
+  "배문주",
+  "김아영",
+  "박정표",
+  "최호중",
+  "백은혜",
+  "한채윤"
+ ],
+ "state": "공연완료",
+ "producer": "㈜적도",
+ "price": "마스터석 7만원 / R석 5만원 / S석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "마스터",
+   "name": "송영창"
+  },
+  {
+   "role": "마스터",
+   "name": "박지일"
+  },
+  {
+   "role": "마릴린",
+   "name": "박혜나"
+  },
+  {
+   "role": "타다시",
+   "name": "서현철"
+  },
+  {
+   "role": "타다시",
+   "name": "정수한"
+  },
+  {
+   "role": "코스즈",
+   "name": "김늘메"
+  },
+  {
+   "role": "코스즈",
+   "name": "임기홍"
+  },
+  {
+   "role": "켄자키 류",
+   "name": "정의욱"
+  },
+  {
+   "role": "오차즈케 시스터즈(명란젓)",
+   "name": "차청화"
+  },
+  {
+   "role": "오차즈케 시스터즈(매실)",
+   "name": "배문주"
+  },
+  {
+   "role": "오차즈케 시스터즈(연어)",
+   "name": "김아영"
+  },
+  {
+   "role": "겐",
+   "name": "박정표"
+  },
+  {
+   "role": "겐",
+   "name": "최호중"
+  },
+  {
+   "role": "치도리 미유키",
+   "name": "백은혜"
+  },
+  {
+   "role": "치도리 미유키",
+   "name": "한채윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1932"
+ }
+}

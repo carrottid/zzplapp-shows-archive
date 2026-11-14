@@ -1,0 +1,49 @@
+{
+ "id": "TM1348",
+ "title": "러브어게인",
+ "genre": "뮤지컬",
+ "from": "2009-01-31",
+ "to": "2009-03-29",
+ "venue": "예술극장 나무와물",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_loveagain2009.gif",
+ "cast": [
+  "이지수",
+  "박상건",
+  "정태야",
+  "이현주",
+  "임미영"
+ ],
+ "state": "공연완료",
+ "producer": "극단 THE ACTORS BAND",
+ "price": "일반 3만원/학생 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "여자마스터",
+   "name": "이지수"
+  },
+  {
+   "role": "남자마스터",
+   "name": "박상건"
+  },
+  {
+   "role": "남자친구",
+   "name": "정태야"
+  },
+  {
+   "role": "소리",
+   "name": "이현주"
+  },
+  {
+   "role": "소리",
+   "name": "임미영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1348"
+ }
+}

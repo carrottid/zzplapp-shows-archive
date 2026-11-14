@@ -1,0 +1,76 @@
+{
+ "id": "PD66711",
+ "title": "미스터쇼",
+ "genre": "뮤지컬",
+ "from": "2014-10-10",
+ "to": "2014-10-29",
+ "venue": "광림아트센터 BBCH홀",
+ "cast": [
+  "정철호",
+  "서만석",
+  "최용진",
+  "이천은",
+  "이국영",
+  "서정원",
+  "최지호",
+  "박상하",
+  "휘림",
+  "이진혜",
+  "김성호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "MC",
+   "name": "정철호"
+  },
+  {
+   "role": "MC",
+   "name": "서만석"
+  },
+  {
+   "role": "",
+   "name": "최용진"
+  },
+  {
+   "role": "",
+   "name": "이천은"
+  },
+  {
+   "role": "",
+   "name": "이국영"
+  },
+  {
+   "role": "",
+   "name": "서정원"
+  },
+  {
+   "role": "",
+   "name": "최지호"
+  },
+  {
+   "role": "",
+   "name": "박상하"
+  },
+  {
+   "role": "",
+   "name": "휘림"
+  },
+  {
+   "role": "",
+   "name": "이진혜"
+  },
+  {
+   "role": "",
+   "name": "김성호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191030162343/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=66711"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PD108496",
+ "title": "양배추의 유례",
+ "genre": "연극",
+ "from": "2017-06-15",
+ "to": "2017-06-25",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "정재성",
+  "최재섭",
+  "오민정",
+  "이선희",
+  "박경구",
+  "손재익"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "남자",
+   "name": "정재성"
+  },
+  {
+   "role": "신",
+   "name": "최재섭"
+  },
+  {
+   "role": "여자",
+   "name": "오민정"
+  },
+  {
+   "role": "선생",
+   "name": "이선희"
+  },
+  {
+   "role": "오빠",
+   "name": "박경구"
+  },
+  {
+   "role": "점원",
+   "name": "손재익"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210115182635/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=108496"
+ }
+}

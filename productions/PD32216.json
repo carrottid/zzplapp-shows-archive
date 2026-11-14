@@ -1,0 +1,86 @@
+{
+ "id": "PD32216",
+ "title": "캣츠 - 대구",
+ "genre": "뮤지컬",
+ "from": "2012-04-04",
+ "to": "2012-04-08",
+ "venue": "계명아트센터",
+ "cast": [
+  "인순이",
+  "박해미",
+  "홍지민",
+  "에녹",
+  "정민",
+  "이상준",
+  "홍경수",
+  "강연종",
+  "한지연",
+  "김성은",
+  "유회웅",
+  "문병권",
+  "백두산"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "그리자벨라",
+   "name": "인순이"
+  },
+  {
+   "role": "그리자벨라",
+   "name": "박해미"
+  },
+  {
+   "role": "그리자벨라",
+   "name": "홍지민"
+  },
+  {
+   "role": "럼 텀 터거",
+   "name": "에녹"
+  },
+  {
+   "role": "럼 텀 터거",
+   "name": "정민"
+  },
+  {
+   "role": "올드 듀터러노미",
+   "name": "이상준"
+  },
+  {
+   "role": "멍커스트랩",
+   "name": "홍경수"
+  },
+  {
+   "role": "거스",
+   "name": "강연종"
+  },
+  {
+   "role": "봄발루리나",
+   "name": "한지연"
+  },
+  {
+   "role": "",
+   "name": "김성은"
+  },
+  {
+   "role": "",
+   "name": "유회웅"
+  },
+  {
+   "role": "",
+   "name": "문병권"
+  },
+  {
+   "role": "",
+   "name": "백두산"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250123074253/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=32216"
+ }
+}

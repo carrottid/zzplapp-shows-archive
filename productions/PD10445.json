@@ -1,0 +1,66 @@
+{
+ "id": "PD10445",
+ "title": "한 여름밤의 꿈",
+ "genre": "연극",
+ "from": "2009-06-27",
+ "to": "2009-08-02",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "최용민",
+  "이문식",
+  "류태호",
+  "안내상",
+  "김보영",
+  "임유영",
+  "신용욱",
+  "홍석천",
+  "최진영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "보텀",
+   "name": "최용민"
+  },
+  {
+   "role": "보텀",
+   "name": "이문식"
+  },
+  {
+   "role": "퀸즈",
+   "name": "류태호"
+  },
+  {
+   "role": "퀸즈",
+   "name": "안내상"
+  },
+  {
+   "role": "티테니아",
+   "name": "김보영"
+  },
+  {
+   "role": "티테니아",
+   "name": "임유영"
+  },
+  {
+   "role": "오베론",
+   "name": "신용욱"
+  },
+  {
+   "role": "플루트",
+   "name": "홍석천"
+  },
+  {
+   "role": "드미트리어스",
+   "name": "최진영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170806161744/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=10445"
+ }
+}

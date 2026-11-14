@@ -1,0 +1,73 @@
+{
+ "id": "TM2347",
+ "title": "트레이스 유",
+ "genre": "뮤지컬",
+ "from": "2014-03-04",
+ "to": "2014-06-29",
+ "venue": "유니플렉스 2관",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20160521060100D30D803V6U64LXP0.JPG",
+ "cast": [
+  "최재웅",
+  "이지호",
+  "이율",
+  "이창용",
+  "최성원",
+  "장승조(장현덕)",
+  "김대현",
+  "문성일",
+  "서경수",
+  "윤소호"
+ ],
+ "state": "공연완료",
+ "producer": "장인엔터테인먼트",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이우빈",
+   "name": "최재웅"
+  },
+  {
+   "role": "이우빈",
+   "name": "이지호"
+  },
+  {
+   "role": "이우빈",
+   "name": "이율"
+  },
+  {
+   "role": "이우빈",
+   "name": "이창용"
+  },
+  {
+   "role": "이우빈",
+   "name": "최성원"
+  },
+  {
+   "role": "구본하",
+   "name": "장승조(장현덕)"
+  },
+  {
+   "role": "구본하",
+   "name": "김대현"
+  },
+  {
+   "role": "구본하",
+   "name": "문성일"
+  },
+  {
+   "role": "구본하",
+   "name": "서경수"
+  },
+  {
+   "role": "구본하",
+   "name": "윤소호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2347"
+ }
+}

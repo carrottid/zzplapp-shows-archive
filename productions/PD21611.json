@@ -1,0 +1,46 @@
+{
+ "id": "PD21611",
+ "title": "아직 끝나지 않았다",
+ "genre": "연극",
+ "from": "2011-04-13",
+ "to": "2011-04-18",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "민동환",
+  "이호영",
+  "이형훈",
+  "김나미",
+  "홍우진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "영기",
+   "name": "민동환"
+  },
+  {
+   "role": "길현",
+   "name": "이호영"
+  },
+  {
+   "role": "원재",
+   "name": "이형훈"
+  },
+  {
+   "role": "원재엄마,보람,술집여자,보험사기브로커 외",
+   "name": "김나미"
+  },
+  {
+   "role": "조폭 외",
+   "name": "홍우진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250223200105/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=21611"
+ }
+}

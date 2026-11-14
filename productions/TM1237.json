@@ -1,0 +1,69 @@
+{
+ "id": "TM1237",
+ "title": "파이란",
+ "genre": "뮤지컬",
+ "from": "2008-09-11",
+ "to": "2008-11-02",
+ "venue": "대학로 문화공간 이다 1관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008 파이란.JPG",
+ "cast": [
+  "서범석",
+  "배성우",
+  "김용덕",
+  "김동현",
+  "한웅희",
+  "고현경",
+  "이지숙",
+  "김정아",
+  "서경수"
+ ],
+ "state": "공연완료",
+ "producer": "모아엔터테인먼트",
+ "price": "전석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "강재",
+   "name": "서범석"
+  },
+  {
+   "role": "강재",
+   "name": "배성우"
+  },
+  {
+   "role": "경수",
+   "name": "김용덕"
+  },
+  {
+   "role": "멀티맨",
+   "name": "김동현"
+  },
+  {
+   "role": "앙상블",
+   "name": "한웅희"
+  },
+  {
+   "role": "앙상블",
+   "name": "고현경"
+  },
+  {
+   "role": "앙상블",
+   "name": "이지숙"
+  },
+  {
+   "role": "앙상블",
+   "name": "김정아"
+  },
+  {
+   "role": "앙상블",
+   "name": "서경수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1237"
+ }
+}

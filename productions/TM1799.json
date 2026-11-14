@@ -1,0 +1,54 @@
+{
+ "id": "TM1799",
+ "title": "김종욱찾기(강남)",
+ "genre": "뮤지컬",
+ "from": "2011-10-27",
+ "to": "2012-01-08",
+ "venue": "KT&G 상상아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(S)23.jpg",
+ "cast": [
+  "이율",
+  "최지호",
+  "김수정",
+  "김수영",
+  "손성민",
+  "윤진영"
+ ],
+ "state": "공연완료",
+ "producer": "(주)뮤지컬해븐, CJ E＆M",
+ "price": "전석 4만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "김종욱/첫사랑을 찾아주는 남자",
+   "name": "이율"
+  },
+  {
+   "role": "김종욱/첫사랑을 찾아주는 남자",
+   "name": "최지호"
+  },
+  {
+   "role": "첫사랑을 못잊는 여자",
+   "name": "김수정"
+  },
+  {
+   "role": "첫사랑을 못잊는 여자",
+   "name": "김수영"
+  },
+  {
+   "role": "멀티맨",
+   "name": "손성민"
+  },
+  {
+   "role": "멀티맨",
+   "name": "윤진영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1799"
+ }
+}

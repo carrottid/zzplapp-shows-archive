@@ -1,0 +1,81 @@
+{
+ "id": "PD56649",
+ "title": "삼봉이발소 - 대구",
+ "genre": "연극",
+ "from": "2014-01-09",
+ "to": "2014-02-09",
+ "venue": "아트플러스씨어터 2관",
+ "cast": [
+  "박일우",
+  "김재원",
+  "김수연",
+  "이수진",
+  "이소금",
+  "이화열",
+  "김민채",
+  "노을",
+  "김윤미",
+  "박소영",
+  "이진욱",
+  "유수동"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김삼봉",
+   "name": "박일우"
+  },
+  {
+   "role": "김삼봉",
+   "name": "김재원"
+  },
+  {
+   "role": "박장미",
+   "name": "김수연"
+  },
+  {
+   "role": "박장미",
+   "name": "이수진"
+  },
+  {
+   "role": "믹스",
+   "name": "이소금"
+  },
+  {
+   "role": "믹스",
+   "name": "이화열"
+  },
+  {
+   "role": "이수진 / 이민아",
+   "name": "김민채"
+  },
+  {
+   "role": "이수진 / 이민아",
+   "name": "노을"
+  },
+  {
+   "role": "이희진",
+   "name": "김윤미"
+  },
+  {
+   "role": "이희진",
+   "name": "박소영"
+  },
+  {
+   "role": "우주인",
+   "name": "이진욱"
+  },
+  {
+   "role": "우주인",
+   "name": "유수동"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210119151808/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=56649"
+ }
+}

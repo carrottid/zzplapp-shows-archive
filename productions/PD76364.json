@@ -1,0 +1,66 @@
+{
+ "id": "PD76364",
+ "title": "사랑을 묻다",
+ "genre": "연극",
+ "from": "2015-04-17",
+ "to": "2015-05-24",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "김용준",
+  "최정화",
+  "우미화",
+  "조주현",
+  "나종민",
+  "하지웅",
+  "배선희",
+  "이세영",
+  "이랑"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "명호",
+   "name": "김용준"
+  },
+  {
+   "role": "여진",
+   "name": "최정화"
+  },
+  {
+   "role": "미화",
+   "name": "우미화"
+  },
+  {
+   "role": "주현",
+   "name": "조주현"
+  },
+  {
+   "role": "종민",
+   "name": "나종민"
+  },
+  {
+   "role": "지웅",
+   "name": "하지웅"
+  },
+  {
+   "role": "",
+   "name": "배선희"
+  },
+  {
+   "role": "",
+   "name": "이세영"
+  },
+  {
+   "role": "",
+   "name": "이랑"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220929043658/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=76364"
+ }
+}

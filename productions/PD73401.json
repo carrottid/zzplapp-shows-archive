@@ -1,0 +1,31 @@
+{
+ "id": "PD73401",
+ "title": "리어는",
+ "genre": "연극",
+ "from": "2015-02-07",
+ "to": "2015-02-15",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "김광",
+  "최현정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "리어",
+   "name": "김광"
+  },
+  {
+   "role": "고너릴",
+   "name": "최현정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20150211074009/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=73401"
+ }
+}

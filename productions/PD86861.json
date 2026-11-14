@@ -1,0 +1,61 @@
+{
+ "id": "PD86861",
+ "title": "웰다잉",
+ "genre": "뮤지컬",
+ "from": "2016-01-05",
+ "to": "2016-01-17",
+ "venue": "예스24아트원 1관",
+ "cast": [
+  "홍희원",
+  "최영우",
+  "한보라",
+  "김성수",
+  "이현진",
+  "변효준",
+  "조지승",
+  "홍승안"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "구파발",
+   "name": "홍희원"
+  },
+  {
+   "role": "신대방",
+   "name": "최영우"
+  },
+  {
+   "role": "남태령",
+   "name": "한보라"
+  },
+  {
+   "role": "기관사",
+   "name": "김성수"
+  },
+  {
+   "role": "모텔주인",
+   "name": "이현진"
+  },
+  {
+   "role": "구파발 아들",
+   "name": "변효준"
+  },
+  {
+   "role": "",
+   "name": "조지승"
+  },
+  {
+   "role": "",
+   "name": "홍승안"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251206091203/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=86861"
+ }
+}

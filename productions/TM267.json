@@ -1,0 +1,48 @@
+{
+ "id": "TM267",
+ "title": "터널",
+ "genre": "뮤지컬",
+ "from": "2005-11-11",
+ "to": "2005-12-31",
+ "venue": "상상나눔씨어터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_tu1.gif",
+ "cast": [
+  "최오식",
+  "김성웅",
+  "김경태",
+  "김민정",
+  "국중웅"
+ ],
+ "state": "공연완료",
+ "producer": "SⅡM Company,상상 나눔 씨어터",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "국어선생님",
+   "name": "최오식"
+  },
+  {
+   "role": "국어선생님",
+   "name": "김성웅"
+  },
+  {
+   "role": "국어선생님",
+   "name": "김경태"
+  },
+  {
+   "role": "국어선생님",
+   "name": "김민정"
+  },
+  {
+   "role": "국어선생님",
+   "name": "국중웅"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=267"
+ }
+}

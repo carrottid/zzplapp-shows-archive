@@ -1,0 +1,41 @@
+{
+ "id": "PD41096",
+ "title": "잇츠유",
+ "genre": "연극",
+ "from": "2012-10-10",
+ "to": "2013-05-31",
+ "venue": "한성아트홀 1관",
+ "cast": [
+  "주은미",
+  "이정호",
+  "박정희",
+  "소광민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이지은",
+   "name": "주은미"
+  },
+  {
+   "role": "봉차장",
+   "name": "이정호"
+  },
+  {
+   "role": "한성미",
+   "name": "박정희"
+  },
+  {
+   "role": "빌리조",
+   "name": "소광민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210116200354/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=41096"
+ }
+}

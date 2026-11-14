@@ -1,0 +1,46 @@
+{
+ "id": "PD162181",
+ "title": "BURN OUT",
+ "genre": "연극",
+ "from": "2020-11-24",
+ "to": "2020-11-24",
+ "venue": "대학로 자유극장",
+ "cast": [
+  "장경숙",
+  "박민서",
+  "옥경준",
+  "배윤정",
+  "문종영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "최대리",
+   "name": "장경숙"
+  },
+  {
+   "role": "김주임",
+   "name": "박민서"
+  },
+  {
+   "role": "유대리",
+   "name": "옥경준"
+  },
+  {
+   "role": "이과장",
+   "name": "배윤정"
+  },
+  {
+   "role": "",
+   "name": "문종영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250804225318/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162181"
+ }
+}

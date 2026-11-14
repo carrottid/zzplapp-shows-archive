@@ -1,0 +1,56 @@
+{
+ "id": "PD128370",
+ "title": "소년공작원",
+ "genre": "연극",
+ "from": "2018-08-15",
+ "to": "2018-08-19",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "도창선",
+  "김곽경희",
+  "김형섭",
+  "신진호",
+  "유명진",
+  "안진기",
+  "이성민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "늙은 대수",
+   "name": "도창선"
+  },
+  {
+   "role": "엄마",
+   "name": "김곽경희"
+  },
+  {
+   "role": "위신복",
+   "name": "김형섭"
+  },
+  {
+   "role": "이윤백",
+   "name": "신진호"
+  },
+  {
+   "role": "심한훈",
+   "name": "유명진"
+  },
+  {
+   "role": "박상사",
+   "name": "안진기"
+  },
+  {
+   "role": "",
+   "name": "이성민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240907110836/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=128370"
+ }
+}

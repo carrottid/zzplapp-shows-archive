@@ -1,0 +1,51 @@
+{
+ "id": "PD50601",
+ "title": "2013~2014 국립레퍼토리시즌 - 단테의 신곡",
+ "genre": "연극",
+ "from": "2013-11-02",
+ "to": "2013-11-09",
+ "venue": "국립극장 해오름극장",
+ "cast": [
+  "지현준",
+  "정동환",
+  "박정자",
+  "정은혜",
+  "전운종",
+  "황순미"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "단테",
+   "name": "지현준"
+  },
+  {
+   "role": "베르길리우스",
+   "name": "정동환"
+  },
+  {
+   "role": "프란체스카",
+   "name": "박정자"
+  },
+  {
+   "role": "베아트리체",
+   "name": "정은혜"
+  },
+  {
+   "role": "의붓자식/자살나무",
+   "name": "전운종"
+  },
+  {
+   "role": "미친궁뎅이/아마타",
+   "name": "황순미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171025145953/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=50601"
+ }
+}

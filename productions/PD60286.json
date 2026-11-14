@@ -1,0 +1,61 @@
+{
+ "id": "PD60286",
+ "title": "여기가 집이다",
+ "genre": "연극",
+ "from": "2014-04-18",
+ "to": "2014-05-25",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "김세동",
+  "박무영",
+  "김충근",
+  "김지혜",
+  "한동규",
+  "류제승",
+  "김동규",
+  "김정민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "장씨",
+   "name": "김세동"
+  },
+  {
+   "role": "최씨처",
+   "name": "박무영"
+  },
+  {
+   "role": "최씨",
+   "name": "김충근"
+  },
+  {
+   "role": "양씨처",
+   "name": "김지혜"
+  },
+  {
+   "role": "양씨",
+   "name": "한동규"
+  },
+  {
+   "role": "신씨",
+   "name": "류제승"
+  },
+  {
+   "role": "",
+   "name": "김동규"
+  },
+  {
+   "role": "",
+   "name": "김정민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260214132203/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=60286"
+ }
+}

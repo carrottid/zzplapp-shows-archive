@@ -1,0 +1,31 @@
+{
+ "id": "PD116551",
+ "title": "로미오와 줄리엣",
+ "genre": "연극",
+ "from": "2017-11-25",
+ "to": "2017-12-03",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "이호준",
+  "윤여준"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "머큐쇼",
+   "name": "이호준"
+  },
+  {
+   "role": "코러스",
+   "name": "윤여준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241109110546/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=116551"
+ }
+}

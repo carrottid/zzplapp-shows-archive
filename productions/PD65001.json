@@ -1,0 +1,61 @@
+{
+ "id": "PD65001",
+ "title": "2014 서울뮤지컬페스티벌 개막갈라쇼",
+ "genre": "뮤지컬",
+ "from": "2014-08-05",
+ "to": "2014-08-05",
+ "venue": "충무아트센터 대극장",
+ "cast": [
+  "오소연",
+  "이태원",
+  "한지상",
+  "강태을",
+  "윤시영",
+  "윤승욱",
+  "정주영",
+  "뉴월드 필하모닉 오케스트라"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "",
+   "name": "오소연"
+  },
+  {
+   "role": "",
+   "name": "이태원"
+  },
+  {
+   "role": "",
+   "name": "한지상"
+  },
+  {
+   "role": "",
+   "name": "강태을"
+  },
+  {
+   "role": "",
+   "name": "윤시영"
+  },
+  {
+   "role": "",
+   "name": "윤승욱"
+  },
+  {
+   "role": "지휘",
+   "name": "정주영"
+  },
+  {
+   "role": "오케스트라",
+   "name": "뉴월드 필하모닉 오케스트라"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20201128022412/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=65001"
+ }
+}

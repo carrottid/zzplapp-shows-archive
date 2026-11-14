@@ -1,0 +1,86 @@
+{
+ "id": "PD121143",
+ "title": "마마 돈 크라이",
+ "genre": "뮤지컬",
+ "from": "2018-03-23",
+ "to": "2018-07-15",
+ "venue": "예스24아트원 1관",
+ "cast": [
+  "송용진",
+  "허규",
+  "조형균",
+  "송유택",
+  "정욱진",
+  "하경",
+  "박영수",
+  "김찬호",
+  "고훈정",
+  "이충주",
+  "윤소호",
+  "장지후",
+  "이승헌"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "프로페서V",
+   "name": "송용진"
+  },
+  {
+   "role": "프로페서V",
+   "name": "허규"
+  },
+  {
+   "role": "프로페서V",
+   "name": "조형균"
+  },
+  {
+   "role": "프로페서V",
+   "name": "송유택"
+  },
+  {
+   "role": "",
+   "name": "정욱진"
+  },
+  {
+   "role": "",
+   "name": "하경"
+  },
+  {
+   "role": "드라큘라 백작",
+   "name": "박영수"
+  },
+  {
+   "role": "드라큘라 백작",
+   "name": "김찬호"
+  },
+  {
+   "role": "드라큘라 백작",
+   "name": "고훈정"
+  },
+  {
+   "role": "드라큘라 백작",
+   "name": "이충주"
+  },
+  {
+   "role": "",
+   "name": "윤소호"
+  },
+  {
+   "role": "",
+   "name": "장지후"
+  },
+  {
+   "role": "",
+   "name": "이승헌"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260107063506/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=121143"
+ }
+}

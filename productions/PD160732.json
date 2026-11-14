@@ -1,0 +1,31 @@
+{
+ "id": "PD160732",
+ "title": "식구를 찾아서",
+ "genre": "뮤지컬",
+ "from": "2020-11-20",
+ "to": "2020-12-27",
+ "venue": "더 줌 아트센터",
+ "cast": [
+  "백현주",
+  "강산하"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "박복녀",
+   "name": "백현주"
+  },
+  {
+   "role": "냥",
+   "name": "강산하"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230530173510/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=160732"
+ }
+}

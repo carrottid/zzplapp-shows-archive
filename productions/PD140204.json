@@ -1,0 +1,56 @@
+{
+ "id": "PD140204",
+ "title": "친정엄마와 2박3일 - 고양",
+ "genre": "연극",
+ "from": "2019-06-01",
+ "to": "2019-06-02",
+ "venue": "고양 어울림누리 어울림극장",
+ "cast": [
+  "강부자",
+  "전미선",
+  "유정기",
+  "이요성",
+  "서자영",
+  "김찬훈",
+  "김정아"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "엄마",
+   "name": "강부자"
+  },
+  {
+   "role": "딸",
+   "name": "전미선"
+  },
+  {
+   "role": "아버지",
+   "name": "유정기"
+  },
+  {
+   "role": "오빠",
+   "name": "이요성"
+  },
+  {
+   "role": "장군이네, 시어머니",
+   "name": "서자영"
+  },
+  {
+   "role": "역무원, 외삼촌, 의사, 흔들이",
+   "name": "김찬훈"
+  },
+  {
+   "role": "",
+   "name": "김정아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200925131758/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=140204"
+ }
+}

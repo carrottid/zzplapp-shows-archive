@@ -1,0 +1,64 @@
+{
+ "id": "TM1529",
+ "title": "더 씽 어바웃 맨",
+ "genre": "뮤지컬",
+ "from": "2009-11-20",
+ "to": "2009-12-31",
+ "venue": "더스테이지",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_thingaboutmen2009.JPG",
+ "cast": [
+  "박형준",
+  "이건명",
+  "이승원",
+  "이학민",
+  "조진아",
+  "안유진",
+  "송이주",
+  "신하나"
+ ],
+ "state": "공연완료",
+ "producer": "(주)MC컬처피아",
+ "price": "전석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "톰",
+   "name": "박형준"
+  },
+  {
+   "role": "톰",
+   "name": "이건명"
+  },
+  {
+   "role": "세바스찬",
+   "name": "이승원"
+  },
+  {
+   "role": "세바스찬",
+   "name": "이학민"
+  },
+  {
+   "role": "루시",
+   "name": "조진아"
+  },
+  {
+   "role": "루시",
+   "name": "안유진"
+  },
+  {
+   "role": "멀티남",
+   "name": "송이주"
+  },
+  {
+   "role": "멀티녀",
+   "name": "신하나"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1529"
+ }
+}

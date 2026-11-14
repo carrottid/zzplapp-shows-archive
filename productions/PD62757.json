@@ -1,0 +1,66 @@
+{
+ "id": "PD62757",
+ "title": "가을 반딧불이",
+ "genre": "연극",
+ "from": "2014-06-19",
+ "to": "2014-07-20",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "조연호",
+  "김정호",
+  "이도엽",
+  "김한",
+  "진선규",
+  "양소민",
+  "정연",
+  "오의식",
+  "김지용"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "슈헤이",
+   "name": "조연호"
+  },
+  {
+   "role": "사토시",
+   "name": "김정호"
+  },
+  {
+   "role": "사토시",
+   "name": "이도엽"
+  },
+  {
+   "role": "분페이",
+   "name": "김한"
+  },
+  {
+   "role": "분페이",
+   "name": "진선규"
+  },
+  {
+   "role": "마스미",
+   "name": "양소민"
+  },
+  {
+   "role": "마스미",
+   "name": "정연"
+  },
+  {
+   "role": "다모쓰",
+   "name": "오의식"
+  },
+  {
+   "role": "다모쓰",
+   "name": "김지용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220520140655/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=62757"
+ }
+}

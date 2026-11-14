@@ -1,0 +1,46 @@
+{
+ "id": "PD73863",
+ "title": "다우트",
+ "genre": "연극",
+ "from": "2015-03-26",
+ "to": "2015-04-19",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "박정수",
+  "차유경",
+  "서태화",
+  "문수아",
+  "김미란"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "엘로이셔스 원장수녀",
+   "name": "박정수"
+  },
+  {
+   "role": "엘로이셔스 원장수녀",
+   "name": "차유경"
+  },
+  {
+   "role": "플린 신부",
+   "name": "서태화"
+  },
+  {
+   "role": "제임스 수녀",
+   "name": "문수아"
+  },
+  {
+   "role": "뮬러 부인",
+   "name": "김미란"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220808013049/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=73863"
+ }
+}

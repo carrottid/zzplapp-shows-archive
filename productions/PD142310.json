@@ -1,0 +1,41 @@
+{
+ "id": "PD142310",
+ "title": "굴레방다리의 소극",
+ "genre": "연극",
+ "from": "2019-06-07",
+ "to": "2019-07-14",
+ "venue": "예그린씨어터",
+ "cast": [
+  "이상일",
+  "권재원",
+  "이중현",
+  "윤세인"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김대식",
+   "name": "이상일"
+  },
+  {
+   "role": "김대식",
+   "name": "권재원"
+  },
+  {
+   "role": "김두철",
+   "name": "이중현"
+  },
+  {
+   "role": "김리",
+   "name": "윤세인"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241103131431/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=142310"
+ }
+}

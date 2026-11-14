@@ -1,0 +1,74 @@
+{
+ "id": "TM198",
+ "title": "터널",
+ "genre": "뮤지컬",
+ "from": "2004-09-03",
+ "to": "2005-01-29",
+ "venue": "상상나눔씨어터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_tu0.gif",
+ "cast": [
+  "남경읍",
+  "진도희",
+  "유나영",
+  "이신성",
+  "임기홍",
+  "김성웅",
+  "전이화",
+  "서정수",
+  "김현숙",
+  "이희정"
+ ],
+ "state": "공연완료",
+ "producer": "SIIM COMPANY",
+ "price": "일반석 20,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "선생님",
+   "name": "남경읍"
+  },
+  {
+   "role": "선생님",
+   "name": "진도희"
+  },
+  {
+   "role": "선생님",
+   "name": "유나영"
+  },
+  {
+   "role": "선생님",
+   "name": "이신성"
+  },
+  {
+   "role": "선생님",
+   "name": "임기홍"
+  },
+  {
+   "role": "선생님",
+   "name": "김성웅"
+  },
+  {
+   "role": "댄서/이웃주민",
+   "name": "전이화"
+  },
+  {
+   "role": "댄서/이웃주민",
+   "name": "서정수"
+  },
+  {
+   "role": "댄서/이웃주민",
+   "name": "김현숙"
+  },
+  {
+   "role": "댄서/이웃주민",
+   "name": "이희정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=198"
+ }
+}

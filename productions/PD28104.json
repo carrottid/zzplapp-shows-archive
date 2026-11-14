@@ -1,0 +1,71 @@
+{
+ "id": "PD28104",
+ "title": "발칙한 로맨스",
+ "genre": "연극",
+ "from": "2011-10-27",
+ "to": "2012-04-01",
+ "venue": "미마지 아트센터 물빛극장",
+ "cast": [
+  "서지유",
+  "조연진",
+  "임샛별",
+  "허성민",
+  "정윤민",
+  "보현이",
+  "이상숙",
+  "오미란",
+  "채동현",
+  "이병권"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "수지",
+   "name": "서지유"
+  },
+  {
+   "role": "수지",
+   "name": "조연진"
+  },
+  {
+   "role": "수지",
+   "name": "임샛별"
+  },
+  {
+   "role": "봉필",
+   "name": "허성민"
+  },
+  {
+   "role": "봉필",
+   "name": "정윤민"
+  },
+  {
+   "role": "멀티녀",
+   "name": "보현이"
+  },
+  {
+   "role": "멀티녀",
+   "name": "이상숙"
+  },
+  {
+   "role": "멀티녀",
+   "name": "오미란"
+  },
+  {
+   "role": "멀티남",
+   "name": "채동현"
+  },
+  {
+   "role": "멀티남",
+   "name": "이병권"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250320155315/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=28104"
+ }
+}

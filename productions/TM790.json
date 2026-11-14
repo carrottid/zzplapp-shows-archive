@@ -1,0 +1,64 @@
+{
+ "id": "TM790",
+ "title": "화성에서 꿈꾸다",
+ "genre": "뮤지컬",
+ "from": "2007-03-15",
+ "to": "2007-03-22",
+ "venue": "예술의전당 오페라하우스",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007_화성 01.jpg",
+ "cast": [
+  "민영기",
+  "임강희",
+  "김순택",
+  "고미경",
+  "곽은태",
+  "허민희",
+  "한상민",
+  "이정욱"
+ ],
+ "state": "공연완료",
+ "producer": "경기도문화의전당",
+ "price": "R석 6만원 / S석 4만원 / A석 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "정조",
+   "name": "민영기"
+  },
+  {
+   "role": "장덕이",
+   "name": "임강희"
+  },
+  {
+   "role": "벽파 이선생",
+   "name": "김순택"
+  },
+  {
+   "role": "혜경궁 홍씨",
+   "name": "고미경"
+  },
+  {
+   "role": "영조",
+   "name": "곽은태"
+  },
+  {
+   "role": "화완옹주",
+   "name": "허민희"
+  },
+  {
+   "role": "홍국영",
+   "name": "한상민"
+  },
+  {
+   "role": "사도세자/전흥문",
+   "name": "이정욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=790"
+ }
+}

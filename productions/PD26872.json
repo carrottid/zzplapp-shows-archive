@@ -1,0 +1,51 @@
+{
+ "id": "PD26872",
+ "title": "훈남들의 수다",
+ "genre": "연극",
+ "from": "2011-09-01",
+ "to": "2012-01-01",
+ "venue": "한성아트홀 2관",
+ "cast": [
+  "이기욱",
+  "배용근",
+  "윤혁진",
+  "강대윤",
+  "조완기",
+  "이장환"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "성환",
+   "name": "이기욱"
+  },
+  {
+   "role": "경준",
+   "name": "배용근"
+  },
+  {
+   "role": "경준",
+   "name": "윤혁진"
+  },
+  {
+   "role": "태기",
+   "name": "강대윤"
+  },
+  {
+   "role": "희수",
+   "name": "조완기"
+  },
+  {
+   "role": "희수",
+   "name": "이장환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230128155919/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=26872"
+ }
+}

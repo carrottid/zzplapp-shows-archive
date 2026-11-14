@@ -1,0 +1,81 @@
+{
+ "id": "PD155525",
+ "title": "햄릿 읽기 좋은 날",
+ "genre": "연극",
+ "from": "2020-02-19",
+ "to": "2020-02-29",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "구시연",
+  "박동욱",
+  "이여진",
+  "이현지",
+  "임승범",
+  "임영식",
+  "최승은",
+  "김정호",
+  "이섬",
+  "전석호",
+  "김다흰",
+  "은해성"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "구시연",
+   "name": "구시연"
+  },
+  {
+   "role": "박동욱",
+   "name": "박동욱"
+  },
+  {
+   "role": "이여진",
+   "name": "이여진"
+  },
+  {
+   "role": "이현지",
+   "name": "이현지"
+  },
+  {
+   "role": "임승범",
+   "name": "임승범"
+  },
+  {
+   "role": "임영식",
+   "name": "임영식"
+  },
+  {
+   "role": "",
+   "name": "최승은"
+  },
+  {
+   "role": "",
+   "name": "김정호"
+  },
+  {
+   "role": "",
+   "name": "이섬"
+  },
+  {
+   "role": "",
+   "name": "전석호"
+  },
+  {
+   "role": "",
+   "name": "김다흰"
+  },
+  {
+   "role": "",
+   "name": "은해성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250711031318/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=155525"
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "id": "PD19256",
+ "title": "판타스틱스",
+ "genre": "뮤지컬",
+ "from": "2010-11-24",
+ "to": "2011-01-30",
+ "venue": "충무아트센터 중극장 블랙",
+ "cast": [
+  "서현철",
+  "오대환",
+  "이현철",
+  "김태한",
+  "라준",
+  "김산호",
+  "최성원",
+  "신주연",
+  "김수영",
+  "이경욱"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "헨리&벨로미",
+   "name": "서현철"
+  },
+  {
+   "role": "헨리&벨로미",
+   "name": "오대환"
+  },
+  {
+   "role": "머티머&허클비",
+   "name": "이현철"
+  },
+  {
+   "role": "엘가로",
+   "name": "김태한"
+  },
+  {
+   "role": "엘가로",
+   "name": "라준"
+  },
+  {
+   "role": "마트",
+   "name": "김산호"
+  },
+  {
+   "role": "마트",
+   "name": "최성원"
+  },
+  {
+   "role": "루이자",
+   "name": "신주연"
+  },
+  {
+   "role": "루이자",
+   "name": "김수영"
+  },
+  {
+   "role": "뮤트",
+   "name": "이경욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220520050825/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=19256"
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "id": "TM1911",
+ "title": "리걸리 블론드",
+ "genre": "뮤지컬",
+ "from": "2012-11-16",
+ "to": "2013-03-17",
+ "venue": "코엑스아티움 현대아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster (s)12.JPG",
+ "cast": [
+  "정은지",
+  "제시카",
+  "최우리",
+  "진선규",
+  "팀",
+  "김산호",
+  "김경수",
+  "정영주",
+  "조유신",
+  "백주희",
+  "임진아",
+  "최영화"
+ ],
+ "state": "공연완료",
+ "producer": "PMC프러덕션",
+ "price": "VIP석 10만원/ S석 8만원/ A석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "엘 우즈",
+   "name": "정은지"
+  },
+  {
+   "role": "엘 우즈",
+   "name": "제시카"
+  },
+  {
+   "role": "엘 우즈",
+   "name": "최우리"
+  },
+  {
+   "role": "에밋",
+   "name": "진선규"
+  },
+  {
+   "role": "에밋",
+   "name": "팀"
+  },
+  {
+   "role": "워너",
+   "name": "김산호"
+  },
+  {
+   "role": "워너",
+   "name": "김경수"
+  },
+  {
+   "role": "폴렛",
+   "name": "정영주"
+  },
+  {
+   "role": "캘러한",
+   "name": "조유신"
+  },
+  {
+   "role": "브룩",
+   "name": "백주희"
+  },
+  {
+   "role": "브룩",
+   "name": "임진아"
+  },
+  {
+   "role": "비비안",
+   "name": "최영화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1911"
+ }
+}

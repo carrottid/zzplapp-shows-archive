@@ -1,0 +1,41 @@
+{
+ "id": "PD35076",
+ "title": "별들의 무덤",
+ "genre": "뮤지컬",
+ "from": "2012-05-11",
+ "to": "2012-05-20",
+ "venue": "대학로 예술극장 3관",
+ "cast": [
+  "박호산",
+  "김동화",
+  "이원상",
+  "김호근"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "청년/작가",
+   "name": "박호산"
+  },
+  {
+   "role": "경아",
+   "name": "김동화"
+  },
+  {
+   "role": "기타",
+   "name": "이원상"
+  },
+  {
+   "role": "기타",
+   "name": "김호근"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20120522203646/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=35076"
+ }
+}

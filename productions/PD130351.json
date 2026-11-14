@@ -1,0 +1,66 @@
+{
+ "id": "PD130351",
+ "title": "2018 서울국제공연예술제 - 광인일기",
+ "genre": "연극",
+ "from": "2018-11-02",
+ "to": "2018-11-04",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "강지연",
+  "김보경",
+  "김선기",
+  "김평조",
+  "권미나",
+  "김형준",
+  "민현기",
+  "박형범",
+  "하재성"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "여동생",
+   "name": "강지연"
+  },
+  {
+   "role": "천라오우",
+   "name": "김보경"
+  },
+  {
+   "role": "여자",
+   "name": "김선기"
+  },
+  {
+   "role": "광인",
+   "name": "김평조"
+  },
+  {
+   "role": "엄마",
+   "name": "권미나"
+  },
+  {
+   "role": "형님",
+   "name": "김형준"
+  },
+  {
+   "role": "",
+   "name": "민현기"
+  },
+  {
+   "role": "",
+   "name": "박형범"
+  },
+  {
+   "role": "",
+   "name": "하재성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210417151715/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=130351"
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "PD39368",
+ "title": "형제는 용감했다 - 부산",
+ "genre": "뮤지컬",
+ "from": "2012-11-10",
+ "to": "2012-11-11",
+ "venue": "부산문화회관 대극장",
+ "cast": [
+  "김도현",
+  "김재범",
+  "성태준",
+  "강지원",
+  "신문성",
+  "최영화",
+  "임선애",
+  "성열석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이석봉",
+   "name": "김도현"
+  },
+  {
+   "role": "이석봉",
+   "name": "김재범"
+  },
+  {
+   "role": "이주봉",
+   "name": "성태준"
+  },
+  {
+   "role": "오로라",
+   "name": "강지원"
+  },
+  {
+   "role": "이춘배",
+   "name": "신문성"
+  },
+  {
+   "role": "송혜자",
+   "name": "최영화"
+  },
+  {
+   "role": "송혜자",
+   "name": "임선애"
+  },
+  {
+   "role": "이춘걸",
+   "name": "성열석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170920233219/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=39368"
+ }
+}

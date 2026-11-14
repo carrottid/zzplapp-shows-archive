@@ -1,0 +1,44 @@
+{
+ "id": "TM166",
+ "title": "인당수 사랑가",
+ "genre": "뮤지컬",
+ "from": "2005-04-22",
+ "to": "2005-05-22",
+ "venue": "발렌타인극장3관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_indang.gif",
+ "cast": [
+  "김도현",
+  "오대환",
+  "오만석",
+  "이선균"
+ ],
+ "state": "공연완료",
+ "producer": "Stage - T",
+ "price": "인당수석 35,000원 | 사랑가석 25,000원 | 늑대몽룡석 60,000원 | 쾌걸춘향석(청소년) 15,000원 | 대통령석(2좌석 1세트) 80,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "변학도",
+   "name": "김도현"
+  },
+  {
+   "role": "변학도",
+   "name": "오대환"
+  },
+  {
+   "role": "변학도",
+   "name": "오만석"
+  },
+  {
+   "role": "도령(카메오)",
+   "name": "이선균"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=166"
+ }
+}

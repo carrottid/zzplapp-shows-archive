@@ -1,0 +1,44 @@
+{
+ "id": "TM88",
+ "title": "파우스트",
+ "genre": "뮤지컬",
+ "from": "2004-05-07",
+ "to": "2004-05-30",
+ "venue": "게릴라극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_fa2.jpg",
+ "cast": [
+  "김장섭",
+  "한애리",
+  "이재식",
+  "최민철"
+ ],
+ "state": "공연완료",
+ "producer": "공연집단 현",
+ "price": "S석 5만원/일반 3마원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "젊은파우스트",
+   "name": "김장섭"
+  },
+  {
+   "role": "젊은파우스트",
+   "name": "한애리"
+  },
+  {
+   "role": "젊은파우스트",
+   "name": "이재식"
+  },
+  {
+   "role": "젊은파우스트",
+   "name": "최민철"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=88"
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "id": "PD122555",
+ "title": "연애플레이리스트",
+ "genre": "연극",
+ "from": "2018-06-02",
+ "to": "2018-09-02",
+ "venue": "NOL 유니플렉스 2관",
+ "cast": [
+  "황바울",
+  "이세호",
+  "권소이",
+  "정여원",
+  "이지혜",
+  "김이담",
+  "최정우",
+  "이원준",
+  "박강섭",
+  "이원민",
+  "박시환",
+  "장수지",
+  "남영주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이현승",
+   "name": "황바울"
+  },
+  {
+   "role": "이현승",
+   "name": "이세호"
+  },
+  {
+   "role": "정지원",
+   "name": "권소이"
+  },
+  {
+   "role": "정지원",
+   "name": "정여원"
+  },
+  {
+   "role": "한재인",
+   "name": "이지혜"
+  },
+  {
+   "role": "강윤",
+   "name": "김이담"
+  },
+  {
+   "role": "강윤",
+   "name": "최정우"
+  },
+  {
+   "role": "김민우",
+   "name": "이원준"
+  },
+  {
+   "role": "김민우",
+   "name": "박강섭"
+  },
+  {
+   "role": "곽준모",
+   "name": "이원민"
+  },
+  {
+   "role": "곽준모",
+   "name": "박시환"
+  },
+  {
+   "role": "",
+   "name": "장수지"
+  },
+  {
+   "role": "",
+   "name": "남영주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250623155049/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=122555"
+ }
+}

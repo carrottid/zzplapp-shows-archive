@@ -1,0 +1,53 @@
+{
+ "date": "2022-04-11",
+ "sessions": [
+  {
+   "id": "PF186237",
+   "title": "비클래스",
+   "genre": "연극",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#79736C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF187947",
+   "title": "앙상블",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#4F3C34",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186116",
+   "title": "용욱이의 편지",
+   "genre": "뮤지컬",
+   "venue": "열린극장",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#89725C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF188556",
+   "title": "죽음을 대비하는 방법: 멸망편 (앵콜)",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#747273",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

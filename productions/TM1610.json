@@ -1,0 +1,54 @@
+{
+ "id": "TM1610",
+ "title": "화려한 휴가",
+ "genre": "뮤지컬",
+ "from": "2010-06-12",
+ "to": "2010-06-13",
+ "venue": "국립극장 해오름극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_518_2010.jpg",
+ "cast": [
+  "최승렬",
+  "이승현",
+  "전미도",
+  "손현정",
+  "이승근",
+  "이재호"
+ ],
+ "state": "공연완료",
+ "producer": "메이엔터테인먼트, (주)쇼앤라이프",
+ "price": "R석 80,000원 / S석 60,000원 / A석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "민우",
+   "name": "최승렬"
+  },
+  {
+   "role": "인봉",
+   "name": "이승현"
+  },
+  {
+   "role": "신애",
+   "name": "전미도"
+  },
+  {
+   "role": "신애",
+   "name": "손현정"
+  },
+  {
+   "role": "흥수",
+   "name": "이승근"
+  },
+  {
+   "role": "신부",
+   "name": "이재호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1610"
+ }
+}

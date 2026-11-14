@@ -1,0 +1,38 @@
+{
+ "id": "TM177",
+ "title": "청년 장준하",
+ "genre": "뮤지컬",
+ "from": "2004-08-18",
+ "to": "2004-08-21",
+ "venue": "세종문화회관 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_jang00.jpg",
+ "cast": [
+  "조승룡",
+  "임유진",
+  "박완규"
+ ],
+ "state": "공연완료",
+ "producer": "사단법인 장준하기념사업회,세종문화회관",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "장준하",
+   "name": "조승룡"
+  },
+  {
+   "role": "장준하",
+   "name": "임유진"
+  },
+  {
+   "role": "장준하",
+   "name": "박완규"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=177"
+ }
+}

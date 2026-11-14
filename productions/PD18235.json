@@ -1,0 +1,96 @@
+{
+ "id": "PD18235",
+ "title": "오페라의 유령 - 대구",
+ "genre": "뮤지컬",
+ "from": "2010-10-21",
+ "to": "2011-01-02",
+ "venue": "대구 계명아트센터",
+ "cast": [
+  "윤영석",
+  "양준모",
+  "김소현",
+  "최현주",
+  "정상윤",
+  "손준호",
+  "하도권",
+  "강연종",
+  "김에셀",
+  "김성은",
+  "임중목",
+  "류기열",
+  "김기순",
+  "정단영",
+  "김지유"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "팬텀",
+   "name": "윤영석"
+  },
+  {
+   "role": "팬텀",
+   "name": "양준모"
+  },
+  {
+   "role": "크리스틴",
+   "name": "김소현"
+  },
+  {
+   "role": "크리스틴",
+   "name": "최현주"
+  },
+  {
+   "role": "라울",
+   "name": "정상윤"
+  },
+  {
+   "role": "라울",
+   "name": "손준호"
+  },
+  {
+   "role": "피르맹",
+   "name": "하도권"
+  },
+  {
+   "role": "앙드레",
+   "name": "강연종"
+  },
+  {
+   "role": "칼롯타",
+   "name": "김에셀"
+  },
+  {
+   "role": "칼롯타",
+   "name": "김성은"
+  },
+  {
+   "role": "",
+   "name": "임중목"
+  },
+  {
+   "role": "",
+   "name": "류기열"
+  },
+  {
+   "role": "",
+   "name": "김기순"
+  },
+  {
+   "role": "",
+   "name": "정단영"
+  },
+  {
+   "role": "",
+   "name": "김지유"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240305044850/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=18235"
+ }
+}

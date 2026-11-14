@@ -1,0 +1,56 @@
+{
+ "id": "PD74011",
+ "title": "대한민국 난투극",
+ "genre": "연극",
+ "from": "2015-03-26",
+ "to": "2015-03-29",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "윤성원",
+  "윤찬호",
+  "조용경",
+  "임현국",
+  "이효",
+  "김희연",
+  "이새롬"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이대한",
+   "name": "윤성원"
+  },
+  {
+   "role": "한민국",
+   "name": "윤찬호"
+  },
+  {
+   "role": "견자단",
+   "name": "조용경"
+  },
+  {
+   "role": "김용철 외",
+   "name": "임현국"
+  },
+  {
+   "role": "전동수 외",
+   "name": "이효"
+  },
+  {
+   "role": "김윤선 외",
+   "name": "김희연"
+  },
+  {
+   "role": "",
+   "name": "이새롬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20190705235747/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=74011"
+ }
+}

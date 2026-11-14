@@ -1,0 +1,56 @@
+{
+ "id": "PD43852",
+ "title": "친정엄마와 2박3일 - 성남",
+ "genre": "연극",
+ "from": "2013-02-23",
+ "to": "2013-02-24",
+ "venue": "성남아트센터 오페라하우스",
+ "cast": [
+  "강부자",
+  "전미선",
+  "유정기",
+  "이요성",
+  "서자영",
+  "김찬훈",
+  "이보배"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "엄마",
+   "name": "강부자"
+  },
+  {
+   "role": "딸",
+   "name": "전미선"
+  },
+  {
+   "role": "아버지",
+   "name": "유정기"
+  },
+  {
+   "role": "오빠",
+   "name": "이요성"
+  },
+  {
+   "role": "장군이네/시어머니",
+   "name": "서자영"
+  },
+  {
+   "role": "역무원/외삼촌/의사/흔들이",
+   "name": "김찬훈"
+  },
+  {
+   "role": "",
+   "name": "이보배"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20130201155116/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=43852"
+ }
+}

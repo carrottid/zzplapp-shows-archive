@@ -1,0 +1,59 @@
+{
+ "id": "TM2500",
+ "title": "전설의 리틀 농구단-안산",
+ "genre": "뮤지컬",
+ "from": "2017-10-20",
+ "to": "2017-10-29",
+ "venue": "안산문화예술의전당 별무리극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201709250606241R8317JVRTI145C1.jpg",
+ "cast": [
+  "유승현",
+  "안재영",
+  "박대원",
+  "임찬민",
+  "김현진",
+  "이휘종",
+  "안지환"
+ ],
+ "state": "공연완료",
+ "producer": "안산문화재단",
+ "price": "전석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "승우",
+   "name": "유승현"
+  },
+  {
+   "role": "종우",
+   "name": "안재영"
+  },
+  {
+   "role": "상태",
+   "name": "박대원"
+  },
+  {
+   "role": "미숙 외",
+   "name": "임찬민"
+  },
+  {
+   "role": "다인",
+   "name": "김현진"
+  },
+  {
+   "role": "수현",
+   "name": "이휘종"
+  },
+  {
+   "role": "지훈",
+   "name": "안지환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2500"
+ }
+}

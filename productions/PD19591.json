@@ -1,0 +1,66 @@
+{
+ "id": "PD19591",
+ "title": "달님은 이쁘기도 하셔라",
+ "genre": "연극",
+ "from": "2010-12-18",
+ "to": "2011-01-30",
+ "venue": "미마지 아트센터 눈빛극장",
+ "cast": [
+  "박승태",
+  "이연희",
+  "박효주",
+  "박호석",
+  "이일화",
+  "정나온",
+  "노현희",
+  "조선주",
+  "신혜정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "히구찌 다끼",
+   "name": "박승태"
+  },
+  {
+   "role": "반딧불 꽃",
+   "name": "이연희"
+  },
+  {
+   "role": "반딧불 꽃",
+   "name": "박효주"
+  },
+  {
+   "role": "아나봐 고",
+   "name": "박호석"
+  },
+  {
+   "role": "아나봐 고",
+   "name": "이일화"
+  },
+  {
+   "role": "아나봐 고",
+   "name": "정나온"
+  },
+  {
+   "role": "나까노 야에",
+   "name": "노현희"
+  },
+  {
+   "role": "나쓰꼬",
+   "name": "조선주"
+  },
+  {
+   "role": "구니꼬",
+   "name": "신혜정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220203162952/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=19591"
+ }
+}

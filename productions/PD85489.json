@@ -1,0 +1,66 @@
+{
+ "id": "PD85489",
+ "title": "템페스트",
+ "genre": "연극",
+ "from": "2015-12-09",
+ "to": "2016-01-31",
+ "venue": "세종문화회관 M씨어터",
+ "cast": [
+  "강신구",
+  "주성환",
+  "문호진",
+  "최나라",
+  "이지연",
+  "유성주",
+  "한동규",
+  "장석환",
+  "조용진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "안토니오",
+   "name": "강신구"
+  },
+  {
+   "role": "안토니오",
+   "name": "주성환"
+  },
+  {
+   "role": "세바스찬",
+   "name": "문호진"
+  },
+  {
+   "role": "에어리얼",
+   "name": "최나라"
+  },
+  {
+   "role": "미란다",
+   "name": "이지연"
+  },
+  {
+   "role": "알론소",
+   "name": "유성주"
+  },
+  {
+   "role": "프로스페로",
+   "name": "한동규"
+  },
+  {
+   "role": "",
+   "name": "장석환"
+  },
+  {
+   "role": "",
+   "name": "조용진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170908030313/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=85489"
+ }
+}

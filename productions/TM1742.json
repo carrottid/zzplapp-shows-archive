@@ -1,0 +1,69 @@
+{
+ "id": "TM1742",
+ "title": "톡식 히어로",
+ "genre": "뮤지컬",
+ "from": "2011-07-30",
+ "to": "2011-10-16",
+ "venue": "아트원씨어터 1관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_toxic2011.jpg",
+ "cast": [
+  "이석준",
+  "이기찬",
+  "정영주",
+  "최우리",
+  "솔비",
+  "고명환",
+  "임기홍",
+  "김동현",
+  "김도진(김형근)"
+ ],
+ "state": "공연완료",
+ "producer": "(유)쇼노트, CJ E&M",
+ "price": "[평일/일요일] R석 60,000원, S석 50,000원 [토/공휴일] R석 65,000원, S석 55,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "멜빈/톡시",
+   "name": "이석준"
+  },
+  {
+   "role": "멜빈/톡시",
+   "name": "이기찬"
+  },
+  {
+   "role": "시장/엄마/수녀",
+   "name": "정영주"
+  },
+  {
+   "role": "새라",
+   "name": "최우리"
+  },
+  {
+   "role": "새라",
+   "name": "솔비"
+  },
+  {
+   "role": "멀티맨",
+   "name": "고명환"
+  },
+  {
+   "role": "멀티맨",
+   "name": "임기홍"
+  },
+  {
+   "role": "멀티맨",
+   "name": "김동현"
+  },
+  {
+   "role": "멀티맨",
+   "name": "김도진(김형근)"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1742"
+ }
+}

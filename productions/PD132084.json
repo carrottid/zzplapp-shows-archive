@@ -1,0 +1,31 @@
+{
+ "id": "PD132084",
+ "title": "꿈 꾸는 도시",
+ "genre": "연극",
+ "from": "2018-10-10",
+ "to": "2018-10-14",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "이준수",
+  "배민수"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "고시생",
+   "name": "이준수"
+  },
+  {
+   "role": "화가",
+   "name": "배민수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241206233313/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=132084"
+ }
+}

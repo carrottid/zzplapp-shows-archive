@@ -1,0 +1,91 @@
+{
+ "id": "PD74194",
+ "title": "M.Butterfly",
+ "genre": "연극",
+ "from": "2015-04-11",
+ "to": "2015-06-07",
+ "venue": "두산아트센터 연강홀",
+ "cast": [
+  "김영민",
+  "이석준",
+  "이승주",
+  "김다현",
+  "정동화",
+  "전성우",
+  "손진환",
+  "유연수",
+  "정수영",
+  "이소희",
+  "유성주",
+  "한동규",
+  "빈혜경",
+  "김보정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "르네 갈리마르",
+   "name": "김영민"
+  },
+  {
+   "role": "르네 갈리마르",
+   "name": "이석준"
+  },
+  {
+   "role": "르네 갈리마르",
+   "name": "이승주"
+  },
+  {
+   "role": "송 릴링",
+   "name": "김다현"
+  },
+  {
+   "role": "송 릴링",
+   "name": "정동화"
+  },
+  {
+   "role": "송 릴링",
+   "name": "전성우"
+  },
+  {
+   "role": "뚤롱/판사",
+   "name": "손진환"
+  },
+  {
+   "role": "뚤롱/판사",
+   "name": "유연수"
+  },
+  {
+   "role": "헬가",
+   "name": "정수영"
+  },
+  {
+   "role": "친",
+   "name": "이소희"
+  },
+  {
+   "role": "마르끄",
+   "name": "유성주"
+  },
+  {
+   "role": "마르끄",
+   "name": "한동규"
+  },
+  {
+   "role": "",
+   "name": "빈혜경"
+  },
+  {
+   "role": "",
+   "name": "김보정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240418012807/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=74194"
+ }
+}

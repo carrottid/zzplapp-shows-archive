@@ -1,0 +1,56 @@
+{
+ "id": "PD20410",
+ "title": "더 코러스 - 오이디푸스",
+ "genre": "연극",
+ "from": "2011-04-26",
+ "to": "2011-05-01",
+ "venue": "LG아트센터",
+ "cast": [
+  "박해수",
+  "조휘",
+  "김은실",
+  "이원",
+  "김준오",
+  "박지희",
+  "임철수"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "오이디푸스",
+   "name": "박해수"
+  },
+  {
+   "role": "코러스 장",
+   "name": "조휘"
+  },
+  {
+   "role": "이오카스테",
+   "name": "김은실"
+  },
+  {
+   "role": "크레온",
+   "name": "이원"
+  },
+  {
+   "role": "테레시아스",
+   "name": "김준오"
+  },
+  {
+   "role": "테레시아스",
+   "name": "박지희"
+  },
+  {
+   "role": "코린토스에서 온 사자",
+   "name": "임철수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170920020244/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=20410"
+ }
+}

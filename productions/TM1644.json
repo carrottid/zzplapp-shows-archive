@@ -1,0 +1,44 @@
+{
+ "id": "TM1644",
+ "title": "도도",
+ "genre": "뮤지컬",
+ "from": "2010-09-25",
+ "to": "2010-10-31",
+ "venue": "학전블루",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_dodo2010.jpg",
+ "cast": [
+  "최원석",
+  "이승재",
+  "안소연",
+  "조성민"
+ ],
+ "state": "공연완료",
+ "producer": "극단 학전",
+ "price": "성인 30,000원 / 어린이, 청소년 20,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "",
+   "name": "최원석"
+  },
+  {
+   "role": "",
+   "name": "이승재"
+  },
+  {
+   "role": "",
+   "name": "안소연"
+  },
+  {
+   "role": "",
+   "name": "조성민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1644"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "PD16779",
+ "title": "옥수수 밭에 누워있는 연인",
+ "genre": "연극",
+ "from": "2010-05-19",
+ "to": "2010-05-23",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "남명렬",
+  "김호정",
+  "민경진",
+  "이명호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "한영/한보",
+   "name": "남명렬"
+  },
+  {
+   "role": "이선",
+   "name": "김호정"
+  },
+  {
+   "role": "낯선 남자1",
+   "name": "민경진"
+  },
+  {
+   "role": "낯선 남자2",
+   "name": "이명호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210504104310/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=16779"
+ }
+}

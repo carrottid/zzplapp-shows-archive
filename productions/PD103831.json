@@ -1,0 +1,56 @@
+{
+ "id": "PD103831",
+ "title": "넌센스2",
+ "genre": "뮤지컬",
+ "from": "2017-02-16",
+ "to": "2017-03-05",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "박해미",
+  "이미쉘",
+  "조혜련",
+  "박슬기",
+  "김가은",
+  "송주희",
+  "윤나영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "메리 레지나",
+   "name": "박해미"
+  },
+  {
+   "role": "허버트",
+   "name": "이미쉘"
+  },
+  {
+   "role": "로버트 앤",
+   "name": "조혜련"
+  },
+  {
+   "role": "로버트 앤",
+   "name": "박슬기"
+  },
+  {
+   "role": "엠네지아",
+   "name": "김가은"
+  },
+  {
+   "role": "메리 레오",
+   "name": "송주희"
+  },
+  {
+   "role": "메리 레오",
+   "name": "윤나영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230313054615/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=103831"
+ }
+}

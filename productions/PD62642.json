@@ -1,0 +1,56 @@
+{
+ "id": "PD62642",
+ "title": "당신의 눈",
+ "genre": "연극",
+ "from": "2014-06-25",
+ "to": "2014-07-06",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "신현종",
+  "이선주",
+  "서미영",
+  "김조연",
+  "백우람",
+  "이세영",
+  "이건영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "덕선",
+   "name": "신현종"
+  },
+  {
+   "role": "귀녀",
+   "name": "이선주"
+  },
+  {
+   "role": "정아",
+   "name": "서미영"
+  },
+  {
+   "role": "민수",
+   "name": "김조연"
+  },
+  {
+   "role": "오리1/경찰4/단원3",
+   "name": "백우람"
+  },
+  {
+   "role": "오리2/단원2",
+   "name": "이세영"
+  },
+  {
+   "role": "",
+   "name": "이건영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20140802191043/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=62642"
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "id": "TM1580",
+ "title": "마법사들",
+ "genre": "뮤지컬",
+ "from": "2010-03-12",
+ "to": "2010-05-30",
+ "venue": "창조아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_magicians2010.jpg",
+ "cast": [
+  "김태훈",
+  "정태야",
+  "김신애",
+  "김영환",
+  "박태성",
+  "최고운",
+  "강정구"
+ ],
+ "state": "공연완료",
+ "producer": "창조프로덕션",
+ "price": "전석 35,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "재성",
+   "name": "김태훈"
+  },
+  {
+   "role": "재성",
+   "name": "정태야"
+  },
+  {
+   "role": "자은",
+   "name": "김신애"
+  },
+  {
+   "role": "명수",
+   "name": "김영환"
+  },
+  {
+   "role": "명수",
+   "name": "박태성"
+  },
+  {
+   "role": "하영",
+   "name": "최고운"
+  },
+  {
+   "role": "스님",
+   "name": "강정구"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1580"
+ }
+}

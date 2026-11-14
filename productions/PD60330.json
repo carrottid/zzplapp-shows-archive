@@ -1,0 +1,56 @@
+{
+ "id": "PD60330",
+ "title": "러브 & 머니",
+ "genre": "연극",
+ "from": "2014-04-10",
+ "to": "2014-04-20",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "김훈만",
+  "박유밀",
+  "김정호",
+  "이서림",
+  "전유경",
+  "정빈",
+  "김예은"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "데이비드, 5",
+   "name": "김훈만"
+  },
+  {
+   "role": "제스",
+   "name": "박유밀"
+  },
+  {
+   "role": "아버지, 던칸, 1",
+   "name": "김정호"
+  },
+  {
+   "role": "어머니, 발",
+   "name": "이서림"
+  },
+  {
+   "role": "상드린 목소리",
+   "name": "전유경"
+  },
+  {
+   "role": "폴, 의사, 3",
+   "name": "정빈"
+  },
+  {
+   "role": "",
+   "name": "김예은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250716200222/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=60330"
+ }
+}

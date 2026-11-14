@@ -1,0 +1,81 @@
+{
+ "id": "PD103531",
+ "title": "신인류의 백분토론",
+ "genre": "연극",
+ "from": "2017-02-10",
+ "to": "2017-02-26",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "정선아",
+  "백은혜",
+  "진선규",
+  "이강우",
+  "이지해",
+  "서예화",
+  "오의식",
+  "김종현",
+  "정순원",
+  "양경원",
+  "유연",
+  "홍지희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이성혜",
+   "name": "정선아"
+  },
+  {
+   "role": "이성혜",
+   "name": "백은혜"
+  },
+  {
+   "role": "전진기",
+   "name": "진선규"
+  },
+  {
+   "role": "전진기",
+   "name": "이강우"
+  },
+  {
+   "role": "우지현",
+   "name": "이지해"
+  },
+  {
+   "role": "우지현",
+   "name": "서예화"
+  },
+  {
+   "role": "육근철",
+   "name": "오의식"
+  },
+  {
+   "role": "육근철",
+   "name": "김종현"
+  },
+  {
+   "role": "나대수",
+   "name": "정순원"
+  },
+  {
+   "role": "나대수",
+   "name": "양경원"
+  },
+  {
+   "role": "현충희",
+   "name": "유연"
+  },
+  {
+   "role": "현충희",
+   "name": "홍지희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240624031600/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=103531"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "PD80640",
+ "title": "녹차정원",
+ "genre": "연극",
+ "from": "2015-08-04",
+ "to": "2015-08-23",
+ "venue": "나온 씨어터",
+ "cast": [
+  "김용민",
+  "문영수",
+  "길윤이",
+  "강윤경"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "형",
+   "name": "김용민"
+  },
+  {
+   "role": "아버지",
+   "name": "문영수"
+  },
+  {
+   "role": "누나",
+   "name": "길윤이"
+  },
+  {
+   "role": "하루",
+   "name": "강윤경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241010145627/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=80640"
+ }
+}

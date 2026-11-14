@@ -1,0 +1,41 @@
+{
+ "id": "PD14242",
+ "title": "뷰티퀸",
+ "genre": "연극",
+ "from": "2010-01-14",
+ "to": "2010-02-28",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "홍경연",
+  "김선영",
+  "신안진",
+  "김준원"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "매그",
+   "name": "홍경연"
+  },
+  {
+   "role": "모린",
+   "name": "김선영"
+  },
+  {
+   "role": "파토",
+   "name": "신안진"
+  },
+  {
+   "role": "레이",
+   "name": "김준원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170617190618/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=14242"
+ }
+}

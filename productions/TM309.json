@@ -1,0 +1,43 @@
+{
+ "id": "TM309",
+ "title": "카르멘",
+ "genre": "뮤지컬",
+ "from": "2004-12-01",
+ "to": "2004-12-09",
+ "venue": "성균관대 600주년기념관 새천년홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_카르멘.bmp",
+ "cast": [
+  "엄기준",
+  "채국희",
+  "김선미",
+  "이계창"
+ ],
+ "state": "공연완료",
+ "producer": "극단 갖가지",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "돈호세",
+   "name": "엄기준"
+  },
+  {
+   "role": "돈호세",
+   "name": "채국희"
+  },
+  {
+   "role": "돈호세",
+   "name": "김선미"
+  },
+  {
+   "role": "돈호세",
+   "name": "이계창"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=309"
+ }
+}

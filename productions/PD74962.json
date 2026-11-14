@@ -1,0 +1,56 @@
+{
+ "id": "PD74962",
+ "title": "히키코모리 밖으로 나왔어",
+ "genre": "연극",
+ "from": "2015-05-26",
+ "to": "2015-06-20",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "이남희",
+  "강지은",
+  "배수백",
+  "김혜강",
+  "황정민",
+  "윤상화",
+  "최광일"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "사이토 카즈오",
+   "name": "이남희"
+  },
+  {
+   "role": "쿠로키",
+   "name": "강지은"
+  },
+  {
+   "role": "베테랑 기숙생 외",
+   "name": "배수백"
+  },
+  {
+   "role": "사이토 요시코",
+   "name": "김혜강"
+  },
+  {
+   "role": "스즈키 카나코",
+   "name": "황정민"
+  },
+  {
+   "role": "스즈키 키요시",
+   "name": "윤상화"
+  },
+  {
+   "role": "",
+   "name": "최광일"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240810005223/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=74962"
+ }
+}

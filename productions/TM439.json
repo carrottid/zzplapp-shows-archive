@@ -1,0 +1,32 @@
+{
+ "id": "TM439",
+ "title": "오!해피데이",
+ "genre": "뮤지컬",
+ "from": "2002-02-21",
+ "to": "2002-04-28",
+ "venue": "아룽구지 소극장",
+ "cast": [
+  "오만석",
+  "김영옥"
+ ],
+ "state": "공연완료",
+ "producer": "서울뮤지컬컴퍼니",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "에로스",
+   "name": "오만석"
+  },
+  {
+   "role": "에로스",
+   "name": "김영옥"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=439"
+ }
+}

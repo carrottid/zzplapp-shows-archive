@@ -1,0 +1,91 @@
+{
+ "id": "PD140243",
+ "title": "나빌레라",
+ "genre": "뮤지컬",
+ "from": "2019-05-01",
+ "to": "2019-05-12",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "진선규",
+  "최인형",
+  "강상준",
+  "윤은오",
+  "정유희",
+  "김백현",
+  "이혜수",
+  "신상언",
+  "금승훈",
+  "김용한",
+  "유경아",
+  "이은솔",
+  "장동혁",
+  "조은진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "심덕출",
+   "name": "진선규"
+  },
+  {
+   "role": "심덕출",
+   "name": "최인형"
+  },
+  {
+   "role": "이채록",
+   "name": "강상준"
+  },
+  {
+   "role": "이채록",
+   "name": "윤은오"
+  },
+  {
+   "role": "덕출 처",
+   "name": "정유희"
+  },
+  {
+   "role": "심성산",
+   "name": "김백현"
+  },
+  {
+   "role": "심성심",
+   "name": "이혜수"
+  },
+  {
+   "role": "심성관",
+   "name": "신상언"
+  },
+  {
+   "role": "",
+   "name": "금승훈"
+  },
+  {
+   "role": "",
+   "name": "김용한"
+  },
+  {
+   "role": "",
+   "name": "유경아"
+  },
+  {
+   "role": "",
+   "name": "이은솔"
+  },
+  {
+   "role": "",
+   "name": "장동혁"
+  },
+  {
+   "role": "",
+   "name": "조은진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260214142020/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=140243"
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "PD144152",
+ "title": "레라미 프로젝트",
+ "genre": "연극",
+ "from": "2019-07-13",
+ "to": "2019-07-28",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "정현준",
+  "임영우",
+  "조하나",
+  "윤소희",
+  "이승헌",
+  "이준희",
+  "이달",
+  "김수민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "극단원 A",
+   "name": "정현준"
+  },
+  {
+   "role": "극단원 B",
+   "name": "임영우"
+  },
+  {
+   "role": "극단원 C",
+   "name": "조하나"
+  },
+  {
+   "role": "극단원 D",
+   "name": "윤소희"
+  },
+  {
+   "role": "극단원 E",
+   "name": "이승헌"
+  },
+  {
+   "role": "극단원 F",
+   "name": "이준희"
+  },
+  {
+   "role": "",
+   "name": "이달"
+  },
+  {
+   "role": "",
+   "name": "김수민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191206202657/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=144152"
+ }
+}

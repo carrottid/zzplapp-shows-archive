@@ -1,0 +1,41 @@
+{
+ "id": "PD38079",
+ "title": "필로우맨",
+ "genre": "연극",
+ "from": "2012-08-11",
+ "to": "2012-09-15",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "김준원",
+  "손종학",
+  "이현철",
+  "조운"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "카투리안",
+   "name": "김준원"
+  },
+  {
+   "role": "투폴스키",
+   "name": "손종학"
+  },
+  {
+   "role": "마이클",
+   "name": "이현철"
+  },
+  {
+   "role": "에리얼",
+   "name": "조운"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704013714/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=38079"
+ }
+}

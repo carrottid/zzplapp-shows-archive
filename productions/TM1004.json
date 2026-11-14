@@ -1,0 +1,74 @@
+{
+ "id": "TM1004",
+ "title": "명성황후",
+ "genre": "뮤지컬",
+ "from": "2006-03-11",
+ "to": "2006-03-30",
+ "venue": "예술의 전당 오페라극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2006_예당 00.JPG",
+ "cast": [
+  "이태원",
+  "윤영석",
+  "남경읍",
+  "김법래",
+  "이필승",
+  "이상은",
+  "오성원",
+  "양준모",
+  "이종문",
+  "이상현"
+ ],
+ "state": "공연완료",
+ "producer": "에이콤인터내셔날",
+ "price": "Vip석 12만원/R석 9만원/S석 7만원/A석 4만원/B석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "명성황후",
+   "name": "이태원"
+  },
+  {
+   "role": "명성황후",
+   "name": "윤영석"
+  },
+  {
+   "role": "명성황후",
+   "name": "남경읍"
+  },
+  {
+   "role": "명성황후",
+   "name": "김법래"
+  },
+  {
+   "role": "명성황후",
+   "name": "이필승"
+  },
+  {
+   "role": "명성황후",
+   "name": "이상은"
+  },
+  {
+   "role": "명성황후",
+   "name": "오성원"
+  },
+  {
+   "role": "명성황후",
+   "name": "양준모"
+  },
+  {
+   "role": "명성황후",
+   "name": "이종문"
+  },
+  {
+   "role": "명성황후",
+   "name": "이상현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1004"
+ }
+}

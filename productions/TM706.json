@@ -1,0 +1,69 @@
+{
+ "id": "TM706",
+ "title": "메노포즈",
+ "genre": "뮤지컬",
+ "from": "2006-09-08",
+ "to": "2006-11-12",
+ "venue": "연강홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_db_meno(2006).jpg",
+ "cast": [
+  "이영자",
+  "이미라",
+  "전수경",
+  "이윤표",
+  "정영주",
+  "류수화",
+  "홍지민",
+  "주아",
+  "문희경"
+ ],
+ "state": "공연완료",
+ "producer": "뮤지컬해븐",
+ "price": "R석 5만원 / S석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "전업주부",
+   "name": "이영자"
+  },
+  {
+   "role": "전업주부",
+   "name": "이미라"
+  },
+  {
+   "role": "전업주부",
+   "name": "전수경"
+  },
+  {
+   "role": "전업주부",
+   "name": "이윤표"
+  },
+  {
+   "role": "전업주부",
+   "name": "정영주"
+  },
+  {
+   "role": "전업주부",
+   "name": "류수화"
+  },
+  {
+   "role": "전업주부",
+   "name": "홍지민"
+  },
+  {
+   "role": "전업주부",
+   "name": "주아"
+  },
+  {
+   "role": "전문직 여성",
+   "name": "문희경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=706"
+ }
+}

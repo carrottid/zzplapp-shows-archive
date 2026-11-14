@@ -1,0 +1,29 @@
+{
+ "id": "TM551",
+ "title": "써우와 다므루",
+ "genre": "뮤지컬",
+ "from": "2000-12-15",
+ "to": "2000-12-31",
+ "venue": "동숭아트센터 동숭홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_su.jpg",
+ "cast": [
+  "김기순"
+ ],
+ "state": "공연완료",
+ "producer": "즐거운 사람들",
+ "price": "S석 3만원/A석 2만원/B석 1만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "써우",
+   "name": "김기순"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=551"
+ }
+}

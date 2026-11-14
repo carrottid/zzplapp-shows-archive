@@ -1,0 +1,74 @@
+{
+ "id": "TM1003",
+ "title": "거울공주 평강이야기",
+ "genre": "뮤지컬",
+ "from": "2004-10-12",
+ "to": "2004-11-07",
+ "venue": "인켈아트홀 2관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2004.gif",
+ "cast": [
+  "박민정",
+  "진선규",
+  "고승수",
+  "이상은",
+  "김지현",
+  "조현식",
+  "민준호",
+  "오대석",
+  "성준서",
+  "박보경"
+ ],
+ "state": "공연완료",
+ "producer": "공연배달서비스 간다,축제를 만드는 사람들",
+ "price": "일반 20,000원/청소년 10,000원/쌍쌍티켓 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "연이",
+   "name": "박민정"
+  },
+  {
+   "role": "연이",
+   "name": "진선규"
+  },
+  {
+   "role": "연이",
+   "name": "고승수"
+  },
+  {
+   "role": "연이",
+   "name": "이상은"
+  },
+  {
+   "role": "연이",
+   "name": "김지현"
+  },
+  {
+   "role": "연이",
+   "name": "조현식"
+  },
+  {
+   "role": "연이",
+   "name": "민준호"
+  },
+  {
+   "role": "환경전환수 라이",
+   "name": "오대석"
+  },
+  {
+   "role": "환경전환수 라이",
+   "name": "성준서"
+  },
+  {
+   "role": "환경전환수 라이",
+   "name": "박보경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1003"
+ }
+}

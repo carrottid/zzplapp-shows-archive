@@ -1,0 +1,114 @@
+{
+ "id": "TM1488",
+ "title": "싱글즈",
+ "genre": "뮤지컬",
+ "from": "2009-08-21",
+ "to": "2010-03-28",
+ "venue": "PMC대학로자유극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2009singles3.jpg",
+ "cast": [
+  "안유진",
+  "서지유",
+  "우금지",
+  "전혜빈",
+  "성태준",
+  "이주광",
+  "강동호",
+  "임진아",
+  "김민주",
+  "신의정",
+  "이준혁",
+  "이지송",
+  "유영진",
+  "이병권",
+  "김영환",
+  "이호경",
+  "강민혜",
+  "김지영"
+ ],
+ "state": "공연완료",
+ "producer": "(주)악어컴퍼니, CJ엔터테인먼트(주)",
+ "price": "일반석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "나난",
+   "name": "안유진"
+  },
+  {
+   "role": "나난",
+   "name": "서지유"
+  },
+  {
+   "role": "나난",
+   "name": "우금지"
+  },
+  {
+   "role": "나난",
+   "name": "전혜빈"
+  },
+  {
+   "role": "수헌",
+   "name": "성태준"
+  },
+  {
+   "role": "수헌",
+   "name": "이주광"
+  },
+  {
+   "role": "수헌",
+   "name": "강동호"
+  },
+  {
+   "role": "동미",
+   "name": "임진아"
+  },
+  {
+   "role": "동미",
+   "name": "김민주"
+  },
+  {
+   "role": "동미",
+   "name": "신의정"
+  },
+  {
+   "role": "정준",
+   "name": "이준혁"
+  },
+  {
+   "role": "정준",
+   "name": "이지송"
+  },
+  {
+   "role": "정준",
+   "name": "유영진"
+  },
+  {
+   "role": "천부장 외",
+   "name": "이병권"
+  },
+  {
+   "role": "천부장 외",
+   "name": "김영환"
+  },
+  {
+   "role": "천부장 외",
+   "name": "이호경"
+  },
+  {
+   "role": "한지혜 외",
+   "name": "강민혜"
+  },
+  {
+   "role": "한지혜 외",
+   "name": "김지영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1488"
+ }
+}

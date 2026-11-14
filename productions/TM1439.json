@@ -1,0 +1,79 @@
+{
+ "id": "TM1439",
+ "title": "사춘기",
+ "genre": "뮤지컬",
+ "from": "2009-05-21",
+ "to": "2009-07-19",
+ "venue": "해치홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2009sachungi.jpg",
+ "cast": [
+  "오승준",
+  "에녹",
+  "배승길",
+  "임수연",
+  "홍윤희",
+  "이희준",
+  "김보민",
+  "김보현",
+  "맹주영",
+  "장원령",
+  "조영태"
+ ],
+ "state": "공연완료",
+ "producer": "월간 객석, 크레디아",
+ "price": "일반35,000원, 청소년(중고생)25,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "영민",
+   "name": "오승준"
+  },
+  {
+   "role": "선규",
+   "name": "에녹"
+  },
+  {
+   "role": "선규",
+   "name": "배승길"
+  },
+  {
+   "role": "수희",
+   "name": "임수연"
+  },
+  {
+   "role": "엄마",
+   "name": "홍윤희"
+  },
+  {
+   "role": "반장",
+   "name": "이희준"
+  },
+  {
+   "role": "화경",
+   "name": "김보민"
+  },
+  {
+   "role": "경찬",
+   "name": "김보현"
+  },
+  {
+   "role": "용철",
+   "name": "맹주영"
+  },
+  {
+   "role": "용만",
+   "name": "장원령"
+  },
+  {
+   "role": "쇼펜하우어",
+   "name": "조영태"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1439"
+ }
+}

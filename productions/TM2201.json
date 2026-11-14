@@ -1,0 +1,44 @@
+{
+ "id": "TM2201",
+ "title": "날개 잃은 천사",
+ "genre": "뮤지컬",
+ "from": "2015-07-10",
+ "to": "2015-09-28",
+ "venue": "북촌나래홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20150629021533A7VEX4188Q77YFCY.jpg",
+ "cast": [
+  "고은미",
+  "이정구",
+  "송지나",
+  "이원민"
+ ],
+ "state": "공연완료",
+ "producer": "조이피플",
+ "price": "전석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "-",
+   "name": "고은미"
+  },
+  {
+   "role": "-",
+   "name": "이정구"
+  },
+  {
+   "role": "-",
+   "name": "송지나"
+  },
+  {
+   "role": "-",
+   "name": "이원민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2201"
+ }
+}

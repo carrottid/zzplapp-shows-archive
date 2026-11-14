@@ -1,0 +1,109 @@
+{
+ "id": "TM2077",
+ "title": "풀 하우스",
+ "genre": "뮤지컬",
+ "from": "2014-04-11",
+ "to": "2014-06-08",
+ "venue": "홍익대 대학로아트센터 대극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20151130013855H427PLNTW0W24O50.jpg",
+ "cast": [
+  "김산호",
+  "서하준",
+  "양요섭",
+  "정택운(레오)",
+  "곽선영",
+  "정민주",
+  "정은지",
+  "우금지",
+  "정유지",
+  "민우혁",
+  "한경수",
+  "지혜근",
+  "함승현",
+  "무현",
+  "김용남",
+  "윤시영",
+  "박미유"
+ ],
+ "state": "공연완료",
+ "producer": "㈜카바엔터테인먼트, (주)심포니나인",
+ "price": "VIP 110,000원 / R석 99,000원 / S석 77,000원 / A석 55,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이영재",
+   "name": "김산호"
+  },
+  {
+   "role": "이영재",
+   "name": "서하준"
+  },
+  {
+   "role": "이영재",
+   "name": "양요섭"
+  },
+  {
+   "role": "이영재",
+   "name": "정택운(레오)"
+  },
+  {
+   "role": "한지은",
+   "name": "곽선영"
+  },
+  {
+   "role": "한지은",
+   "name": "정민주"
+  },
+  {
+   "role": "한지은",
+   "name": "정은지"
+  },
+  {
+   "role": "정혜원",
+   "name": "우금지"
+  },
+  {
+   "role": "정혜원",
+   "name": "정유지"
+  },
+  {
+   "role": "강민혁",
+   "name": "민우혁"
+  },
+  {
+   "role": "강민혁",
+   "name": "한경수"
+  },
+  {
+   "role": "정사장",
+   "name": "지혜근"
+  },
+  {
+   "role": "장윤호",
+   "name": "함승현"
+  },
+  {
+   "role": "장윤호",
+   "name": "무현"
+  },
+  {
+   "role": "이종수",
+   "name": "김용남"
+  },
+  {
+   "role": "어린 지은",
+   "name": "윤시영"
+  },
+  {
+   "role": "어린 지은",
+   "name": "박미유"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2077"
+ }
+}

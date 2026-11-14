@@ -1,0 +1,46 @@
+{
+ "id": "PD74536",
+ "title": "2015 신춘문예 단막극제 - 빨간 휴지 줄까, 파란 휴지 줄까?",
+ "genre": "연극",
+ "from": "2015-03-18",
+ "to": "2015-03-24",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "전호현",
+  "전영희",
+  "최귀웅",
+  "장선",
+  "전신영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "작가",
+   "name": "전호현"
+  },
+  {
+   "role": "어머니",
+   "name": "전영희"
+  },
+  {
+   "role": "노인",
+   "name": "최귀웅"
+  },
+  {
+   "role": "며느리",
+   "name": "장선"
+  },
+  {
+   "role": "아들",
+   "name": "전신영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240620145455/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=74536"
+ }
+}

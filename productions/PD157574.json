@@ -1,0 +1,41 @@
+{
+ "id": "PD157574",
+ "title": "라스트 세션",
+ "genre": "연극",
+ "from": "2020-07-10",
+ "to": "2020-09-13",
+ "venue": "예스24스테이지 3관",
+ "cast": [
+  "신구",
+  "남명렬",
+  "이석준",
+  "이상윤"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "지그문트 프로이트",
+   "name": "신구"
+  },
+  {
+   "role": "지그문트 프로이트",
+   "name": "남명렬"
+  },
+  {
+   "role": "C.S. 루이스",
+   "name": "이석준"
+  },
+  {
+   "role": "C.S. 루이스",
+   "name": "이상윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250516042232/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=157574"
+ }
+}

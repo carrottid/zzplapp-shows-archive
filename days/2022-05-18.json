@@ -1,0 +1,549 @@
+{
+ "date": "2022-05-18",
+ "sessions": [
+  {
+   "id": "PF186531",
+   "title": "데스노트",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "14:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#4C270C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF189026",
+   "title": "태양의 노래",
+   "genre": "뮤지컬",
+   "venue": "한전아트센터",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#9936B0",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186168",
+   "title": "프리다: The Last Night Show",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종S씨어터)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#057828",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186979",
+   "title": "웨스턴 스토리",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "15:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#7D2219",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186645",
+   "title": "미오 프라텔로",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF187203",
+   "title": "빈센트 반 고흐",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1F3A6B",
+    "fg": "#F2C14E"
+   }
+  },
+  {
+   "id": "PF189877",
+   "title": "사의찬미",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#263B3B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF189890",
+   "title": "용욱이의 편지",
+   "genre": "뮤지컬",
+   "venue": "열린극장",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#4D3F6D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186425",
+   "title": "최후진술",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#19569E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF189438",
+   "title": "카파이즘",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#050505",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF190240",
+   "title": "더 헬멧",
+   "genre": "연극",
+   "venue": "홍익대 대학로 아트센터 (소극장)",
+   "time": "17:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#3D2C28",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF191024",
+   "title": "12번째 밤",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (1관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#4374A2",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF189489",
+   "title": "기후비상사태: 리허설",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF190667",
+   "title": "니 부모 얼굴이 보고싶다",
+   "genre": "연극",
+   "venue": "미마지아트센터 (물빛극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF190240",
+   "title": "더 헬멧",
+   "genre": "연극",
+   "venue": "홍익대 대학로 아트센터 (소극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#3D2C28",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186531",
+   "title": "데스노트",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#4C270C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF189043",
+   "title": "돌아온다",
+   "genre": "연극",
+   "venue": "예술의전당 [서울] (CJ 토월극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#3A3532",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186855",
+   "title": "아이다",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#0C0806",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF189460",
+   "title": "제43회 서울연극제 공식선정작, 공포가 시작된다",
+   "genre": "연극",
+   "venue": "대학로예술극장 (소극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#3D3E32",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF188378",
+   "title": "지킬 앤 하이드",
+   "genre": "뮤지컬",
+   "venue": "계명아트센터",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#040000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186856",
+   "title": "킹아더",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#230F21",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF189026",
+   "title": "태양의 노래",
+   "genre": "뮤지컬",
+   "venue": "한전아트센터",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#9936B0",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186168",
+   "title": "프리다: The Last Night Show",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종S씨어터)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#057828",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF189089",
+   "title": "넥스트 투 노멀",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#7C5195",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF189494",
+   "title": "당선자 없음",
+   "genre": "연극",
+   "venue": "두산아트센터 (Space111)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#E600A6",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF185900",
+   "title": "더 테일 에이프릴 풀스",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2C0006",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186601",
+   "title": "또! 오해영",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#262FC0",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186803",
+   "title": "렛미플라이",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#242D47",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186802",
+   "title": "리지",
+   "genre": "뮤지컬",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1C1515",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186645",
+   "title": "미오 프라텔로",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF189219",
+   "title": "볼륨업",
+   "genre": "뮤지컬",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#233C5A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF187203",
+   "title": "빈센트 반 고흐",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1F3A6B",
+    "fg": "#F2C14E"
+   }
+  },
+  {
+   "id": "PF189877",
+   "title": "사의찬미",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#263B3B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186600",
+   "title": "스메르쟈코프",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1617",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186272",
+   "title": "스톤",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#322726",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF190893",
+   "title": "스트립, 스트립티즈",
+   "genre": "연극",
+   "venue": "나온씨어터",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF190554",
+   "title": "아가사 신드롬",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF188889",
+   "title": "연극열전 9, 보이지 않는 손",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1C1C1D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186979",
+   "title": "웨스턴 스토리",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#7D2219",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF189512",
+   "title": "은밀하게 위대하게: THE LAST",
+   "genre": "뮤지컬",
+   "venue": "KT&G 상상마당 대치아트홀",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#271D1F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF189025",
+   "title": "은하철도의 밤 (앵콜)",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#22223B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF188035",
+   "title": "차미",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#E39303",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF186425",
+   "title": "최후진술",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#19569E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF189438",
+   "title": "카파이즘",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#050505",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF188939",
+   "title": "클림트",
+   "genre": "뮤지컬",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#605D56",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF190291",
+   "title": "페스트",
+   "genre": "연극",
+   "venue": "삼일로창고극장",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF190240",
+   "title": "더 헬멧",
+   "genre": "연극",
+   "venue": "홍익대 대학로 아트센터 (소극장)",
+   "time": "21:15",
+   "castSource": "none",
+   "color": {
+    "bg": "#3D2C28",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

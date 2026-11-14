@@ -1,0 +1,76 @@
+{
+ "id": "PD22549",
+ "title": "예수와 함께한 저녁식사",
+ "genre": "연극",
+ "from": "2011-04-14",
+ "to": "2011-07-10",
+ "venue": "대학로 예술극장 나무와 물",
+ "cast": [
+  "남윤길",
+  "최성원",
+  "강경덕",
+  "신승환",
+  "김준호",
+  "최우준",
+  "신아라",
+  "이창호",
+  "박지현",
+  "이미선",
+  "정원경"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "예수",
+   "name": "남윤길"
+  },
+  {
+   "role": "예수",
+   "name": "최성원"
+  },
+  {
+   "role": "남궁 선",
+   "name": "강경덕"
+  },
+  {
+   "role": "남궁 선",
+   "name": "신승환"
+  },
+  {
+   "role": "남궁 선",
+   "name": "김준호"
+  },
+  {
+   "role": "남궁 선",
+   "name": "최우준"
+  },
+  {
+   "role": "아내",
+   "name": "신아라"
+  },
+  {
+   "role": "지배인",
+   "name": "이창호"
+  },
+  {
+   "role": "멀티걸",
+   "name": "박지현"
+  },
+  {
+   "role": "멀티걸",
+   "name": "이미선"
+  },
+  {
+   "role": "멀티걸",
+   "name": "정원경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230806022209/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=22549"
+ }
+}

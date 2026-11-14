@@ -1,0 +1,54 @@
+{
+ "id": "TM1500",
+ "title": "오프",
+ "genre": "뮤지컬",
+ "from": "2009-11-20",
+ "to": "2010-01-03",
+ "venue": "KS 청담아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_오프.jpg",
+ "cast": [
+  "오성원",
+  "이우승",
+  "황서인",
+  "조한나",
+  "고예주",
+  "김정현"
+ ],
+ "state": "공연완료",
+ "producer": "㈜쇼크리에이티브, PAMA프로덕션",
+ "price": "전석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:43:27",
+ "roleCast": [
+  {
+   "role": "서영재",
+   "name": "오성원"
+  },
+  {
+   "role": "서영재",
+   "name": "이우승"
+  },
+  {
+   "role": "최재이",
+   "name": "황서인"
+  },
+  {
+   "role": "최재이",
+   "name": "조한나"
+  },
+  {
+   "role": "이도영",
+   "name": "고예주"
+  },
+  {
+   "role": "이도영",
+   "name": "김정현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1500"
+ }
+}

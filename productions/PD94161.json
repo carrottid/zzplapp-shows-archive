@@ -1,0 +1,56 @@
+{
+ "id": "PD94161",
+ "title": "판",
+ "genre": "뮤지컬",
+ "from": "2016-06-13",
+ "to": "2016-06-14",
+ "venue": "CJ 아지트 대학로(구 SM아트홀)",
+ "cast": [
+  "김지철",
+  "김지훈",
+  "박란주",
+  "이봉련",
+  "김철진",
+  "임소라",
+  "신재범"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "달수",
+   "name": "김지철"
+  },
+  {
+   "role": "호태",
+   "name": "김지훈"
+  },
+  {
+   "role": "이덕",
+   "name": "박란주"
+  },
+  {
+   "role": "춘섬",
+   "name": "이봉련"
+  },
+  {
+   "role": "이조",
+   "name": "김철진"
+  },
+  {
+   "role": "분이",
+   "name": "임소라"
+  },
+  {
+   "role": "",
+   "name": "신재범"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241103185550/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=94161"
+ }
+}

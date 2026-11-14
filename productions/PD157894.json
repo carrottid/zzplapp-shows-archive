@@ -1,0 +1,71 @@
+{
+ "id": "PD157894",
+ "title": "찬란하지 않아도 괜찮아",
+ "genre": "연극",
+ "from": "2020-08-01",
+ "to": "2020-08-23",
+ "venue": "예스24아트원 3관",
+ "cast": [
+  "박소담",
+  "도희원",
+  "김영진",
+  "임건혁",
+  "이종원",
+  "김찬",
+  "서정준",
+  "민재완",
+  "유정아",
+  "유지후"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이찬란",
+   "name": "박소담"
+  },
+  {
+   "role": "이찬란",
+   "name": "도희원"
+  },
+  {
+   "role": "윤도래",
+   "name": "김영진"
+  },
+  {
+   "role": "윤도래",
+   "name": "임건혁"
+  },
+  {
+   "role": "권유",
+   "name": "이종원"
+  },
+  {
+   "role": "권유",
+   "name": "김찬"
+  },
+  {
+   "role": "최시온",
+   "name": "서정준"
+  },
+  {
+   "role": "최시온",
+   "name": "민재완"
+  },
+  {
+   "role": "김혁진",
+   "name": "유정아"
+  },
+  {
+   "role": "김혁진",
+   "name": "유지후"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250520023727/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=157894"
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "date": "2022-07-04",
+ "sessions": [
+  {
+   "id": "PF191728",
+   "title": "데스노트",
+   "genre": "뮤지컬",
+   "venue": "예술의전당 [서울] (오페라극장)",
+   "time": "14:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF192454",
+   "title": "아킬레스 LIVE CONCERT in Seoul",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#18151B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF190802",
+   "title": "그날의 타이밍",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1D3858",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF192454",
+   "title": "아킬레스 LIVE CONCERT in Seoul",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#18151B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF192739",
+   "title": "달수랑 정직이랑 바다아이",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF191728",
+   "title": "데스노트",
+   "genre": "뮤지컬",
+   "venue": "예술의전당 [서울] (오페라극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF190802",
+   "title": "그날의 타이밍",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1D3858",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "id": "TM573",
+ "title": "포기와 베스",
+ "genre": "뮤지컬",
+ "from": "2000-06-23",
+ "to": "2000-07-13",
+ "venue": "세종문화회관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_porgy_bess.jpg",
+ "cast": [
+  "김법래",
+  "강효성",
+  "송영규",
+  "원유석",
+  "이혜경"
+ ],
+ "state": "공연완료",
+ "producer": "서울시뮤지컬단",
+ "price": "S석-20,000원/ A석-12,000원/ 학생 8,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "포기",
+   "name": "김법래"
+  },
+  {
+   "role": "포기",
+   "name": "강효성"
+  },
+  {
+   "role": "포기",
+   "name": "송영규"
+  },
+  {
+   "role": "포기",
+   "name": "원유석"
+  },
+  {
+   "role": "베스",
+   "name": "이혜경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=573"
+ }
+}

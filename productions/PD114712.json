@@ -1,0 +1,41 @@
+{
+ "id": "PD114712",
+ "title": "스테디 레인",
+ "genre": "연극",
+ "from": "2017-10-27",
+ "to": "2017-12-03",
+ "venue": "예스24아트원 3관",
+ "cast": [
+  "김수현",
+  "홍우진",
+  "이명행",
+  "한상훈"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "대니",
+   "name": "김수현"
+  },
+  {
+   "role": "대니",
+   "name": "홍우진"
+  },
+  {
+   "role": "조이",
+   "name": "이명행"
+  },
+  {
+   "role": "조이",
+   "name": "한상훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250618004538/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=114712"
+ }
+}

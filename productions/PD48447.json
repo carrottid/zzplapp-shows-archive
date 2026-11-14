@@ -1,0 +1,61 @@
+{
+ "id": "PD48447",
+ "title": "모범생들",
+ "genre": "연극",
+ "from": "2013-05-31",
+ "to": "2013-09-29",
+ "venue": "대학로 자유극장(구 PMC 자유극장)",
+ "cast": [
+  "김종구",
+  "윤나무",
+  "김대현",
+  "정순원",
+  "박훈",
+  "임준식",
+  "문성일",
+  "박성훈"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김명준",
+   "name": "김종구"
+  },
+  {
+   "role": "김명준",
+   "name": "윤나무"
+  },
+  {
+   "role": "박수환",
+   "name": "김대현"
+  },
+  {
+   "role": "박수환",
+   "name": "정순원"
+  },
+  {
+   "role": "안종태",
+   "name": "박훈"
+  },
+  {
+   "role": "안종태",
+   "name": "임준식"
+  },
+  {
+   "role": "서민영",
+   "name": "문성일"
+  },
+  {
+   "role": "서민영",
+   "name": "박성훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170920195131/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=48447"
+ }
+}

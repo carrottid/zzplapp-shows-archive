@@ -1,0 +1,99 @@
+{
+ "id": "TM2306",
+ "title": "삼총사",
+ "genre": "뮤지컬",
+ "from": "2016-04-01",
+ "to": "2016-06-26",
+ "venue": "디큐브아트센터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20160211123946F05G7BL5F33JS75G.jpg",
+ "cast": [
+  "카이",
+  "박형식",
+  "신우(신동우)",
+  "산들",
+  "강태을",
+  "박재윤",
+  "박민성",
+  "조성윤",
+  "장대웅",
+  "황이건",
+  "윤공주",
+  "이정화",
+  "조윤영",
+  "김성민",
+  "선재"
+ ],
+ "state": "공연완료",
+ "producer": "엠뮤지컬아트",
+ "price": "OP석 11만원, VIP석 13만원, R석 11만원, S석 8만원, A석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "달타냥",
+   "name": "카이"
+  },
+  {
+   "role": "달타냥",
+   "name": "박형식"
+  },
+  {
+   "role": "달타냥",
+   "name": "신우(신동우)"
+  },
+  {
+   "role": "달타냥",
+   "name": "산들"
+  },
+  {
+   "role": "아토스",
+   "name": "강태을"
+  },
+  {
+   "role": "아토스",
+   "name": "박재윤"
+  },
+  {
+   "role": "아라미스",
+   "name": "박민성"
+  },
+  {
+   "role": "아라미스",
+   "name": "조성윤"
+  },
+  {
+   "role": "포르토스",
+   "name": "장대웅"
+  },
+  {
+   "role": "포르토스",
+   "name": "황이건"
+  },
+  {
+   "role": "밀라디",
+   "name": "윤공주"
+  },
+  {
+   "role": "밀라디",
+   "name": "이정화"
+  },
+  {
+   "role": "콘스탄스",
+   "name": "조윤영"
+  },
+  {
+   "role": "리슐리외",
+   "name": "김성민"
+  },
+  {
+   "role": "쥬샤크",
+   "name": "선재"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2306"
+ }
+}

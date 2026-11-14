@@ -1,0 +1,41 @@
+{
+ "id": "PD87842",
+ "title": "아마데우스 - 대구",
+ "genre": "뮤지컬",
+ "from": "2016-03-03",
+ "to": "2016-03-06",
+ "venue": "대구 계명아트센터",
+ "cast": [
+  "미켈란젤로 로콩테",
+  "로랑 방",
+  "솔랄",
+  "마에바 멜린"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "볼프강 아마데우스 모차르트",
+   "name": "미켈란젤로 로콩테"
+  },
+  {
+   "role": "안토니오살리에리",
+   "name": "로랑 방"
+  },
+  {
+   "role": "레오폴드 모차르트",
+   "name": "솔랄"
+  },
+  {
+   "role": "난넬 모차르트",
+   "name": "마에바 멜린"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170910020824/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=87842"
+ }
+}

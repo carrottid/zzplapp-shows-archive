@@ -1,0 +1,36 @@
+{
+ "id": "PD48473",
+ "title": "한정림의 음악일기",
+ "genre": "뮤지컬",
+ "from": "2013-05-16",
+ "to": "2013-05-18",
+ "venue": "홍익대 대학로 아트센터 소극장",
+ "cast": [
+  "김다현",
+  "강신일",
+  "홍지민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "특별출연",
+   "name": "김다현"
+  },
+  {
+   "role": "특별출연",
+   "name": "강신일"
+  },
+  {
+   "role": "특별출연",
+   "name": "홍지민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20150107150731/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=48473"
+ }
+}

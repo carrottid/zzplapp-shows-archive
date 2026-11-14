@@ -1,0 +1,41 @@
+{
+ "id": "PD110629",
+ "title": "타지마할의 근위병",
+ "genre": "연극",
+ "from": "2017-08-01",
+ "to": "2017-10-15",
+ "venue": "예스24스테이지 2관",
+ "cast": [
+  "조성윤",
+  "최재림",
+  "김종구",
+  "이상이"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "휴마윤",
+   "name": "조성윤"
+  },
+  {
+   "role": "휴마윤",
+   "name": "최재림"
+  },
+  {
+   "role": "바불",
+   "name": "김종구"
+  },
+  {
+   "role": "바불",
+   "name": "이상이"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251211114322/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=110629"
+ }
+}

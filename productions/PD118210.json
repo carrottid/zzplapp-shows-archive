@@ -1,0 +1,71 @@
+{
+ "id": "PD118210",
+ "title": "카라마조프",
+ "genre": "뮤지컬",
+ "from": "2018-01-03",
+ "to": "2018-01-14",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "이정수",
+  "조태일",
+  "이준혁",
+  "이해준",
+  "신현묵",
+  "김바다",
+  "박란주",
+  "김히어라",
+  "최요한",
+  "이기현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "표도르 카라마조프",
+   "name": "이정수"
+  },
+  {
+   "role": "드미트리",
+   "name": "조태일"
+  },
+  {
+   "role": "이반",
+   "name": "이준혁"
+  },
+  {
+   "role": "이반",
+   "name": "이해준"
+  },
+  {
+   "role": "알렉세이",
+   "name": "신현묵"
+  },
+  {
+   "role": "스메르",
+   "name": "김바다"
+  },
+  {
+   "role": "카챠",
+   "name": "박란주"
+  },
+  {
+   "role": "",
+   "name": "김히어라"
+  },
+  {
+   "role": "",
+   "name": "최요한"
+  },
+  {
+   "role": "",
+   "name": "이기현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210116062331/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=118210"
+ }
+}

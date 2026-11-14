@@ -1,0 +1,46 @@
+{
+ "id": "PD40904",
+ "title": "훈남들의 수다",
+ "genre": "연극",
+ "from": "2012-11-08",
+ "to": "2013-01-27",
+ "venue": "나온 씨어터",
+ "cast": [
+  "이현철",
+  "강성철",
+  "유재동",
+  "안병찬",
+  "이새별"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "성환",
+   "name": "이현철"
+  },
+  {
+   "role": "태기",
+   "name": "강성철"
+  },
+  {
+   "role": "희수",
+   "name": "유재동"
+  },
+  {
+   "role": "경준",
+   "name": "안병찬"
+  },
+  {
+   "role": "정은",
+   "name": "이새별"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20130101130627/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=40904"
+ }
+}

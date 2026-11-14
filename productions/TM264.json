@@ -1,0 +1,74 @@
+{
+ "id": "TM264",
+ "title": "애프터 미드나잇 클럽",
+ "genre": "뮤지컬",
+ "from": "2005-07-12",
+ "to": "2005-07-16",
+ "venue": "성균관대 새천년홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_미드나잇.bmp",
+ "cast": [
+  "이재훤",
+  "현순철",
+  "장대웅",
+  "홍금단",
+  "차명욱",
+  "신문성",
+  "박지아",
+  "문영욱",
+  "여승희",
+  "채연정"
+ ],
+ "state": "공연완료",
+ "producer": "극단 모시는 사람들",
+ "price": "R석 5만원 / S석 3만원 / A석 1만2천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "시드&닥터빅터올로프",
+   "name": "이재훤"
+  },
+  {
+   "role": "시드&닥터빅터올로프",
+   "name": "현순철"
+  },
+  {
+   "role": "시드&닥터빅터올로프",
+   "name": "장대웅"
+  },
+  {
+   "role": "시드&닥터빅터올로프",
+   "name": "홍금단"
+  },
+  {
+   "role": "시드&닥터빅터올로프",
+   "name": "차명욱"
+  },
+  {
+   "role": "시드&닥터빅터올로프",
+   "name": "신문성"
+  },
+  {
+   "role": "시드&닥터빅터올로프",
+   "name": "박지아"
+  },
+  {
+   "role": "시드&닥터빅터올로프",
+   "name": "문영욱"
+  },
+  {
+   "role": "시드&닥터빅터올로프",
+   "name": "여승희"
+  },
+  {
+   "role": "유리",
+   "name": "채연정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=264"
+ }
+}

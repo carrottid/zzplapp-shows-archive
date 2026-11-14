@@ -1,0 +1,56 @@
+{
+ "id": "PD29816",
+ "title": "그리고 아무도 없었다",
+ "genre": "연극",
+ "from": "2011-12-22",
+ "to": "2011-12-31",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "서현철",
+  "최원석",
+  "김신기",
+  "주성환",
+  "윤상화",
+  "김선화",
+  "권지숙"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "로렌스 워그레이브",
+   "name": "서현철"
+  },
+  {
+   "role": "필립 롬바드",
+   "name": "최원석"
+  },
+  {
+   "role": "존 맥아더",
+   "name": "김신기"
+  },
+  {
+   "role": "헨리 블로어",
+   "name": "주성환"
+  },
+  {
+   "role": "토머스 로저스",
+   "name": "윤상화"
+  },
+  {
+   "role": "에밀리 브렌트",
+   "name": "김선화"
+  },
+  {
+   "role": "",
+   "name": "권지숙"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210806071034/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=29816"
+ }
+}

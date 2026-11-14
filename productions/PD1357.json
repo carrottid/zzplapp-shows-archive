@@ -1,0 +1,56 @@
+{
+ "id": "PD1357",
+ "title": "사랑, 지고지순하다",
+ "genre": "연극",
+ "from": "2007-11-23",
+ "to": "2007-12-23",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "이현경",
+  "홍성춘",
+  "조주현",
+  "연보라",
+  "박지환",
+  "최석규",
+  "차지성"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "성희",
+   "name": "이현경"
+  },
+  {
+   "role": "현호",
+   "name": "홍성춘"
+  },
+  {
+   "role": "재우",
+   "name": "조주현"
+  },
+  {
+   "role": "윤정",
+   "name": "연보라"
+  },
+  {
+   "role": "창수",
+   "name": "박지환"
+  },
+  {
+   "role": "삼촌",
+   "name": "최석규"
+  },
+  {
+   "role": "삼촌",
+   "name": "차지성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20121115060222/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=1357"
+ }
+}

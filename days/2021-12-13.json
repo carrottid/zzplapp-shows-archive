@@ -1,0 +1,49 @@
+{
+ "date": "2021-12-13",
+ "sessions": [
+  {
+   "id": "PF182919",
+   "title": "엔젤스 인 아메리카, 파트 원: 밀레니엄이 다가온다",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#737373",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF183583",
+   "title": "붉은 낙엽",
+   "genre": "연극",
+   "venue": "국립극단 [용산] (백성희장민호극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF182671",
+   "title": "최종면접",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (1관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#5D7F88",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF178933",
+   "title": "미스터쇼(Mr.SHOW)",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (동양생명홀)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#683732",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

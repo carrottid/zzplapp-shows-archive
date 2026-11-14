@@ -1,0 +1,71 @@
+{
+ "id": "PD144343",
+ "title": "그때, 변홍례",
+ "genre": "연극",
+ "from": "2019-07-13",
+ "to": "2019-07-21",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "이수현",
+  "유독현",
+  "문숙경",
+  "신민규",
+  "김지혜",
+  "박광선",
+  "오완우",
+  "오에바다",
+  "윤지원",
+  "고은별"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "변홍례",
+   "name": "이수현"
+  },
+  {
+   "role": "변사,정상",
+   "name": "유독현"
+  },
+  {
+   "role": "철도회사 사모",
+   "name": "문숙경"
+  },
+  {
+   "role": "나하야형사",
+   "name": "신민규"
+  },
+  {
+   "role": "하녀장 외 다",
+   "name": "김지혜"
+  },
+  {
+   "role": "구일",
+   "name": "박광선"
+  },
+  {
+   "role": "",
+   "name": "오완우"
+  },
+  {
+   "role": "",
+   "name": "오에바다"
+  },
+  {
+   "role": "",
+   "name": "윤지원"
+  },
+  {
+   "role": "",
+   "name": "고은별"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240301195806/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=144343"
+ }
+}

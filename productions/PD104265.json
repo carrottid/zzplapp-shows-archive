@@ -1,0 +1,41 @@
+{
+ "id": "PD104265",
+ "title": "머더 포 투",
+ "genre": "뮤지컬",
+ "from": "2017-03-14",
+ "to": "2017-05-28",
+ "venue": "DCF대명문화공장 2관 라이프웨이홀",
+ "cast": [
+  "제병진",
+  "안창용",
+  "박인배",
+  "김승용"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "마커스",
+   "name": "제병진"
+  },
+  {
+   "role": "마커스",
+   "name": "안창용"
+  },
+  {
+   "role": "용의자들",
+   "name": "박인배"
+  },
+  {
+   "role": "용의자들",
+   "name": "김승용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171025022908/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=104265"
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "TM1401",
+ "title": "드라큘라 더 뮤지컬?",
+ "genre": "뮤지컬",
+ "from": "2009-04-03",
+ "to": "2009-06-28",
+ "venue": "상상나눔씨어터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_draculathemusical.jpg",
+ "cast": [
+  "최대철",
+  "강동호",
+  "김덕환",
+  "김태리",
+  "서지유",
+  "정의욱",
+  "박민성",
+  "김미려",
+  "조진아"
+ ],
+ "state": "공연완료",
+ "producer": "뮤디스",
+ "price": "전석 45,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "드라큘라 백작",
+   "name": "최대철"
+  },
+  {
+   "role": "드라큘라 백작",
+   "name": "강동호"
+  },
+  {
+   "role": "샘 시워드 박사",
+   "name": "김덕환"
+  },
+  {
+   "role": "소피 시워드",
+   "name": "김태리"
+  },
+  {
+   "role": "미나 시워드",
+   "name": "서지유"
+  },
+  {
+   "role": "이새키야 반 헬싱",
+   "name": "정의욱"
+  },
+  {
+   "role": "보리스 레인필드",
+   "name": "박민성"
+  },
+  {
+   "role": "마리 화나",
+   "name": "김미려"
+  },
+  {
+   "role": "넬리 놀튼",
+   "name": "조진아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1401"
+ }
+}

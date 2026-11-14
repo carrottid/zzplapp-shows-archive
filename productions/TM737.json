@@ -1,0 +1,44 @@
+{
+ "id": "TM737",
+ "title": "인당수 사랑가",
+ "genre": "뮤지컬",
+ "from": "2006-11-02",
+ "to": "2006-12-10",
+ "venue": "아룽구지 소극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20200928030655390e265d370648c2a58256152f88c370.jpg",
+ "cast": [
+  "남문철",
+  "이상은",
+  "고승수",
+  "민동환"
+ ],
+ "state": "공연완료",
+ "producer": "Stage-T",
+ "price": "일반 2만5천원 / 청소년 1만5천원 (14세이상 관람가)",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "심봉사",
+   "name": "남문철"
+  },
+  {
+   "role": "방자",
+   "name": "이상은"
+  },
+  {
+   "role": "변학도",
+   "name": "고승수"
+  },
+  {
+   "role": "이몽룡",
+   "name": "민동환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=737"
+ }
+}

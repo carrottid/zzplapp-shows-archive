@@ -1,0 +1,56 @@
+{
+ "id": "PD16526",
+ "title": "리회장 시해사건",
+ "genre": "연극",
+ "from": "2010-05-19",
+ "to": "2010-06-06",
+ "venue": "미마지 아트센터 눈빛극장",
+ "cast": [
+  "이석희",
+  "서민성",
+  "김수현",
+  "김준원",
+  "김현정",
+  "김유진",
+  "채윤희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "리회장",
+   "name": "이석희"
+  },
+  {
+   "role": "리정렴",
+   "name": "서민성"
+  },
+  {
+   "role": "리정현",
+   "name": "김수현"
+  },
+  {
+   "role": "김주삼",
+   "name": "김준원"
+  },
+  {
+   "role": "오보살",
+   "name": "김현정"
+  },
+  {
+   "role": "진숙경",
+   "name": "김유진"
+  },
+  {
+   "role": "",
+   "name": "채윤희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240805221653/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=16526"
+ }
+}

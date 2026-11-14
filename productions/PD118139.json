@@ -1,0 +1,51 @@
+{
+ "id": "PD118139",
+ "title": "헤드윅 - 대구",
+ "genre": "뮤지컬",
+ "from": "2018-01-13",
+ "to": "2018-01-14",
+ "venue": "대구 오페라하우스",
+ "cast": [
+  "오만석",
+  "마이클 리",
+  "정문성",
+  "제이민",
+  "유리아",
+  "앵그리인치 밴드"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "헤드윅",
+   "name": "오만석"
+  },
+  {
+   "role": "헤드윅",
+   "name": "마이클 리"
+  },
+  {
+   "role": "헤드윅",
+   "name": "정문성"
+  },
+  {
+   "role": "이츠학",
+   "name": "제이민"
+  },
+  {
+   "role": "이츠학",
+   "name": "유리아"
+  },
+  {
+   "role": "",
+   "name": "앵그리인치 밴드"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200813033823/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=118139"
+ }
+}

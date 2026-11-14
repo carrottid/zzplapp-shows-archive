@@ -1,0 +1,56 @@
+{
+ "id": "PD1320",
+ "title": "해무",
+ "genre": "연극",
+ "from": "2007-10-12",
+ "to": "2007-11-04",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "신철진",
+  "김용준",
+  "유인수",
+  "권태건",
+  "나종민",
+  "송새벽",
+  "조일두"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "완호",
+   "name": "신철진"
+  },
+  {
+   "role": "강선장",
+   "name": "김용준"
+  },
+  {
+   "role": "경구",
+   "name": "유인수"
+  },
+  {
+   "role": "호영",
+   "name": "권태건"
+  },
+  {
+   "role": "창욱",
+   "name": "나종민"
+  },
+  {
+   "role": "동식",
+   "name": "송새벽"
+  },
+  {
+   "role": "",
+   "name": "조일두"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241202110506/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=1320"
+ }
+}

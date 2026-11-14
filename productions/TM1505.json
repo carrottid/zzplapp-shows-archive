@@ -1,0 +1,59 @@
+{
+ "id": "TM1505",
+ "title": "건메탈 블루스",
+ "genre": "뮤지컬",
+ "from": "2009-10-15",
+ "to": "2009-12-06",
+ "venue": "뮤디스홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_gunmetal2009.jpg",
+ "cast": [
+  "이석준",
+  "박호산",
+  "김선경",
+  "이주원",
+  "김동화",
+  "오승준",
+  "최승렬"
+ ],
+ "state": "공연완료",
+ "producer": "뮤디스",
+ "price": "전석 45,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "Private eye(샘 갈라하드)",
+   "name": "이석준"
+  },
+  {
+   "role": "Private eye(샘 갈라하드)",
+   "name": "박호산"
+  },
+  {
+   "role": "Blonde(캐롤 인디고 등)",
+   "name": "김선경"
+  },
+  {
+   "role": "Blonde(캐롤 인디고 등)",
+   "name": "이주원"
+  },
+  {
+   "role": "Blonde(캐롤 인디고 등)",
+   "name": "김동화"
+  },
+  {
+   "role": "Piano man(버디 투피 등)",
+   "name": "오승준"
+  },
+  {
+   "role": "Piano man(버디 투피 등)",
+   "name": "최승렬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1505"
+ }
+}

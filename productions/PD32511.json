@@ -1,0 +1,46 @@
+{
+ "id": "PD32511",
+ "title": "이육사",
+ "genre": "뮤지컬",
+ "from": "2012-02-29",
+ "to": "2012-03-04",
+ "venue": "서울 올림픽 공원 우리금융아트홀",
+ "cast": [
+  "이광용",
+  "예미",
+  "손인구",
+  "안덕용",
+  "정태준"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이육사",
+   "name": "이광용"
+  },
+  {
+   "role": "안일양",
+   "name": "예미"
+  },
+  {
+   "role": "김구",
+   "name": "손인구"
+  },
+  {
+   "role": "이중직",
+   "name": "안덕용"
+  },
+  {
+   "role": "긴조",
+   "name": "정태준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20120821224758/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=32511"
+ }
+}

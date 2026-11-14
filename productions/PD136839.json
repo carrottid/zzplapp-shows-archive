@@ -1,0 +1,51 @@
+{
+ "id": "PD136839",
+ "title": "인형의 집, Part 2",
+ "genre": "연극",
+ "from": "2019-04-10",
+ "to": "2019-04-28",
+ "venue": "LG아트센터",
+ "cast": [
+  "서이숙",
+  "우미화",
+  "손종학",
+  "박호산",
+  "전국향",
+  "이경미"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "노라",
+   "name": "서이숙"
+  },
+  {
+   "role": "노라",
+   "name": "우미화"
+  },
+  {
+   "role": "토르발트",
+   "name": "손종학"
+  },
+  {
+   "role": "토르발트",
+   "name": "박호산"
+  },
+  {
+   "role": "앤 마리(유모)",
+   "name": "전국향"
+  },
+  {
+   "role": "에미",
+   "name": "이경미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250113140329/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=136839"
+ }
+}

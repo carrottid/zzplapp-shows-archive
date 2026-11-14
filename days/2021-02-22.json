@@ -1,0 +1,21 @@
+{
+ "date": "2021-02-22",
+ "sessions": [
+  {
+   "id": "PF171344",
+   "title": "제2회 딜레마극장, 현혹",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF171193",
+   "title": "앙코르 산울림 고전극장, 돼지떼",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "20:00",
+   "castSource": "none"
+  }
+ ]
+}

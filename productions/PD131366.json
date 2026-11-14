@@ -1,0 +1,36 @@
+{
+ "id": "PD131366",
+ "title": "안녕 크로아티아",
+ "genre": "뮤지컬",
+ "from": "2018-10-01",
+ "to": "2018-10-14",
+ "venue": "CJ 아지트 대학로(구 SM아트홀)",
+ "cast": [
+  "김다흰",
+  "최미소",
+  "송광일"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "남해",
+   "name": "김다흰"
+  },
+  {
+   "role": "정인",
+   "name": "최미소"
+  },
+  {
+   "role": "멀티맨",
+   "name": "송광일"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200814051139/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=131366"
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "id": "TM2320",
+ "title": "파리넬리",
+ "genre": "뮤지컬",
+ "from": "2016-04-26",
+ "to": "2016-05-15",
+ "venue": "광림아트센터 BBCH홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20160308032159YOLIR3K8IEDF4536.jpg",
+ "cast": [
+  "루이스 초이",
+  "이주광",
+  "이준혁",
+  "김경수",
+  "박소연",
+  "김태훈",
+  "최영우"
+ ],
+ "state": "공연완료",
+ "producer": "HJ컬쳐",
+ "price": "VIP석 10만원, R석 8만원, S석 6만원, A석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "파리넬리",
+   "name": "루이스 초이"
+  },
+  {
+   "role": "파리넬리",
+   "name": "이주광"
+  },
+  {
+   "role": "리카르도",
+   "name": "이준혁"
+  },
+  {
+   "role": "리카르도",
+   "name": "김경수"
+  },
+  {
+   "role": "안젤로",
+   "name": "박소연"
+  },
+  {
+   "role": "래리펀치",
+   "name": "김태훈"
+  },
+  {
+   "role": "헨델",
+   "name": "최영우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2320"
+ }
+}

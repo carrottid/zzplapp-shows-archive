@@ -1,0 +1,46 @@
+{
+ "id": "PD146785",
+ "title": "스프레이",
+ "genre": "뮤지컬",
+ "from": "2019-10-03",
+ "to": "2019-10-06",
+ "venue": "백암아트홀",
+ "cast": [
+  "이상희",
+  "김정아",
+  "신은경",
+  "최재형",
+  "김하진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "709호 남자",
+   "name": "이상희"
+  },
+  {
+   "role": "708호 여자 외",
+   "name": "김정아"
+  },
+  {
+   "role": "불랑소녀, 우체국직원 외",
+   "name": "신은경"
+  },
+  {
+   "role": "택배원, 웨이터, 형사 외",
+   "name": "최재형"
+  },
+  {
+   "role": "",
+   "name": "김하진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251113054138/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=146785"
+ }
+}

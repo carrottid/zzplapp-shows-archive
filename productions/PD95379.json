@@ -1,0 +1,51 @@
+{
+ "id": "PD95379",
+ "title": "브로드웨이 42번가 - 대구",
+ "genre": "뮤지컬",
+ "from": "2016-09-03",
+ "to": "2016-09-04",
+ "venue": "대구 계명아트센터",
+ "cast": [
+  "송일국",
+  "이종혁",
+  "김선경",
+  "최정원",
+  "임혜영",
+  "에녹"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "줄리안 마쉬",
+   "name": "송일국"
+  },
+  {
+   "role": "줄리안 마쉬",
+   "name": "이종혁"
+  },
+  {
+   "role": "도로시 브록",
+   "name": "김선경"
+  },
+  {
+   "role": "도로시 브록",
+   "name": "최정원"
+  },
+  {
+   "role": "페기 소여",
+   "name": "임혜영"
+  },
+  {
+   "role": "빌리 로러",
+   "name": "에녹"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170910185153/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=95379"
+ }
+}

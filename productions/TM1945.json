@@ -1,0 +1,99 @@
+{
+ "id": "TM1945",
+ "title": "날아라, 박씨!",
+ "genre": "뮤지컬",
+ "from": "2013-02-16",
+ "to": "2013-03-17",
+ "venue": "PMC대학로자유극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_fly2013.jpg",
+ "cast": [
+  "홍륜희",
+  "엄태리",
+  "정가호",
+  "송태윤",
+  "이서환",
+  "윤영진",
+  "문혜원",
+  "정동석",
+  "무현",
+  "윤지인",
+  "권은지",
+  "이명화",
+  "박두영",
+  "안진영",
+  "김지윤"
+ ],
+ "state": "공연완료",
+ "producer": "무엇이든창작단 동이주락, (주)쇼앤라이프",
+ "price": "전석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "오여주",
+   "name": "홍륜희"
+  },
+  {
+   "role": "오여주",
+   "name": "엄태리"
+  },
+  {
+   "role": "황태경",
+   "name": "정가호"
+  },
+  {
+   "role": "황태경",
+   "name": "송태윤"
+  },
+  {
+   "role": "대표",
+   "name": "이서환"
+  },
+  {
+   "role": "칼롯A",
+   "name": "윤영진"
+  },
+  {
+   "role": "작가/기홍대",
+   "name": "문혜원"
+  },
+  {
+   "role": "연출/천사",
+   "name": "정동석"
+  },
+  {
+   "role": "음악감독",
+   "name": "무현"
+  },
+  {
+   "role": "장미",
+   "name": "윤지인"
+  },
+  {
+   "role": "칼롯B",
+   "name": "권은지"
+  },
+  {
+   "role": "조연출",
+   "name": "이명화"
+  },
+  {
+   "role": "앙상블",
+   "name": "박두영"
+  },
+  {
+   "role": "앙상블",
+   "name": "안진영"
+  },
+  {
+   "role": "앙상블",
+   "name": "김지윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1945"
+ }
+}

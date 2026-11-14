@@ -1,0 +1,71 @@
+{
+ "id": "PD49996",
+ "title": "그날들 - 부산",
+ "genre": "뮤지컬",
+ "from": "2013-08-15",
+ "to": "2013-08-18",
+ "venue": "동서대학교 소향씨어터 신한카드홀",
+ "cast": [
+  "유준상",
+  "오만석",
+  "강태을",
+  "최재웅",
+  "지창욱",
+  "오종혁",
+  "방진의",
+  "이정열",
+  "김산호",
+  "정순원"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "정학",
+   "name": "유준상"
+  },
+  {
+   "role": "정학",
+   "name": "오만석"
+  },
+  {
+   "role": "정학",
+   "name": "강태을"
+  },
+  {
+   "role": "무영",
+   "name": "최재웅"
+  },
+  {
+   "role": "무영",
+   "name": "지창욱"
+  },
+  {
+   "role": "무영",
+   "name": "오종혁"
+  },
+  {
+   "role": "그녀",
+   "name": "방진의"
+  },
+  {
+   "role": "운영관",
+   "name": "이정열"
+  },
+  {
+   "role": "대식",
+   "name": "김산호"
+  },
+  {
+   "role": "상구",
+   "name": "정순원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241208105457/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=49996"
+ }
+}

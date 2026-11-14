@@ -1,0 +1,36 @@
+{
+ "id": "PD36234",
+ "title": "더 글라스",
+ "genre": "연극",
+ "from": "2012-05-15",
+ "to": "2012-06-28",
+ "venue": "미마지 아트센터 물빛극장",
+ "cast": [
+  "최원석",
+  "서지유",
+  "권민중"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "칼 융",
+   "name": "최원석"
+  },
+  {
+   "role": "마그다",
+   "name": "서지유"
+  },
+  {
+   "role": "마그다",
+   "name": "권민중"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20201031083116/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=36234"
+ }
+}

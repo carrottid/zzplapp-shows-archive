@@ -1,0 +1,33 @@
+{
+ "id": "TM327",
+ "title": "우리는 친구다",
+ "genre": "뮤지컬",
+ "from": "2004-12-17",
+ "to": "2005-03-20",
+ "venue": "학전블루 소극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_05003822.gif",
+ "cast": [
+  "김재범",
+  "김찬"
+ ],
+ "state": "공연완료",
+ "producer": "극단 학전",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "민호",
+   "name": "김재범"
+  },
+  {
+   "role": "민호",
+   "name": "김찬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=327"
+ }
+}

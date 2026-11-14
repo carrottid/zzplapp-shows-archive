@@ -1,0 +1,101 @@
+{
+ "id": "PD156794",
+ "title": "렌트",
+ "genre": "뮤지컬",
+ "from": "2020-06-13",
+ "to": "2020-08-22",
+ "venue": "디큐브 링크아트센터",
+ "cast": [
+  "오종혁",
+  "장지후",
+  "정원영",
+  "배두훈",
+  "아이비",
+  "김수하",
+  "전나영",
+  "민경아",
+  "정다희",
+  "최재림",
+  "유효진",
+  "김호영",
+  "김지휘",
+  "임정모",
+  "신현묵",
+  "서종원"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "로저",
+   "name": "오종혁"
+  },
+  {
+   "role": "로저",
+   "name": "장지후"
+  },
+  {
+   "role": "마크",
+   "name": "정원영"
+  },
+  {
+   "role": "마크",
+   "name": "배두훈"
+  },
+  {
+   "role": "미미",
+   "name": "아이비"
+  },
+  {
+   "role": "미미",
+   "name": "김수하"
+  },
+  {
+   "role": "모린",
+   "name": "전나영"
+  },
+  {
+   "role": "모린",
+   "name": "민경아"
+  },
+  {
+   "role": "조앤",
+   "name": "정다희"
+  },
+  {
+   "role": "콜린",
+   "name": "최재림"
+  },
+  {
+   "role": "콜린",
+   "name": "유효진"
+  },
+  {
+   "role": "",
+   "name": "김호영"
+  },
+  {
+   "role": "",
+   "name": "김지휘"
+  },
+  {
+   "role": "",
+   "name": "임정모"
+  },
+  {
+   "role": "",
+   "name": "신현묵"
+  },
+  {
+   "role": "",
+   "name": "서종원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250325192345/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=156794"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "PD73593",
+ "title": "캣츠",
+ "genre": "뮤지컬",
+ "from": "2015-04-10",
+ "to": "2015-05-10",
+ "venue": "세종문화회관 대극장",
+ "cast": [
+  "에린 코넬",
+  "얼 그레고리"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "그리자벨라",
+   "name": "에린 코넬"
+  },
+  {
+   "role": "럼 텀 터거",
+   "name": "얼 그레고리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250917000407/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=73593"
+ }
+}

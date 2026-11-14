@@ -1,0 +1,56 @@
+{
+ "id": "PD33488",
+ "title": "천하제일 남가이",
+ "genre": "연극",
+ "from": "2012-03-16",
+ "to": "2012-03-31",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "박성연",
+  "이길준",
+  "유성주",
+  "임세운",
+  "최희윤",
+  "염용균",
+  "박세기"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "남가이",
+   "name": "박성연"
+  },
+  {
+   "role": "남가이",
+   "name": "이길준"
+  },
+  {
+   "role": "할머니",
+   "name": "유성주"
+  },
+  {
+   "role": "개장수",
+   "name": "임세운"
+  },
+  {
+   "role": "사령관",
+   "name": "최희윤"
+  },
+  {
+   "role": "맹인",
+   "name": "염용균"
+  },
+  {
+   "role": "경찰서장",
+   "name": "박세기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704004229/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=33488"
+ }
+}

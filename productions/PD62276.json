@@ -1,0 +1,96 @@
+{
+ "id": "PD62276",
+ "title": "드라큘라",
+ "genre": "뮤지컬",
+ "from": "2014-07-15",
+ "to": "2014-09-05",
+ "venue": "예술의전당 오페라극장",
+ "cast": [
+  "류정한",
+  "김준수",
+  "박재윤",
+  "조정은",
+  "정선아",
+  "양준모",
+  "카이",
+  "조성윤",
+  "이지혜",
+  "문태유",
+  "변희상",
+  "양승리",
+  "윤지인",
+  "백진주",
+  "지새롬"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "드라큘라",
+   "name": "류정한"
+  },
+  {
+   "role": "드라큘라",
+   "name": "김준수"
+  },
+  {
+   "role": "드라큘라",
+   "name": "박재윤"
+  },
+  {
+   "role": "미나",
+   "name": "조정은"
+  },
+  {
+   "role": "미나",
+   "name": "정선아"
+  },
+  {
+   "role": "반헬싱",
+   "name": "양준모"
+  },
+  {
+   "role": "조나단",
+   "name": "카이"
+  },
+  {
+   "role": "조나단",
+   "name": "조성윤"
+  },
+  {
+   "role": "루시",
+   "name": "이지혜"
+  },
+  {
+   "role": "랜필드",
+   "name": "문태유"
+  },
+  {
+   "role": "",
+   "name": "변희상"
+  },
+  {
+   "role": "",
+   "name": "양승리"
+  },
+  {
+   "role": "",
+   "name": "윤지인"
+  },
+  {
+   "role": "",
+   "name": "백진주"
+  },
+  {
+   "role": "",
+   "name": "지새롬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250220140416/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=62276"
+ }
+}

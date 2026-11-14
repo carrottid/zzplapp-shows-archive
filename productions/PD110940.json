@@ -1,0 +1,86 @@
+{
+ "id": "PD110940",
+ "title": "서편제",
+ "genre": "뮤지컬",
+ "from": "2017-08-30",
+ "to": "2017-11-05",
+ "venue": "광림아트센터 BBCH홀",
+ "cast": [
+  "이자람",
+  "차지연",
+  "이소연",
+  "강필석",
+  "김재범",
+  "박영수",
+  "이정열",
+  "서범석",
+  "주홍균",
+  "나소현",
+  "조환지",
+  "김효성",
+  "이다정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "송화",
+   "name": "이자람"
+  },
+  {
+   "role": "송화",
+   "name": "차지연"
+  },
+  {
+   "role": "송화",
+   "name": "이소연"
+  },
+  {
+   "role": "동호",
+   "name": "강필석"
+  },
+  {
+   "role": "동호",
+   "name": "김재범"
+  },
+  {
+   "role": "동호",
+   "name": "박영수"
+  },
+  {
+   "role": "유봉",
+   "name": "이정열"
+  },
+  {
+   "role": "유봉",
+   "name": "서범석"
+  },
+  {
+   "role": "",
+   "name": "주홍균"
+  },
+  {
+   "role": "",
+   "name": "나소현"
+  },
+  {
+   "role": "",
+   "name": "조환지"
+  },
+  {
+   "role": "",
+   "name": "김효성"
+  },
+  {
+   "role": "",
+   "name": "이다정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241102055346/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=110940"
+ }
+}

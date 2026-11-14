@@ -1,0 +1,46 @@
+{
+ "id": "PD86710",
+ "title": "쉘 위 키스",
+ "genre": "연극",
+ "from": "2015-12-10",
+ "to": "2015-12-31",
+ "venue": "대학로 스타시티 타이니앨리스 (구.아트홀 마리카2관)",
+ "cast": [
+  "박상훈",
+  "김수안",
+  "신준철",
+  "이채령",
+  "강희만"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "동찬",
+   "name": "박상훈"
+  },
+  {
+   "role": "제이",
+   "name": "김수안"
+  },
+  {
+   "role": "남",
+   "name": "신준철"
+  },
+  {
+   "role": "여",
+   "name": "이채령"
+  },
+  {
+   "role": "남편",
+   "name": "강희만"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20211218045007/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=86710"
+ }
+}

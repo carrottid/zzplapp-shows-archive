@@ -1,0 +1,29 @@
+{
+ "id": "TM1560",
+ "title": "잭팟",
+ "genre": "뮤지컬",
+ "from": "2009-12-22",
+ "to": "2010-02-28",
+ "venue": "이화여고 100주년 기념관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_jackpot.gif",
+ "cast": [
+  "방선우"
+ ],
+ "state": "공연완료",
+ "producer": "㈜ GMB 컴퍼니",
+ "price": "R석 60,000원/ S석 50,000원/ A석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "환",
+   "name": "방선우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1560"
+ }
+}

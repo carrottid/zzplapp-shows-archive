@@ -1,0 +1,38 @@
+{
+ "id": "TM512",
+ "title": "틱틱붐",
+ "genre": "뮤지컬",
+ "from": "2001-12-01",
+ "to": "2001-12-09",
+ "venue": "한전아츠풀센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_틱틱붐1.jpg",
+ "cast": [
+  "남경주",
+  "최정원",
+  "이계창"
+ ],
+ "state": "공연완료",
+ "producer": "신시뮤지컬컴퍼니",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "존",
+   "name": "남경주"
+  },
+  {
+   "role": "존",
+   "name": "최정원"
+  },
+  {
+   "role": "존",
+   "name": "이계창"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=512"
+ }
+}

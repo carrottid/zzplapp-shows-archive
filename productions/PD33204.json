@@ -1,0 +1,41 @@
+{
+ "id": "PD33204",
+ "title": "아내들의 외출",
+ "genre": "연극",
+ "from": "2012-03-23",
+ "to": "2012-04-15",
+ "venue": "충무아트센터 소극장 블루",
+ "cast": [
+  "손숙",
+  "이선주",
+  "소희정",
+  "강일"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "엄마 임문경",
+   "name": "손숙"
+  },
+  {
+   "role": "딸 오지영",
+   "name": "이선주"
+  },
+  {
+   "role": "며느리 소희정",
+   "name": "소희정"
+  },
+  {
+   "role": "아들 외 다역",
+   "name": "강일"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220521135447/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=33204"
+ }
+}

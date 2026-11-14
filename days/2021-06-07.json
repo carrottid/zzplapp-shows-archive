@@ -1,0 +1,37 @@
+{
+ "date": "2021-06-07",
+ "sessions": [
+  {
+   "id": "PF175756",
+   "title": "돈키호테 택배기사",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF174443",
+   "title": "소년이 그랬다",
+   "genre": "연극",
+   "venue": "국립극단 [용산] (백성희장민호극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF174711",
+   "title": "세월호 살아갈, 사라진, 사람들: 모자 숨 스물 다섯",
+   "genre": "연극",
+   "venue": "연극실험실 혜화동1번지",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF174817",
+   "title": "우주대스타",
+   "genre": "뮤지컬",
+   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+   "time": "20:00",
+   "castSource": "none"
+  }
+ ]
+}

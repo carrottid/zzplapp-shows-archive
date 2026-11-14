@@ -1,0 +1,59 @@
+{
+ "id": "TM1515",
+ "title": "엄마의 약속",
+ "genre": "뮤지컬",
+ "from": "2009-10-01",
+ "to": "2009-12-31",
+ "venue": "스타시티 2관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_MomP.jpg",
+ "cast": [
+  "홍기주",
+  "박진",
+  "유주혜",
+  "정윤식",
+  "전승혜",
+  "이동근",
+  "황재열"
+ ],
+ "state": "공연완료",
+ "producer": "하늘연어",
+ "price": "전석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "소봉",
+   "name": "홍기주"
+  },
+  {
+   "role": "소봉",
+   "name": "박진"
+  },
+  {
+   "role": "소윤",
+   "name": "유주혜"
+  },
+  {
+   "role": "재문",
+   "name": "정윤식"
+  },
+  {
+   "role": "영순",
+   "name": "전승혜"
+  },
+  {
+   "role": "의사/눈/남자",
+   "name": "이동근"
+  },
+  {
+   "role": "의사/눈/남자",
+   "name": "황재열"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1515"
+ }
+}

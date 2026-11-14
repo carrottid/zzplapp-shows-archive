@@ -1,0 +1,91 @@
+{
+ "id": "PD143428",
+ "title": "구내과병원",
+ "genre": "뮤지컬",
+ "from": "2019-07-05",
+ "to": "2019-09-01",
+ "venue": "예스24스테이지 3관",
+ "cast": [
+  "안지환",
+  "주하진",
+  "김대현",
+  "류제윤",
+  "김아영",
+  "김국희",
+  "원종환",
+  "조훈",
+  "김수연",
+  "이세령",
+  "최호승",
+  "문경초",
+  "금조",
+  "이아진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "장기준",
+   "name": "안지환"
+  },
+  {
+   "role": "장기준",
+   "name": "주하진"
+  },
+  {
+   "role": "구지웅",
+   "name": "김대현"
+  },
+  {
+   "role": "구지웅",
+   "name": "류제윤"
+  },
+  {
+   "role": "마영숙",
+   "name": "김아영"
+  },
+  {
+   "role": "마영숙",
+   "name": "김국희"
+  },
+  {
+   "role": "김철수",
+   "name": "원종환"
+  },
+  {
+   "role": "김철수",
+   "name": "조훈"
+  },
+  {
+   "role": "윤명희",
+   "name": "김수연"
+  },
+  {
+   "role": "윤명희",
+   "name": "이세령"
+  },
+  {
+   "role": "송일병",
+   "name": "최호승"
+  },
+  {
+   "role": "송일병",
+   "name": "문경초"
+  },
+  {
+   "role": "",
+   "name": "금조"
+  },
+  {
+   "role": "",
+   "name": "이아진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20221009090643/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=143428"
+ }
+}

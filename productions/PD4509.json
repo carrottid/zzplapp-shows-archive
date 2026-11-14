@@ -1,0 +1,56 @@
+{
+ "id": "PD4509",
+ "title": "갈매기",
+ "genre": "연극",
+ "from": "2008-11-07",
+ "to": "2008-11-23",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "정재은",
+  "김태우",
+  "정수영",
+  "이호성",
+  "최창우",
+  "박명신",
+  "김소희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아르카지나",
+   "name": "정재은"
+  },
+  {
+   "role": "트레플레프",
+   "name": "김태우"
+  },
+  {
+   "role": "니나",
+   "name": "정수영"
+  },
+  {
+   "role": "소린",
+   "name": "이호성"
+  },
+  {
+   "role": "샤므라예프",
+   "name": "최창우"
+  },
+  {
+   "role": "폴리나",
+   "name": "박명신"
+  },
+  {
+   "role": "",
+   "name": "김소희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170703234828/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=4509"
+ }
+}

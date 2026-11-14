@@ -1,0 +1,41 @@
+{
+ "id": "PD107123",
+ "title": "대학살의 신",
+ "genre": "연극",
+ "from": "2017-06-24",
+ "to": "2017-07-23",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "남경주",
+  "최정원",
+  "이지하",
+  "송일국"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "알렝",
+   "name": "남경주"
+  },
+  {
+   "role": "아네트",
+   "name": "최정원"
+  },
+  {
+   "role": "베로니끄",
+   "name": "이지하"
+  },
+  {
+   "role": "미셀",
+   "name": "송일국"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240423194206/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=107123"
+ }
+}

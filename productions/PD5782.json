@@ -1,0 +1,31 @@
+{
+ "id": "PD5782",
+ "title": "경남 창녕군 길곡면",
+ "genre": "연극",
+ "from": "2008-09-03",
+ "to": "2008-09-28",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "김선영",
+  "이주원"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "선미",
+   "name": "김선영"
+  },
+  {
+   "role": "종철",
+   "name": "이주원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704025344/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=5782"
+ }
+}

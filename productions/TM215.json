@@ -1,0 +1,43 @@
+{
+ "id": "TM215",
+ "title": "청년 장준하",
+ "genre": "뮤지컬",
+ "from": "2005-08-05",
+ "to": "2005-08-15",
+ "venue": "문예진흥원예술극장 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_b0020800.jpg",
+ "cast": [
+  "서영주",
+  "임유진",
+  "최성원",
+  "이기영"
+ ],
+ "state": "공연완료",
+ "producer": "사단법인 장준하기념사업회",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "장준하",
+   "name": "서영주"
+  },
+  {
+   "role": "장준하",
+   "name": "임유진"
+  },
+  {
+   "role": "장준하",
+   "name": "최성원"
+  },
+  {
+   "role": "장준하",
+   "name": "이기영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=215"
+ }
+}

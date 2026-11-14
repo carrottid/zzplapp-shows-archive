@@ -1,0 +1,86 @@
+{
+ "id": "PD65579",
+ "title": "고곤의 선물",
+ "genre": "연극",
+ "from": "2014-09-18",
+ "to": "2014-10-05",
+ "venue": "세종문화회관 M씨어터",
+ "cast": [
+  "김태훈",
+  "박상원",
+  "이민주",
+  "김소희",
+  "김신기",
+  "이봉규",
+  "고인배",
+  "김소영",
+  "이수형",
+  "노상원",
+  "조유미",
+  "김대현",
+  "권형준"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "에드워드 담슨",
+   "name": "김태훈"
+  },
+  {
+   "role": "에드워드 담슨",
+   "name": "박상원"
+  },
+  {
+   "role": "코러스",
+   "name": "이민주"
+  },
+  {
+   "role": "헬렌 담슨",
+   "name": "김소희"
+  },
+  {
+   "role": "필립 담슨",
+   "name": "김신기"
+  },
+  {
+   "role": "담신스키",
+   "name": "이봉규"
+  },
+  {
+   "role": "쟈비스",
+   "name": "고인배"
+  },
+  {
+   "role": "",
+   "name": "김소영"
+  },
+  {
+   "role": "",
+   "name": "이수형"
+  },
+  {
+   "role": "",
+   "name": "노상원"
+  },
+  {
+   "role": "",
+   "name": "조유미"
+  },
+  {
+   "role": "",
+   "name": "김대현"
+  },
+  {
+   "role": "",
+   "name": "권형준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250913131625/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=65579"
+ }
+}

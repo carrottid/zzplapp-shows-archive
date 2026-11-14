@@ -1,0 +1,81 @@
+{
+ "id": "PD18634",
+ "title": "우연히 행복해지다",
+ "genre": "뮤지컬",
+ "from": "2010-09-10",
+ "to": "2010-10-10",
+ "venue": "세실극장",
+ "cast": [
+  "노은경",
+  "백은실",
+  "김재근",
+  "이종현",
+  "양미경",
+  "장명진",
+  "원혁",
+  "정가호",
+  "유다솜",
+  "안예찬",
+  "오경록",
+  "이동환"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "고소연",
+   "name": "노은경"
+  },
+  {
+   "role": "고소연",
+   "name": "백은실"
+  },
+  {
+   "role": "고만해",
+   "name": "김재근"
+  },
+  {
+   "role": "고만해",
+   "name": "이종현"
+  },
+  {
+   "role": "김봉자",
+   "name": "양미경"
+  },
+  {
+   "role": "김봉자",
+   "name": "장명진"
+  },
+  {
+   "role": "배철수",
+   "name": "원혁"
+  },
+  {
+   "role": "배철수",
+   "name": "정가호"
+  },
+  {
+   "role": "주사랑",
+   "name": "유다솜"
+  },
+  {
+   "role": "주사랑",
+   "name": "안예찬"
+  },
+  {
+   "role": "김우연",
+   "name": "오경록"
+  },
+  {
+   "role": "김우연",
+   "name": "이동환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20190917235442/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=18634"
+ }
+}

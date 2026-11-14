@@ -1,0 +1,51 @@
+{
+ "id": "PD25104",
+ "title": "극적인 하룻밤",
+ "genre": "연극",
+ "from": "2011-07-16",
+ "to": "2012-05-28",
+ "venue": "예스24아트원 2관",
+ "cast": [
+  "이규형",
+  "여욱환",
+  "차용학",
+  "유별라",
+  "허혜리",
+  "홍예나"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "정훈",
+   "name": "이규형"
+  },
+  {
+   "role": "정훈",
+   "name": "여욱환"
+  },
+  {
+   "role": "정훈",
+   "name": "차용학"
+  },
+  {
+   "role": "시후",
+   "name": "유별라"
+  },
+  {
+   "role": "시후",
+   "name": "허혜리"
+  },
+  {
+   "role": "시후",
+   "name": "홍예나"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250730145829/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=25104"
+ }
+}

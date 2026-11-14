@@ -1,0 +1,84 @@
+{
+ "id": "TM1347",
+ "title": "新 행진, 와이키키!",
+ "genre": "뮤지컬",
+ "from": "2009-02-08",
+ "to": "2009-03-11",
+ "venue": "국립극장 해오름극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2009waikiki.jpg",
+ "cast": [
+  "홍경민",
+  "윤영석",
+  "조한철",
+  "최대철",
+  "임진웅",
+  "소찬휘",
+  "이재영",
+  "진도희",
+  "전수미",
+  "최가인",
+  "이태희",
+  "전선진"
+ ],
+ "state": "공연완료",
+ "producer": "성음컴퍼니",
+ "price": "R석 90,000원 / S석 70,000원 / A석 50,000원 / B석 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "진우",
+   "name": "홍경민"
+  },
+  {
+   "role": "진우",
+   "name": "윤영석"
+  },
+  {
+   "role": "철호",
+   "name": "조한철"
+  },
+  {
+   "role": "철호",
+   "name": "최대철"
+  },
+  {
+   "role": "영수",
+   "name": "임진웅"
+  },
+  {
+   "role": "지수",
+   "name": "소찬휘"
+  },
+  {
+   "role": "지수",
+   "name": "이재영"
+  },
+  {
+   "role": "길주",
+   "name": "진도희"
+  },
+  {
+   "role": "영자",
+   "name": "전수미"
+  },
+  {
+   "role": "길주",
+   "name": "최가인"
+  },
+  {
+   "role": "영수",
+   "name": "이태희"
+  },
+  {
+   "role": "앙상블",
+   "name": "전선진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1347"
+ }
+}

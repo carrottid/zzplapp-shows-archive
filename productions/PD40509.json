@@ -1,0 +1,56 @@
+{
+ "id": "PD40509",
+ "title": "버자이너 모놀로그",
+ "genre": "연극",
+ "from": "2012-10-26",
+ "to": "2013-01-06",
+ "venue": "충무아트센터 소극장 블루",
+ "cast": [
+  "임성민",
+  "김세아",
+  "이지나",
+  "장유정",
+  "황정민",
+  "방진의",
+  "낸시랭"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "사회자",
+   "name": "임성민"
+  },
+  {
+   "role": "사회자",
+   "name": "김세아"
+  },
+  {
+   "role": "사회자",
+   "name": "이지나"
+  },
+  {
+   "role": "사회자",
+   "name": "장유정"
+  },
+  {
+   "role": "게스트1",
+   "name": "황정민"
+  },
+  {
+   "role": "게스트1",
+   "name": "방진의"
+  },
+  {
+   "role": "게스트2",
+   "name": "낸시랭"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230728010026/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=40509"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "id": "PD96124",
+ "title": "동의에 관한 바덴의 학습극",
+ "genre": "연극",
+ "from": "2016-08-11",
+ "to": "2016-08-21",
+ "venue": "소극장 혜화당(구.까망 소극장)",
+ "cast": [
+  "박보현",
+  "오다애",
+  "이주형",
+  "김지원",
+  "김다미",
+  "허자영",
+  "김세원",
+  "박재희",
+  "천수정"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "역사학자, 비행사, 슈미트 씨",
+   "name": "박보현"
+  },
+  {
+   "role": "코러스 장",
+   "name": "오다애"
+  },
+  {
+   "role": "학습된 코러스A, 배우A",
+   "name": "이주형"
+  },
+  {
+   "role": "학습된 코러스B, 배우B",
+   "name": "김지원"
+  },
+  {
+   "role": "추락한 정비사A",
+   "name": "김다미"
+  },
+  {
+   "role": "추락한 정비사B",
+   "name": "허자영"
+  },
+  {
+   "role": "",
+   "name": "김세원"
+  },
+  {
+   "role": "",
+   "name": "박재희"
+  },
+  {
+   "role": "",
+   "name": "천수정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20201124063556/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=96124"
+ }
+}

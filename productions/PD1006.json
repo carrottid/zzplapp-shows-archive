@@ -1,0 +1,71 @@
+{
+ "id": "PD1006",
+ "title": "맥베드, The Show",
+ "genre": "연극",
+ "from": "2006-04-28",
+ "to": "2006-05-07",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "이대연",
+  "길해연",
+  "강일",
+  "박지호",
+  "최현숙",
+  "김병희",
+  "김선표",
+  "윤은심",
+  "오용택",
+  "백은경"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "맥베드",
+   "name": "이대연"
+  },
+  {
+   "role": "레이디 맥베드",
+   "name": "길해연"
+  },
+  {
+   "role": "덩컨&맬컴",
+   "name": "강일"
+  },
+  {
+   "role": "뱅코우",
+   "name": "박지호"
+  },
+  {
+   "role": "무대감독",
+   "name": "최현숙"
+  },
+  {
+   "role": "전사",
+   "name": "김병희"
+  },
+  {
+   "role": "전사",
+   "name": "김선표"
+  },
+  {
+   "role": "전사",
+   "name": "윤은심"
+  },
+  {
+   "role": "전사",
+   "name": "오용택"
+  },
+  {
+   "role": "",
+   "name": "백은경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210121051320/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=1006"
+ }
+}

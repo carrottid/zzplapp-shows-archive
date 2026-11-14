@@ -1,0 +1,41 @@
+{
+ "id": "PD148375",
+ "title": "그들은 그것을 사랑이라 부르기 위해",
+ "genre": "연극",
+ "from": "2019-09-26",
+ "to": "2019-09-29",
+ "venue": "나온 씨어터",
+ "cast": [
+  "우정아",
+  "신정웅",
+  "김유민",
+  "정희민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "Q",
+   "name": "우정아"
+  },
+  {
+   "role": "A/나",
+   "name": "신정웅"
+  },
+  {
+   "role": "고미주",
+   "name": "김유민"
+  },
+  {
+   "role": "위건우",
+   "name": "정희민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210414014234/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=148375"
+ }
+}

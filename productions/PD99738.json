@@ -1,0 +1,71 @@
+{
+ "id": "PD99738",
+ "title": "로미오와 줄리엣",
+ "genre": "연극",
+ "from": "2016-12-09",
+ "to": "2017-01-15",
+ "venue": "국립극장 달오름극장",
+ "cast": [
+  "박정민",
+  "문근영",
+  "손병호",
+  "서이숙",
+  "배해선",
+  "김호영",
+  "이현균",
+  "양승리",
+  "김찬호",
+  "김성철"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "로미오",
+   "name": "박정민"
+  },
+  {
+   "role": "줄리엣",
+   "name": "문근영"
+  },
+  {
+   "role": "로렌스신부",
+   "name": "손병호"
+  },
+  {
+   "role": "유모",
+   "name": "서이숙"
+  },
+  {
+   "role": "유모",
+   "name": "배해선"
+  },
+  {
+   "role": "머큐쇼",
+   "name": "김호영"
+  },
+  {
+   "role": "머큐쇼",
+   "name": "이현균"
+  },
+  {
+   "role": "티볼트",
+   "name": "양승리"
+  },
+  {
+   "role": "",
+   "name": "김찬호"
+  },
+  {
+   "role": "",
+   "name": "김성철"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240123152005/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=99738"
+ }
+}

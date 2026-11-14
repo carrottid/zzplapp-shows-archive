@@ -1,0 +1,46 @@
+{
+ "id": "PD48230",
+ "title": "시카고 - 부산",
+ "genre": "뮤지컬",
+ "from": "2013-06-06",
+ "to": "2013-06-09",
+ "venue": "센텀시티 소향씨어터 신한카드홀",
+ "cast": [
+  "인순이",
+  "최정원",
+  "이하늬",
+  "오진영",
+  "성기윤"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "벨마 켈리",
+   "name": "인순이"
+  },
+  {
+   "role": "벨마 켈리",
+   "name": "최정원"
+  },
+  {
+   "role": "록시 하트",
+   "name": "이하늬"
+  },
+  {
+   "role": "록시 하트",
+   "name": "오진영"
+  },
+  {
+   "role": "빌리 플린",
+   "name": "성기윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170918175414/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=48230"
+ }
+}

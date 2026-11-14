@@ -1,0 +1,51 @@
+{
+ "id": "PD7284",
+ "title": "죠반니",
+ "genre": "연극",
+ "from": "2008-10-07",
+ "to": "2008-11-02",
+ "venue": "산울림 소극장",
+ "cast": [
+  "이상직",
+  "이창직",
+  "이기동",
+  "윤가현",
+  "문경희",
+  "김영주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "죠반니",
+   "name": "이상직"
+  },
+  {
+   "role": "죠반니 아버지",
+   "name": "이창직"
+  },
+  {
+   "role": "인쇄소 주임",
+   "name": "이기동"
+  },
+  {
+   "role": "죠반니 어머니",
+   "name": "윤가현"
+  },
+  {
+   "role": "우유가게 할머니",
+   "name": "문경희"
+  },
+  {
+   "role": "선생님",
+   "name": "김영주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20201128220712/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=7284"
+ }
+}

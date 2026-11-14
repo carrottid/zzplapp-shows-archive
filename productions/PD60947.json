@@ -1,0 +1,61 @@
+{
+ "id": "PD60947",
+ "title": "내 아내의 모든 것",
+ "genre": "연극",
+ "from": "2014-05-05",
+ "to": "2014-06-29",
+ "venue": "예스24스테이지 2관",
+ "cast": [
+  "류현경",
+  "심은진",
+  "김재범",
+  "전병욱",
+  "김도현",
+  "조휘",
+  "송형은",
+  "이나영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "정인",
+   "name": "류현경"
+  },
+  {
+   "role": "정인",
+   "name": "심은진"
+  },
+  {
+   "role": "두현",
+   "name": "김재범"
+  },
+  {
+   "role": "두현",
+   "name": "전병욱"
+  },
+  {
+   "role": "성기",
+   "name": "김도현"
+  },
+  {
+   "role": "성기",
+   "name": "조휘"
+  },
+  {
+   "role": "멀티",
+   "name": "송형은"
+  },
+  {
+   "role": "멀티",
+   "name": "이나영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260516073134/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=60947"
+ }
+}

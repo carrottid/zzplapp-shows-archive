@@ -1,0 +1,96 @@
+{
+ "id": "PD52592",
+ "title": "명성황후 - 대구",
+ "genre": "뮤지컬",
+ "from": "2013-12-06",
+ "to": "2013-12-29",
+ "venue": "계명아트센터",
+ "cast": [
+  "이태원",
+  "이혜경",
+  "윤영석",
+  "조영태",
+  "이희정",
+  "정의욱",
+  "김도형",
+  "김선동",
+  "지혜근",
+  "박시원",
+  "노수진",
+  "이준서",
+  "최민영",
+  "박미유",
+  "김희윤"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "명성황후",
+   "name": "이태원"
+  },
+  {
+   "role": "명성황후",
+   "name": "이혜경"
+  },
+  {
+   "role": "고종",
+   "name": "윤영석"
+  },
+  {
+   "role": "고종",
+   "name": "조영태"
+  },
+  {
+   "role": "대원군",
+   "name": "이희정"
+  },
+  {
+   "role": "대원군",
+   "name": "정의욱"
+  },
+  {
+   "role": "미우라",
+   "name": "김도형"
+  },
+  {
+   "role": "미우라",
+   "name": "김선동"
+  },
+  {
+   "role": "홍계훈",
+   "name": "지혜근"
+  },
+  {
+   "role": "홍계훈",
+   "name": "박시원"
+  },
+  {
+   "role": "손탁",
+   "name": "노수진"
+  },
+  {
+   "role": "",
+   "name": "이준서"
+  },
+  {
+   "role": "",
+   "name": "최민영"
+  },
+  {
+   "role": "",
+   "name": "박미유"
+  },
+  {
+   "role": "",
+   "name": "김희윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250411072434/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=52592"
+ }
+}

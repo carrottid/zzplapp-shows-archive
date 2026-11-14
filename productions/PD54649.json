@@ -1,0 +1,66 @@
+{
+ "id": "PD54649",
+ "title": "내일 공연인데 어떡하지",
+ "genre": "연극",
+ "from": "2013-10-12",
+ "to": "2013-10-15",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "이원",
+  "황선화",
+  "김슬기",
+  "조한나",
+  "이명행",
+  "김유진",
+  "윤영민",
+  "이안나",
+  "손은지"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "조연출",
+   "name": "이원"
+  },
+  {
+   "role": "조연출",
+   "name": "황선화"
+  },
+  {
+   "role": "조연출",
+   "name": "김슬기"
+  },
+  {
+   "role": "조연출",
+   "name": "조한나"
+  },
+  {
+   "role": "연출",
+   "name": "이명행"
+  },
+  {
+   "role": "작가",
+   "name": "김유진"
+  },
+  {
+   "role": "직원1",
+   "name": "윤영민"
+  },
+  {
+   "role": "직원2",
+   "name": "이안나"
+  },
+  {
+   "role": "직원3",
+   "name": "손은지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191018000505/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=54649"
+ }
+}

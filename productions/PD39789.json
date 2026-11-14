@@ -1,0 +1,76 @@
+{
+ "id": "PD39789",
+ "title": "이기동 체육관",
+ "genre": "연극",
+ "from": "2012-10-26",
+ "to": "2013-01-20",
+ "venue": "미마지 아트센터 눈빛극장",
+ "cast": [
+  "윤경호",
+  "윤나무",
+  "이국호",
+  "박상석",
+  "전지영",
+  "이화",
+  "차명욱",
+  "최영도",
+  "장혜리",
+  "정상훈",
+  "강소영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "청년 이기동",
+   "name": "윤경호"
+  },
+  {
+   "role": "청년 이기동",
+   "name": "윤나무"
+  },
+  {
+   "role": "관장 이기동",
+   "name": "이국호"
+  },
+  {
+   "role": "관장 이기동",
+   "name": "박상석"
+  },
+  {
+   "role": "이연희",
+   "name": "전지영"
+  },
+  {
+   "role": "이연희",
+   "name": "이화"
+  },
+  {
+   "role": "마인하",
+   "name": "차명욱"
+  },
+  {
+   "role": "강근담",
+   "name": "최영도"
+  },
+  {
+   "role": "정애숙",
+   "name": "장혜리"
+  },
+  {
+   "role": "",
+   "name": "정상훈"
+  },
+  {
+   "role": "",
+   "name": "강소영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250713041429/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=39789"
+ }
+}

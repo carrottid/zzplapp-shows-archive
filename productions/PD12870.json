@@ -1,0 +1,46 @@
+{
+ "id": "PD12870",
+ "title": "서울소음",
+ "genre": "연극",
+ "from": "2009-09-16",
+ "to": "2009-09-27",
+ "venue": "대학로 마당세실극장",
+ "cast": [
+  "박재완",
+  "최무인",
+  "이상홍",
+  "조부현",
+  "민윤영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "박재완",
+   "name": "박재완"
+  },
+  {
+   "role": "최무인",
+   "name": "최무인"
+  },
+  {
+   "role": "이상홍",
+   "name": "이상홍"
+  },
+  {
+   "role": "조부현",
+   "name": "조부현"
+  },
+  {
+   "role": "민윤영",
+   "name": "민윤영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704000832/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=12870"
+ }
+}

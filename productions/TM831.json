@@ -1,0 +1,29 @@
+{
+ "id": "TM831",
+ "title": "현정아 사랑해",
+ "genre": "뮤지컬",
+ "from": "2007-07-06",
+ "to": "2007-09-23",
+ "venue": "아리랑소극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009181241160110acb147fd448eb077c5d027ffe84e.gif",
+ "cast": [
+  "이지연"
+ ],
+ "state": "공연완료",
+ "producer": "극단 신명나게",
+ "price": "일반,대학생 2만원 / 중,고생 1만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "현정",
+   "name": "이지연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=831"
+ }
+}

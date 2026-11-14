@@ -1,0 +1,41 @@
+{
+ "id": "PD119610",
+ "title": "누구의 꽃밭",
+ "genre": "연극",
+ "from": "2018-01-12",
+ "to": "2018-01-20",
+ "venue": "홍익대 대학로 아트센터 소극장",
+ "cast": [
+  "황순미",
+  "황선화",
+  "임영준",
+  "서정식"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "주정",
+   "name": "황순미"
+  },
+  {
+   "role": "선애",
+   "name": "황선화"
+  },
+  {
+   "role": "재중",
+   "name": "임영준"
+  },
+  {
+   "role": "전쟁",
+   "name": "서정식"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622144255/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=119610"
+ }
+}

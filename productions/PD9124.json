@@ -1,0 +1,41 @@
+{
+ "id": "PD9124",
+ "title": "2009 서울연극제 - 피카소의 여인들",
+ "genre": "연극",
+ "from": "2009-04-16",
+ "to": "2009-04-26",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "김성녀",
+  "서이숙",
+  "배해선",
+  "이태린"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "재클린",
+   "name": "김성녀"
+  },
+  {
+   "role": "올가",
+   "name": "서이숙"
+  },
+  {
+   "role": "프랑소와즈",
+   "name": "배해선"
+  },
+  {
+   "role": "마리떼라즈",
+   "name": "이태린"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200811031633/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=9124"
+ }
+}

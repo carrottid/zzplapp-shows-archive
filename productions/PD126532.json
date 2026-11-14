@@ -1,0 +1,56 @@
+{
+ "id": "PD126532",
+ "title": "전설의 리틀 농구단 - 김해",
+ "genre": "뮤지컬",
+ "from": "2018-07-20",
+ "to": "2018-07-20",
+ "venue": "김해문화의전당 마루홀",
+ "cast": [
+  "이상운",
+  "이용규",
+  "박대원",
+  "임찬민",
+  "안지환",
+  "유동훈",
+  "황재업"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "승우",
+   "name": "이상운"
+  },
+  {
+   "role": "종우",
+   "name": "이용규"
+  },
+  {
+   "role": "상태",
+   "name": "박대원"
+  },
+  {
+   "role": "미숙 외",
+   "name": "임찬민"
+  },
+  {
+   "role": "다인",
+   "name": "안지환"
+  },
+  {
+   "role": "수현",
+   "name": "유동훈"
+  },
+  {
+   "role": "",
+   "name": "황재업"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250516213833/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=126532"
+ }
+}

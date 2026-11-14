@@ -1,0 +1,104 @@
+{
+ "id": "TM1504",
+ "title": "남한산성",
+ "genre": "뮤지컬",
+ "from": "2009-10-09",
+ "to": "2009-11-04",
+ "venue": "성남아트센터 오페라하우스",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_namhan2009.JPG",
+ "cast": [
+  "이필모",
+  "김수용",
+  "배해선",
+  "이정열",
+  "예성",
+  "임강희",
+  "서범석",
+  "성기윤",
+  "손광업",
+  "강신일",
+  "오상원",
+  "김경선",
+  "이훈진",
+  "함태영",
+  "김현아",
+  "박도연"
+ ],
+ "state": "공연완료",
+ "producer": "(재)성남문화재단, 인터파크INT",
+ "price": "VIP석(R석+식사) 11만원 / R석 7만7천원 / S석 5만5천원 / A석 3만3천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "오달제",
+   "name": "이필모"
+  },
+  {
+   "role": "오달제",
+   "name": "김수용"
+  },
+  {
+   "role": "매향",
+   "name": "배해선"
+  },
+  {
+   "role": "정명수",
+   "name": "이정열"
+  },
+  {
+   "role": "정명수",
+   "name": "예성"
+  },
+  {
+   "role": "남씨",
+   "name": "임강희"
+  },
+  {
+   "role": "홍타이지",
+   "name": "서범석"
+  },
+  {
+   "role": "인조",
+   "name": "성기윤"
+  },
+  {
+   "role": "김상헌",
+   "name": "손광업"
+  },
+  {
+   "role": "최명길",
+   "name": "강신일"
+  },
+  {
+   "role": "최명길",
+   "name": "오상원"
+  },
+  {
+   "role": "순금이",
+   "name": "김경선"
+  },
+  {
+   "role": "서흔남",
+   "name": "이훈진"
+  },
+  {
+   "role": "용골대",
+   "name": "함태영"
+  },
+  {
+   "role": "초홍",
+   "name": "김현아"
+  },
+  {
+   "role": "나루",
+   "name": "박도연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1504"
+ }
+}

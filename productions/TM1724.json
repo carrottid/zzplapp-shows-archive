@@ -1,0 +1,99 @@
+{
+ "id": "TM1724",
+ "title": "환상의 커플",
+ "genre": "뮤지컬",
+ "from": "2011-05-10",
+ "to": "2011-07-30",
+ "venue": "동숭아트센터 동숭홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2011couple.jpg",
+ "cast": [
+  "신주연",
+  "이가은",
+  "김수용",
+  "김보강",
+  "이창원",
+  "정성일",
+  "박소향",
+  "김동규",
+  "강신혜",
+  "김지현",
+  "문슬아",
+  "유상아",
+  "이상민",
+  "최의혁",
+  "송정현"
+ ],
+ "state": "공연완료",
+ "producer": "MBC 문화방송",
+ "price": "S석 5만원 / A석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "안나조/나상실",
+   "name": "신주연"
+  },
+  {
+   "role": "안나조/나상실",
+   "name": "이가은"
+  },
+  {
+   "role": "장철수",
+   "name": "김수용"
+  },
+  {
+   "role": "장철수",
+   "name": "김보강"
+  },
+  {
+   "role": "빌리박",
+   "name": "이창원"
+  },
+  {
+   "role": "빌리박",
+   "name": "정성일"
+  },
+  {
+   "role": "오유경",
+   "name": "박소향"
+  },
+  {
+   "role": "공실장",
+   "name": "김동규"
+  },
+  {
+   "role": "강자",
+   "name": "강신혜"
+  },
+  {
+   "role": "리조트직원/환자/계주",
+   "name": "김지현"
+  },
+  {
+   "role": "리조트직원/간호사1/근영",
+   "name": "문슬아"
+  },
+  {
+   "role": "리조트직원/간호사2/슈퍼주인",
+   "name": "유상아"
+  },
+  {
+   "role": "리조트직원/덕구/공무원",
+   "name": "이상민"
+  },
+  {
+   "role": "리조트직원/환자1/근석",
+   "name": "최의혁"
+  },
+  {
+   "role": "리조트직원/환자2/배달원",
+   "name": "송정현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1724"
+ }
+}

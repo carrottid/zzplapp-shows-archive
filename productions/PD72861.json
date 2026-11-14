@@ -1,0 +1,61 @@
+{
+ "id": "PD72861",
+ "title": "3월의 눈",
+ "genre": "연극",
+ "from": "2015-03-13",
+ "to": "2015-03-29",
+ "venue": "국립극장 달오름극장",
+ "cast": [
+  "신구",
+  "손숙",
+  "김정호",
+  "김정은",
+  "이종무",
+  "박수영",
+  "김수연",
+  "황선화"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "장오",
+   "name": "신구"
+  },
+  {
+   "role": "이순",
+   "name": "손숙"
+  },
+  {
+   "role": "용철",
+   "name": "김정호"
+  },
+  {
+   "role": "명서",
+   "name": "김정은"
+  },
+  {
+   "role": "황씨",
+   "name": "이종무"
+  },
+  {
+   "role": "상구",
+   "name": "박수영"
+  },
+  {
+   "role": "",
+   "name": "김수연"
+  },
+  {
+   "role": "",
+   "name": "황선화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200804002155/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=72861"
+ }
+}

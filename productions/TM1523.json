@@ -1,0 +1,109 @@
+{
+ "id": "TM1523",
+ "title": "테너를 빌려줘",
+ "genre": "뮤지컬",
+ "from": "2009-12-03",
+ "to": "2010-03-07",
+ "venue": "원더스페이스 네모극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_tenor2009.jpg",
+ "cast": [
+  "강상범",
+  "이영수",
+  "최윤호",
+  "정현수",
+  "추소영",
+  "허민희",
+  "김사라",
+  "이혜정",
+  "강유",
+  "문형주",
+  "임근아",
+  "장재호",
+  "김구택",
+  "이찬영",
+  "박상익",
+  "김경진",
+  "신상민"
+ ],
+ "state": "공연완료",
+ "producer": "제이유 컴퍼니",
+ "price": "일반 40,000원 | 학생 30,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "막스",
+   "name": "강상범"
+  },
+  {
+   "role": "막스",
+   "name": "이영수"
+  },
+  {
+   "role": "티토",
+   "name": "최윤호"
+  },
+  {
+   "role": "티토",
+   "name": "정현수"
+  },
+  {
+   "role": "메기",
+   "name": "추소영"
+  },
+  {
+   "role": "메기",
+   "name": "허민희"
+  },
+  {
+   "role": "메기",
+   "name": "김사라"
+  },
+  {
+   "role": "다이아나",
+   "name": "이혜정"
+  },
+  {
+   "role": "다이아나",
+   "name": "강유"
+  },
+  {
+   "role": "마리아",
+   "name": "문형주"
+  },
+  {
+   "role": "마리아",
+   "name": "임근아"
+  },
+  {
+   "role": "손델스",
+   "name": "장재호"
+  },
+  {
+   "role": "손델스",
+   "name": "김구택"
+  },
+  {
+   "role": "손델스",
+   "name": "이찬영"
+  },
+  {
+   "role": "프랭크",
+   "name": "박상익"
+  },
+  {
+   "role": "프랭크",
+   "name": "김경진"
+  },
+  {
+   "role": "프랭크",
+   "name": "신상민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1523"
+ }
+}

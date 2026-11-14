@@ -1,0 +1,61 @@
+{
+ "id": "PD22214",
+ "title": "나는 너다",
+ "genre": "연극",
+ "from": "2011-05-17",
+ "to": "2011-06-06",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "이경구",
+  "송일국",
+  "박정자",
+  "배해선",
+  "한명구",
+  "황윤선",
+  "황기석",
+  "정태성"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "류동하",
+   "name": "이경구"
+  },
+  {
+   "role": "",
+   "name": "송일국"
+  },
+  {
+   "role": "",
+   "name": "박정자"
+  },
+  {
+   "role": "",
+   "name": "배해선"
+  },
+  {
+   "role": "",
+   "name": "한명구"
+  },
+  {
+   "role": "",
+   "name": "황윤선"
+  },
+  {
+   "role": "",
+   "name": "황기석"
+  },
+  {
+   "role": "",
+   "name": "정태성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230906043959/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=22214"
+ }
+}

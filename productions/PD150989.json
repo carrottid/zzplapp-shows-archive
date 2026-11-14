@@ -1,0 +1,31 @@
+{
+ "id": "PD150989",
+ "title": "산책자의 행복",
+ "genre": "연극",
+ "from": "2019-11-08",
+ "to": "2019-11-17",
+ "venue": "삼일로 창고극장",
+ "cast": [
+  "김정",
+  "황은후"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "미영(라오슈)",
+   "name": "김정"
+  },
+  {
+   "role": "메이린",
+   "name": "황은후"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20211130080840/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=150989"
+ }
+}

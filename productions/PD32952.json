@@ -1,0 +1,61 @@
+{
+ "id": "PD32952",
+ "title": "인물실록 봉달수",
+ "genre": "연극",
+ "from": "2012-03-03",
+ "to": "2012-03-18",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "송영창",
+  "윤주상",
+  "김로사",
+  "함수정",
+  "박기산",
+  "정재연",
+  "석재형",
+  "김경민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "봉달수",
+   "name": "송영창"
+  },
+  {
+   "role": "봉달수",
+   "name": "윤주상"
+  },
+  {
+   "role": "신소정",
+   "name": "김로사"
+  },
+  {
+   "role": "신소정",
+   "name": "함수정"
+  },
+  {
+   "role": "황비서",
+   "name": "박기산"
+  },
+  {
+   "role": "아내",
+   "name": "정재연"
+  },
+  {
+   "role": "청년봉달수",
+   "name": "석재형"
+  },
+  {
+   "role": "인혜",
+   "name": "김경민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200812155953/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=32952"
+ }
+}

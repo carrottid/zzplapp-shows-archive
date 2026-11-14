@@ -1,0 +1,44 @@
+{
+ "id": "TM2001",
+ "title": "구텐버그",
+ "genre": "뮤지컬",
+ "from": "2013-08-31",
+ "to": "2013-11-10",
+ "venue": "충무아트홀 중극장 블랙",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_gutenberg2013.jpg",
+ "cast": [
+  "송용진",
+  "정상훈",
+  "정원영",
+  "장승조(장현덕)"
+ ],
+ "state": "공연완료",
+ "producer": "쇼노트, CJ E&M",
+ "price": "R석 55,000 / S석 44,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "버드",
+   "name": "송용진"
+  },
+  {
+   "role": "버드",
+   "name": "정상훈"
+  },
+  {
+   "role": "더그",
+   "name": "정원영"
+  },
+  {
+   "role": "더그",
+   "name": "장승조(장현덕)"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2001"
+ }
+}

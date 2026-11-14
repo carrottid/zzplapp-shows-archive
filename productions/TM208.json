@@ -1,0 +1,53 @@
+{
+ "id": "TM208",
+ "title": "브로드웨이 42번가",
+ "genre": "뮤지컬",
+ "from": "2004-11-06",
+ "to": "2005-02-26",
+ "venue": "팝콘하우스",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_420.jpg",
+ "cast": [
+  "박해미",
+  "전수경",
+  "김법래",
+  "전수미",
+  "이승철",
+  "김미혜"
+ ],
+ "state": "공연완료",
+ "producer": "이룸ENT",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "도로시",
+   "name": "박해미"
+  },
+  {
+   "role": "도로시",
+   "name": "전수경"
+  },
+  {
+   "role": "도로시",
+   "name": "김법래"
+  },
+  {
+   "role": "도로시",
+   "name": "전수미"
+  },
+  {
+   "role": "줄리안",
+   "name": "이승철"
+  },
+  {
+   "role": "줄리안",
+   "name": "김미혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=208"
+ }
+}

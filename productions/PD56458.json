@@ -1,0 +1,66 @@
+{
+ "id": "PD56458",
+ "title": "베르테르 - 부산",
+ "genre": "뮤지컬",
+ "from": "2014-01-25",
+ "to": "2014-01-26",
+ "venue": "부산시민회관 대극장",
+ "cast": [
+  "임태경",
+  "엄기준",
+  "전미도",
+  "이지혜",
+  "이상현",
+  "양준모",
+  "최나래",
+  "이승재",
+  "김경하"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "베르테르",
+   "name": "임태경"
+  },
+  {
+   "role": "베르테르",
+   "name": "엄기준"
+  },
+  {
+   "role": "롯데",
+   "name": "전미도"
+  },
+  {
+   "role": "롯데",
+   "name": "이지혜"
+  },
+  {
+   "role": "알베르트",
+   "name": "이상현"
+  },
+  {
+   "role": "알베르트",
+   "name": "양준모"
+  },
+  {
+   "role": "오르카",
+   "name": "최나래"
+  },
+  {
+   "role": "카인즈",
+   "name": "이승재"
+  },
+  {
+   "role": "캐시",
+   "name": "김경하"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171025112555/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=56458"
+ }
+}

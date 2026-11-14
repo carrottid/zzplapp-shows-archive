@@ -1,0 +1,58 @@
+{
+ "id": "TM567",
+ "title": "청산별곡",
+ "genre": "뮤지컬",
+ "from": "2000-06-08",
+ "to": "2000-06-11",
+ "venue": "예술의전당 토월극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_청산.bmp",
+ "cast": [
+  "정유희",
+  "안재홍",
+  "최병규",
+  "민병상",
+  "김윤태",
+  "조정근",
+  "배성일"
+ ],
+ "state": "공연완료",
+ "producer": "서울예술단",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "사슴",
+   "name": "정유희"
+  },
+  {
+   "role": "사슴",
+   "name": "안재홍"
+  },
+  {
+   "role": "사슴",
+   "name": "최병규"
+  },
+  {
+   "role": "악사",
+   "name": "민병상"
+  },
+  {
+   "role": "재주꾼",
+   "name": "김윤태"
+  },
+  {
+   "role": "재주꾼",
+   "name": "조정근"
+  },
+  {
+   "role": "재주꾼",
+   "name": "배성일"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=567"
+ }
+}

@@ -1,0 +1,649 @@
+{
+ "date": "2022-10-21",
+ "sessions": [
+  {
+   "id": "PF194642",
+   "title": "엘리자벳 10주년 기념공연",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#041948",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF194176",
+   "title": "미세스 다웃파이어",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "14:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#018CE5",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF195918",
+   "title": "트루웨스트",
+   "genre": "연극",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "15:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#533119",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF198575",
+   "title": "눈을 뜻하는 수백 가지 단어들 (앵콜)",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#546D92",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF197464",
+   "title": "트레드밀",
+   "genre": "뮤지컬",
+   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF197973",
+   "title": "제7회 단단페스티벌",
+   "genre": "연극",
+   "venue": "소극장 혜화당 (구. 까망소극장)",
+   "time": "18:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#4496A1",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF194642",
+   "title": "엘리자벳 10주년 기념공연",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#041948",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF197771",
+   "title": "가면산장 살인사건",
+   "genre": "연극",
+   "venue": "이화여자대학교 삼성홀",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#215A2F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF197237",
+   "title": "금란방",
+   "genre": "뮤지컬",
+   "venue": "국립정동극장",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#250E14",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF194477",
+   "title": "두 교황",
+   "genre": "연극",
+   "venue": "한전아트센터",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#899929",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF196216",
+   "title": "러브레터",
+   "genre": "연극",
+   "venue": "예술의전당 [서울] (자유소극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#6A3F48",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF195242",
+   "title": "마틸다",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#000D20",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF196200",
+   "title": "모딜리아니",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#632227",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF194176",
+   "title": "미세스 다웃파이어",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#018CE5",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF196257",
+   "title": "볼륨업",
+   "genre": "뮤지컬",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#435C77",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF195029",
+   "title": "사랑의 불시착",
+   "genre": "뮤지컬",
+   "venue": "코엑스아티움(Coex Artium)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#394114",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF195631",
+   "title": "삼총사",
+   "genre": "뮤지컬",
+   "venue": "유니버설아트센터",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#111E39",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF193042",
+   "title": "서편제",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#8D595A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF197707",
+   "title": "세인트 조앤",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF194109",
+   "title": "어차피 혼자",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#635E5B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF199893",
+   "title": "유라시아셰익스피어극단(ESTC), 로미오와 줄리엣",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (1관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#020204",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF195278",
+   "title": "일의 기쁨과 슬픔",
+   "genre": "연극",
+   "venue": "세종문화회관 (세종M씨어터)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#E203D6",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF198509",
+   "title": "제12회 서울미래연극제, 차마, 차가워질 수 없는 온도",
+   "genre": "연극",
+   "venue": "홍익대 대학로 아트센터 (소극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#D43111",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF198966",
+   "title": "제22회 SPAF, 땡큐 돈키호테",
+   "genre": "연극",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF197607",
+   "title": "제22회 SPAF, 부재자들의 회의",
+   "genre": "연극",
+   "venue": "대학로예술극장 (소극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#1F5C44",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF197408",
+   "title": "제4회 말모이연극제, 전라도 편: 우리집",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF198246",
+   "title": "추적",
+   "genre": "연극",
+   "venue": "SH아트홀",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#141612",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF196503",
+   "title": "콰르텟 (Quartat)",
+   "genre": "뮤지컬",
+   "venue": "열린극장",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#7A3A60",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF191916",
+   "title": "킹키부츠",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#AA3C3B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF195918",
+   "title": "트루웨스트",
+   "genre": "연극",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#533119",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF197894",
+   "title": "히스토리 보이즈",
+   "genre": "연극",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#8A5E22",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF195335",
+   "title": "82년생 김지영",
+   "genre": "연극",
+   "venue": "백암아트홀",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#745E88",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF199260",
+   "title": "농장동물",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#4C685D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF198575",
+   "title": "눈을 뜻하는 수백 가지 단어들 (앵콜)",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#546D92",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF196620",
+   "title": "디어 마이 라이카",
+   "genre": "뮤지컬",
+   "venue": "KT&G 상상마당 대치아트홀",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#010E23",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF195467",
+   "title": "라흐 헤스트",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#87645E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF198620",
+   "title": "랭보",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#17191D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF195632",
+   "title": "배니싱",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#010101",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF196199",
+   "title": "브론테",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#784E50",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF196545",
+   "title": "아트 (ART)",
+   "genre": "연극",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#7B6A6E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF194484",
+   "title": "안나, 차이코프스키",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#231E0C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF195334",
+   "title": "오만과 편견",
+   "genre": "연극",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#4E5F7E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF197821",
+   "title": "욕조연극",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#000C2F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF197458",
+   "title": "웰컴 대학로, 미아 파밀리아",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0A0F12",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF197671",
+   "title": "웰컴 대학로, 브람스",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#8F6247",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF199147",
+   "title": "윙키",
+   "genre": "연극",
+   "venue": "나온씨어터",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF197001",
+   "title": "인간의 법정",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1B24CA",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF196805",
+   "title": "제22회 SPAF, 섬 이야기",
+   "genre": "연극",
+   "venue": "아르코예술극장 (대극장)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#4F6E7B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF198565",
+   "title": "제7회 늘푸른연극제, 겹괴기담",
+   "genre": "연극",
+   "venue": "더 줌 아트센터",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF195257",
+   "title": "클림트",
+   "genre": "뮤지컬",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#615E56",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF197464",
+   "title": "트레드밀",
+   "genre": "뮤지컬",
+   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF198114",
+   "title": "한남韓男의 광시곡狂詩曲 (K-Men’s Rhapsody)",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF196113",
+   "title": "헤르츠클란",
+   "genre": "연극",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#3B1F2B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF199188",
+   "title": "혜화동1번지 7기동인 가을페스티벌, 부유한 극장",
+   "genre": "연극",
+   "venue": "연극실험실 혜화동1번지",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF197973",
+   "title": "제7회 단단페스티벌",
+   "genre": "연극",
+   "venue": "소극장 혜화당 (구. 까망소극장)",
+   "time": "20:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#4496A1",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF196259",
+   "title": "에곤 실레",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "21:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#CB451B",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

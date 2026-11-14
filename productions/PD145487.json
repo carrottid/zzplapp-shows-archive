@@ -1,0 +1,46 @@
+{
+ "id": "PD145487",
+ "title": "비",
+ "genre": "연극",
+ "from": "2019-09-03",
+ "to": "2019-10-03",
+ "venue": "콘텐츠 그라운드(구 브로드웨이 아트홀 3관)",
+ "cast": [
+  "백은혜",
+  "최하윤",
+  "정수영",
+  "조상웅",
+  "강승호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "비",
+   "name": "백은혜"
+  },
+  {
+   "role": "비",
+   "name": "최하윤"
+  },
+  {
+   "role": "캐더린",
+   "name": "정수영"
+  },
+  {
+   "role": "레이",
+   "name": "조상웅"
+  },
+  {
+   "role": "레이",
+   "name": "강승호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210118172637/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=145487"
+ }
+}

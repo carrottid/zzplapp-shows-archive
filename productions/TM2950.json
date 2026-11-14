@@ -1,0 +1,94 @@
+{
+ "id": "TM2950",
+ "title": "올 아이즈 온 미",
+ "genre": "뮤지컬",
+ "from": "2020-05-28",
+ "to": "2020-07-19",
+ "venue": "유니플렉스 1관",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202003041121304319f6c76d9542e7a4bf4d0575cc15c6.jpg",
+ "cast": [
+  "소냐",
+  "문혜원",
+  "김용진",
+  "정인성",
+  "레디",
+  "윤비",
+  "서동진",
+  "이민재",
+  "염승윤",
+  "백승리",
+  "최희재",
+  "박온",
+  "양병철",
+  "김민정"
+ ],
+ "state": "공연완료",
+ "producer": "링크컴퍼니엔서울, 컬처박스",
+ "price": "VIP석 8만 원/R석 7만 원/S석 6만 원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "비올렌티아",
+   "name": "소냐"
+  },
+  {
+   "role": "비올렌티아",
+   "name": "문혜원"
+  },
+  {
+   "role": "로카",
+   "name": "김용진"
+  },
+  {
+   "role": "로카",
+   "name": "정인성"
+  },
+  {
+   "role": "킬라 B",
+   "name": "레디"
+  },
+  {
+   "role": "킬라 B",
+   "name": "윤비"
+  },
+  {
+   "role": "데스페라도스",
+   "name": "서동진"
+  },
+  {
+   "role": "데스페라도스",
+   "name": "이민재"
+  },
+  {
+   "role": "데스페라도스",
+   "name": "염승윤"
+  },
+  {
+   "role": "데스페라도스",
+   "name": "백승리"
+  },
+  {
+   "role": "데스페라도스",
+   "name": "최희재"
+  },
+  {
+   "role": "데스페라도스",
+   "name": "박온"
+  },
+  {
+   "role": "데스페라도스",
+   "name": "양병철"
+  },
+  {
+   "role": "데스페라도스",
+   "name": "김민정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2950"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "id": "TM1963",
+ "title": "윤동주, 달을 쏘다.",
+ "genre": "뮤지컬",
+ "from": "2013-05-06",
+ "to": "2013-05-12",
+ "venue": "예술의전당 CJ토월극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013yoon.jpg",
+ "cast": [
+  "김수용",
+  "박영수",
+  "김도빈",
+  "이시후",
+  "김백현",
+  "하은서"
+ ],
+ "state": "공연완료",
+ "producer": "서울예술단",
+ "price": "R석 80,000원/ S석 60,000원/ A석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "윤동주",
+   "name": "김수용"
+  },
+  {
+   "role": "윤동주",
+   "name": "박영수"
+  },
+  {
+   "role": "송몽규",
+   "name": "김도빈"
+  },
+  {
+   "role": "강처중",
+   "name": "이시후"
+  },
+  {
+   "role": "정병욱",
+   "name": "김백현"
+  },
+  {
+   "role": "이선화",
+   "name": "하은서"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1963"
+ }
+}

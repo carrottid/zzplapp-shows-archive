@@ -1,0 +1,56 @@
+{
+ "id": "PD58675",
+ "title": "젊은 후시딘",
+ "genre": "연극",
+ "from": "2014-02-21",
+ "to": "2014-03-02",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "곽동현",
+  "이필주",
+  "임정희",
+  "김효영",
+  "이정호",
+  "전선우",
+  "정양아"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "국회의원, 노숙인",
+   "name": "곽동현"
+  },
+  {
+   "role": "젊은 후시딘",
+   "name": "이필주"
+  },
+  {
+   "role": "후시딘 엄마",
+   "name": "임정희"
+  },
+  {
+   "role": "후시딘 아빠",
+   "name": "김효영"
+  },
+  {
+   "role": "앳된 신신파스",
+   "name": "이정호"
+  },
+  {
+   "role": "앳된 마데카솔",
+   "name": "전선우"
+  },
+  {
+   "role": "",
+   "name": "정양아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622221151/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=58675"
+ }
+}

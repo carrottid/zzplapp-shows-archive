@@ -1,0 +1,51 @@
+{
+ "id": "PD128375",
+ "title": "사랑에 관한 세개의 소묘",
+ "genre": "연극",
+ "from": "2018-07-26",
+ "to": "2018-07-29",
+ "venue": "후암스테이지",
+ "cast": [
+  "이신아",
+  "이현주",
+  "유학승",
+  "박기륭",
+  "신승용",
+  "정제우"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아내",
+   "name": "이신아"
+  },
+  {
+   "role": "아내",
+   "name": "이현주"
+  },
+  {
+   "role": "남편",
+   "name": "유학승"
+  },
+  {
+   "role": "남편",
+   "name": "박기륭"
+  },
+  {
+   "role": "남편",
+   "name": "신승용"
+  },
+  {
+   "role": "남편",
+   "name": "정제우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260214125650/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=128375"
+ }
+}

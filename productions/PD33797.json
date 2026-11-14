@@ -1,0 +1,51 @@
+{
+ "id": "PD33797",
+ "title": "복사꽃 지면 송화 날리고",
+ "genre": "연극",
+ "from": "2012-04-07",
+ "to": "2012-04-15",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "박용수",
+  "우미화",
+  "정인겸",
+  "염혜란",
+  "조주현",
+  "최정화"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아버지",
+   "name": "박용수"
+  },
+  {
+   "role": "어머니",
+   "name": "우미화"
+  },
+  {
+   "role": "아들",
+   "name": "정인겸"
+  },
+  {
+   "role": "서면댁",
+   "name": "염혜란"
+  },
+  {
+   "role": "박상사",
+   "name": "조주현"
+  },
+  {
+   "role": "고모",
+   "name": "최정화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250908035417/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=33797"
+ }
+}

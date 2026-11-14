@@ -1,0 +1,49 @@
+{
+ "id": "TM1432",
+ "title": "샤우트",
+ "genre": "뮤지컬",
+ "from": "2009-04-24",
+ "to": "2009-05-05",
+ "venue": "스타시티 1관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_shout.jpg",
+ "cast": [
+  "홍미옥",
+  "김봄",
+  "김민주",
+  "최우리",
+  "송희영"
+ ],
+ "state": "공연완료",
+ "producer": "(주)인스리아",
+ "price": "전석 35,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "그린걸",
+   "name": "홍미옥"
+  },
+  {
+   "role": "옐로우걸",
+   "name": "김봄"
+  },
+  {
+   "role": "블루걸",
+   "name": "김민주"
+  },
+  {
+   "role": "오렌지걸",
+   "name": "최우리"
+  },
+  {
+   "role": "레드걸",
+   "name": "송희영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1432"
+ }
+}

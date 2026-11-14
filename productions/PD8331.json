@@ -1,0 +1,71 @@
+{
+ "id": "PD8331",
+ "title": "밑바닥에서",
+ "genre": "연극",
+ "from": "2009-02-14",
+ "to": "2009-03-22",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "김수로",
+  "차정환",
+  "엄기준",
+  "한동규",
+  "곽다경",
+  "강경헌",
+  "채윤서",
+  "조연진",
+  "이윤재",
+  "김정익"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "페펠",
+   "name": "김수로"
+  },
+  {
+   "role": "페펠",
+   "name": "차정환"
+  },
+  {
+   "role": "사틴",
+   "name": "엄기준"
+  },
+  {
+   "role": "사틴",
+   "name": "한동규"
+  },
+  {
+   "role": "바실리사",
+   "name": "곽다경"
+  },
+  {
+   "role": "바실리사",
+   "name": "강경헌"
+  },
+  {
+   "role": "나타샤",
+   "name": "채윤서"
+  },
+  {
+   "role": "나타샤",
+   "name": "조연진"
+  },
+  {
+   "role": "코스틸료프",
+   "name": "이윤재"
+  },
+  {
+   "role": "부브노프",
+   "name": "김정익"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20190717233144/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=8331"
+ }
+}

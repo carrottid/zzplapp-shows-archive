@@ -1,0 +1,61 @@
+{
+ "id": "PD94885",
+ "title": "민초",
+ "genre": "연극",
+ "from": "2016-06-29",
+ "to": "2016-07-03",
+ "venue": "나온 씨어터",
+ "cast": [
+  "김봉조",
+  "문진식",
+  "곽두환",
+  "강윤경",
+  "황재열",
+  "태항호",
+  "윤진하",
+  "박진성"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "만덕",
+   "name": "김봉조"
+  },
+  {
+   "role": "만식",
+   "name": "문진식"
+  },
+  {
+   "role": "상태",
+   "name": "곽두환"
+  },
+  {
+   "role": "옥분",
+   "name": "강윤경"
+  },
+  {
+   "role": "조병갑",
+   "name": "황재열"
+  },
+  {
+   "role": "포졸",
+   "name": "태항호"
+  },
+  {
+   "role": "포졸",
+   "name": "윤진하"
+  },
+  {
+   "role": "",
+   "name": "박진성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240621043136/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=94885"
+ }
+}

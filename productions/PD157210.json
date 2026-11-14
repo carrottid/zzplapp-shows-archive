@@ -1,0 +1,86 @@
+{
+ "id": "PD157210",
+ "title": "공주들 2020",
+ "genre": "연극",
+ "from": "2020-06-09",
+ "to": "2020-06-14",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "강주희",
+  "고용선",
+  "권주영",
+  "김보경",
+  "김선기",
+  "김정화",
+  "김해미",
+  "김현규",
+  "남선희",
+  "민현기",
+  "양정윤",
+  "이강호",
+  "박미르"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "소공주",
+   "name": "강주희"
+  },
+  {
+   "role": "왕공주",
+   "name": "고용선"
+  },
+  {
+   "role": "차공주",
+   "name": "권주영"
+  },
+  {
+   "role": "변공주",
+   "name": "김보경"
+  },
+  {
+   "role": "방공주",
+   "name": "김선기"
+  },
+  {
+   "role": "고공주",
+   "name": "김정화"
+  },
+  {
+   "role": "",
+   "name": "김해미"
+  },
+  {
+   "role": "",
+   "name": "김현규"
+  },
+  {
+   "role": "",
+   "name": "남선희"
+  },
+  {
+   "role": "",
+   "name": "민현기"
+  },
+  {
+   "role": "",
+   "name": "양정윤"
+  },
+  {
+   "role": "",
+   "name": "이강호"
+  },
+  {
+   "role": "",
+   "name": "박미르"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20221208122114/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=157210"
+ }
+}

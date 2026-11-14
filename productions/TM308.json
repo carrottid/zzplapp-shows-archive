@@ -1,0 +1,33 @@
+{
+ "id": "TM308",
+ "title": "펑키펑키",
+ "genre": "뮤지컬",
+ "from": "2004-10-01",
+ "to": "2005-02-27",
+ "venue": "펑키하우스",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_0323301.gif",
+ "cast": [
+  "전성우",
+  "최가인"
+ ],
+ "state": "공연완료",
+ "producer": "쇼비티",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "몽이",
+   "name": "전성우"
+  },
+  {
+   "role": "몽이",
+   "name": "최가인"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=308"
+ }
+}

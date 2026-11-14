@@ -1,0 +1,59 @@
+{
+ "id": "TM280",
+ "title": "뮤직 인 마이 하트",
+ "genre": "뮤지컬",
+ "from": "2005-09-07",
+ "to": "2005-12-31",
+ "venue": "PMC대학로자유극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_05002827.gif",
+ "cast": [
+  "한애리",
+  "안신우",
+  "임기홍",
+  "백주희",
+  "이건영",
+  "최보영",
+  "안유진"
+ ],
+ "state": "공연완료",
+ "producer": "PMC",
+ "price": "전석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "이민아",
+   "name": "한애리"
+  },
+  {
+   "role": "이민아",
+   "name": "안신우"
+  },
+  {
+   "role": "이민아",
+   "name": "임기홍"
+  },
+  {
+   "role": "이민아",
+   "name": "백주희"
+  },
+  {
+   "role": "이민아",
+   "name": "이건영"
+  },
+  {
+   "role": "이민아",
+   "name": "최보영"
+  },
+  {
+   "role": "이민아",
+   "name": "안유진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=280"
+ }
+}

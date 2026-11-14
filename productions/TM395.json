@@ -1,0 +1,33 @@
+{
+ "id": "TM395",
+ "title": "라스트 파이브 이어스",
+ "genre": "뮤지컬",
+ "from": "2003-03-28",
+ "to": "2003-04-27",
+ "venue": "예술의전당 자유소극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_last.jpg",
+ "cast": [
+  "성기윤",
+  "이혜경"
+ ],
+ "state": "공연완료",
+ "producer": "신시뮤지컬컴퍼니",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "제이미",
+   "name": "성기윤"
+  },
+  {
+   "role": "제이미",
+   "name": "이혜경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=395"
+ }
+}

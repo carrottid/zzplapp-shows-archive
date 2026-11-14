@@ -1,0 +1,66 @@
+{
+ "id": "PD111816",
+ "title": "라빠르트망",
+ "genre": "연극",
+ "from": "2017-10-18",
+ "to": "2017-11-05",
+ "venue": "LG아트센터 서울",
+ "cast": [
+  "오지호",
+  "김주원",
+  "김소진",
+  "장소연",
+  "조영규",
+  "이정훈",
+  "조영선",
+  "배보람",
+  "김용래"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "막스",
+   "name": "오지호"
+  },
+  {
+   "role": "리자",
+   "name": "김주원"
+  },
+  {
+   "role": "앨리스",
+   "name": "김소진"
+  },
+  {
+   "role": "뮤리엘",
+   "name": "장소연"
+  },
+  {
+   "role": "루시앙",
+   "name": "조영규"
+  },
+  {
+   "role": "다니엘",
+   "name": "이정훈"
+  },
+  {
+   "role": "",
+   "name": "조영선"
+  },
+  {
+   "role": "",
+   "name": "배보람"
+  },
+  {
+   "role": "",
+   "name": "김용래"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251010023430/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=111816"
+ }
+}

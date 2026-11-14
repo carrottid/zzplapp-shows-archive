@@ -1,0 +1,74 @@
+{
+ "id": "TM810",
+ "title": "바람의 나라",
+ "genre": "뮤지컬",
+ "from": "2007-05-05",
+ "to": "2007-05-25",
+ "venue": "예술의전당 토월극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_br2007.jpg",
+ "cast": [
+  "고영빈",
+  "홍경수",
+  "문예신",
+  "김호영",
+  "도정주",
+  "김혜원",
+  "여정옥",
+  "신영숙",
+  "김산호",
+  "이채경"
+ ],
+ "state": "공연완료",
+ "producer": "서울예술단",
+ "price": "R석 6만원 / S석 5만원 / A석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "무휼",
+   "name": "고영빈"
+  },
+  {
+   "role": "해명",
+   "name": "홍경수"
+  },
+  {
+   "role": "해명",
+   "name": "문예신"
+  },
+  {
+   "role": "호동",
+   "name": "김호영"
+  },
+  {
+   "role": "이지",
+   "name": "도정주"
+  },
+  {
+   "role": "연",
+   "name": "김혜원"
+  },
+  {
+   "role": "연",
+   "name": "여정옥"
+  },
+  {
+   "role": "세류",
+   "name": "신영숙"
+  },
+  {
+   "role": "괴유",
+   "name": "김산호"
+  },
+  {
+   "role": "가희",
+   "name": "이채경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=810"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "id": "PD90717",
+ "title": "연옥",
+ "genre": "연극",
+ "from": "2016-04-22",
+ "to": "2016-05-15",
+ "venue": "예그린씨어터",
+ "cast": [
+  "박성연",
+  "최자연",
+  "최주현",
+  "김신록",
+  "박현지",
+  "손산",
+  "이도엽",
+  "김지수",
+  "임준식",
+  "김승기",
+  "고동옥",
+  "김민수"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "여자",
+   "name": "박성연"
+  },
+  {
+   "role": "여자",
+   "name": "최자연"
+  },
+  {
+   "role": "여자",
+   "name": "최주현"
+  },
+  {
+   "role": "여자",
+   "name": "김신록"
+  },
+  {
+   "role": "",
+   "name": "박현지"
+  },
+  {
+   "role": "",
+   "name": "손산"
+  },
+  {
+   "role": "남자",
+   "name": "이도엽"
+  },
+  {
+   "role": "남자",
+   "name": "김지수"
+  },
+  {
+   "role": "남자",
+   "name": "임준식"
+  },
+  {
+   "role": "남자",
+   "name": "김승기"
+  },
+  {
+   "role": "",
+   "name": "고동옥"
+  },
+  {
+   "role": "",
+   "name": "김민수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20200812113945/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=90717"
+ }
+}

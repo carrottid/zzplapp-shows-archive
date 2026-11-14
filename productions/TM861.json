@@ -1,0 +1,74 @@
+{
+ "id": "TM861",
+ "title": "미스터 마우스",
+ "genre": "뮤지컬",
+ "from": "2007-10-20",
+ "to": "2007-12-31",
+ "venue": "원더스페이스 (구 사다리아트센터) 네모극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_미스터마우스 (2)1.jpg",
+ "cast": [
+  "박호산",
+  "김태한",
+  "박홍주",
+  "신문성",
+  "박은영",
+  "이건영",
+  "박명훈",
+  "조찬희",
+  "이지송",
+  "유정은"
+ ],
+ "state": "공연완료",
+ "producer": "파파프로덕션",
+ "price": "일반 3만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "인후",
+   "name": "박호산"
+  },
+  {
+   "role": "인후",
+   "name": "김태한"
+  },
+  {
+   "role": "채연",
+   "name": "박홍주"
+  },
+  {
+   "role": "달궁이",
+   "name": "신문성"
+  },
+  {
+   "role": "권방장",
+   "name": "박은영"
+  },
+  {
+   "role": "박팀장",
+   "name": "이건영"
+  },
+  {
+   "role": "강박사",
+   "name": "박명훈"
+  },
+  {
+   "role": "짜짜루",
+   "name": "조찬희"
+  },
+  {
+   "role": "태호",
+   "name": "이지송"
+  },
+  {
+   "role": "양양이",
+   "name": "유정은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=861"
+ }
+}

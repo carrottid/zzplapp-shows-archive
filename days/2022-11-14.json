@@ -1,0 +1,41 @@
+{
+ "date": "2022-11-14",
+ "sessions": [
+  {
+   "id": "PF200392",
+   "title": "내 모든 걸",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF199060",
+   "title": "극동 시베리아 순례길",
+   "genre": "연극",
+   "venue": "국립극단 [용산] (백성희장민호극장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF201579",
+   "title": "리처드2세",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1F080A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF199695",
+   "title": "춘천 거기 for original",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "20:00",
+   "castSource": "none"
+  }
+ ]
+}

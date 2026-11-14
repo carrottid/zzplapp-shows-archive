@@ -1,0 +1,26 @@
+{
+ "id": "PD45007",
+ "title": "혈맥",
+ "genre": "연극",
+ "from": "2013-05-21",
+ "to": "2013-06-02",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "최우성"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "원팔",
+   "name": "최우성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170704013354/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=45007"
+ }
+}

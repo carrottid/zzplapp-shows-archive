@@ -1,0 +1,29 @@
+{
+ "id": "TM1575",
+ "title": "치어걸을 찾아서",
+ "genre": "뮤지컬",
+ "from": "2010-03-02",
+ "to": "2010-03-31",
+ "venue": "대학로 라이브극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_cheergirl2010.jpg",
+ "cast": [
+  "송용진"
+ ],
+ "state": "공연완료",
+ "producer": "㈜쇼팩, 음악창작단 해적",
+ "price": "전석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "선장",
+   "name": "송용진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1575"
+ }
+}

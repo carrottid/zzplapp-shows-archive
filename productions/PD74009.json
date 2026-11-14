@@ -1,0 +1,51 @@
+{
+ "id": "PD74009",
+ "title": "미래의 여름",
+ "genre": "연극",
+ "from": "2015-03-19",
+ "to": "2015-03-22",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "김희정",
+  "한송희",
+  "김미선",
+  "정도원",
+  "임영우",
+  "장세환"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "미래",
+   "name": "김희정"
+  },
+  {
+   "role": "동아",
+   "name": "한송희"
+  },
+  {
+   "role": "동아",
+   "name": "김미선"
+  },
+  {
+   "role": "석우",
+   "name": "정도원"
+  },
+  {
+   "role": "찬우",
+   "name": "임영우"
+  },
+  {
+   "role": "어른들",
+   "name": "장세환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20201120053828/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=74009"
+ }
+}

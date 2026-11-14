@@ -1,0 +1,56 @@
+{
+ "id": "PD11329",
+ "title": "너무 놀라지 마라 (앵콜)",
+ "genre": "연극",
+ "from": "2009-07-03",
+ "to": "2009-07-26",
+ "venue": "산울림 소극장",
+ "cast": [
+  "장영남",
+  "권방현",
+  "김주완",
+  "김영필",
+  "이규회",
+  "김동현",
+  "김범석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아내",
+   "name": "장영남"
+  },
+  {
+   "role": "아내",
+   "name": "권방현"
+  },
+  {
+   "role": "시동생",
+   "name": "김주완"
+  },
+  {
+   "role": "남편",
+   "name": "김영필"
+  },
+  {
+   "role": "시아버지",
+   "name": "이규회"
+  },
+  {
+   "role": "남자",
+   "name": "김동현"
+  },
+  {
+   "role": "남자",
+   "name": "김범석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170918111328/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=11329"
+ }
+}

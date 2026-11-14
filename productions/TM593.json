@@ -1,0 +1,58 @@
+{
+ "id": "TM593",
+ "title": "록키호러쇼",
+ "genre": "뮤지컬",
+ "from": "2003-11-21",
+ "to": "2003-12-31",
+ "venue": "폴리미디어 씨어터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_rocky20020.jpg",
+ "cast": [
+  "박재훈",
+  "김희원",
+  "오수인",
+  "이재영",
+  "김동현",
+  "김세진",
+  "차미리"
+ ],
+ "state": "공연완료",
+ "producer": "루트원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "닥터 프랑큰퍼트",
+   "name": "박재훈"
+  },
+  {
+   "role": "닥터 프랑큰퍼트",
+   "name": "김희원"
+  },
+  {
+   "role": "닥터 프랑큰퍼트",
+   "name": "오수인"
+  },
+  {
+   "role": "닥터 프랑큰퍼트",
+   "name": "이재영"
+  },
+  {
+   "role": "닥터 프랑큰퍼트",
+   "name": "김동현"
+  },
+  {
+   "role": "닥터 프랑큰퍼트",
+   "name": "김세진"
+  },
+  {
+   "role": "앙상블",
+   "name": "차미리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=593"
+ }
+}

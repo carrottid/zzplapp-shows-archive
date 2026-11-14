@@ -1,0 +1,76 @@
+{
+ "id": "PD63909",
+ "title": "망원동브라더스",
+ "genre": "연극",
+ "from": "2014-07-11",
+ "to": "2014-08-24",
+ "venue": "세실극장",
+ "cast": [
+  "권오율",
+  "신담수",
+  "송요셉",
+  "윤성원",
+  "이상훈",
+  "차명욱",
+  "임지완",
+  "서동주",
+  "송영재",
+  "이재영",
+  "문현영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "오영준",
+   "name": "권오율"
+  },
+  {
+   "role": "오영준",
+   "name": "신담수"
+  },
+  {
+   "role": "김부장",
+   "name": "송요셉"
+  },
+  {
+   "role": "김부장",
+   "name": "윤성원"
+  },
+  {
+   "role": "싸부",
+   "name": "이상훈"
+  },
+  {
+   "role": "싸부",
+   "name": "차명욱"
+  },
+  {
+   "role": "삼동이",
+   "name": "임지완"
+  },
+  {
+   "role": "삼동이",
+   "name": "서동주"
+  },
+  {
+   "role": "슈퍼할아버지",
+   "name": "송영재"
+  },
+  {
+   "role": "슈퍼할아버지",
+   "name": "이재영"
+  },
+  {
+   "role": "주연",
+   "name": "문현영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191112034742/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=63909"
+ }
+}

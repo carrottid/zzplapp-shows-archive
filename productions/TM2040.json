@@ -1,0 +1,89 @@
+{
+ "id": "TM2040",
+ "title": "공동경비구역 JSA",
+ "genre": "뮤지컬",
+ "from": "2013-12-07",
+ "to": "2013-12-15",
+ "venue": "대학로 뮤지컬 센터 공간 피꼴로",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013jsa.jpg",
+ "cast": [
+  "양준모",
+  "임현수",
+  "정상윤",
+  "강정우",
+  "최명경",
+  "이기섭",
+  "임철수",
+  "박종원",
+  "전범준",
+  "문남권",
+  "장웅희",
+  "최기언",
+  "이종원"
+ ],
+ "state": "공연완료",
+ "producer": "CenS 쎈스",
+ "price": "R석 30,000원 | S석 20,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "지그 베르사미",
+   "name": "양준모"
+  },
+  {
+   "role": "지그 베르사미",
+   "name": "임현수"
+  },
+  {
+   "role": "김수혁 병장",
+   "name": "정상윤"
+  },
+  {
+   "role": "김수혁 병장",
+   "name": "강정우"
+  },
+  {
+   "role": "오경필 중사",
+   "name": "최명경"
+  },
+  {
+   "role": "남성식 일병",
+   "name": "이기섭"
+  },
+  {
+   "role": "전우진 전사",
+   "name": "임철수"
+  },
+  {
+   "role": "강상훈/소대장",
+   "name": "박종원"
+  },
+  {
+   "role": "군의관/김형우",
+   "name": "전범준"
+  },
+  {
+   "role": "상위/군인",
+   "name": "문남권"
+  },
+  {
+   "role": "김형철/군인",
+   "name": "장웅희"
+  },
+  {
+   "role": "한국인작가/군인",
+   "name": "최기언"
+  },
+  {
+   "role": "군인",
+   "name": "이종원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2040"
+ }
+}

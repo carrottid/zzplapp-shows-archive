@@ -1,0 +1,81 @@
+{
+ "id": "PD119714",
+ "title": "무순 6년",
+ "genre": "연극",
+ "from": "2018-02-23",
+ "to": "2018-02-25",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "김은희",
+  "전중용",
+  "한윤춘",
+  "김대진",
+  "우정국",
+  "신용진",
+  "안영주",
+  "한상훈",
+  "김도완",
+  "윤광희",
+  "김상보",
+  "김호준"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "정연추",
+   "name": "김은희"
+  },
+  {
+   "role": "오구마",
+   "name": "전중용"
+  },
+  {
+   "role": "도이치",
+   "name": "한윤춘"
+  },
+  {
+   "role": "장웨이",
+   "name": "김대진"
+  },
+  {
+   "role": "헤밍웨이",
+   "name": "우정국"
+  },
+  {
+   "role": "학순창",
+   "name": "신용진"
+  },
+  {
+   "role": "",
+   "name": "안영주"
+  },
+  {
+   "role": "",
+   "name": "한상훈"
+  },
+  {
+   "role": "",
+   "name": "김도완"
+  },
+  {
+   "role": "",
+   "name": "윤광희"
+  },
+  {
+   "role": "",
+   "name": "김상보"
+  },
+  {
+   "role": "",
+   "name": "김호준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250810222511/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=119714"
+ }
+}

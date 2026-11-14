@@ -1,0 +1,49 @@
+{
+ "id": "TM199",
+ "title": "펑키펑키",
+ "genre": "뮤지컬",
+ "from": "2005-05-31",
+ "to": "2005-12-31",
+ "venue": "명동 펑키하우스",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_032330.gif",
+ "cast": [
+  "박세준",
+  "서지유",
+  "오상원",
+  "고영진",
+  "이상민"
+ ],
+ "state": "공연완료",
+ "producer": "쇼비티",
+ "price": "가장잘보이는See석(1층) 35,000원 커플석(2인)(1층) 60,000원 보듬어주는석(1층)(2인) 50,000원 2층석(2층) 25,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "몽이",
+   "name": "박세준"
+  },
+  {
+   "role": "몽이",
+   "name": "서지유"
+  },
+  {
+   "role": "몽이",
+   "name": "오상원"
+  },
+  {
+   "role": "몽이",
+   "name": "고영진"
+  },
+  {
+   "role": "몽이",
+   "name": "이상민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=199"
+ }
+}

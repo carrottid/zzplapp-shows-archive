@@ -1,0 +1,41 @@
+{
+ "id": "PD22197",
+ "title": "디 오써",
+ "genre": "연극",
+ "from": "2011-04-26",
+ "to": "2011-05-28",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "서상원",
+  "김영필",
+  "김주완",
+  "전미도"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "작가",
+   "name": "서상원"
+  },
+  {
+   "role": "영필",
+   "name": "김영필"
+  },
+  {
+   "role": "주완",
+   "name": "김주완"
+  },
+  {
+   "role": "미도",
+   "name": "전미도"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260116063057/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=22197"
+ }
+}

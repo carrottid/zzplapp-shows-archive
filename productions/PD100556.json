@@ -1,0 +1,76 @@
+{
+ "id": "PD100556",
+ "title": "로기수 - 원주",
+ "genre": "뮤지컬",
+ "from": "2016-12-24",
+ "to": "2016-12-25",
+ "venue": "원주 백운아트홀",
+ "cast": [
+  "문태유",
+  "윤나무",
+  "홍우진",
+  "최영민",
+  "박정표",
+  "임강희",
+  "문경초",
+  "김성수",
+  "김지혜",
+  "권동호",
+  "장민수"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "로기수",
+   "name": "문태유"
+  },
+  {
+   "role": "로기수",
+   "name": "윤나무"
+  },
+  {
+   "role": "로기진",
+   "name": "홍우진"
+  },
+  {
+   "role": "프랜",
+   "name": "최영민"
+  },
+  {
+   "role": "배철식",
+   "name": "박정표"
+  },
+  {
+   "role": "민복심",
+   "name": "임강희"
+  },
+  {
+   "role": "이화룡",
+   "name": "문경초"
+  },
+  {
+   "role": "",
+   "name": "김성수"
+  },
+  {
+   "role": "",
+   "name": "김지혜"
+  },
+  {
+   "role": "",
+   "name": "권동호"
+  },
+  {
+   "role": "",
+   "name": "장민수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250223200133/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=100556"
+ }
+}

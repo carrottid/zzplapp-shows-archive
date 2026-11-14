@@ -1,0 +1,66 @@
+{
+ "id": "PD31885",
+ "title": "모범생들",
+ "genre": "연극",
+ "from": "2012-02-03",
+ "to": "2012-07-22",
+ "venue": "예스24아트원 3관",
+ "cast": [
+  "박훈",
+  "이호영",
+  "정문성",
+  "박정표",
+  "이원",
+  "김보강",
+  "김종구",
+  "홍우진",
+  "박시현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김명준",
+   "name": "박훈"
+  },
+  {
+   "role": "김명준",
+   "name": "이호영"
+  },
+  {
+   "role": "김명준",
+   "name": "정문성"
+  },
+  {
+   "role": "박수환",
+   "name": "박정표"
+  },
+  {
+   "role": "박수환",
+   "name": "이원"
+  },
+  {
+   "role": "안종태",
+   "name": "김보강"
+  },
+  {
+   "role": "안종태",
+   "name": "김종구"
+  },
+  {
+   "role": "서민영",
+   "name": "홍우진"
+  },
+  {
+   "role": "서민영",
+   "name": "박시현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250223200522/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=31885"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "id": "TM341",
+ "title": "이정화의 데이지 꽃",
+ "genre": "뮤지컬",
+ "from": "2004-07-16",
+ "to": "2004-08-22",
+ "venue": "박승대 홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_daisy.gif",
+ "cast": [
+  "이소유",
+  "김경룡"
+ ],
+ "state": "공연완료",
+ "producer": "모루아트",
+ "price": "R석 40,000원 S석 30,000원 대학생/ 20,000원 청소년/ 10,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "수지",
+   "name": "이소유"
+  },
+  {
+   "role": "수지",
+   "name": "김경룡"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=341"
+ }
+}

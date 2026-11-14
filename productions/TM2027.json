@@ -1,0 +1,144 @@
+{
+ "id": "TM2027",
+ "title": "고스트",
+ "genre": "뮤지컬",
+ "from": "2013-11-19",
+ "to": "2014-06-29",
+ "venue": "디큐브아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013ghost.jpg",
+ "cast": [
+  "주원",
+  "김준현",
+  "김우형",
+  "아이비",
+  "박지연",
+  "최정원",
+  "정영주",
+  "이창희",
+  "이경수",
+  "성기윤",
+  "장예원",
+  "강웅곤",
+  "고정희",
+  "차정현",
+  "서승원",
+  "강동주",
+  "이윤형",
+  "연보라",
+  "신우석",
+  "배명숙",
+  "최광희",
+  "한유란",
+  "왕시명",
+  "김아람"
+ ],
+ "state": "공연완료",
+ "producer": "신시컴퍼니",
+ "price": "VIP석 130,000원/ R석 110,000원/ S석 90,000원/ A석 60,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "SAM",
+   "name": "주원"
+  },
+  {
+   "role": "SAM",
+   "name": "김준현"
+  },
+  {
+   "role": "SAM",
+   "name": "김우형"
+  },
+  {
+   "role": "MOLLY",
+   "name": "아이비"
+  },
+  {
+   "role": "MOLLY",
+   "name": "박지연"
+  },
+  {
+   "role": "ODA MAE",
+   "name": "최정원"
+  },
+  {
+   "role": "ODA MAE",
+   "name": "정영주"
+  },
+  {
+   "role": "CARL",
+   "name": "이창희"
+  },
+  {
+   "role": "CARL",
+   "name": "이경수"
+  },
+  {
+   "role": "HOSPITAL GHOST",
+   "name": "성기윤"
+  },
+  {
+   "role": "CLARA/ODA MAE COVER",
+   "name": "장예원"
+  },
+  {
+   "role": "LOUISE",
+   "name": "강웅곤"
+  },
+  {
+   "role": "DANCE CAPTAIN",
+   "name": "고정희"
+  },
+  {
+   "role": "FURGESON",
+   "name": "차정현"
+  },
+  {
+   "role": "WORKMAN/SAM & CARL COVER",
+   "name": "서승원"
+  },
+  {
+   "role": "MINISTER",
+   "name": "강동주"
+  },
+  {
+   "role": "SWING",
+   "name": "이윤형"
+  },
+  {
+   "role": "SWING",
+   "name": "연보라"
+  },
+  {
+   "role": "SWING",
+   "name": "신우석"
+  },
+  {
+   "role": "SWING",
+   "name": "배명숙"
+  },
+  {
+   "role": "HENRY",
+   "name": "최광희"
+  },
+  {
+   "role": "ORTISHA/SISTER COVER",
+   "name": "한유란"
+  },
+  {
+   "role": "ORLANDO",
+   "name": "왕시명"
+  },
+  {
+   "role": "OFFICER",
+   "name": "김아람"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2027"
+ }
+}

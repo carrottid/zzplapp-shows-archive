@@ -1,0 +1,76 @@
+{
+ "id": "PD73301",
+ "title": "마리 앙투아네트 - 김해",
+ "genre": "뮤지컬",
+ "from": "2015-03-14",
+ "to": "2015-03-15",
+ "venue": "김해문화의전당 마루홀",
+ "cast": [
+  "옥주현",
+  "김소현",
+  "윤공주",
+  "차지연",
+  "윤형렬",
+  "카이",
+  "전동석",
+  "이훈진",
+  "민영기",
+  "김준현",
+  "임강희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "마리 앙투아네트",
+   "name": "옥주현"
+  },
+  {
+   "role": "마리 앙투아네트",
+   "name": "김소현"
+  },
+  {
+   "role": "마그리드 아르노",
+   "name": "윤공주"
+  },
+  {
+   "role": "마그리드 아르노",
+   "name": "차지연"
+  },
+  {
+   "role": "악셀 페르센",
+   "name": "윤형렬"
+  },
+  {
+   "role": "악셀 페르센",
+   "name": "카이"
+  },
+  {
+   "role": "악셀 페르센",
+   "name": "전동석"
+  },
+  {
+   "role": "루이 16세",
+   "name": "이훈진"
+  },
+  {
+   "role": "오를레앙",
+   "name": "민영기"
+  },
+  {
+   "role": "오를레앙",
+   "name": "김준현"
+  },
+  {
+   "role": "마담 랑발",
+   "name": "임강희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20160821053415/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=73301"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "id": "TM1969",
+ "title": "쓰릴 미-2차팀",
+ "genre": "뮤지컬",
+ "from": "2013-07-23",
+ "to": "2013-10-06",
+ "venue": "더스테이지",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20190715051819471607acaa3c48b49cb3673cf6106927.jpg",
+ "cast": [
+  "오종혁",
+  "박영수",
+  "신성민",
+  "정상윤",
+  "임병근",
+  "이동하"
+ ],
+ "state": "공연완료",
+ "producer": "㈜뮤지컬해븐, ㈜CJ E&M",
+ "price": "R석 55,000원 / S석 44,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "나",
+   "name": "오종혁"
+  },
+  {
+   "role": "나",
+   "name": "박영수"
+  },
+  {
+   "role": "나",
+   "name": "신성민"
+  },
+  {
+   "role": "그",
+   "name": "정상윤"
+  },
+  {
+   "role": "그",
+   "name": "임병근"
+  },
+  {
+   "role": "그",
+   "name": "이동하"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1969"
+ }
+}

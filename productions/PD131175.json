@@ -1,0 +1,61 @@
+{
+ "id": "PD131175",
+ "title": "휘소, 그 휘소성",
+ "genre": "연극",
+ "from": "2018-09-19",
+ "to": "2018-09-23",
+ "venue": "대학로 소극장 혜화당",
+ "cast": [
+  "박근수",
+  "권도하",
+  "송길호",
+  "편준의",
+  "서지원",
+  "이창훈",
+  "박경우",
+  "김나경"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "이휘소",
+   "name": "박근수"
+  },
+  {
+   "role": "이휘소",
+   "name": "권도하"
+  },
+  {
+   "role": "문혁기",
+   "name": "송길호"
+  },
+  {
+   "role": "문혁기",
+   "name": "편준의"
+  },
+  {
+   "role": "최성현",
+   "name": "서지원"
+  },
+  {
+   "role": "최성현",
+   "name": "이창훈"
+  },
+  {
+   "role": "김박사외",
+   "name": "박경우"
+  },
+  {
+   "role": "아이린외",
+   "name": "김나경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260301121832/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=131175"
+ }
+}

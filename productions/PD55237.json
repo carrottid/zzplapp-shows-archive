@@ -1,0 +1,66 @@
+{
+ "id": "PD55237",
+ "title": "추억조작단",
+ "genre": "연극",
+ "from": "2013-11-05",
+ "to": "2014-01-26",
+ "venue": "한성아트홀",
+ "cast": [
+  "박정서",
+  "김건우",
+  "강소연",
+  "김현정",
+  "김양운",
+  "이승현",
+  "박새롬",
+  "김민선",
+  "노준섭"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "감독",
+   "name": "박정서"
+  },
+  {
+   "role": "조연출",
+   "name": "김건우"
+  },
+  {
+   "role": "작가",
+   "name": "강소연"
+  },
+  {
+   "role": "작가",
+   "name": "김현정"
+  },
+  {
+   "role": "석원",
+   "name": "김양운"
+  },
+  {
+   "role": "석원",
+   "name": "이승현"
+  },
+  {
+   "role": "채원",
+   "name": "박새롬"
+  },
+  {
+   "role": "채원",
+   "name": "김민선"
+  },
+  {
+   "role": "승환",
+   "name": "노준섭"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241109103934/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=55237"
+ }
+}

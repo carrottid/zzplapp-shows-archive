@@ -1,0 +1,81 @@
+{
+ "id": "PD90505",
+ "title": "두산인문극장 2016 모험 - 게임",
+ "genre": "연극",
+ "from": "2016-04-12",
+ "to": "2016-05-15",
+ "venue": "두산아트센터 Space111",
+ "cast": [
+  "전박찬",
+  "하지은",
+  "유병훈",
+  "백성철",
+  "유동훈",
+  "김민하",
+  "강말금",
+  "옥자연",
+  "윤미경",
+  "이지혜",
+  "김광현",
+  "백하민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "애슐리",
+   "name": "전박찬"
+  },
+  {
+   "role": "칼리",
+   "name": "하지은"
+  },
+  {
+   "role": "존, 폴",
+   "name": "유병훈"
+  },
+  {
+   "role": "데이빗",
+   "name": "백성철"
+  },
+  {
+   "role": "개리",
+   "name": "유동훈"
+  },
+  {
+   "role": "사이먼",
+   "name": "김민하"
+  },
+  {
+   "role": "",
+   "name": "강말금"
+  },
+  {
+   "role": "",
+   "name": "옥자연"
+  },
+  {
+   "role": "",
+   "name": "윤미경"
+  },
+  {
+   "role": "",
+   "name": "이지혜"
+  },
+  {
+   "role": "",
+   "name": "김광현"
+  },
+  {
+   "role": "",
+   "name": "백하민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250803125832/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=90505"
+ }
+}

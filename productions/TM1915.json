@@ -1,0 +1,59 @@
+{
+ "id": "TM1915",
+ "title": "브루클린",
+ "genre": "뮤지컬",
+ "from": "2012-12-09",
+ "to": "2013-02-24",
+ "venue": "충무아트홀 중극장 블랙",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)85.jpg",
+ "cast": [
+  "전나혜(난아)",
+  "박은미",
+  "이영미",
+  "김경선",
+  "이주광",
+  "조형균",
+  "소정화"
+ ],
+ "state": "공연완료",
+ "producer": "오디뮤지컬컴퍼니",
+ "price": "R석 6만원 / S석 4만원 / 시야장애석 1만원(현장판매)",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "브루클린",
+   "name": "전나혜(난아)"
+  },
+  {
+   "role": "브루클린",
+   "name": "박은미"
+  },
+  {
+   "role": "파라다이스",
+   "name": "이영미"
+  },
+  {
+   "role": "파라다이스",
+   "name": "김경선"
+  },
+  {
+   "role": "클리반트",
+   "name": "이주광"
+  },
+  {
+   "role": "테일러",
+   "name": "조형균"
+  },
+  {
+   "role": "페이스",
+   "name": "소정화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1915"
+ }
+}

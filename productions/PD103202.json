@@ -1,0 +1,96 @@
+{
+ "id": "PD103202",
+ "title": "혈우",
+ "genre": "연극",
+ "from": "2017-02-11",
+ "to": "2017-02-26",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "김수현",
+  "김영민",
+  "김종구",
+  "민병욱",
+  "신기섭",
+  "서지유",
+  "서정식",
+  "이준녕",
+  "나경민",
+  "김관장",
+  "신소현",
+  "우범진",
+  "전익수",
+  "박재우",
+  "이원선"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김 준",
+   "name": "김수현"
+  },
+  {
+   "role": "최 의",
+   "name": "김영민"
+  },
+  {
+   "role": "최 항",
+   "name": "김종구"
+  },
+  {
+   "role": "최 항",
+   "name": "민병욱"
+  },
+  {
+   "role": "박송비",
+   "name": "신기섭"
+  },
+  {
+   "role": "길향",
+   "name": "서지유"
+  },
+  {
+   "role": "득규",
+   "name": "서정식"
+  },
+  {
+   "role": "",
+   "name": "이준녕"
+  },
+  {
+   "role": "",
+   "name": "나경민"
+  },
+  {
+   "role": "",
+   "name": "김관장"
+  },
+  {
+   "role": "",
+   "name": "신소현"
+  },
+  {
+   "role": "",
+   "name": "우범진"
+  },
+  {
+   "role": "",
+   "name": "전익수"
+  },
+  {
+   "role": "",
+   "name": "박재우"
+  },
+  {
+   "role": "",
+   "name": "이원선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250805041501/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=103202"
+ }
+}

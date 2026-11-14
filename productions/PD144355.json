@@ -1,0 +1,36 @@
+{
+ "id": "PD144355",
+ "title": "산울림 고전극장 - 죄와 벌",
+ "genre": "연극",
+ "from": "2019-08-07",
+ "to": "2019-08-18",
+ "venue": "산울림 소극장",
+ "cast": [
+  "정지혜",
+  "김율희",
+  "임종인"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "배우1",
+   "name": "정지혜"
+  },
+  {
+   "role": "배우2",
+   "name": "김율희"
+  },
+  {
+   "role": "배우3",
+   "name": "임종인"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220524083057/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=144355"
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "id": "PD26222",
+ "title": "화랑",
+ "genre": "뮤지컬",
+ "from": "2011-08-20",
+ "to": "2011-09-04",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "설성민",
+  "백형훈",
+  "김성겸",
+  "최동호",
+  "김형균",
+  "김종선",
+  "김창현",
+  "강영석",
+  "오대성",
+  "임기평"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "기파랑",
+   "name": "설성민"
+  },
+  {
+   "role": "기파랑",
+   "name": "백형훈"
+  },
+  {
+   "role": "유오",
+   "name": "김성겸"
+  },
+  {
+   "role": "유오",
+   "name": "최동호"
+  },
+  {
+   "role": "사다함",
+   "name": "김형균"
+  },
+  {
+   "role": "사다함",
+   "name": "김종선"
+  },
+  {
+   "role": "무관랑",
+   "name": "김창현"
+  },
+  {
+   "role": "무관랑",
+   "name": "강영석"
+  },
+  {
+   "role": "문노",
+   "name": "오대성"
+  },
+  {
+   "role": "문노",
+   "name": "임기평"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20160914133837/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=26222"
+ }
+}

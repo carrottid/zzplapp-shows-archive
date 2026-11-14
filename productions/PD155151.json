@@ -1,0 +1,51 @@
+{
+ "id": "PD155151",
+ "title": "헤라, 아프로디테, 아르테미스",
+ "genre": "연극",
+ "from": "2020-02-29",
+ "to": "2020-03-29",
+ "venue": "브릭스씨어터",
+ "cast": [
+  "한송희",
+  "이주희",
+  "김희연",
+  "이강우",
+  "조용경",
+  "장세환"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "헤라",
+   "name": "한송희"
+  },
+  {
+   "role": "아프로디테",
+   "name": "이주희"
+  },
+  {
+   "role": "아르테미스",
+   "name": "김희연"
+  },
+  {
+   "role": "제우스 외",
+   "name": "이강우"
+  },
+  {
+   "role": "제우스 외",
+   "name": "조용경"
+  },
+  {
+   "role": "",
+   "name": "장세환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251010023629/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=155151"
+ }
+}

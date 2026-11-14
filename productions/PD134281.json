@@ -1,0 +1,91 @@
+{
+ "id": "PD134281",
+ "title": "호프",
+ "genre": "뮤지컬",
+ "from": "2019-01-09",
+ "to": "2019-01-20",
+ "venue": "아르코예술극장 대극장",
+ "cast": [
+  "김선영",
+  "차지연",
+  "고훈정",
+  "조형균",
+  "장지후",
+  "이하나",
+  "유리아",
+  "차엘리야",
+  "이예은",
+  "이윤하",
+  "송용진",
+  "김순택",
+  "양지원",
+  "이승헌"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "호프",
+   "name": "김선영"
+  },
+  {
+   "role": "호프",
+   "name": "차지연"
+  },
+  {
+   "role": "K",
+   "name": "고훈정"
+  },
+  {
+   "role": "K",
+   "name": "조형균"
+  },
+  {
+   "role": "K",
+   "name": "장지후"
+  },
+  {
+   "role": "마리",
+   "name": "이하나"
+  },
+  {
+   "role": "마리",
+   "name": "유리아"
+  },
+  {
+   "role": "과거 호프",
+   "name": "차엘리야"
+  },
+  {
+   "role": "과거 호프",
+   "name": "이예은"
+  },
+  {
+   "role": "과거 호프",
+   "name": "이윤하"
+  },
+  {
+   "role": "베르트",
+   "name": "송용진"
+  },
+  {
+   "role": "베르트",
+   "name": "김순택"
+  },
+  {
+   "role": "카텔",
+   "name": "양지원"
+  },
+  {
+   "role": "카텔",
+   "name": "이승헌"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220527224451/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=134281"
+ }
+}

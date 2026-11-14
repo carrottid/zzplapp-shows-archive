@@ -1,0 +1,44 @@
+{
+ "id": "TM1960",
+ "title": "결혼",
+ "genre": "뮤지컬",
+ "from": "2013-04-26",
+ "to": "2013-06-02",
+ "venue": "충무아트홀 소극장 블루",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013wedding.jpg",
+ "cast": [
+  "박형준",
+  "이신성",
+  "최종원",
+  "하지원"
+ ],
+ "state": "공연완료",
+ "producer": "충무씨어터컴퍼니",
+ "price": "전석 45,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "남자",
+   "name": "박형준"
+  },
+  {
+   "role": "남자",
+   "name": "이신성"
+  },
+  {
+   "role": "집사",
+   "name": "최종원"
+  },
+  {
+   "role": "집사",
+   "name": "하지원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1960"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PD119783",
+ "title": "햄릿, 지금 여기",
+ "genre": "연극",
+ "from": "2018-01-12",
+ "to": "2018-01-14",
+ "venue": "연우 소극장(대학로)",
+ "cast": [
+  "김성호",
+  "이태경",
+  "박진성",
+  "김재민",
+  "황규환",
+  "김혜진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "햄릿1",
+   "name": "김성호"
+  },
+  {
+   "role": "거트루드",
+   "name": "이태경"
+  },
+  {
+   "role": "햄릿2",
+   "name": "박진성"
+  },
+  {
+   "role": "폴로니어스/레어티즈",
+   "name": "김재민"
+  },
+  {
+   "role": "클로디어스",
+   "name": "황규환"
+  },
+  {
+   "role": "오필리어",
+   "name": "김혜진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250712065840/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=119783"
+ }
+}

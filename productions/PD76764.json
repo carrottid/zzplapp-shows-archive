@@ -1,0 +1,56 @@
+{
+ "id": "PD76764",
+ "title": "페리클레스",
+ "genre": "연극",
+ "from": "2015-05-12",
+ "to": "2015-05-31",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "유인촌",
+  "남윤호",
+  "최우리",
+  "장현석",
+  "장지아",
+  "한인수",
+  "김범진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "가우어, 노년의 페리클레스",
+   "name": "유인촌"
+  },
+  {
+   "role": "페리클레스 외",
+   "name": "남윤호"
+  },
+  {
+   "role": "마리나 외",
+   "name": "최우리"
+  },
+  {
+   "role": "클레온 외",
+   "name": "장현석"
+  },
+  {
+   "role": "디오니자, 안티옥공주, 다이애나 외",
+   "name": "장지아"
+  },
+  {
+   "role": "어부, 의전관, 신사, 해적 외",
+   "name": "한인수"
+  },
+  {
+   "role": "",
+   "name": "김범진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250828071945/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=76764"
+ }
+}

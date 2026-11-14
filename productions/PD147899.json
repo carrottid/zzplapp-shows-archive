@@ -1,0 +1,56 @@
+{
+ "id": "PD147899",
+ "title": "괴짜노인 하삼선",
+ "genre": "연극",
+ "from": "2019-09-12",
+ "to": "2019-09-29",
+ "venue": "대학로 열린극장",
+ "cast": [
+  "박아롱",
+  "김현중",
+  "김양운",
+  "김미현",
+  "김예다",
+  "송미리",
+  "김준서"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "하삼선",
+   "name": "박아롱"
+  },
+  {
+   "role": "박용구",
+   "name": "김현중"
+  },
+  {
+   "role": "김태민",
+   "name": "김양운"
+  },
+  {
+   "role": "한동순",
+   "name": "김미현"
+  },
+  {
+   "role": "이수진",
+   "name": "김예다"
+  },
+  {
+   "role": "정현아",
+   "name": "송미리"
+  },
+  {
+   "role": "",
+   "name": "김준서"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20191114192843/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=147899"
+ }
+}

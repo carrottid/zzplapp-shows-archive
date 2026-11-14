@@ -1,0 +1,64 @@
+{
+ "id": "TM1232",
+ "title": "진짜진짜 좋아해",
+ "genre": "뮤지컬",
+ "from": "2008-08-13",
+ "to": "2008-09-15",
+ "venue": "코엑스 오디토리움",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008coex.JPG",
+ "cast": [
+  "박해미",
+  "이윤표",
+  "박상면",
+  "김진수",
+  "원기준",
+  "이필모",
+  "이상현",
+  "김봄"
+ ],
+ "state": "공연완료",
+ "producer": "(주)트라이프로,뮤지컬컴퍼니 컬쳐피아",
+ "price": "VIP석 9만원 / R석 7만원 / S석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "신장미",
+   "name": "박해미"
+  },
+  {
+   "role": "신장미",
+   "name": "이윤표"
+  },
+  {
+   "role": "구감독",
+   "name": "박상면"
+  },
+  {
+   "role": "구감독",
+   "name": "김진수"
+  },
+  {
+   "role": "강진영",
+   "name": "원기준"
+  },
+  {
+   "role": "강진영",
+   "name": "이필모"
+  },
+  {
+   "role": "강진영",
+   "name": "이상현"
+  },
+  {
+   "role": "오정화",
+   "name": "김봄"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1232"
+ }
+}

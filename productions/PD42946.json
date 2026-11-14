@@ -1,0 +1,56 @@
+{
+ "id": "PD42946",
+ "title": "꿈",
+ "genre": "연극",
+ "from": "2012-12-07",
+ "to": "2012-12-16",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "배보람",
+  "윤정섭",
+  "박정무",
+  "조영근",
+  "이승헌",
+  "김하영",
+  "이재현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아그네스",
+   "name": "배보람"
+  },
+  {
+   "role": "변호사",
+   "name": "윤정섭"
+  },
+  {
+   "role": "장교",
+   "name": "박정무"
+  },
+  {
+   "role": "시인",
+   "name": "조영근"
+  },
+  {
+   "role": "신,유리장수,교수",
+   "name": "이승헌"
+  },
+  {
+   "role": "어머니",
+   "name": "김하영"
+  },
+  {
+   "role": "",
+   "name": "이재현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622161013/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=42946"
+ }
+}

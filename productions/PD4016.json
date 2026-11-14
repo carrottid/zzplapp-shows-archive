@@ -1,0 +1,46 @@
+{
+ "id": "PD4016",
+ "title": "갬블러 - 대구",
+ "genre": "뮤지컬",
+ "from": "2005-04-14",
+ "to": "2005-04-17",
+ "venue": "대구 오페라하우스",
+ "cast": [
+  "이건명",
+  "허준호",
+  "정선아",
+  "김호영",
+  "서지영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "갬블러",
+   "name": "이건명"
+  },
+  {
+   "role": "카지노보스",
+   "name": "허준호"
+  },
+  {
+   "role": "쇼걸",
+   "name": "정선아"
+  },
+  {
+   "role": "지지",
+   "name": "김호영"
+  },
+  {
+   "role": "백작부인",
+   "name": "서지영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20140605064828/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=4016"
+ }
+}

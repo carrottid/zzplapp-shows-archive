@@ -1,0 +1,31 @@
+{
+ "id": "PD132155",
+ "title": "염쟁이 유씨",
+ "genre": "연극",
+ "from": "2018-11-07",
+ "to": "2018-12-09",
+ "venue": "예그린씨어터",
+ "cast": [
+  "임형택",
+  "유순웅"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "유씨",
+   "name": "임형택"
+  },
+  {
+   "role": "유씨",
+   "name": "유순웅"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250121215741/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=132155"
+ }
+}

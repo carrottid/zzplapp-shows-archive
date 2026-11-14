@@ -1,0 +1,61 @@
+{
+ "id": "PD100222",
+ "title": "벙커 트릴로지",
+ "genre": "연극",
+ "from": "2016-12-06",
+ "to": "2017-02-19",
+ "venue": "홍익대 대학로 아트센터 소극장",
+ "cast": [
+  "이석준",
+  "박훈",
+  "오종혁",
+  "신성민",
+  "문태유",
+  "임철수",
+  "김지현",
+  "정연"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "Soldier1",
+   "name": "이석준"
+  },
+  {
+   "role": "Soldier1",
+   "name": "박훈"
+  },
+  {
+   "role": "Soldier2",
+   "name": "오종혁"
+  },
+  {
+   "role": "Soldier2",
+   "name": "신성민"
+  },
+  {
+   "role": "Soldier3",
+   "name": "문태유"
+  },
+  {
+   "role": "Soldier3",
+   "name": "임철수"
+  },
+  {
+   "role": "Soldier4",
+   "name": "김지현"
+  },
+  {
+   "role": "Soldier4",
+   "name": "정연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240222223644/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=100222"
+ }
+}

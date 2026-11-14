@@ -1,0 +1,54 @@
+{
+ "id": "TM1654",
+ "title": "스켈리두",
+ "genre": "뮤지컬",
+ "from": "2010-09-10",
+ "to": "2010-12-31",
+ "venue": "스타시티 1관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_scarydo2010_2.jpg",
+ "cast": [
+  "박정표",
+  "유환웅",
+  "엄태리",
+  "권정현",
+  "윤덕현",
+  "이수나"
+ ],
+ "state": "공연완료",
+ "producer": "Big M Art Company",
+ "price": "일반석(전석) 35,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "수민",
+   "name": "박정표"
+  },
+  {
+   "role": "수민",
+   "name": "유환웅"
+  },
+  {
+   "role": "유희",
+   "name": "엄태리"
+  },
+  {
+   "role": "유희",
+   "name": "권정현"
+  },
+  {
+   "role": "멀티맨1",
+   "name": "윤덕현"
+  },
+  {
+   "role": "멀티녀1",
+   "name": "이수나"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1654"
+ }
+}

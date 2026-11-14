@@ -1,0 +1,49 @@
+{
+ "id": "TM946",
+ "title": "아이 러브 유",
+ "genre": "뮤지컬",
+ "from": "2006-05-30",
+ "to": "2006-06-18",
+ "venue": "충무아트홀 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_iloveyou.JPG",
+ "cast": [
+  "남경주",
+  "류수화",
+  "백주희",
+  "정성화",
+  "정상훈"
+ ],
+ "state": "공연완료",
+ "producer": "CJ엔터테인먼트,모티스,설앤컴퍼니",
+ "price": "R석 4만5천원 / S석 3만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "남자2",
+   "name": "남경주"
+  },
+  {
+   "role": "남자2",
+   "name": "류수화"
+  },
+  {
+   "role": "남자2",
+   "name": "백주희"
+  },
+  {
+   "role": "남자2",
+   "name": "정성화"
+  },
+  {
+   "role": "남자1",
+   "name": "정상훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=946"
+ }
+}

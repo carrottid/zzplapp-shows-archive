@@ -1,0 +1,79 @@
+{
+ "date": "2023-10-30",
+ "sessions": [
+  {
+   "id": "PF225122",
+   "title": "연적",
+   "genre": "연극",
+   "venue": "유니플렉스 (3관(소극장))",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#CD1818",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF222383",
+   "title": "22년 2개월",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "19:30",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이재환"
+    },
+    {
+     "name": "홍나현"
+    },
+    {
+     "name": "유성재"
+    },
+    {
+     "name": "이현재"
+    }
+   ],
+   "color": {
+    "bg": "#0D0D0D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF226692",
+   "title": "Tank ; 0-24",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF227874",
+   "title": "무평상가 잡화짐",
+   "genre": "연극",
+   "venue": "미마지아트센터 (물빛극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF227350",
+   "title": "변영진 세계 VOL.1, 청천장단",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF224517",
+   "title": "카페 쥬에네스",
+   "genre": "연극",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2B2622",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

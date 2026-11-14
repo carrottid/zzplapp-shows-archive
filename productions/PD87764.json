@@ -1,0 +1,31 @@
+{
+ "id": "PD87764",
+ "title": "아마데우스",
+ "genre": "연극",
+ "from": "2016-01-15",
+ "to": "2016-04-03",
+ "venue": "나온 씨어터",
+ "cast": [
+  "서담희",
+  "박현욱"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "콘스탄체",
+   "name": "서담희"
+  },
+  {
+   "role": "모차르트",
+   "name": "박현욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170616055638/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=87764"
+ }
+}

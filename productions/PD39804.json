@@ -1,0 +1,51 @@
+{
+ "id": "PD39804",
+ "title": "시카고 - 부산",
+ "genre": "뮤지컬",
+ "from": "2012-11-02",
+ "to": "2012-11-11",
+ "venue": "센텀시티 소향씨어터 롯데카드홀",
+ "cast": [
+  "인순이",
+  "최정원",
+  "아이비",
+  "윤공주",
+  "남경주",
+  "성기윤"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "벨마 켈리",
+   "name": "인순이"
+  },
+  {
+   "role": "벨마 켈리",
+   "name": "최정원"
+  },
+  {
+   "role": "록시 하트",
+   "name": "아이비"
+  },
+  {
+   "role": "록시 하트",
+   "name": "윤공주"
+  },
+  {
+   "role": "빌리 플린",
+   "name": "남경주"
+  },
+  {
+   "role": "빌리 플린",
+   "name": "성기윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20160308094838/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=39804"
+ }
+}

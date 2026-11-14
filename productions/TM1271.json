@@ -1,0 +1,54 @@
+{
+ "id": "TM1271",
+ "title": "마리아 마리아",
+ "genre": "뮤지컬",
+ "from": "2003-10-04",
+ "to": "2003-11-09",
+ "venue": "세우아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_제목 없음.bmp",
+ "cast": [
+  "김선영",
+  "차순배",
+  "정광영",
+  "박상우",
+  "설재근",
+  "임문희"
+ ],
+ "state": "공연완료",
+ "producer": "조아뮤지컬컴퍼니",
+ "price": "VIP석 5만원(식사권포함)/일반 25,000원/대학생 20,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "마리아",
+   "name": "김선영"
+  },
+  {
+   "role": "마리아",
+   "name": "차순배"
+  },
+  {
+   "role": "마리아",
+   "name": "정광영"
+  },
+  {
+   "role": "마리아",
+   "name": "박상우"
+  },
+  {
+   "role": "마리아",
+   "name": "설재근"
+  },
+  {
+   "role": "마리아",
+   "name": "임문희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1271"
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "id": "TM451",
+ "title": "캬바레",
+ "genre": "뮤지컬",
+ "from": "2002-01-19",
+ "to": "2002-02-24",
+ "venue": "예술의전당 토월극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_car.jpg",
+ "cast": [
+  "주원성",
+  "성기윤",
+  "최정원",
+  "김선경",
+  "문성혁",
+  "전수미",
+  "주아",
+  "이자영",
+  "하은섬",
+  "나성아",
+  "김선호",
+  "김도형",
+  "김세우",
+  "국중웅",
+  "김영주"
+ ],
+ "state": "공연완료",
+ "producer": "신시뮤지컬컴퍼니",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "엠씨",
+   "name": "주원성"
+  },
+  {
+   "role": "엠씨",
+   "name": "성기윤"
+  },
+  {
+   "role": "엠씨",
+   "name": "최정원"
+  },
+  {
+   "role": "엠씨",
+   "name": "김선경"
+  },
+  {
+   "role": "엠씨",
+   "name": "문성혁"
+  },
+  {
+   "role": "엠씨",
+   "name": "전수미"
+  },
+  {
+   "role": "엠씨",
+   "name": "주아"
+  },
+  {
+   "role": "엠씨",
+   "name": "이자영"
+  },
+  {
+   "role": "엠씨",
+   "name": "하은섬"
+  },
+  {
+   "role": "엠씨",
+   "name": "나성아"
+  },
+  {
+   "role": "엠씨",
+   "name": "김선호"
+  },
+  {
+   "role": "엠씨",
+   "name": "김도형"
+  },
+  {
+   "role": "엠씨",
+   "name": "김세우"
+  },
+  {
+   "role": "엠씨",
+   "name": "국중웅"
+  },
+  {
+   "role": "엠씨",
+   "name": "김영주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=451"
+ }
+}

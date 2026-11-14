@@ -1,0 +1,51 @@
+{
+ "id": "PD60766",
+ "title": "성호가든",
+ "genre": "연극",
+ "from": "2014-04-23",
+ "to": "2014-04-27",
+ "venue": "아르코예술극장 소극장",
+ "cast": [
+  "민준호",
+  "권세봉",
+  "이태훈",
+  "박선옥",
+  "고인배",
+  "전지혜"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "찰스",
+   "name": "민준호"
+  },
+  {
+   "role": "메리",
+   "name": "권세봉"
+  },
+  {
+   "role": "주인남자",
+   "name": "이태훈"
+  },
+  {
+   "role": "주인여자",
+   "name": "박선옥"
+  },
+  {
+   "role": "직업소개소 사장",
+   "name": "고인배"
+  },
+  {
+   "role": "손밍",
+   "name": "전지혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171106123037/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=60766"
+ }
+}

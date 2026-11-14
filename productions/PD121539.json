@@ -1,0 +1,41 @@
+{
+ "id": "PD121539",
+ "title": "마이 버킷 리스트",
+ "genre": "뮤지컬",
+ "from": "2018-02-24",
+ "to": "2018-03-18",
+ "venue": "CJ 아지트 대학로(구 SM아트홀)",
+ "cast": [
+  "박유덕",
+  "주민진",
+  "김지휘",
+  "문남권"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "강구",
+   "name": "박유덕"
+  },
+  {
+   "role": "강구",
+   "name": "주민진"
+  },
+  {
+   "role": "해기",
+   "name": "김지휘"
+  },
+  {
+   "role": "해기",
+   "name": "문남권"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210508013919/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=121539"
+ }
+}

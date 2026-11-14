@@ -1,0 +1,93 @@
+{
+ "id": "TM1279",
+ "title": "명성황후",
+ "genre": "뮤지컬",
+ "from": "1996-04-16",
+ "to": "1996-04-24",
+ "venue": "예술의전당 오페라극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_cover21.JPG",
+ "cast": [
+  "윤석화",
+  "서영주",
+  "이병준",
+  "송이주",
+  "정영주",
+  "이혜정",
+  "이성호",
+  "김현동",
+  "조은정",
+  "송남영",
+  "박준면",
+  "김학준",
+  "김영주",
+  "도정주"
+ ],
+ "state": "공연완료",
+ "producer": "에이콤",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "민비",
+   "name": "윤석화"
+  },
+  {
+   "role": "민비",
+   "name": "서영주"
+  },
+  {
+   "role": "민비",
+   "name": "이병준"
+  },
+  {
+   "role": "민비",
+   "name": "송이주"
+  },
+  {
+   "role": "민비",
+   "name": "정영주"
+  },
+  {
+   "role": "민비",
+   "name": "이혜정"
+  },
+  {
+   "role": "민비",
+   "name": "이성호"
+  },
+  {
+   "role": "민비",
+   "name": "김현동"
+  },
+  {
+   "role": "궁녀/무희",
+   "name": "조은정"
+  },
+  {
+   "role": "궁녀/무희",
+   "name": "송남영"
+  },
+  {
+   "role": "궁녀/무희",
+   "name": "박준면"
+  },
+  {
+   "role": "왜상",
+   "name": "김학준"
+  },
+  {
+   "role": "왜상",
+   "name": "김영주"
+  },
+  {
+   "role": "궁녀/무희",
+   "name": "도정주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1279"
+ }
+}

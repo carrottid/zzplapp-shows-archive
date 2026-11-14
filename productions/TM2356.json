@@ -1,0 +1,129 @@
+{
+ "id": "TM2356",
+ "title": "킹키부츠",
+ "genre": "뮤지컬",
+ "from": "2016-09-02",
+ "to": "2016-11-03",
+ "venue": "블루스퀘어 삼성전자홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20160623115652HK63EX6E3KT80U85.jpg",
+ "cast": [
+  "이지훈",
+  "김호영",
+  "정성화",
+  "강홍석",
+  "김지우",
+  "고창석",
+  "심재현",
+  "신의정",
+  "이우승",
+  "김준래",
+  "우지원",
+  "권용국",
+  "송유택",
+  "한선천",
+  "박진상",
+  "강채민",
+  "윤펠릭스",
+  "이태경",
+  "이민혁",
+  "이주호",
+  "장대웅"
+ ],
+ "state": "공연완료",
+ "producer": "CJ E&M",
+ "price": "VIP석 14만원, R석 11만원, S석 8만원, A석 6만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "찰리",
+   "name": "이지훈"
+  },
+  {
+   "role": "찰리",
+   "name": "김호영"
+  },
+  {
+   "role": "롤라",
+   "name": "정성화"
+  },
+  {
+   "role": "롤라",
+   "name": "강홍석"
+  },
+  {
+   "role": "로렌",
+   "name": "김지우"
+  },
+  {
+   "role": "돈",
+   "name": "고창석"
+  },
+  {
+   "role": "돈",
+   "name": "심재현"
+  },
+  {
+   "role": "니콜라",
+   "name": "신의정"
+  },
+  {
+   "role": "조지",
+   "name": "이우승"
+  },
+  {
+   "role": "엔젤",
+   "name": "김준래"
+  },
+  {
+   "role": "엔젤",
+   "name": "우지원"
+  },
+  {
+   "role": "엔젤",
+   "name": "권용국"
+  },
+  {
+   "role": "엔젤",
+   "name": "송유택"
+  },
+  {
+   "role": "엔젤",
+   "name": "한선천"
+  },
+  {
+   "role": "엔젤",
+   "name": "박진상"
+  },
+  {
+   "role": "어린 롤라",
+   "name": "강채민"
+  },
+  {
+   "role": "어린 롤라",
+   "name": "윤펠릭스"
+  },
+  {
+   "role": "어린 롤라",
+   "name": "이태경"
+  },
+  {
+   "role": "어린 찰리",
+   "name": "이민혁"
+  },
+  {
+   "role": "어린 찰리",
+   "name": "이주호"
+  },
+  {
+   "role": "어린 찰리",
+   "name": "장대웅"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2356"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PD14800",
+ "title": "레인맨",
+ "genre": "연극",
+ "from": "2010-02-19",
+ "to": "2010-03-28",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "박상원",
+  "남경읍",
+  "남경주",
+  "원기준",
+  "박민정",
+  "민지환"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "레이먼",
+   "name": "박상원"
+  },
+  {
+   "role": "레이먼",
+   "name": "남경읍"
+  },
+  {
+   "role": "찰리",
+   "name": "남경주"
+  },
+  {
+   "role": "찰리",
+   "name": "원기준"
+  },
+  {
+   "role": "수잔나",
+   "name": "박민정"
+  },
+  {
+   "role": "브루너",
+   "name": "민지환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240619212901/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=14800"
+ }
+}

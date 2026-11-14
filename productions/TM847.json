@@ -1,0 +1,79 @@
+{
+ "id": "TM847",
+ "title": "대장금",
+ "genre": "뮤지컬",
+ "from": "2007-08-25",
+ "to": "2007-09-09",
+ "venue": "세종문화회관 대극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009170301329880a4d7d6714daa9cc422b17ef906d6.jpg",
+ "cast": [
+  "김소현",
+  "안유진",
+  "원기준",
+  "김우형",
+  "한애리",
+  "최보영",
+  "손광업",
+  "류수화",
+  "이태원",
+  "한성식",
+  "하은섬"
+ ],
+ "state": "공연완료",
+ "producer": "PMC프로덕션",
+ "price": "VIP석 12만원 / R석 10만원 / S석 8만원 / A석 6만원 / B석 4만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "서장금",
+   "name": "김소현"
+  },
+  {
+   "role": "서장금",
+   "name": "안유진"
+  },
+  {
+   "role": "민정호",
+   "name": "원기준"
+  },
+  {
+   "role": "민정호",
+   "name": "김우형"
+  },
+  {
+   "role": "금영",
+   "name": "한애리"
+  },
+  {
+   "role": "금영",
+   "name": "최보영"
+  },
+  {
+   "role": "중종",
+   "name": "손광업"
+  },
+  {
+   "role": "한상궁",
+   "name": "류수화"
+  },
+  {
+   "role": "최상궁",
+   "name": "이태원"
+  },
+  {
+   "role": "덕구",
+   "name": "한성식"
+  },
+  {
+   "role": "덕구처",
+   "name": "하은섬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=847"
+ }
+}

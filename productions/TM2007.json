@@ -1,0 +1,99 @@
+{
+ "id": "TM2007",
+ "title": "오! 당신이 잠든 사이",
+ "genre": "뮤지컬",
+ "from": "2013-09-06",
+ "to": "2014-03-16",
+ "venue": "대학로 예술마당 1관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2013oh.jpg",
+ "cast": [
+  "이현",
+  "임종완",
+  "박세웅",
+  "신재열",
+  "안두호",
+  "강정우",
+  "차청화",
+  "최소영",
+  "스테파니",
+  "김국희",
+  "신진경",
+  "김금나",
+  "손지애",
+  "손예슬",
+  "이주우"
+ ],
+ "state": "공연완료",
+ "producer": "CJ E&M, 연우무대",
+ "price": "전석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "닥터리",
+   "name": "이현"
+  },
+  {
+   "role": "닥터리",
+   "name": "임종완"
+  },
+  {
+   "role": "베드로",
+   "name": "박세웅"
+  },
+  {
+   "role": "베드로",
+   "name": "신재열"
+  },
+  {
+   "role": "최병호",
+   "name": "안두호"
+  },
+  {
+   "role": "최병호",
+   "name": "강정우"
+  },
+  {
+   "role": "정숙자",
+   "name": "차청화"
+  },
+  {
+   "role": "정숙자",
+   "name": "최소영"
+  },
+  {
+   "role": "정숙자",
+   "name": "스테파니"
+  },
+  {
+   "role": "이길례",
+   "name": "김국희"
+  },
+  {
+   "role": "이길례",
+   "name": "신진경"
+  },
+  {
+   "role": "김정연",
+   "name": "김금나"
+  },
+  {
+   "role": "김정연",
+   "name": "손지애"
+  },
+  {
+   "role": "최민희",
+   "name": "손예슬"
+  },
+  {
+   "role": "최민희",
+   "name": "이주우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2007"
+ }
+}

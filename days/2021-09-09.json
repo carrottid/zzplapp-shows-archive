@@ -1,0 +1,409 @@
+{
+ "date": "2021-09-09",
+ "sessions": [
+  {
+   "id": "PF175178",
+   "title": "마리 앙투아네트",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#8B635B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF177927",
+   "title": "밑바닥에서",
+   "genre": "연극",
+   "venue": "아르코예술극장 (대극장)",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#191718",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178808",
+   "title": "박정희",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#18162C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF177712",
+   "title": "공포가 시작된다",
+   "genre": "연극",
+   "venue": "대학로예술극장 (소극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#3A3C33",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178541",
+   "title": "만선",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF177864",
+   "title": "브릴리언트: 찬란하게 빛나던",
+   "genre": "뮤지컬",
+   "venue": "예그린씨어터",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#7D7D5E",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF175711",
+   "title": "빌리 엘리어트",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#9C232D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF176899",
+   "title": "사랑했어요",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#8B795A",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF177457",
+   "title": "신데렐라",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#137EA4",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF176925",
+   "title": "엑스칼리버",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#0F1A2E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178123",
+   "title": "제4회 1번출구 연극제, 보이체크 멘탈리티 & 퇴직 면접 & 어느 날 갑자기...!",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#836C62",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178306",
+   "title": "집집: 하우스 소나타",
+   "genre": "연극",
+   "venue": "연우소극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF177465",
+   "title": "천만 개의 도시",
+   "genre": "연극",
+   "venue": "세종문화회관 (세종M씨어터)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#372A3B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178552",
+   "title": "패밀리 비즈니스",
+   "genre": "연극",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF176020",
+   "title": "하데스타운",
+   "genre": "뮤지컬",
+   "venue": "구. LG아트센터",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#19130F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF176633",
+   "title": "헤드윅",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#A58741",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF178234",
+   "title": "개와 고양이의 시간",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2D272B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178544",
+   "title": "경종수정실록",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#3A1A17",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178418",
+   "title": "김이박이 고등학교에 입학할 때 김이박이 고등학교에 입학한다",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF176338",
+   "title": "메리셸리",
+   "genre": "뮤지컬",
+   "venue": "KT&G 상상마당 대치아트홀",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#613F3E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF176574",
+   "title": "박열",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178191",
+   "title": "벨기에물고기",
+   "genre": "연극",
+   "venue": "연극실험실 혜화동1번지",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF177417",
+   "title": "보도지침",
+   "genre": "연극",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#222325",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF176960",
+   "title": "분장실",
+   "genre": "연극",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#703931",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF175853",
+   "title": "쓰릴 미",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#957F51",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF177545",
+   "title": "아가사",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#794D39",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF177028",
+   "title": "아르토, 고흐",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0D0C0A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178160",
+   "title": "예라고 하는 사람 아니오라고 하는 사람",
+   "genre": "연극",
+   "venue": "나온씨어터",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF178791",
+   "title": "옾눞: 뒤집다",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#5B312D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF177546",
+   "title": "인서트 코인",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#9CC0DC",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF178072",
+   "title": "창업",
+   "genre": "뮤지컬",
+   "venue": "SH아트홀",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#191C23",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178434",
+   "title": "템플",
+   "genre": "연극",
+   "venue": "대학로예술극장 (대극장)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#38312A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178322",
+   "title": "트레이스 유",
+   "genre": "뮤지컬",
+   "venue": "백암아트홀",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#121314",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF177564",
+   "title": "풍월주",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#112A55",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF178939",
+   "title": "하녀들",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF175113",
+   "title": "홀연했던 사나이",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#CB9F1B",
+    "fg": "#111111"
+   }
+  }
+ ]
+}

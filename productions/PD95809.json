@@ -1,0 +1,61 @@
+{
+ "id": "PD95809",
+ "title": "오 마이 러브",
+ "genre": "연극",
+ "from": "2016-08-05",
+ "to": "2016-09-04",
+ "venue": "한성아트홀 1관",
+ "cast": [
+  "이광재",
+  "김태근",
+  "김대경",
+  "우선화",
+  "곽은혜",
+  "이나경",
+  "김도은",
+  "김현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김연재",
+   "name": "이광재"
+  },
+  {
+   "role": "김연재",
+   "name": "김태근"
+  },
+  {
+   "role": "김연재",
+   "name": "김대경"
+  },
+  {
+   "role": "이가영",
+   "name": "우선화"
+  },
+  {
+   "role": "이가영",
+   "name": "곽은혜"
+  },
+  {
+   "role": "이가영",
+   "name": "이나경"
+  },
+  {
+   "role": "멀티",
+   "name": "김도은"
+  },
+  {
+   "role": "멀티",
+   "name": "김현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240624030547/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=95809"
+ }
+}

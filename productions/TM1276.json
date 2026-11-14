@@ -1,0 +1,94 @@
+{
+ "id": "TM1276",
+ "title": "마인",
+ "genre": "뮤지컬",
+ "from": "2008-10-24",
+ "to": "2008-10-26",
+ "venue": "충무아트홀 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_mine.JPG",
+ "cast": [
+  "강타",
+  "이병준",
+  "양동근",
+  "홍기주",
+  "박소연",
+  "고상호",
+  "김은총",
+  "김은희",
+  "문승배",
+  "신현묵",
+  "이용규",
+  "김순택",
+  "이상현",
+  "정순원"
+ ],
+ "state": "공연완료",
+ "producer": "육군본부, (주)쥬스컴퍼니",
+ "price": "R석 4만원/S석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "출연진",
+   "name": "강타"
+  },
+  {
+   "role": "출연진",
+   "name": "이병준"
+  },
+  {
+   "role": "출연진",
+   "name": "양동근"
+  },
+  {
+   "role": "출연진",
+   "name": "홍기주"
+  },
+  {
+   "role": "출연진",
+   "name": "박소연"
+  },
+  {
+   "role": "출연진",
+   "name": "고상호"
+  },
+  {
+   "role": "출연진",
+   "name": "김은총"
+  },
+  {
+   "role": "출연진",
+   "name": "김은희"
+  },
+  {
+   "role": "출연진",
+   "name": "문승배"
+  },
+  {
+   "role": "출연진",
+   "name": "신현묵"
+  },
+  {
+   "role": "출연진",
+   "name": "이용규"
+  },
+  {
+   "role": "출연진",
+   "name": "김순택"
+  },
+  {
+   "role": "출연진",
+   "name": "이상현"
+  },
+  {
+   "role": "출연진",
+   "name": "정순원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1276"
+ }
+}

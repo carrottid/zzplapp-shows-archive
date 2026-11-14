@@ -1,0 +1,61 @@
+{
+ "id": "PD52798",
+ "title": "세 자매",
+ "genre": "연극",
+ "from": "2013-11-08",
+ "to": "2013-12-01",
+ "venue": "예술의전당 자유소극장",
+ "cast": [
+  "우미화",
+  "김지원",
+  "장지아",
+  "오민석",
+  "유순철",
+  "임홍식",
+  "이우진",
+  "김시영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "올가",
+   "name": "우미화"
+  },
+  {
+   "role": "마샤",
+   "name": "김지원"
+  },
+  {
+   "role": "이리나",
+   "name": "장지아"
+  },
+  {
+   "role": "안드레이",
+   "name": "오민석"
+  },
+  {
+   "role": "할아범",
+   "name": "유순철"
+  },
+  {
+   "role": "체부띄낀",
+   "name": "임홍식"
+  },
+  {
+   "role": "",
+   "name": "이우진"
+  },
+  {
+   "role": "",
+   "name": "김시영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171026141621/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=52798"
+ }
+}

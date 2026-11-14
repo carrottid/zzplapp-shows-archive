@@ -1,0 +1,41 @@
+{
+ "id": "PD130469",
+ "title": "하라비라 비하루",
+ "genre": "연극",
+ "from": "2018-09-29",
+ "to": "2018-10-14",
+ "venue": "미마지 아트센터 눈빛극장",
+ "cast": [
+  "유소령",
+  "최상태",
+  "최민혁",
+  "나승현"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "마리",
+   "name": "유소령"
+  },
+  {
+   "role": "해치",
+   "name": "최상태"
+  },
+  {
+   "role": "버들",
+   "name": "최민혁"
+  },
+  {
+   "role": "우완",
+   "name": "나승현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210924164546/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=130469"
+ }
+}

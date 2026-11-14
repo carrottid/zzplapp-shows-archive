@@ -1,0 +1,101 @@
+{
+ "id": "PD43779",
+ "title": "그리스",
+ "genre": "뮤지컬",
+ "from": "2013-01-25",
+ "to": "2013-04-28",
+ "venue": "한전아트센터",
+ "cast": [
+  "정민",
+  "고은성",
+  "김류하",
+  "인진우",
+  "이형진",
+  "김용규",
+  "이사강",
+  "정연",
+  "유민상",
+  "노우진",
+  "문희라",
+  "권소현",
+  "이태은",
+  "이동윤",
+  "박규석",
+  "김예진"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "대니",
+   "name": "정민"
+  },
+  {
+   "role": "대니",
+   "name": "고은성"
+  },
+  {
+   "role": "케니키",
+   "name": "김류하"
+  },
+  {
+   "role": "두디",
+   "name": "인진우"
+  },
+  {
+   "role": "로저",
+   "name": "이형진"
+  },
+  {
+   "role": "소니",
+   "name": "김용규"
+  },
+  {
+   "role": "샌디",
+   "name": "이사강"
+  },
+  {
+   "role": "",
+   "name": "정연"
+  },
+  {
+   "role": "",
+   "name": "유민상"
+  },
+  {
+   "role": "",
+   "name": "노우진"
+  },
+  {
+   "role": "",
+   "name": "문희라"
+  },
+  {
+   "role": "",
+   "name": "권소현"
+  },
+  {
+   "role": "",
+   "name": "이태은"
+  },
+  {
+   "role": "",
+   "name": "이동윤"
+  },
+  {
+   "role": "",
+   "name": "박규석"
+  },
+  {
+   "role": "",
+   "name": "김예진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20231205075754/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=43779"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "PD103215",
+ "title": "분장실",
+ "genre": "연극",
+ "from": "2017-01-11",
+ "to": "2017-01-22",
+ "venue": "대학로 스타시티 카지노 전용관(구, 타이니앨리스)",
+ "cast": [
+  "장설하",
+  "박혜영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "여배우 A",
+   "name": "장설하"
+  },
+  {
+   "role": "여배우 D",
+   "name": "박혜영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241103200548/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=103215"
+ }
+}

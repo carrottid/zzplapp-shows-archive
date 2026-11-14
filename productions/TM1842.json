@@ -1,0 +1,79 @@
+{
+ "id": "TM1842",
+ "title": "블랙메리포핀스",
+ "genre": "뮤지컬",
+ "from": "2012-05-08",
+ "to": "2012-07-08",
+ "venue": "아트원씨어터 1관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(2)0.jpg",
+ "cast": [
+  "정상윤",
+  "장승조(장현덕)",
+  "전성우",
+  "강하늘(김하늘)",
+  "임강희",
+  "정운선",
+  "송상은",
+  "김대현",
+  "윤나무",
+  "추정화",
+  "태국희"
+ ],
+ "state": "공연완료",
+ "producer": "아시아브릿지컨텐츠(주)",
+ "price": "R석 6만원 / S석 4만5천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "한스",
+   "name": "정상윤"
+  },
+  {
+   "role": "한스",
+   "name": "장승조(장현덕)"
+  },
+  {
+   "role": "헤르만",
+   "name": "전성우"
+  },
+  {
+   "role": "헤르만",
+   "name": "강하늘(김하늘)"
+  },
+  {
+   "role": "안나",
+   "name": "임강희"
+  },
+  {
+   "role": "안나",
+   "name": "정운선"
+  },
+  {
+   "role": "안나",
+   "name": "송상은"
+  },
+  {
+   "role": "요나스",
+   "name": "김대현"
+  },
+  {
+   "role": "요나스",
+   "name": "윤나무"
+  },
+  {
+   "role": "메리 슈미트",
+   "name": "추정화"
+  },
+  {
+   "role": "메리 슈미트",
+   "name": "태국희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1842"
+ }
+}

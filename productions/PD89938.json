@@ -1,0 +1,51 @@
+{
+ "id": "PD89938",
+ "title": "그 여름, 동물원 - 울산",
+ "genre": "뮤지컬",
+ "from": "2016-05-28",
+ "to": "2016-05-29",
+ "venue": "울산문화예술회관 대공연장",
+ "cast": [
+  "최승열",
+  "임진웅",
+  "방재호",
+  "유제윤",
+  "허은미",
+  "조훈"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김광석",
+   "name": "최승열"
+  },
+  {
+   "role": "김창기",
+   "name": "임진웅"
+  },
+  {
+   "role": "박기영",
+   "name": "방재호"
+  },
+  {
+   "role": "유준열",
+   "name": "유제윤"
+  },
+  {
+   "role": "그녀",
+   "name": "허은미"
+  },
+  {
+   "role": "그들",
+   "name": "조훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210430012810/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=89938"
+ }
+}

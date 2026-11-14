@@ -1,0 +1,76 @@
+{
+ "id": "PD81490",
+ "title": "엘리자벳 - 수원",
+ "genre": "뮤지컬",
+ "from": "2015-10-17",
+ "to": "2015-10-18",
+ "venue": "경기도문화의전당 대극장",
+ "cast": [
+  "옥주현",
+  "조정은",
+  "신성록",
+  "세븐",
+  "전동석",
+  "김수용",
+  "최민철",
+  "윤영석",
+  "이상현",
+  "이정화",
+  "오성원"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "엘리자벳",
+   "name": "옥주현"
+  },
+  {
+   "role": "엘리자벳",
+   "name": "조정은"
+  },
+  {
+   "role": "죽음",
+   "name": "신성록"
+  },
+  {
+   "role": "죽음",
+   "name": "세븐"
+  },
+  {
+   "role": "죽음",
+   "name": "전동석"
+  },
+  {
+   "role": "루이지 루케니",
+   "name": "김수용"
+  },
+  {
+   "role": "루이지 루케니",
+   "name": "최민철"
+  },
+  {
+   "role": "프란츠 요제프",
+   "name": "윤영석"
+  },
+  {
+   "role": "프란츠 요제프",
+   "name": "이상현"
+  },
+  {
+   "role": "대공비 소피",
+   "name": "이정화"
+  },
+  {
+   "role": "막스공작",
+   "name": "오성원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170716150701/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=81490"
+ }
+}

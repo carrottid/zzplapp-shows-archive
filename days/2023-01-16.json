@@ -1,0 +1,81 @@
+{
+ "date": "2023-01-16",
+ "sessions": [
+  {
+   "id": "PF209637",
+   "title": "LINK FESTA, 쾌남시대",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0B1A21",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF206181",
+   "title": "제7회 한국뮤지컬어워즈, 대한민국뮤지컬페스티벌",
+   "genre": "뮤지컬",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#062659",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF203935",
+   "title": "HIR 히어",
+   "genre": "연극",
+   "venue": "더 줌 아트센터",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF209637",
+   "title": "LINK FESTA, 쾌남시대",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0B1A21",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF204346",
+   "title": "데미안",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2B1D1A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF204825",
+   "title": "드롭스",
+   "genre": "뮤지컬",
+   "venue": "예그린씨어터",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF203674",
+   "title": "청춘소음",
+   "genre": "뮤지컬",
+   "venue": "동덕여대공연예술센터 (코튼홀)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#76746F",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

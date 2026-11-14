@@ -1,0 +1,61 @@
+{
+ "id": "PD105803",
+ "title": "그녀를 믿지마세요",
+ "genre": "연극",
+ "from": "2017-03-14",
+ "to": "2017-03-31",
+ "venue": "대학로 스타시티 카지노 전용관(구, 타이니앨리스)",
+ "cast": [
+  "김강희",
+  "신승윤",
+  "한시원",
+  "백정민",
+  "이재현",
+  "하명배",
+  "용진",
+  "유인상"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "김준희",
+   "name": "김강희"
+  },
+  {
+   "role": "김준희",
+   "name": "신승윤"
+  },
+  {
+   "role": "차명석",
+   "name": "한시원"
+  },
+  {
+   "role": "차명석",
+   "name": "백정민"
+  },
+  {
+   "role": "강태범",
+   "name": "이재현"
+  },
+  {
+   "role": "강태범",
+   "name": "하명배"
+  },
+  {
+   "role": "고대로",
+   "name": "용진"
+  },
+  {
+   "role": "고대로",
+   "name": "유인상"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250711122607/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=105803"
+ }
+}

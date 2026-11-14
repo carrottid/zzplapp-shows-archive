@@ -1,0 +1,71 @@
+{
+ "id": "PD152517",
+ "title": "폴",
+ "genre": "뮤지컬",
+ "from": "2020-01-16",
+ "to": "2020-02-16",
+ "venue": "콘텐츠 그라운드(구 브로드웨이 아트홀 3관)",
+ "cast": [
+  "유승현",
+  "김현진",
+  "이세령",
+  "이현진",
+  "박란주",
+  "송영미",
+  "김대현",
+  "조현우",
+  "최호승",
+  "오경주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "폴",
+   "name": "유승현"
+  },
+  {
+   "role": "폴",
+   "name": "김현진"
+  },
+  {
+   "role": "왓슨",
+   "name": "이세령"
+  },
+  {
+   "role": "왓슨",
+   "name": "이현진"
+  },
+  {
+   "role": "루시",
+   "name": "박란주"
+  },
+  {
+   "role": "루시",
+   "name": "송영미"
+  },
+  {
+   "role": "니콜라이",
+   "name": "김대현"
+  },
+  {
+   "role": "니콜라이",
+   "name": "조현우"
+  },
+  {
+   "role": "기욤",
+   "name": "최호승"
+  },
+  {
+   "role": "기욤",
+   "name": "오경주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210818080436/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=152517"
+ }
+}

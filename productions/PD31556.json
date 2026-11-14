@@ -1,0 +1,66 @@
+{
+ "id": "PD31556",
+ "title": "넥스트 투 노멀 - 창원",
+ "genre": "뮤지컬",
+ "from": "2012-02-24",
+ "to": "2012-02-25",
+ "venue": "3.15 아트센터 대극장",
+ "cast": [
+  "박칼린",
+  "김지현",
+  "남경주",
+  "이정열",
+  "한지상",
+  "최재림",
+  "오소연",
+  "이채훈",
+  "최수형"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "다이애나",
+   "name": "박칼린"
+  },
+  {
+   "role": "다이애나",
+   "name": "김지현"
+  },
+  {
+   "role": "댄",
+   "name": "남경주"
+  },
+  {
+   "role": "댄",
+   "name": "이정열"
+  },
+  {
+   "role": "게이브",
+   "name": "한지상"
+  },
+  {
+   "role": "게이브",
+   "name": "최재림"
+  },
+  {
+   "role": "나탈리",
+   "name": "오소연"
+  },
+  {
+   "role": "헨리",
+   "name": "이채훈"
+  },
+  {
+   "role": "의사",
+   "name": "최수형"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241210114436/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=31556"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "id": "TM2340",
+ "title": "인터뷰",
+ "genre": "뮤지컬",
+ "from": "2016-05-14",
+ "to": "2016-05-20",
+ "venue": "현대카드 언더스테이지",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20160427113432ANG3F8PVG2267O4V.jpg",
+ "cast": [
+  "이건명",
+  "이시안",
+  "김수용",
+  "조상웅",
+  "문진아",
+  "김주연"
+ ],
+ "state": "공연완료",
+ "producer": "황야의 무법자",
+ "price": "전석 5만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "유진킴",
+   "name": "이건명"
+  },
+  {
+   "role": "유진킴",
+   "name": "이시안"
+  },
+  {
+   "role": "싱클레어",
+   "name": "김수용"
+  },
+  {
+   "role": "싱클레어",
+   "name": "조상웅"
+  },
+  {
+   "role": "조안",
+   "name": "문진아"
+  },
+  {
+   "role": "조안",
+   "name": "김주연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2340"
+ }
+}

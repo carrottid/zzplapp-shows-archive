@@ -1,0 +1,59 @@
+{
+ "id": "TM1573",
+ "title": "홍길동",
+ "genre": "뮤지컬",
+ "from": "2010-02-18",
+ "to": "2010-04-18",
+ "venue": "올림픽공원 우리금융아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_hongildong2010.jpg",
+ "cast": [
+  "조범준",
+  "여운",
+  "예성",
+  "성민",
+  "안유진",
+  "김정현",
+  "임재청"
+ ],
+ "state": "공연완료",
+ "producer": "사단법인 서울심포니오케스트라",
+ "price": "VIP석 120,000원/ R석 80,000원/ S석 60,000원/ A석 40,000원/ B석 27,000원/ 휠체어석 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "홍길동",
+   "name": "조범준"
+  },
+  {
+   "role": "홍길동",
+   "name": "여운"
+  },
+  {
+   "role": "홍길동",
+   "name": "예성"
+  },
+  {
+   "role": "홍길동",
+   "name": "성민"
+  },
+  {
+   "role": "배수진",
+   "name": "안유진"
+  },
+  {
+   "role": "배수진",
+   "name": "김정현"
+  },
+  {
+   "role": "홍일동",
+   "name": "임재청"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1573"
+ }
+}

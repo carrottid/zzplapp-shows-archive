@@ -1,0 +1,114 @@
+{
+ "id": "TM666",
+ "title": "바람의 나라",
+ "genre": "뮤지컬",
+ "from": "2006-07-14",
+ "to": "2006-07-21",
+ "venue": "예술의전당 토월극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_db-baram(2006)0.jpg",
+ "cast": [
+  "고영빈",
+  "김법래",
+  "김백현",
+  "임춘길",
+  "조정석",
+  "도정주",
+  "유나영",
+  "신영숙",
+  "김영철",
+  "이채경",
+  "고미경",
+  "심정완",
+  "박석용",
+  "박원묵",
+  "김산호",
+  "홍경수",
+  "이종한",
+  "배성일"
+ ],
+ "state": "공연완료",
+ "producer": "서울예술단",
+ "price": "R석:60,000/S석:50,000/A석:30,000",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "무휼",
+   "name": "고영빈"
+  },
+  {
+   "role": "무휼",
+   "name": "김법래"
+  },
+  {
+   "role": "무휼",
+   "name": "김백현"
+  },
+  {
+   "role": "무휼",
+   "name": "임춘길"
+  },
+  {
+   "role": "무휼",
+   "name": "조정석"
+  },
+  {
+   "role": "무휼",
+   "name": "도정주"
+  },
+  {
+   "role": "무휼",
+   "name": "유나영"
+  },
+  {
+   "role": "무휼",
+   "name": "신영숙"
+  },
+  {
+   "role": "무휼",
+   "name": "김영철"
+  },
+  {
+   "role": "무휼",
+   "name": "이채경"
+  },
+  {
+   "role": "무휼",
+   "name": "고미경"
+  },
+  {
+   "role": "무휼",
+   "name": "심정완"
+  },
+  {
+   "role": "무휼",
+   "name": "박석용"
+  },
+  {
+   "role": "무휼",
+   "name": "박원묵"
+  },
+  {
+   "role": "무휼",
+   "name": "김산호"
+  },
+  {
+   "role": "무휼",
+   "name": "홍경수"
+  },
+  {
+   "role": "무휼",
+   "name": "이종한"
+  },
+  {
+   "role": "무휼",
+   "name": "배성일"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=666"
+ }
+}

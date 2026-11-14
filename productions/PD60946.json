@@ -1,0 +1,96 @@
+{
+ "id": "PD60946",
+ "title": "바람의 나라",
+ "genre": "뮤지컬",
+ "from": "2014-05-11",
+ "to": "2014-05-20",
+ "venue": "예술의전당 CJ 토월극장",
+ "cast": [
+  "고영빈",
+  "지오",
+  "최인형",
+  "이시후",
+  "박영수",
+  "조풍래",
+  "고미경",
+  "김건혜",
+  "차엘리야",
+  "유경아",
+  "김혜원",
+  "하선진",
+  "박정은",
+  "김백현",
+  "김윤호"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "무휼",
+   "name": "고영빈"
+  },
+  {
+   "role": "호동",
+   "name": "지오"
+  },
+  {
+   "role": "해명",
+   "name": "최인형"
+  },
+  {
+   "role": "해명",
+   "name": "이시후"
+  },
+  {
+   "role": "괴유",
+   "name": "박영수"
+  },
+  {
+   "role": "괴유",
+   "name": "조풍래"
+  },
+  {
+   "role": "혜압",
+   "name": "고미경"
+  },
+  {
+   "role": "이지",
+   "name": "김건혜"
+  },
+  {
+   "role": "",
+   "name": "차엘리야"
+  },
+  {
+   "role": "",
+   "name": "유경아"
+  },
+  {
+   "role": "",
+   "name": "김혜원"
+  },
+  {
+   "role": "",
+   "name": "하선진"
+  },
+  {
+   "role": "",
+   "name": "박정은"
+  },
+  {
+   "role": "",
+   "name": "김백현"
+  },
+  {
+   "role": "",
+   "name": "김윤호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241211132602/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=60946"
+ }
+}

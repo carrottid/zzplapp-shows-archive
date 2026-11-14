@@ -1,0 +1,59 @@
+{
+ "id": "TM147",
+ "title": "여름밤의 꿈",
+ "genre": "뮤지컬",
+ "from": "2004-05-08",
+ "to": "2004-05-16",
+ "venue": "예술의전당 토월극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_ye.bmp",
+ "cast": [
+  "유희성",
+  "고미경",
+  "송용태",
+  "박원묵",
+  "민영기",
+  "금승훈",
+  "신영숙"
+ ],
+ "state": "공연완료",
+ "producer": "서울예술단",
+ "price": "VIP석 7만원/R석 5만원/S석 3만원/A석 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "부루마루",
+   "name": "유희성"
+  },
+  {
+   "role": "부루마루",
+   "name": "고미경"
+  },
+  {
+   "role": "부루마루",
+   "name": "송용태"
+  },
+  {
+   "role": "부루마루",
+   "name": "박원묵"
+  },
+  {
+   "role": "부루마루",
+   "name": "민영기"
+  },
+  {
+   "role": "부루마루",
+   "name": "금승훈"
+  },
+  {
+   "role": "부루마루",
+   "name": "신영숙"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=147"
+ }
+}

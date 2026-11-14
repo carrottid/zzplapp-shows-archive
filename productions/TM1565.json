@@ -1,0 +1,89 @@
+{
+ "id": "TM1565",
+ "title": "두드림러브",
+ "genre": "뮤지컬",
+ "from": "2010-01-19",
+ "to": "2010-03-07",
+ "venue": "대학로예술극장 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_dodream2010.jpg",
+ "cast": [
+  "고재근",
+  "배진성",
+  "고윤후",
+  "지니",
+  "김신애",
+  "김기수",
+  "김도원",
+  "이나영",
+  "황현빈",
+  "지상록",
+  "엄태형",
+  "이수나",
+  "이두석"
+ ],
+ "state": "공연완료",
+ "producer": "(주)스컹크웍스",
+ "price": "R석 50,000원/ S석 30,000원/ 청소년 20,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "명훈",
+   "name": "고재근"
+  },
+  {
+   "role": "명훈",
+   "name": "배진성"
+  },
+  {
+   "role": "명훈",
+   "name": "고윤후"
+  },
+  {
+   "role": "수희",
+   "name": "지니"
+  },
+  {
+   "role": "수희",
+   "name": "김신애"
+  },
+  {
+   "role": "멀티맨",
+   "name": "김기수"
+  },
+  {
+   "role": "멀티맨",
+   "name": "김도원"
+  },
+  {
+   "role": "멀티걸",
+   "name": "이나영"
+  },
+  {
+   "role": "멀티걸",
+   "name": "황현빈"
+  },
+  {
+   "role": "멀티보이",
+   "name": "지상록"
+  },
+  {
+   "role": "멀티보이",
+   "name": "엄태형"
+  },
+  {
+   "role": "앙상블",
+   "name": "이수나"
+  },
+  {
+   "role": "앙상블",
+   "name": "이두석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1565"
+ }
+}

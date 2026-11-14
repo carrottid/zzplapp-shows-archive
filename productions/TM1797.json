@@ -1,0 +1,84 @@
+{
+ "id": "TM1797",
+ "title": "에비타",
+ "genre": "뮤지컬",
+ "from": "2011-12-09",
+ "to": "2012-01-29",
+ "venue": "LG아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)20.jpg",
+ "cast": [
+  "정선아",
+  "리사",
+  "이지훈",
+  "임병근",
+  "박상원",
+  "박상진",
+  "박선우",
+  "김지유",
+  "김도경",
+  "김미정",
+  "김이삭",
+  "김주환"
+ ],
+ "state": "공연완료",
+ "producer": "설앤컴퍼니, CJ E&M, RUG",
+ "price": "VIP석 13만원 / R석 10만원 / S석 8만원 / A석 5만원 / ㅠ석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "에비타",
+   "name": "정선아"
+  },
+  {
+   "role": "에비타",
+   "name": "리사"
+  },
+  {
+   "role": "체 게바라",
+   "name": "이지훈"
+  },
+  {
+   "role": "체 게바라",
+   "name": "임병근"
+  },
+  {
+   "role": "후안 페론",
+   "name": "박상원"
+  },
+  {
+   "role": "후안 페론",
+   "name": "박상진"
+  },
+  {
+   "role": "마갈디",
+   "name": "박선우"
+  },
+  {
+   "role": "앙상블",
+   "name": "김지유"
+  },
+  {
+   "role": "앙상블",
+   "name": "김도경"
+  },
+  {
+   "role": "앙상블",
+   "name": "김미정"
+  },
+  {
+   "role": "앙상블",
+   "name": "김이삭"
+  },
+  {
+   "role": "앙상블",
+   "name": "김주환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1797"
+ }
+}

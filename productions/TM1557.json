@@ -1,0 +1,54 @@
+{
+ "id": "TM1557",
+ "title": "피크를 던져라",
+ "genre": "뮤지컬",
+ "from": "2009-12-23",
+ "to": "2010-02-14",
+ "venue": "아리랑아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_pickrock2009.jpg",
+ "cast": [
+  "김하나",
+  "윤정빈",
+  "박계훈",
+  "장인섭",
+  "최두영",
+  "김명선"
+ ],
+ "state": "공연완료",
+ "producer": "극단 피크",
+ "price": "일반석 20,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "상큼발랄 드럼 지아",
+   "name": "김하나"
+  },
+  {
+   "role": "작살간지 기타 지우",
+   "name": "윤정빈"
+  },
+  {
+   "role": "가오티즘 베이스 후니",
+   "name": "박계훈"
+  },
+  {
+   "role": "소심다정 보컬 인하",
+   "name": "장인섭"
+  },
+  {
+   "role": "팔색변신 멀티 신이",
+   "name": "최두영"
+  },
+  {
+   "role": "청순가련 건반 서윤",
+   "name": "김명선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1557"
+ }
+}

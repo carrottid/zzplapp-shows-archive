@@ -1,0 +1,64 @@
+{
+ "id": "TM1901",
+ "title": "부활 더 골든데이즈",
+ "genre": "뮤지컬",
+ "from": "2012-10-27",
+ "to": "2012-11-11",
+ "venue": "한전아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(S)79.jpg",
+ "cast": [
+  "임호",
+  "박완",
+  "슈",
+  "배슬기",
+  "우상민",
+  "김경민",
+  "곽은태",
+  "손광업"
+ ],
+ "state": "공연완료",
+ "producer": "극단 현대극장",
+ "price": "R석 7만원 / S석 5만원 / A석 3만원 / B석 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "석주명",
+   "name": "임호"
+  },
+  {
+   "role": "석주명",
+   "name": "박완"
+  },
+  {
+   "role": "지민",
+   "name": "슈"
+  },
+  {
+   "role": "지민",
+   "name": "배슬기"
+  },
+  {
+   "role": "위원진하",
+   "name": "우상민"
+  },
+  {
+   "role": "영철",
+   "name": "김경민"
+  },
+  {
+   "role": "위원병관",
+   "name": "곽은태"
+  },
+  {
+   "role": "위원병관",
+   "name": "손광업"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1901"
+ }
+}

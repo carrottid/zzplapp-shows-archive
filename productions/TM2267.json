@@ -1,0 +1,74 @@
+{
+ "id": "TM2267",
+ "title": "에릭사티",
+ "genre": "뮤지컬",
+ "from": "2015-11-06",
+ "to": "2015-11-08",
+ "venue": "동숭아트센터 동숭홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20151026042424X5311B66833N26DL.jpg",
+ "cast": [
+  "박호산",
+  "김태한",
+  "배해선",
+  "한성식",
+  "신문성",
+  "김용호",
+  "김기창",
+  "송형은",
+  "이형준",
+  "임수빈"
+ ],
+ "state": "공연완료",
+ "producer": "안산문화재단",
+ "price": "R석 5만원 S석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "에릭사티",
+   "name": "박호산"
+  },
+  {
+   "role": "태한",
+   "name": "김태한"
+  },
+  {
+   "role": "수잔",
+   "name": "배해선"
+  },
+  {
+   "role": "피카소",
+   "name": "한성식"
+  },
+  {
+   "role": "앙상블",
+   "name": "신문성"
+  },
+  {
+   "role": "앙상블",
+   "name": "김용호"
+  },
+  {
+   "role": "앙상블",
+   "name": "김기창"
+  },
+  {
+   "role": "앙상블",
+   "name": "송형은"
+  },
+  {
+   "role": "앙상블",
+   "name": "이형준"
+  },
+  {
+   "role": "앙상블",
+   "name": "임수빈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2267"
+ }
+}

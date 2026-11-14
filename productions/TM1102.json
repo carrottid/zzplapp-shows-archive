@@ -1,0 +1,89 @@
+{
+ "id": "TM1102",
+ "title": "더 라이프",
+ "genre": "뮤지컬",
+ "from": "2008-05-02",
+ "to": "2008-06-15",
+ "venue": "한전아트센터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008_더라이프 02.jpg",
+ "cast": [
+  "전수경",
+  "김영주",
+  "유준상",
+  "박상우",
+  "소냐",
+  "고명석",
+  "이필승",
+  "이희정",
+  "이승철",
+  "전혜선",
+  "이삭",
+  "봉은선",
+  "최미용"
+ ],
+ "state": "공연완료",
+ "producer": "(주)조아뮤지컬컴퍼니",
+ "price": "R석 95,000원, S석 65,000원, A석 20,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "소냐",
+   "name": "전수경"
+  },
+  {
+   "role": "소냐",
+   "name": "김영주"
+  },
+  {
+   "role": "조조",
+   "name": "유준상"
+  },
+  {
+   "role": "조조",
+   "name": "박상우"
+  },
+  {
+   "role": "퀸",
+   "name": "소냐"
+  },
+  {
+   "role": "퀸",
+   "name": "고명석"
+  },
+  {
+   "role": "플릿우드",
+   "name": "이필승"
+  },
+  {
+   "role": "멤피스",
+   "name": "이희정"
+  },
+  {
+   "role": "루",
+   "name": "이승철"
+  },
+  {
+   "role": "메리",
+   "name": "전혜선"
+  },
+  {
+   "role": "메리",
+   "name": "이삭"
+  },
+  {
+   "role": "치치",
+   "name": "봉은선"
+  },
+  {
+   "role": "앙상블",
+   "name": "최미용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1102"
+ }
+}

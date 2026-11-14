@@ -1,0 +1,44 @@
+{
+ "id": "TM1625",
+ "title": "트라이앵글",
+ "genre": "뮤지컬",
+ "from": "2010-07-27",
+ "to": "2010-10-10",
+ "venue": "대학로 문화공간 이다 2관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_triangle2010.jpg",
+ "cast": [
+  "최재웅",
+  "강지후",
+  "안유진",
+  "김승대"
+ ],
+ "state": "공연완료",
+ "producer": "㈜연극열전, 이다 엔터테인먼트",
+ "price": "일반 40,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "도연",
+   "name": "최재웅"
+  },
+  {
+   "role": "도연",
+   "name": "강지후"
+  },
+  {
+   "role": "영이",
+   "name": "안유진"
+  },
+  {
+   "role": "경민",
+   "name": "김승대"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1625"
+ }
+}

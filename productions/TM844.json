@@ -1,0 +1,54 @@
+{
+ "id": "TM844",
+ "title": "더 클럽",
+ "genre": "뮤지컬",
+ "from": "2007-07-20",
+ "to": "2007-08-15",
+ "venue": "동국대 예술극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202009181231532f48db88ae994f4a833a75650a9b0926.jpg",
+ "cast": [
+  "오수윤",
+  "안덕용",
+  "이재훤",
+  "현순철",
+  "이재식",
+  "채연정"
+ ],
+ "state": "공연완료",
+ "producer": "극단 모시는 사람들",
+ "price": "R석 3만원 / S석 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "버터플라이",
+   "name": "오수윤"
+  },
+  {
+   "role": "오르페우스",
+   "name": "안덕용"
+  },
+  {
+   "role": "시드",
+   "name": "이재훤"
+  },
+  {
+   "role": "샘/닥터올로프",
+   "name": "현순철"
+  },
+  {
+   "role": "바텐더",
+   "name": "이재식"
+  },
+  {
+   "role": "유리",
+   "name": "채연정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=844"
+ }
+}

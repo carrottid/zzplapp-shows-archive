@@ -1,0 +1,26 @@
+{
+ "id": "PD89653",
+ "title": "빌라도 보고서",
+ "genre": "연극",
+ "from": "2016-03-15",
+ "to": "2016-04-03",
+ "venue": "대학로 SH 아트홀",
+ "cast": [
+  "박민관"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "빌라도",
+   "name": "박민관"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241015230814/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=89653"
+ }
+}

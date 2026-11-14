@@ -1,0 +1,61 @@
+{
+ "id": "PD127977",
+ "title": "갈길은 먼데...",
+ "genre": "뮤지컬",
+ "from": "1992-06-02",
+ "to": "1992-06-05",
+ "venue": "국립극장 해오름극장",
+ "cast": [
+  "송용태",
+  "박철호",
+  "박원묵",
+  "고미경",
+  "이소유",
+  "이희정",
+  "정성화",
+  "김성기"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "최명길",
+   "name": "송용태"
+  },
+  {
+   "role": "최명길",
+   "name": "박철호"
+  },
+  {
+   "role": "김상헌",
+   "name": "박원묵"
+  },
+  {
+   "role": "옥녀",
+   "name": "고미경"
+  },
+  {
+   "role": "삼례",
+   "name": "이소유"
+  },
+  {
+   "role": "강쇠",
+   "name": "이희정"
+  },
+  {
+   "role": "환향녀",
+   "name": "정성화"
+  },
+  {
+   "role": "",
+   "name": "김성기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250210012150/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=127977"
+ }
+}

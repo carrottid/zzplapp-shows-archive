@@ -1,0 +1,94 @@
+{
+ "id": "TM1381",
+ "title": "주유소습격사건",
+ "genre": "뮤지컬",
+ "from": "2009-03-12",
+ "to": "2009-05-17",
+ "venue": "백암아트홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2009gasstation.jpg",
+ "cast": [
+  "최재웅",
+  "이율",
+  "문종원",
+  "이신성",
+  "한성식",
+  "이동근",
+  "김승필",
+  "김영옥",
+  "류재민",
+  "윤원재",
+  "김성환",
+  "홍준기",
+  "김민석",
+  "유영진"
+ ],
+ "state": "공연완료",
+ "producer": "스튜디오 드림캡쳐, 싸이더스FNH",
+ "price": "R석 60,000원 / S석 50,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "노마크",
+   "name": "최재웅"
+  },
+  {
+   "role": "딴따라",
+   "name": "이율"
+  },
+  {
+   "role": "무대포",
+   "name": "문종원"
+  },
+  {
+   "role": "빼인트",
+   "name": "이신성"
+  },
+  {
+   "role": "최사장",
+   "name": "한성식"
+  },
+  {
+   "role": "멀티맨",
+   "name": "이동근"
+  },
+  {
+   "role": "멀티맨",
+   "name": "김승필"
+  },
+  {
+   "role": "거칠녀",
+   "name": "김영옥"
+  },
+  {
+   "role": "건빵",
+   "name": "류재민"
+  },
+  {
+   "role": "샌님",
+   "name": "윤원재"
+  },
+  {
+   "role": "고삐리",
+   "name": "김성환"
+  },
+  {
+   "role": "고삐리",
+   "name": "홍준기"
+  },
+  {
+   "role": "양아치",
+   "name": "김민석"
+  },
+  {
+   "role": "양아치",
+   "name": "유영진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1381"
+ }
+}

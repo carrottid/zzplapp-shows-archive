@@ -1,0 +1,31 @@
+{
+ "id": "PD187349",
+ "title": "년",
+ "genre": "연극",
+ "from": "2005-10-15",
+ "to": "2005-10-25",
+ "venue": "대학로 스타시티",
+ "cast": [
+  "박윤정",
+  "유예서"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "은영",
+   "name": "박윤정"
+  },
+  {
+   "role": "지연",
+   "name": "유예서"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240528105425/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=187349"
+ }
+}

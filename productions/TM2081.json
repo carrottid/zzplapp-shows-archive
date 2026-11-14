@@ -1,0 +1,109 @@
+{
+ "id": "TM2081",
+ "title": "여신님이 보고 계셔",
+ "genre": "뮤지컬",
+ "from": "2014-04-26",
+ "to": "2014-07-27",
+ "venue": "두산아트센터 연강홀",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201404101126044JL23WB058114H7A.jpg",
+ "cast": [
+  "김종구",
+  "정문성",
+  "조형균",
+  "신성민",
+  "려욱",
+  "전성우",
+  "이재균",
+  "진선규",
+  "최대훈",
+  "안재영",
+  "정순원",
+  "윤석현",
+  "백형훈",
+  "주민진",
+  "문성일",
+  "손미영",
+  "이지숙"
+ ],
+ "state": "공연완료",
+ "producer": "is ENT, 연우무대",
+ "price": "[Peak time] R석 8만원 / S석 7만원 / A석 6만원 [Off-Peak time] R석 7만원 / S석 6만원 / A석 5만원 (*프리뷰기간. R석 5만원 / S석 4만원 / A석 3만원)",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "한영범",
+   "name": "김종구"
+  },
+  {
+   "role": "한영범",
+   "name": "정문성"
+  },
+  {
+   "role": "한영범",
+   "name": "조형균"
+  },
+  {
+   "role": "류순호",
+   "name": "신성민"
+  },
+  {
+   "role": "류순호",
+   "name": "려욱"
+  },
+  {
+   "role": "류순호",
+   "name": "전성우"
+  },
+  {
+   "role": "류순호",
+   "name": "이재균"
+  },
+  {
+   "role": "이창섭",
+   "name": "진선규"
+  },
+  {
+   "role": "이창섭",
+   "name": "최대훈"
+  },
+  {
+   "role": "신석구",
+   "name": "안재영"
+  },
+  {
+   "role": "신석구",
+   "name": "정순원"
+  },
+  {
+   "role": "조동현",
+   "name": "윤석현"
+  },
+  {
+   "role": "조동현",
+   "name": "백형훈"
+  },
+  {
+   "role": "변주화",
+   "name": "주민진"
+  },
+  {
+   "role": "변주화",
+   "name": "문성일"
+  },
+  {
+   "role": "여신님",
+   "name": "손미영"
+  },
+  {
+   "role": "여신님",
+   "name": "이지숙"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2081"
+ }
+}

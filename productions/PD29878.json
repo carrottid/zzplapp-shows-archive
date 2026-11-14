@@ -1,0 +1,76 @@
+{
+ "id": "PD29878",
+ "title": "햄릿 - 고양",
+ "genre": "뮤지컬",
+ "from": "2011-12-23",
+ "to": "2011-12-25",
+ "venue": "고양아람누리 아람극장",
+ "cast": [
+  "김수용",
+  "박은태",
+  "윤공주",
+  "이정화",
+  "윤영석",
+  "서범석",
+  "신영숙",
+  "김성기",
+  "김장섭",
+  "강태을",
+  "전동석"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "햄릿",
+   "name": "김수용"
+  },
+  {
+   "role": "햄릿",
+   "name": "박은태"
+  },
+  {
+   "role": "오필리어",
+   "name": "윤공주"
+  },
+  {
+   "role": "오필리어",
+   "name": "이정화"
+  },
+  {
+   "role": "클라우디우스",
+   "name": "윤영석"
+  },
+  {
+   "role": "클라우디우스",
+   "name": "서범석"
+  },
+  {
+   "role": "거투르트",
+   "name": "신영숙"
+  },
+  {
+   "role": "폴로니우스/무덤지기",
+   "name": "김성기"
+  },
+  {
+   "role": "폴로니우스/무덤지기",
+   "name": "김장섭"
+  },
+  {
+   "role": "레어티스",
+   "name": "강태을"
+  },
+  {
+   "role": "레어티스",
+   "name": "전동석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241208103326/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=29878"
+ }
+}

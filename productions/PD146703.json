@@ -1,0 +1,56 @@
+{
+ "id": "PD146703",
+ "title": "1446 여민락 콘서트",
+ "genre": "뮤지컬",
+ "from": "2019-09-26",
+ "to": "2019-09-28",
+ "venue": "예스24스테이지 2관",
+ "cast": [
+  "정상윤",
+  "박유덕",
+  "고영빈",
+  "이준혁",
+  "박정원",
+  "황민수",
+  "KoN"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "세종",
+   "name": "정상윤"
+  },
+  {
+   "role": "세종",
+   "name": "박유덕"
+  },
+  {
+   "role": "태종",
+   "name": "고영빈"
+  },
+  {
+   "role": "전해운",
+   "name": "이준혁"
+  },
+  {
+   "role": "양녕 / 장영실",
+   "name": "박정원"
+  },
+  {
+   "role": "양녕 / 장영실",
+   "name": "황민수"
+  },
+  {
+   "role": "",
+   "name": "KoN"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20231128121556/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=146703"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "TM600",
+ "title": "봄날은 간다",
+ "genre": "뮤지컬",
+ "from": "2003-01-17",
+ "to": "2003-02-09",
+ "venue": "국립극장 해오름극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_play_617.jpg",
+ "cast": [
+  "김성녀",
+  "강효성"
+ ],
+ "state": "공연완료",
+ "producer": "SBS,극단 가교",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "명자",
+   "name": "김성녀"
+  },
+  {
+   "role": "명자",
+   "name": "강효성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=600"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "id": "PD26800",
+ "title": "잭 더 리퍼 - 고양",
+ "genre": "뮤지컬",
+ "from": "2011-10-21",
+ "to": "2011-10-30",
+ "venue": "고양아람누리 아람극장",
+ "cast": [
+  "안재욱",
+  "엄기준",
+  "이지훈",
+  "신성우",
+  "이건명",
+  "유준상",
+  "민영기",
+  "이정열",
+  "김법래",
+  "서지영",
+  "김아선",
+  "오진영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "다니엘",
+   "name": "안재욱"
+  },
+  {
+   "role": "다니엘",
+   "name": "엄기준"
+  },
+  {
+   "role": "다니엘",
+   "name": "이지훈"
+  },
+  {
+   "role": "잭",
+   "name": "신성우"
+  },
+  {
+   "role": "잭",
+   "name": "이건명"
+  },
+  {
+   "role": "앤더슨",
+   "name": "유준상"
+  },
+  {
+   "role": "앤더슨",
+   "name": "민영기"
+  },
+  {
+   "role": "먼로",
+   "name": "이정열"
+  },
+  {
+   "role": "먼로",
+   "name": "김법래"
+  },
+  {
+   "role": "폴리",
+   "name": "서지영"
+  },
+  {
+   "role": "글로리아",
+   "name": "김아선"
+  },
+  {
+   "role": "글로리아",
+   "name": "오진영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171025040842/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=26800"
+ }
+}

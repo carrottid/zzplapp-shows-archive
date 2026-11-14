@@ -1,0 +1,88 @@
+{
+ "id": "TM2085",
+ "title": "싱잉 인 더 레인",
+ "genre": "뮤지컬",
+ "from": "2014-06-05",
+ "to": "2014-08-03",
+ "venue": "충무아트홀 대극장",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/20140514114135163C663PS4572BB5.jpg",
+ "cast": [
+  "김견우(제이)",
+  "규현",
+  "백현",
+  "방진의",
+  "최수진",
+  "써니",
+  "백주희",
+  "선데이",
+  "이병권",
+  "육현욱",
+  "조재국",
+  "성열석",
+  "김의신"
+ ],
+ "state": "공연완료",
+ "price": "VIP석 130,000원 / R석 110,000원 / S석 80,000원 / A석 60,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "돈 락우드",
+   "name": "김견우(제이)"
+  },
+  {
+   "role": "돈 락우드",
+   "name": "규현"
+  },
+  {
+   "role": "돈 락우드",
+   "name": "백현"
+  },
+  {
+   "role": "캐시 샐든",
+   "name": "방진의"
+  },
+  {
+   "role": "캐시 샐든",
+   "name": "최수진"
+  },
+  {
+   "role": "캐시 샐든",
+   "name": "써니"
+  },
+  {
+   "role": "리나 라몬트",
+   "name": "백주희"
+  },
+  {
+   "role": "리나 라몬트",
+   "name": "선데이"
+  },
+  {
+   "role": "코스모 브라운",
+   "name": "이병권"
+  },
+  {
+   "role": "코스모 브라운",
+   "name": "육현욱"
+  },
+  {
+   "role": "R.F 심슨",
+   "name": "조재국"
+  },
+  {
+   "role": "로스코 덱스터",
+   "name": "성열석"
+  },
+  {
+   "role": "도라 베일리",
+   "name": "김의신"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2085"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "id": "PD84206",
+ "title": "명성황후 - 광주",
+ "genre": "뮤지컬",
+ "from": "2015-11-20",
+ "to": "2015-11-21",
+ "venue": "남한산성아트홀 대극장",
+ "cast": [
+  "김소현",
+  "신영숙",
+  "지혜근",
+  "박송권",
+  "민영기",
+  "박완",
+  "이창완",
+  "김도형",
+  "이승한"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "명성황후",
+   "name": "김소현"
+  },
+  {
+   "role": "명성황후",
+   "name": "신영숙"
+  },
+  {
+   "role": "홍계훈",
+   "name": "지혜근"
+  },
+  {
+   "role": "홍계훈",
+   "name": "박송권"
+  },
+  {
+   "role": "고종",
+   "name": "민영기"
+  },
+  {
+   "role": "고종",
+   "name": "박완"
+  },
+  {
+   "role": "대원군",
+   "name": "이창완"
+  },
+  {
+   "role": "미우라",
+   "name": "김도형"
+  },
+  {
+   "role": "미우라",
+   "name": "이승한"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20160914090218/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=84206"
+ }
+}

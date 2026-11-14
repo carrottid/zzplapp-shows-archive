@@ -1,0 +1,81 @@
+{
+ "id": "PD101874",
+ "title": "라흐마니노프",
+ "genre": "뮤지컬",
+ "from": "2017-02-04",
+ "to": "2017-03-12",
+ "venue": "세종문화회관 M씨어터",
+ "cast": [
+  "박유덕",
+  "안재영",
+  "김경수",
+  "정동화",
+  "이범재",
+  "박지훈",
+  "신우근",
+  "지현호",
+  "임수찬",
+  "이승구",
+  "강중구",
+  "최승규"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "라흐마니노프",
+   "name": "박유덕"
+  },
+  {
+   "role": "라흐마니노프",
+   "name": "안재영"
+  },
+  {
+   "role": "니콜라이 달",
+   "name": "김경수"
+  },
+  {
+   "role": "니콜라이 달",
+   "name": "정동화"
+  },
+  {
+   "role": "피아노",
+   "name": "이범재"
+  },
+  {
+   "role": "피아노",
+   "name": "박지훈"
+  },
+  {
+   "role": "바이올린",
+   "name": "신우근"
+  },
+  {
+   "role": "바이올린",
+   "name": "지현호"
+  },
+  {
+   "role": "바이올린",
+   "name": "임수찬"
+  },
+  {
+   "role": "비올라",
+   "name": "이승구"
+  },
+  {
+   "role": "첼로",
+   "name": "강중구"
+  },
+  {
+   "role": "",
+   "name": "최승규"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250215012148/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=101874"
+ }
+}

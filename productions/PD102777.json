@@ -1,0 +1,31 @@
+{
+ "id": "PD102777",
+ "title": "상처투성이 운동장",
+ "genre": "연극",
+ "from": "2017-01-04",
+ "to": "2017-01-16",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "백종승",
+  "조아라"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "더그",
+   "name": "백종승"
+  },
+  {
+   "role": "케일린",
+   "name": "조아라"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20171026144412/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=102777"
+ }
+}

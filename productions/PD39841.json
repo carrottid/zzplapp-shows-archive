@@ -1,0 +1,26 @@
+{
+ "id": "PD39841",
+ "title": "이자람의 억척가 - 용인",
+ "genre": "연극",
+ "from": "2012-12-14",
+ "to": "2012-12-15",
+ "venue": "용인 포은아트홀",
+ "cast": [
+  "이자람"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "소리가",
+   "name": "이자람"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20121029131515/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=39841"
+ }
+}

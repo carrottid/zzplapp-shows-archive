@@ -1,0 +1,66 @@
+{
+ "id": "PD134034",
+ "title": "벙커 트릴로지",
+ "genre": "연극",
+ "from": "2018-12-11",
+ "to": "2019-02-24",
+ "venue": "홍익대 대학로 아트센터 소극장",
+ "cast": [
+  "이석준",
+  "박민성",
+  "오종혁",
+  "박은석",
+  "신성민",
+  "김바다",
+  "강승호",
+  "정연",
+  "이진희"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "병사 1",
+   "name": "이석준"
+  },
+  {
+   "role": "병사 1",
+   "name": "박민성"
+  },
+  {
+   "role": "병사 2",
+   "name": "오종혁"
+  },
+  {
+   "role": "병사 2",
+   "name": "박은석"
+  },
+  {
+   "role": "병사 2",
+   "name": "신성민"
+  },
+  {
+   "role": "병사 3",
+   "name": "김바다"
+  },
+  {
+   "role": "병사 3",
+   "name": "강승호"
+  },
+  {
+   "role": "병사 4",
+   "name": "정연"
+  },
+  {
+   "role": "병사 4",
+   "name": "이진희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240523023912/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=134034"
+ }
+}

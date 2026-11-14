@@ -1,0 +1,76 @@
+{
+ "id": "PD142194",
+ "title": "니진스키 쇼케이스",
+ "genre": "뮤지컬",
+ "from": "2019-05-13",
+ "to": "2019-05-13",
+ "venue": "KT&G 상상마당 대치아트홀",
+ "cast": [
+  "김찬호",
+  "정동화",
+  "정원영",
+  "김종구",
+  "조성윤",
+  "안재영",
+  "임준혁",
+  "홍승안",
+  "신재범",
+  "최미소",
+  "류지한"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "니진스키",
+   "name": "김찬호"
+  },
+  {
+   "role": "니진스키",
+   "name": "정동화"
+  },
+  {
+   "role": "니진스키",
+   "name": "정원영"
+  },
+  {
+   "role": "디아길레프",
+   "name": "김종구"
+  },
+  {
+   "role": "디아길레프",
+   "name": "조성윤"
+  },
+  {
+   "role": "디아길레프",
+   "name": "안재영"
+  },
+  {
+   "role": "스트라빈스키",
+   "name": "임준혁"
+  },
+  {
+   "role": "스트라빈스키",
+   "name": "홍승안"
+  },
+  {
+   "role": "스트라빈스키",
+   "name": "신재범"
+  },
+  {
+   "role": "로몰라",
+   "name": "최미소"
+  },
+  {
+   "role": "한스",
+   "name": "류지한"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210512115535/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=142194"
+ }
+}

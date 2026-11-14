@@ -1,0 +1,56 @@
+{
+ "id": "PD85853",
+ "title": "하퍼리건",
+ "genre": "연극",
+ "from": "2015-12-12",
+ "to": "2015-12-30",
+ "venue": "대학로 선돌극장",
+ "cast": [
+  "고수민",
+  "최승일",
+  "김용준",
+  "홍성춘",
+  "홍윤희",
+  "신용진",
+  "강선영"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "하퍼 리건",
+   "name": "고수민"
+  },
+  {
+   "role": "엘우드 반즈",
+   "name": "최승일"
+  },
+  {
+   "role": "세스 리건",
+   "name": "김용준"
+  },
+  {
+   "role": "제임스 포춘",
+   "name": "홍성춘"
+  },
+  {
+   "role": "앨리슨 울리",
+   "name": "홍윤희"
+  },
+  {
+   "role": "미키 네스터",
+   "name": "신용진"
+  },
+  {
+   "role": "",
+   "name": "강선영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251009133736/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=85853"
+ }
+}

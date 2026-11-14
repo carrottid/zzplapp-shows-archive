@@ -1,0 +1,94 @@
+{
+ "id": "TM1825",
+ "title": "캐치 미 이프 유 캔",
+ "genre": "뮤지컬",
+ "from": "2012-03-28",
+ "to": "2012-06-10",
+ "venue": "블루스퀘어 삼성카드홀",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster (s)6.JPG",
+ "cast": [
+  "엄기준",
+  "김정훈",
+  "박광현",
+  "규현",
+  "키",
+  "김법래",
+  "이건명",
+  "이희정",
+  "이정열",
+  "전수경",
+  "서지영",
+  "최우리",
+  "다나",
+  "써니"
+ ],
+ "state": "공연완료",
+ "producer": "㈜엠뮤지컬아트, CJ E&M",
+ "price": "(평일) First Class 12만원, Business Class 10만원, Economy Class 6만원 / (주말) First Class 13만원, Business Class 11만원, Economy Class 7만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "프랭크",
+   "name": "엄기준"
+  },
+  {
+   "role": "프랭크",
+   "name": "김정훈"
+  },
+  {
+   "role": "프랭크",
+   "name": "박광현"
+  },
+  {
+   "role": "프랭크",
+   "name": "규현"
+  },
+  {
+   "role": "프랭크",
+   "name": "키"
+  },
+  {
+   "role": "칼 해너티",
+   "name": "김법래"
+  },
+  {
+   "role": "칼 해너티",
+   "name": "이건명"
+  },
+  {
+   "role": "프랭크 시니어/로저",
+   "name": "이희정"
+  },
+  {
+   "role": "프랭크 시니어/로저",
+   "name": "이정열"
+  },
+  {
+   "role": "폴라/캐롤",
+   "name": "전수경"
+  },
+  {
+   "role": "폴라/캐롤",
+   "name": "서지영"
+  },
+  {
+   "role": "브랜다",
+   "name": "최우리"
+  },
+  {
+   "role": "브랜다",
+   "name": "다나"
+  },
+  {
+   "role": "브랜다",
+   "name": "써니"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1825"
+ }
+}

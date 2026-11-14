@@ -1,0 +1,54 @@
+{
+ "id": "TM1683",
+ "title": "풋루스",
+ "genre": "뮤지컬",
+ "from": "2010-12-10",
+ "to": "2011-02-06",
+ "venue": "나루아트센터 대극장",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_footloose-s.jpg",
+ "cast": [
+  "유나영",
+  "최효상",
+  "우상민",
+  "김자미",
+  "차혜정",
+  "김선영"
+ ],
+ "state": "공연완료",
+ "producer": "뮤지컬컴퍼니 가연",
+ "price": "R석 77,000원 / S석 66,000원 / A석 55,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "에리엘",
+   "name": "유나영"
+  },
+  {
+   "role": "쇼 목사",
+   "name": "최효상"
+  },
+  {
+   "role": "비(목사부인)",
+   "name": "우상민"
+  },
+  {
+   "role": "웬디 조",
+   "name": "김자미"
+  },
+  {
+   "role": "얼린",
+   "name": "차혜정"
+  },
+  {
+   "role": "에델",
+   "name": "김선영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1683"
+ }
+}

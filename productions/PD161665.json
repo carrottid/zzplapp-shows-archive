@@ -1,0 +1,46 @@
+{
+ "id": "PD161665",
+ "title": "갈매기",
+ "genre": "연극",
+ "from": "2020-12-04",
+ "to": "2020-12-13",
+ "venue": "대학로 열린극장",
+ "cast": [
+  "배우진",
+  "이승분",
+  "정은진",
+  "김주영",
+  "변형범"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "뜨리고린",
+   "name": "배우진"
+  },
+  {
+   "role": "뽈리나",
+   "name": "이승분"
+  },
+  {
+   "role": "마샤",
+   "name": "정은진"
+  },
+  {
+   "role": "메드베젠꼬",
+   "name": "김주영"
+  },
+  {
+   "role": "야꼬프",
+   "name": "변형범"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220523105225/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=161665"
+ }
+}

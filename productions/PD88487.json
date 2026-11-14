@@ -1,0 +1,96 @@
+{
+ "id": "PD88487",
+ "title": "템페스트",
+ "genre": "연극",
+ "from": "2016-01-30",
+ "to": "2016-02-14",
+ "venue": "국립극장 달오름극장",
+ "cast": [
+  "정진각",
+  "송영광",
+  "김준범",
+  "윤민영",
+  "정지영",
+  "김지혜",
+  "유재연",
+  "천승목",
+  "조원준",
+  "이준영",
+  "김봉현",
+  "배건일",
+  "박지훈",
+  "이보다미",
+  "김유미"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "자비왕",
+   "name": "정진각"
+  },
+  {
+   "role": "질지왕",
+   "name": "송영광"
+  },
+  {
+   "role": "지도로",
+   "name": "김준범"
+  },
+  {
+   "role": "제웅",
+   "name": "윤민영"
+  },
+  {
+   "role": "제웅",
+   "name": "정지영"
+  },
+  {
+   "role": "제웅",
+   "name": "김지혜"
+  },
+  {
+   "role": "아랫머리",
+   "name": "유재연"
+  },
+  {
+   "role": "소지",
+   "name": "천승목"
+  },
+  {
+   "role": "",
+   "name": "조원준"
+  },
+  {
+   "role": "",
+   "name": "이준영"
+  },
+  {
+   "role": "",
+   "name": "김봉현"
+  },
+  {
+   "role": "",
+   "name": "배건일"
+  },
+  {
+   "role": "",
+   "name": "박지훈"
+  },
+  {
+   "role": "",
+   "name": "이보다미"
+  },
+  {
+   "role": "",
+   "name": "김유미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170903082300/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=88487"
+ }
+}

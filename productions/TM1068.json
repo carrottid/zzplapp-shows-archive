@@ -1,0 +1,43 @@
+{
+ "id": "TM1068",
+ "title": "지하철1호선",
+ "genre": "뮤지컬",
+ "from": "2005-07-05",
+ "to": "2005-12-31",
+ "venue": "학전그린",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_ji1.gif",
+ "cast": [
+  "정인애",
+  "박민성",
+  "김상현",
+  "임호준"
+ ],
+ "state": "공연완료",
+ "producer": "극단 학전",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "선녀",
+   "name": "정인애"
+  },
+  {
+   "role": "선녀",
+   "name": "박민성"
+  },
+  {
+   "role": "선녀",
+   "name": "김상현"
+  },
+  {
+   "role": "선녀",
+   "name": "임호준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1068"
+ }
+}

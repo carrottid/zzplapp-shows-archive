@@ -1,0 +1,51 @@
+{
+ "id": "PD117928",
+ "title": "줄리 앤 폴",
+ "genre": "뮤지컬",
+ "from": "2017-12-23",
+ "to": "2018-01-07",
+ "venue": "대학로예술극장 소극장",
+ "cast": [
+  "곽선영",
+  "송유택",
+  "김아영",
+  "박준후",
+  "최영우",
+  "송광일"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "줄리",
+   "name": "곽선영"
+  },
+  {
+   "role": "폴",
+   "name": "송유택"
+  },
+  {
+   "role": "파리시장",
+   "name": "김아영"
+  },
+  {
+   "role": "예술가 대표",
+   "name": "박준후"
+  },
+  {
+   "role": "장",
+   "name": "최영우"
+  },
+  {
+   "role": "나폴레옹",
+   "name": "송광일"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250804214211/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=117928"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "id": "PD13694",
+ "title": "햄릿",
+ "genre": "연극",
+ "from": "2009-11-05",
+ "to": "2009-11-22",
+ "venue": "미마지 아트센터 눈빛극장",
+ "cast": [
+  "윤정섭",
+  "김소희",
+  "김미숙",
+  "신주연",
+  "이승헌",
+  "염순식",
+  "김민주"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "햄릿",
+   "name": "윤정섭"
+  },
+  {
+   "role": "거트루트",
+   "name": "김소희"
+  },
+  {
+   "role": "호레이쇼, 무덤지기",
+   "name": "김미숙"
+  },
+  {
+   "role": "오필리어",
+   "name": "신주연"
+  },
+  {
+   "role": "클로디어스 , 선왕",
+   "name": "이승헌"
+  },
+  {
+   "role": "레어티즈",
+   "name": "염순식"
+  },
+  {
+   "role": "",
+   "name": "김민주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20170919062542/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=13694"
+ }
+}

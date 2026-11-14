@@ -1,0 +1,59 @@
+{
+ "id": "TM1124",
+ "title": "화성에서 꿈꾸다",
+ "genre": "뮤지컬",
+ "from": "2008-06-06",
+ "to": "2008-06-11",
+ "venue": "LG아트센터",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/202006040702237c10d4c9f06c4b10bb74a95319e4a9bf.jpg",
+ "cast": [
+  "민영기",
+  "박소연",
+  "장승조(장현덕)",
+  "곽은태",
+  "정유희",
+  "이광용",
+  "임영진"
+ ],
+ "state": "공연완료",
+ "producer": "경기도문화의전당",
+ "price": "VIP석 12만원 / R석 10만원 / S석 8만원 / A석 6만원 / B석 3만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "정조",
+   "name": "민영기"
+  },
+  {
+   "role": "장덕이",
+   "name": "박소연"
+  },
+  {
+   "role": "이선생",
+   "name": "장승조(장현덕)"
+  },
+  {
+   "role": "영조",
+   "name": "곽은태"
+  },
+  {
+   "role": "혜경궁홍씨",
+   "name": "정유희"
+  },
+  {
+   "role": "심한지",
+   "name": "이광용"
+  },
+  {
+   "role": "홍국영",
+   "name": "임영진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1124"
+ }
+}

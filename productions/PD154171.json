@@ -1,0 +1,66 @@
+{
+ "id": "PD154171",
+ "title": "다니엘",
+ "genre": "뮤지컬",
+ "from": "2020-02-21",
+ "to": "2020-03-15",
+ "venue": "예스24스테이지 3관",
+ "cast": [
+  "석현준",
+  "이석준",
+  "마이삭",
+  "이지성",
+  "김민재",
+  "김민준",
+  "최승별",
+  "손영주",
+  "이해민"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "다니엘",
+   "name": "석현준"
+  },
+  {
+   "role": "다니엘",
+   "name": "이석준"
+  },
+  {
+   "role": "제이슨",
+   "name": "마이삭"
+  },
+  {
+   "role": "벨라",
+   "name": "이지성"
+  },
+  {
+   "role": "찰스",
+   "name": "김민재"
+  },
+  {
+   "role": "크툴루",
+   "name": "김민준"
+  },
+  {
+   "role": "멜로우",
+   "name": "최승별"
+  },
+  {
+   "role": "",
+   "name": "손영주"
+  },
+  {
+   "role": "",
+   "name": "이해민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251214050732/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=154171"
+ }
+}

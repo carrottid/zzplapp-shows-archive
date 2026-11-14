@@ -1,0 +1,44 @@
+{
+ "id": "TM1630",
+ "title": "카페인",
+ "genre": "뮤지컬",
+ "from": "2010-08-04",
+ "to": "2010-10-03",
+ "venue": "아트원씨어터",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_cafein2010_2.jpg",
+ "cast": [
+  "유나영",
+  "우금지",
+  "김태한",
+  "김경수"
+ ],
+ "state": "공연완료",
+ "producer": "SH Creative Works",
+ "price": "R석 45,000원 / S석 35,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "세진",
+   "name": "유나영"
+  },
+  {
+   "role": "세진",
+   "name": "우금지"
+  },
+  {
+   "role": "지민",
+   "name": "김태한"
+  },
+  {
+   "role": "지민",
+   "name": "김경수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1630"
+ }
+}

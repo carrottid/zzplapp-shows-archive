@@ -1,0 +1,64 @@
+{
+ "id": "TM45",
+ "title": "요덕스토리",
+ "genre": "뮤지컬",
+ "from": "2006-03-13",
+ "to": "2006-04-02",
+ "venue": "양재동 교육문화회관",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_06000555.gif",
+ "cast": [
+  "최윤정",
+  "임재청",
+  "김준겸",
+  "박완규",
+  "박건락",
+  "김선동",
+  "한정아",
+  "손현정"
+ ],
+ "state": "공연완료",
+ "producer": "극단 빅디퍼",
+ "price": "VIP석 8만원/R석 6만원/S석 4만원/A석 2만원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "강련화",
+   "name": "최윤정"
+  },
+  {
+   "role": "강련화",
+   "name": "임재청"
+  },
+  {
+   "role": "강련화",
+   "name": "김준겸"
+  },
+  {
+   "role": "강련화",
+   "name": "박완규"
+  },
+  {
+   "role": "강련화",
+   "name": "박건락"
+  },
+  {
+   "role": "강련화",
+   "name": "김선동"
+  },
+  {
+   "role": "강련화",
+   "name": "한정아"
+  },
+  {
+   "role": "강련화",
+   "name": "손현정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=45"
+ }
+}

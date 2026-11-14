@@ -1,0 +1,99 @@
+{
+ "id": "TM1924",
+ "title": "빨래",
+ "genre": "뮤지컬",
+ "from": "2012-11-14",
+ "to": "2013-03-03",
+ "venue": "학전그린",
+ "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster(s)93.jpg",
+ "cast": [
+  "엄태리",
+  "차미연",
+  "조헌정",
+  "김종구",
+  "최호중",
+  "이준혁",
+  "김효숙",
+  "김국희",
+  "김송이",
+  "한세라",
+  "윤성원",
+  "김지훈",
+  "안두호",
+  "조훈",
+  "김재은"
+ ],
+ "state": "공연완료",
+ "producer": "명랑씨어터 수박",
+ "price": "전석 4만4천원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "나영",
+   "name": "엄태리"
+  },
+  {
+   "role": "나영",
+   "name": "차미연"
+  },
+  {
+   "role": "나영",
+   "name": "조헌정"
+  },
+  {
+   "role": "솔롱고",
+   "name": "김종구"
+  },
+  {
+   "role": "솔롱고",
+   "name": "최호중"
+  },
+  {
+   "role": "솔롱고",
+   "name": "이준혁"
+  },
+  {
+   "role": "주인할매",
+   "name": "김효숙"
+  },
+  {
+   "role": "주인할매",
+   "name": "김국희"
+  },
+  {
+   "role": "희정엄마",
+   "name": "김송이"
+  },
+  {
+   "role": "희정엄마",
+   "name": "한세라"
+  },
+  {
+   "role": "구씨",
+   "name": "윤성원"
+  },
+  {
+   "role": "빵",
+   "name": "김지훈"
+  },
+  {
+   "role": "빵",
+   "name": "안두호"
+  },
+  {
+   "role": "마이클",
+   "name": "조훈"
+  },
+  {
+   "role": "여직원",
+   "name": "김재은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=1924"
+ }
+}

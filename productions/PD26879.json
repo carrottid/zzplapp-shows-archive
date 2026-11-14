@@ -1,0 +1,61 @@
+{
+ "id": "PD26879",
+ "title": "2011 서울국제공연예술제 - 화장",
+ "genre": "연극",
+ "from": "2011-10-23",
+ "to": "2011-10-24",
+ "venue": "대학로예술극장 대극장",
+ "cast": [
+  "이원재",
+  "김호영",
+  "최홍일",
+  "조선주",
+  "이미숙",
+  "김범진",
+  "백승철",
+  "김충근"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "화가",
+   "name": "이원재"
+  },
+  {
+   "role": "도미사부로",
+   "name": "김호영"
+  },
+  {
+   "role": "사토",
+   "name": "최홍일"
+  },
+  {
+   "role": "링고",
+   "name": "조선주"
+  },
+  {
+   "role": "광대",
+   "name": "이미숙"
+  },
+  {
+   "role": "광대",
+   "name": "김범진"
+  },
+  {
+   "role": "켄이치",
+   "name": "백승철"
+  },
+  {
+   "role": "",
+   "name": "김충근"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20201007044015/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=26879"
+ }
+}

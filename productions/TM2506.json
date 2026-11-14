@@ -1,0 +1,64 @@
+{
+ "id": "TM2506",
+ "title": "순수의 시대",
+ "genre": "뮤지컬",
+ "from": "2017-10-30",
+ "to": "2017-10-31",
+ "venue": "프로젝트박스 시야",
+ "poster": "https://image.yes24.com/themusical/fileStorage/ThemusicalAdmin/Play/Image/201710260137498BVQXI3ARK6C2B52.jpg",
+ "cast": [
+  "최재림",
+  "구원영",
+  "이지혜",
+  "정영주",
+  "심재현",
+  "양지원",
+  "정인지",
+  "이효주"
+ ],
+ "state": "공연완료",
+ "producer": "우란문화재단",
+ "price": "전석 15,000원",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-10T08:42:43",
+ "roleCast": [
+  {
+   "role": "뉴랜드 아처",
+   "name": "최재림"
+  },
+  {
+   "role": "엘렌 올렌스카",
+   "name": "구원영"
+  },
+  {
+   "role": "메이 웰랜드",
+   "name": "이지혜"
+  },
+  {
+   "role": "밍곳 부인",
+   "name": "정영주"
+  },
+  {
+   "role": "실러틴 잭슨 외",
+   "name": "심재현"
+  },
+  {
+   "role": "로렌스 레퍼츠 외",
+   "name": "양지원"
+  },
+  {
+   "role": "웰랜드 부인 외",
+   "name": "정인지"
+  },
+  {
+   "role": "아처 부인 외",
+   "name": "이효주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2506"
+ }
+}

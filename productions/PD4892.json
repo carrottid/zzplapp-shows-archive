@@ -1,0 +1,61 @@
+{
+ "id": "PD4892",
+ "title": "소리도둑 - 부산",
+ "genre": "뮤지컬",
+ "from": "2008-06-14",
+ "to": "2008-06-15",
+ "venue": "부산시민회관 대극장",
+ "cast": [
+  "박도연",
+  "심재영",
+  "박세현",
+  "남경주",
+  "최정원",
+  "송영창",
+  "라준",
+  "임선애"
+ ],
+ "state": "공연완료",
+ "images": [],
+ "links": [],
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T14:15:05",
+ "roleCast": [
+  {
+   "role": "아침",
+   "name": "박도연"
+  },
+  {
+   "role": "아침",
+   "name": "심재영"
+  },
+  {
+   "role": "아침",
+   "name": "박세현"
+  },
+  {
+   "role": "유준",
+   "name": "남경주"
+  },
+  {
+   "role": "인경",
+   "name": "최정원"
+  },
+  {
+   "role": "최원장",
+   "name": "송영창"
+  },
+  {
+   "role": "치린",
+   "name": "라준"
+  },
+  {
+   "role": "필네",
+   "name": "임선애"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20140717175521/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=4892"
+ }
+}

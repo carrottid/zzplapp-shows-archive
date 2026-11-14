@@ -2,30 +2,6 @@
  "date": "2022-08-01",
  "sessions": [
   {
-   "id": "PF191728",
-   "title": "데스노트",
-   "genre": "뮤지컬",
-   "venue": "예술의전당 [서울] (오페라극장)",
-   "time": "14:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#1A1410",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF191728",
-   "title": "데스노트",
-   "genre": "뮤지컬",
-   "venue": "예술의전당 [서울] (오페라극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#1A1410",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF192966",
    "title": "말리의 어제보다 특별한 오늘",
    "genre": "뮤지컬",

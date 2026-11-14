@@ -55,5 +55,9 @@
  "roleCastSource": {
   "name": "더뮤지컬",
   "url": "https://www.themusical.co.kr/Musical/Detail?num=1928"
+ },
+ "color": {
+  "bg": "#F6C9D3",
+  "fg": "#111111"
  }
 }

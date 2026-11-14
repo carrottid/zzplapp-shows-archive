@@ -2,18 +2,6 @@
  "date": "2022-07-04",
  "sessions": [
   {
-   "id": "PF191728",
-   "title": "데스노트",
-   "genre": "뮤지컬",
-   "venue": "예술의전당 [서울] (오페라극장)",
-   "time": "14:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#1A1410",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF192454",
    "title": "아킬레스 LIVE CONCERT in Seoul",
    "genre": "뮤지컬",
@@ -56,18 +44,6 @@
    "venue": "선돌극장",
    "time": "19:30",
    "castSource": "none"
-  },
-  {
-   "id": "PF191728",
-   "title": "데스노트",
-   "genre": "뮤지컬",
-   "venue": "예술의전당 [서울] (오페라극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#1A1410",
-    "fg": "#FFFFFF"
-   }
   },
   {
    "id": "PF190802",

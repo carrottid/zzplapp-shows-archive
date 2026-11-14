@@ -46,18 +46,6 @@
    "castSource": "none"
   },
   {
-   "id": "PF197464",
-   "title": "트레드밀",
-   "genre": "뮤지컬",
-   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
-   "time": "16:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#000000",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF194642",
    "title": "엘리자벳 10주년 기념공연",
    "genre": "뮤지컬",

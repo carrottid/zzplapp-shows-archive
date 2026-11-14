@@ -11,5 +11,9 @@
  "images": [],
  "links": [],
  "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
+ "fetchedAt": "2026-11-10T08:42:43",
+ "color": {
+  "bg": "#D8C7A0",
+  "fg": "#111111"
+ }
 }

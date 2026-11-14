@@ -342,18 +342,6 @@
    }
   },
   {
-   "id": "PF176524",
-   "title": "채한울 콘서트: Song Book I",
-   "genre": "뮤지컬",
-   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
-   "time": "15:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#E8D6C4",
-    "fg": "#111111"
-   }
-  },
-  {
    "id": "PF175484",
    "title": "카르타고",
    "genre": "연극",
@@ -711,18 +699,6 @@
    "color": {
     "bg": "#181C22",
     "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF176524",
-   "title": "채한울 콘서트: Song Book I",
-   "genre": "뮤지컬",
-   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
-   "time": "19:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#E8D6C4",
-    "fg": "#111111"
    }
   },
   {

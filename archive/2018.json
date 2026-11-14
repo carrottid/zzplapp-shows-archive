@@ -2745,6 +2745,7 @@
    "from": "2018-09-04",
    "to": "2018-11-18",
    "venue": "예스24스테이지 2관 (구 대명문화공장 2관)",
+   "poster": "https://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/18/07/0400011807_128882_0852.gif",
    "cast": [
     "고훈정",
     "조풍래",
@@ -2754,7 +2755,7 @@
     "홍승안"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "nol"
   },
   {
    "id": "PD128955",

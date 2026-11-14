@@ -1281,18 +1281,6 @@
     "bg": "#8E586F",
     "fg": "#FFFFFF"
    }
-  },
-  {
-   "id": "PF220001",
-   "title": "프리다",
-   "genre": "뮤지컬",
-   "venue": "코엑스아티움(Coex Artium)",
-   "time": "23:59",
-   "castSource": "none",
-   "color": {
-    "bg": "#097B2B",
-    "fg": "#FFFFFF"
-   }
   }
  ]
 }

@@ -2,18 +2,6 @@
  "date": "2022-09-29",
  "sessions": [
   {
-   "id": "PF197464",
-   "title": "트레드밀",
-   "genre": "뮤지컬",
-   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
-   "time": "16:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#000000",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF198327",
    "title": "당신의 시간을 찾아서",
    "genre": "연극",

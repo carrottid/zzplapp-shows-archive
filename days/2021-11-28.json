@@ -442,18 +442,6 @@
    }
   },
   {
-   "id": "PF180082",
-   "title": "헤드윅",
-   "genre": "뮤지컬",
-   "venue": "고양아람누리 (아람극장)",
-   "time": "15:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#2F2C2D",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF180452",
    "title": "우리들의 사랑",
    "genre": "뮤지컬",

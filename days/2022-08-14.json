@@ -238,18 +238,6 @@
    }
   },
   {
-   "id": "PF191728",
-   "title": "데스노트",
-   "genre": "뮤지컬",
-   "venue": "예술의전당 [서울] (오페라극장)",
-   "time": "14:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#1A1410",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF195055",
    "title": "그날, 그날에",
    "genre": "연극",
@@ -742,18 +730,6 @@
    "castSource": "none",
    "color": {
     "bg": "#AA3C3B",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF191728",
-   "title": "데스노트",
-   "genre": "뮤지컬",
-   "venue": "예술의전당 [서울] (오페라극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#1A1410",
     "fg": "#FFFFFF"
    }
   },

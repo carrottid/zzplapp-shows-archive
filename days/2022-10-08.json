@@ -466,18 +466,6 @@
    "castSource": "none"
   },
   {
-   "id": "PF197464",
-   "title": "트레드밀",
-   "genre": "뮤지컬",
-   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
-   "time": "16:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#000000",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF198114",
    "title": "한남韓男의 광시곡狂詩曲 (K-Men’s Rhapsody)",
    "genre": "연극",
@@ -914,18 +902,6 @@
    "castSource": "none",
    "color": {
     "bg": "#CB451B",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF197464",
-   "title": "트레드밀",
-   "genre": "뮤지컬",
-   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#000000",
     "fg": "#FFFFFF"
    }
   }

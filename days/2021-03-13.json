@@ -266,18 +266,6 @@
    "castSource": "none"
   },
   {
-   "id": "PF171907",
-   "title": "적의 화장법",
-   "genre": "연극",
-   "venue": "홍익대 대학로 아트센터 (소극장)",
-   "time": "15:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#A9653D",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF171197",
    "title": "제인",
    "genre": "연극",
@@ -614,18 +602,6 @@
    "castSource": "none",
    "color": {
     "bg": "#000000",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF171907",
-   "title": "적의 화장법",
-   "genre": "연극",
-   "venue": "홍익대 대학로 아트센터 (소극장)",
-   "time": "19:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#A9653D",
     "fg": "#FFFFFF"
    }
   },

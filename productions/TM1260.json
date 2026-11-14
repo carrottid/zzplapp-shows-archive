@@ -165,5 +165,9 @@
  "roleCastSource": {
   "name": "더뮤지컬",
   "url": "https://www.themusical.co.kr/Musical/Detail?num=1260"
+ },
+ "color": {
+  "bg": "#1D0C0B",
+  "fg": "#FFFFFF"
  }
 }

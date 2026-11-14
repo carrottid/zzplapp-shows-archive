@@ -95,5 +95,9 @@
  "roleCastSource": {
   "name": "더뮤지컬",
   "url": "https://www.themusical.co.kr/Musical/Detail?num=1953"
+ },
+ "color": {
+  "bg": "#3B2A14",
+  "fg": "#E8C15A"
  }
 }

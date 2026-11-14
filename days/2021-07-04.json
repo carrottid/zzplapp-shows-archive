@@ -366,18 +366,6 @@
    "castSource": "none"
   },
   {
-   "id": "PF176524",
-   "title": "채한울 콘서트: Song Book I",
-   "genre": "뮤지컬",
-   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
-   "time": "15:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#E8D6C4",
-    "fg": "#111111"
-   }
-  },
-  {
    "id": "PF173362",
    "title": "코리올라누스",
    "genre": "연극",
@@ -702,18 +690,6 @@
    "castSource": "none",
    "color": {
     "bg": "#97854F",
-    "fg": "#111111"
-   }
-  },
-  {
-   "id": "PF176524",
-   "title": "채한울 콘서트: Song Book I",
-   "genre": "뮤지컬",
-   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
-   "time": "19:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#E8D6C4",
     "fg": "#111111"
    }
   },

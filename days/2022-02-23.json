@@ -171,7 +171,21 @@
    "genre": "뮤지컬",
    "venue": "홍익대 대학로 아트센터 (대극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "강필석"
+    },
+    {
+     "name": "김재범"
+    },
+    {
+     "name": "박영수"
+    },
+    {
+     "name": "신재희"
+    }
+   ],
    "color": {
     "bg": "#4D353C",
     "fg": "#FFFFFF"

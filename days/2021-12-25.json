@@ -2,6 +2,32 @@
  "date": "2021-12-25",
  "sessions": [
   {
+   "id": "PF181384",
+   "title": "곤 투모로우",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "14:00",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "송원근"
+    },
+    {
+     "name": "윤소호"
+    },
+    {
+     "name": "고영빈"
+    },
+    {
+     "name": "김태한"
+    }
+   ],
+   "color": {
+    "bg": "#4D353C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF180934",
    "title": "더 드레서",
    "genre": "연극",
@@ -212,18 +238,6 @@
    "venue": "후암스테이지 (2관)",
    "time": "15:00",
    "castSource": "none"
-  },
-  {
-   "id": "PF181384",
-   "title": "곤 투모로우",
-   "genre": "뮤지컬",
-   "venue": "홍익대 대학로 아트센터 (대극장)",
-   "time": "15:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#4D353C",
-    "fg": "#FFFFFF"
-   }
   },
   {
    "id": "PF183291",
@@ -722,6 +736,32 @@
    "castSource": "none"
   },
   {
+   "id": "PF181384",
+   "title": "곤 투모로우",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "18:30",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "최재웅"
+    },
+    {
+     "name": "윤소호"
+    },
+    {
+     "name": "고영빈"
+    },
+    {
+     "name": "신재희"
+    }
+   ],
+   "color": {
+    "bg": "#4D353C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF180742",
    "title": "마우스피스",
    "genre": "연극",
@@ -990,18 +1030,6 @@
    "castSource": "none",
    "color": {
     "bg": "#19130F",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF181384",
-   "title": "곤 투모로우",
-   "genre": "뮤지컬",
-   "venue": "홍익대 대학로 아트센터 (대극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#4D353C",
     "fg": "#FFFFFF"
    }
   },

@@ -206,18 +206,6 @@
    }
   },
   {
-   "id": "PF181384",
-   "title": "곤 투모로우",
-   "genre": "뮤지컬",
-   "venue": "홍익대 대학로 아트센터 (대극장)",
-   "time": "15:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#4D353C",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF184856",
    "title": "그때도 오늘",
    "genre": "연극",
@@ -730,18 +718,6 @@
    "castSource": "none",
    "color": {
     "bg": "#19130F",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF181384",
-   "title": "곤 투모로우",
-   "genre": "뮤지컬",
-   "venue": "홍익대 대학로 아트센터 (대극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#4D353C",
     "fg": "#FFFFFF"
    }
   },

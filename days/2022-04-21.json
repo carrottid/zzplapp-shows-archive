@@ -138,18 +138,6 @@
    "castSource": "none"
   },
   {
-   "id": "PF186856",
-   "title": "킹아더",
-   "genre": "뮤지컬",
-   "venue": "홍익대 대학로 아트센터 (대극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#230F21",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF186168",
    "title": "프리다: The Last Night Show",
    "genre": "뮤지컬",

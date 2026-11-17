@@ -163,7 +163,27 @@
    "genre": "뮤지컬",
    "venue": "홍익대 대학로 아트센터 (대극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "송원근"
+    },
+    {
+     "name": "최현주"
+    },
+    {
+     "name": "김찬호"
+    },
+    {
+     "name": "임병근"
+    },
+    {
+     "name": "이지연"
+    },
+    {
+     "name": "김태한"
+    }
+   ],
    "color": {
     "bg": "#230F21",
     "fg": "#FFFFFF"

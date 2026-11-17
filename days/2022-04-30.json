@@ -182,18 +182,6 @@
    }
   },
   {
-   "id": "PF186856",
-   "title": "킹아더",
-   "genre": "뮤지컬",
-   "venue": "홍익대 대학로 아트센터 (대극장)",
-   "time": "14:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#230F21",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF188826",
    "title": "1919필라델피아",
    "genre": "연극",
@@ -770,18 +758,6 @@
    "castSource": "none",
    "color": {
     "bg": "#19569E",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF186856",
-   "title": "킹아더",
-   "genre": "뮤지컬",
-   "venue": "홍익대 대학로 아트센터 (대극장)",
-   "time": "19:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#230F21",
     "fg": "#FFFFFF"
    }
   },

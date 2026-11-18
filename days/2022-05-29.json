@@ -99,7 +99,21 @@
    "genre": "뮤지컬",
    "venue": "두산아트센터 (연강홀)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "유리아"
+    },
+    {
+     "name": "김려원"
+    },
+    {
+     "name": "유연정"
+    },
+    {
+     "name": "최현선"
+    }
+   ],
    "color": {
     "bg": "#1C1515",
     "fg": "#FFFFFF"
@@ -584,7 +598,21 @@
    "genre": "뮤지컬",
    "venue": "두산아트센터 (연강홀)",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "유리아"
+    },
+    {
+     "name": "김려원"
+    },
+    {
+     "name": "김수연"
+    },
+    {
+     "name": "최현선"
+    }
+   ],
    "color": {
     "bg": "#1C1515",
     "fg": "#FFFFFF"

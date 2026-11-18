@@ -2,6 +2,32 @@
  "date": "2022-05-05",
  "sessions": [
   {
+   "id": "PF186802",
+   "title": "리지",
+   "genre": "뮤지컬",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "14:00",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "유리아"
+    },
+    {
+     "name": "김려원"
+    },
+    {
+     "name": "유연정"
+    },
+    {
+     "name": "최현선"
+    }
+   ],
+   "color": {
+    "bg": "#1C1515",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF186645",
    "title": "미오 프라텔로",
    "genre": "뮤지컬",
@@ -101,6 +127,32 @@
    "castSource": "none",
    "color": {
     "bg": "#4D3F6D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186802",
+   "title": "리지",
+   "genre": "뮤지컬",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "18:00",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "전성민"
+    },
+    {
+     "name": "김려원"
+    },
+    {
+     "name": "김수연"
+    },
+    {
+     "name": "최현선"
+    }
+   ],
+   "color": {
+    "bg": "#1C1515",
     "fg": "#FFFFFF"
    }
   },
@@ -332,18 +384,6 @@
    "castSource": "none",
    "color": {
     "bg": "#242D47",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF186802",
-   "title": "리지",
-   "genre": "뮤지컬",
-   "venue": "두산아트센터 (연강홀)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#1C1515",
     "fg": "#FFFFFF"
    }
   },

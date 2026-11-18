@@ -229,6 +229,32 @@
    }
   },
   {
+   "id": "PF186802",
+   "title": "리지",
+   "genre": "뮤지컬",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "19:30",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "유리아"
+    },
+    {
+     "name": "김려원"
+    },
+    {
+     "name": "제이민"
+    },
+    {
+     "name": "이영미"
+    }
+   ],
+   "color": {
+    "bg": "#1C1515",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF186855",
    "title": "아이다",
    "genre": "뮤지컬",
@@ -357,18 +383,6 @@
    "castSource": "none",
    "color": {
     "bg": "#242D47",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF186802",
-   "title": "리지",
-   "genre": "뮤지컬",
-   "venue": "두산아트센터 (연강홀)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#1C1515",
     "fg": "#FFFFFF"
    }
   },

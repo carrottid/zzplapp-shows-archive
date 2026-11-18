@@ -2,18 +2,6 @@
  "date": "2022-08-10",
  "sessions": [
   {
-   "id": "PF191728",
-   "title": "데스노트",
-   "genre": "뮤지컬",
-   "venue": "예술의전당 [서울] (오페라극장)",
-   "time": "14:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#1A1410",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF189439",
    "title": "마타하리",
    "genre": "뮤지컬",
@@ -187,7 +175,24 @@
    "genre": "뮤지컬",
    "venue": "예술의전당 [서울] (오페라극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "고은성"
+    },
+    {
+     "name": "김준수"
+    },
+    {
+     "name": "김선영"
+    },
+    {
+     "name": "강홍석"
+    },
+    {
+     "name": "장민제"
+    }
+   ],
    "color": {
     "bg": "#1A1410",
     "fg": "#FFFFFF"

@@ -2,18 +2,6 @@
  "date": "2022-05-04",
  "sessions": [
   {
-   "id": "PF186531",
-   "title": "데스노트",
-   "genre": "뮤지컬",
-   "venue": "충무아트센터 (대극장)",
-   "time": "14:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#4C270C",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF186980",
    "title": "블루헬멧: 메이사의 노래",
    "genre": "뮤지컬",
@@ -123,7 +111,24 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "홍광호"
+    },
+    {
+     "name": "김준수"
+    },
+    {
+     "name": "김선영"
+    },
+    {
+     "name": "서경수"
+    },
+    {
+     "name": "케이"
+    }
+   ],
    "color": {
     "bg": "#4C270C",
     "fg": "#FFFFFF"

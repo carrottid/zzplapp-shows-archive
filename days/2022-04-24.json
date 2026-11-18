@@ -55,7 +55,24 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "고은성"
+    },
+    {
+     "name": "김성철"
+    },
+    {
+     "name": "장은아"
+    },
+    {
+     "name": "서경수"
+    },
+    {
+     "name": "케이"
+    }
+   ],
    "color": {
     "bg": "#4C270C",
     "fg": "#FFFFFF"
@@ -725,7 +742,24 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "홍광호"
+    },
+    {
+     "name": "김준수"
+    },
+    {
+     "name": "장은아"
+    },
+    {
+     "name": "서경수"
+    },
+    {
+     "name": "케이"
+    }
+   ],
    "color": {
     "bg": "#4C270C",
     "fg": "#FFFFFF"

@@ -31,7 +31,24 @@
    "genre": "뮤지컬",
    "venue": "예술의전당 [서울] (오페라극장)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "고은성"
+    },
+    {
+     "name": "김성철"
+    },
+    {
+     "name": "장은아"
+    },
+    {
+     "name": "서경수"
+    },
+    {
+     "name": "장민제"
+    }
+   ],
    "color": {
     "bg": "#1A1410",
     "fg": "#FFFFFF"
@@ -671,7 +688,24 @@
    "genre": "뮤지컬",
    "venue": "예술의전당 [서울] (오페라극장)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "홍광호"
+    },
+    {
+     "name": "김준수"
+    },
+    {
+     "name": "장은아"
+    },
+    {
+     "name": "서경수"
+    },
+    {
+     "name": "장민제"
+    }
+   ],
    "color": {
     "bg": "#1A1410",
     "fg": "#FFFFFF"

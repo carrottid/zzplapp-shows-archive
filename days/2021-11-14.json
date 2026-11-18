@@ -306,18 +306,6 @@
    "castSource": "none"
   },
   {
-   "id": "PF180742",
-   "title": "마우스피스",
-   "genre": "연극",
-   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
-   "time": "15:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#017475",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF181612",
    "title": "바바리맨: 킬라이크아이두",
    "genre": "뮤지컬",
@@ -671,7 +659,15 @@
    "genre": "연극",
    "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
    "time": "18:30",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김신록"
+    },
+    {
+     "name": "이휘종"
+    }
+   ],
    "color": {
     "bg": "#017475",
     "fg": "#FFFFFF"

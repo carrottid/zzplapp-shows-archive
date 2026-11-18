@@ -7,7 +7,15 @@
    "genre": "연극",
    "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
    "time": "16:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김신록"
+    },
+    {
+     "name": "장률"
+    }
+   ],
    "color": {
     "bg": "#017475",
     "fg": "#FFFFFF"
@@ -243,7 +251,15 @@
    "genre": "연극",
    "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "유선"
+    },
+    {
+     "name": "이휘종"
+    }
+   ],
    "color": {
     "bg": "#017475",
     "fg": "#FFFFFF"

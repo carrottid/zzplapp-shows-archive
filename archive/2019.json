@@ -3165,7 +3165,11 @@
     "더베인"
    ],
    "state": "공연완료",
-   "castSource": "x"
+   "castSource": "x",
+   "color": {
+    "bg": "#4A3C4E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PD146732",
@@ -3341,7 +3345,11 @@
     "호피폴라"
    ],
    "state": "공연완료",
-   "castSource": "x"
+   "castSource": "x",
+   "color": {
+    "bg": "#43355A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PD136942",
@@ -6465,7 +6473,11 @@
     "포레스텔라"
    ],
    "state": "공연완료",
-   "castSource": "x"
+   "castSource": "x",
+   "color": {
+    "bg": "#6D8558",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PD138546",

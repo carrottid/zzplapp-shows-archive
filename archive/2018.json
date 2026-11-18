@@ -12,7 +12,11 @@
     "포레스텔라"
    ],
    "state": "공연완료",
-   "castSource": "x"
+   "castSource": "x",
+   "color": {
+    "bg": "#E3B81C",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PD135433",
@@ -1986,7 +1990,11 @@
     "고우림"
    ],
    "state": "공연완료",
-   "castSource": "x"
+   "castSource": "x",
+   "color": {
+    "bg": "#050406",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PD120031",

@@ -5285,7 +5285,11 @@
     "김찬호"
    ],
    "state": "공연완료",
-   "castSource": "x"
+   "castSource": "x",
+   "color": {
+    "bg": "#2C2C2C",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF197441",
@@ -9385,7 +9389,11 @@
     "포르테 디 콰트로"
    ],
    "state": "공연완료",
-   "castSource": "x"
+   "castSource": "x",
+   "color": {
+    "bg": "#141A55",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF188632",
@@ -12529,7 +12537,11 @@
     "포르테 디 콰트로"
    ],
    "state": "공연완료",
-   "castSource": "x"
+   "castSource": "x",
+   "color": {
+    "bg": "#101042",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF186425",
@@ -12897,7 +12909,11 @@
     "포르테 디 콰트로"
    ],
    "state": "공연완료",
-   "castSource": "x"
+   "castSource": "x",
+   "color": {
+    "bg": "#101042",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF186548",
@@ -13942,7 +13958,11 @@
     "포르테 디 콰트로"
    ],
    "state": "공연완료",
-   "castSource": "x"
+   "castSource": "x",
+   "color": {
+    "bg": "#101045",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF185771",
@@ -14657,7 +14677,11 @@
     "크랙실버"
    ],
    "state": "공연완료",
-   "castSource": "x"
+   "castSource": "x",
+   "color": {
+    "bg": "#A3161D",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF183630",
@@ -14805,7 +14829,11 @@
     "양소민"
    ],
    "state": "공연완료",
-   "castSource": "x"
+   "castSource": "x",
+   "color": {
+    "bg": "#D8670D",
+    "fg": "#111111"
+   }
   }
  ]
 }

@@ -1035,7 +1035,11 @@
     "이준석"
    ],
    "state": "공연완료",
-   "castSource": "x"
+   "castSource": "x",
+   "color": {
+    "bg": "#1B1A18",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PD103234",

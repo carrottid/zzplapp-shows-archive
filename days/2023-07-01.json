@@ -582,23 +582,6 @@
    "castSource": "none"
   },
   {
-   "id": "PF219611",
-   "title": "고훈정 콘서트, Unplugged & Rock(10000)",
-   "genre": "뮤지컬",
-   "venue": "롯데콘서트홀",
-   "time": "18:30",
-   "castSource": "x",
-   "cast": [
-    {
-     "name": "고훈정"
-    }
-   ],
-   "color": {
-    "bg": "#87755E",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF216371",
    "title": "드림하이",
    "genre": "뮤지컬",
@@ -921,6 +904,23 @@
    "venue": "산울림소극장",
    "time": "19:00",
    "castSource": "none"
+  },
+  {
+   "id": "PF219611",
+   "title": "고훈정 콘서트, Unplugged & Rock(10000)",
+   "genre": "뮤지컬",
+   "venue": "롯데콘서트홀",
+   "time": "19:30",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "고훈정"
+    }
+   ],
+   "color": {
+    "bg": "#87755E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF216157",

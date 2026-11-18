@@ -395,7 +395,21 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "이승현"
+    },
+    {
+     "name": "권익환"
+    },
+    {
+     "name": "이진혁"
+    },
+    {
+     "name": "김민범"
+    }
+   ],
    "color": {
     "bg": "#18151B",
     "fg": "#FFFFFF"

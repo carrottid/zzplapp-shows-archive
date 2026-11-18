@@ -311,7 +311,18 @@
    "genre": "뮤지컬",
    "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "고훈정"
+    },
+    {
+     "name": "황한나"
+    },
+    {
+     "name": "이준우"
+    }
+   ],
    "color": {
     "bg": "#5A2A9A",
     "fg": "#FFFFFF"

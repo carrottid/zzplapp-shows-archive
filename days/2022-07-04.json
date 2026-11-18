@@ -7,7 +7,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "양지원"
+    },
+    {
+     "name": "서동진"
+    },
+    {
+     "name": "최석진"
+    }
+   ],
    "color": {
     "bg": "#18151B",
     "fg": "#FFFFFF"
@@ -31,7 +42,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "이승현"
+    },
+    {
+     "name": "이준우"
+    },
+    {
+     "name": "김지온"
+    }
+   ],
    "color": {
     "bg": "#18151B",
     "fg": "#FFFFFF"

@@ -129,7 +129,18 @@
    "genre": "뮤지컬",
    "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "이승현"
+    },
+    {
+     "name": "황한나"
+    },
+    {
+     "name": "서동진"
+    }
+   ],
    "color": {
     "bg": "#5A2A9A",
     "fg": "#FFFFFF"
@@ -582,7 +593,18 @@
    "genre": "뮤지컬",
    "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "이승현"
+    },
+    {
+     "name": "황한나"
+    },
+    {
+     "name": "권태하"
+    }
+   ],
    "color": {
     "bg": "#5A2A9A",
     "fg": "#FFFFFF"

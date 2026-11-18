@@ -6396,7 +6396,7 @@
     "조성필"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "x",
    "color": {
     "bg": "#5A2A9A",
     "fg": "#FFFFFF"

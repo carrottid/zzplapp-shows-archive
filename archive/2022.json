@@ -8494,7 +8494,7 @@
     "권익환"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "x",
    "color": {
     "bg": "#18151B",
     "fg": "#FFFFFF"

@@ -2,6 +2,29 @@
  "date": "2022-05-05",
  "sessions": [
   {
+   "id": "PF186645",
+   "title": "미오 프라텔로",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "14:00",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "박규원"
+    },
+    {
+     "name": "성연"
+    },
+    {
+     "name": "김준영"
+    }
+   ],
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF186856",
    "title": "킹아더",
    "genre": "뮤지컬",
@@ -78,6 +101,29 @@
    "castSource": "none",
    "color": {
     "bg": "#4D3F6D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186645",
+   "title": "미오 프라텔로",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "18:00",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "이승현"
+    },
+    {
+     "name": "김순택"
+    },
+    {
+     "name": "정성일"
+    }
+   ],
+   "color": {
+    "bg": "#1A1410",
     "fg": "#FFFFFF"
    }
   },
@@ -298,18 +344,6 @@
    "castSource": "none",
    "color": {
     "bg": "#1C1515",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF186645",
-   "title": "미오 프라텔로",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 1관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#1A1410",
     "fg": "#FFFFFF"
    }
   },

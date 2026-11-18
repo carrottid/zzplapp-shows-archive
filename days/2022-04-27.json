@@ -111,7 +111,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "16:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "최석진"
+    },
+    {
+     "name": "김순택"
+    },
+    {
+     "name": "정성일"
+    }
+   ],
    "color": {
     "bg": "#1A1410",
     "fg": "#FFFFFF"
@@ -351,7 +362,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "이승현"
+    },
+    {
+     "name": "최호승"
+    },
+    {
+     "name": "정성일"
+    }
+   ],
    "color": {
     "bg": "#1A1410",
     "fg": "#FFFFFF"

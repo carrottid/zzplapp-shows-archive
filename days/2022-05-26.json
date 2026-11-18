@@ -2,6 +2,29 @@
  "date": "2022-05-26",
  "sessions": [
   {
+   "id": "PF186645",
+   "title": "미오 프라텔로",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "16:00",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "최석진"
+    },
+    {
+     "name": "최호승"
+    },
+    {
+     "name": "김지온"
+    }
+   ],
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF188889",
    "title": "연극열전 9, 보이지 않는 손",
    "genre": "연극",
@@ -271,7 +294,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김대현"
+    },
+    {
+     "name": "성연"
+    },
+    {
+     "name": "김준영"
+    }
+   ],
    "color": {
     "bg": "#1A1410",
     "fg": "#FFFFFF"

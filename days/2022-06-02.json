@@ -263,7 +263,21 @@
    "genre": "뮤지컬",
    "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "이형훈"
+    },
+    {
+     "name": "방진의"
+    },
+    {
+     "name": "안지환"
+    },
+    {
+     "name": "홍지희"
+    }
+   ],
    "color": {
     "bg": "#242D47",
     "fg": "#FFFFFF"

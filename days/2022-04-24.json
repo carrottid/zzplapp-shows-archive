@@ -115,7 +115,21 @@
    "genre": "뮤지컬",
    "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김도빈"
+    },
+    {
+     "name": "김지현"
+    },
+    {
+     "name": "신재범"
+    },
+    {
+     "name": "신혜원"
+    }
+   ],
    "color": {
     "bg": "#242D47",
     "fg": "#FFFFFF"
@@ -494,7 +508,21 @@
    "genre": "뮤지컬",
    "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "오의식"
+    },
+    {
+     "name": "김지현"
+    },
+    {
+     "name": "안지환"
+    },
+    {
+     "name": "나하나"
+    }
+   ],
    "color": {
     "bg": "#242D47",
     "fg": "#FFFFFF"

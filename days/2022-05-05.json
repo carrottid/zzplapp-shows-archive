@@ -2,6 +2,32 @@
  "date": "2022-05-05",
  "sessions": [
   {
+   "id": "PF186803",
+   "title": "렛미플라이",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "14:00",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김도빈"
+    },
+    {
+     "name": "김지현"
+    },
+    {
+     "name": "신재범"
+    },
+    {
+     "name": "홍지희"
+    }
+   ],
+   "color": {
+    "bg": "#242D47",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF186802",
    "title": "리지",
    "genre": "뮤지컬",
@@ -127,6 +153,32 @@
    "castSource": "none",
    "color": {
     "bg": "#4D3F6D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186803",
+   "title": "렛미플라이",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "18:00",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "오의식"
+    },
+    {
+     "name": "백은혜"
+    },
+    {
+     "name": "안지환"
+    },
+    {
+     "name": "홍지희"
+    }
+   ],
+   "color": {
+    "bg": "#242D47",
     "fg": "#FFFFFF"
    }
   },
@@ -372,18 +424,6 @@
    "castSource": "none",
    "color": {
     "bg": "#262FC0",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF186803",
-   "title": "렛미플라이",
-   "genre": "뮤지컬",
-   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#242D47",
     "fg": "#FFFFFF"
    }
   },

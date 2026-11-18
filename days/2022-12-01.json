@@ -51,7 +51,21 @@
    "genre": "뮤지컬",
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "최재림"
+    },
+    {
+     "name": "박혜미"
+    },
+    {
+     "name": "최정원"
+    },
+    {
+     "name": "서만석"
+    }
+   ],
    "color": {
     "bg": "#000D20",
     "fg": "#FFFFFF"

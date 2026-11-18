@@ -219,7 +219,21 @@
    "genre": "뮤지컬",
    "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "오의식"
+    },
+    {
+     "name": "백은혜"
+    },
+    {
+     "name": "안지환"
+    },
+    {
+     "name": "신혜원"
+    }
+   ],
    "color": {
     "bg": "#242D47",
     "fg": "#FFFFFF"
@@ -646,7 +660,21 @@
    "genre": "뮤지컬",
    "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김도빈"
+    },
+    {
+     "name": "백은혜"
+    },
+    {
+     "name": "안지환"
+    },
+    {
+     "name": "홍지희"
+    }
+   ],
    "color": {
     "bg": "#242D47",
     "fg": "#FFFFFF"

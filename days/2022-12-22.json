@@ -115,7 +115,21 @@
    "genre": "뮤지컬",
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "장지후"
+    },
+    {
+     "name": "방진의"
+    },
+    {
+     "name": "최정원"
+    },
+    {
+     "name": "차정현"
+    }
+   ],
    "color": {
     "bg": "#000D20",
     "fg": "#FFFFFF"

@@ -357,7 +357,15 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "정지우"
+    },
+    {
+     "name": "박좌헌"
+    }
+   ],
    "color": {
     "bg": "#09060A",
     "fg": "#FFFFFF"
@@ -785,7 +793,15 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "정지우"
+    },
+    {
+     "name": "윤승우"
+    }
+   ],
    "color": {
     "bg": "#09060A",
     "fg": "#FFFFFF"
@@ -858,6 +874,22 @@
     "bg": "#1F4A2E",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF185089",
+   "title": "포르테 디 콰트로 x 크랙실버 슈퍼 콘서트",
+   "genre": "콘서트",
+   "venue": "세종문화회관 (세종대극장)",
+   "time": "19:00",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "포르테 디 콰트로"
+    },
+    {
+     "name": "크랙실버"
+    }
+   ]
   },
   {
    "id": "PF176020",

@@ -401,7 +401,15 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "정지우"
+    },
+    {
+     "name": "윤승우"
+    }
+   ],
    "color": {
     "bg": "#09060A",
     "fg": "#FFFFFF"
@@ -704,6 +712,14 @@
    }
   },
   {
+   "id": "MN4",
+   "title": "JOY IS ELECTRIC.",
+   "genre": "기타",
+   "venue": "BMW 드라이빙센터",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF180742",
    "title": "마우스피스",
    "genre": "연극",
@@ -887,7 +903,15 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "박정원"
+    },
+    {
+     "name": "박좌헌"
+    }
+   ],
    "color": {
     "bg": "#09060A",
     "fg": "#FFFFFF"

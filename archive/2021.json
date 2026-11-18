@@ -221,6 +221,16 @@
    "castSource": "none"
   },
   {
+   "id": "MN4",
+   "title": "JOY IS ELECTRIC.",
+   "genre": "기타",
+   "from": "2021-12-18",
+   "to": "2021-12-18",
+   "venue": "BMW 드라이빙센터",
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
    "id": "PF183856",
    "title": "몽신몽신 프로젝트, 호랑이가 이십일 일 만에 알아낸 것은",
    "genre": "연극",
@@ -1453,11 +1463,10 @@
     "정지우",
     "정상윤",
     "윤승우",
-    "박좌헌",
     "박좌현"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "x",
    "color": {
     "bg": "#09060A",
     "fg": "#FFFFFF"

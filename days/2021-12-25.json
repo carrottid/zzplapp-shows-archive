@@ -438,18 +438,6 @@
    }
   },
   {
-   "id": "PF182924",
-   "title": "은하철도의 밤",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 4관)",
-   "time": "15:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#09060A",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF182282",
    "title": "작은 아씨들",
    "genre": "뮤지컬",
@@ -966,18 +954,6 @@
    "castSource": "none",
    "color": {
     "bg": "#593E35",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF182924",
-   "title": "은하철도의 밤",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 4관)",
-   "time": "19:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#09060A",
     "fg": "#FFFFFF"
    }
   },

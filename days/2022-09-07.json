@@ -118,6 +118,22 @@
    "castSource": "none"
   },
   {
+   "id": "PF195957",
+   "title": "고훈정 & 김찬호 듀엣 콘서트: always summer",
+   "genre": "콘서트",
+   "venue": "노들섬 (라이브하우스)",
+   "time": "19:30",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "고훈정"
+    },
+    {
+     "name": "김찬호"
+    }
+   ]
+  },
+  {
    "id": "PF197155",
    "title": "님만헤민 게스트하우스",
    "genre": "연극",

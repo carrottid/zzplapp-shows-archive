@@ -30,6 +30,50 @@
    ]
   },
   {
+   "id": "PD128882",
+   "title": "천사에 관하여",
+   "genre": "뮤지컬",
+   "venue": "예스24스테이지 2관 (구 대명문화공장 2관)",
+   "time": "14:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "고훈정",
+     "personId": "15870"
+    },
+    {
+     "name": "양지원",
+     "personId": "32898"
+    }
+   ],
+   "color": {
+    "bg": "#545674",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PD128882",
+   "title": "천사에 관하여",
+   "genre": "뮤지컬",
+   "venue": "예스24스테이지 2관 (구 대명문화공장 2관)",
+   "time": "18:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "조풍래",
+     "personId": "33256"
+    },
+    {
+     "name": "허규",
+     "personId": "11734"
+    }
+   ],
+   "color": {
+    "bg": "#545674",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PD122279",
    "title": "웃는 남자",
    "genre": "뮤지컬",

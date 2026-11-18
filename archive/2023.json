@@ -8873,7 +8873,7 @@
     "고훈정"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "x",
    "color": {
     "bg": "#87755E",
     "fg": "#FFFFFF"

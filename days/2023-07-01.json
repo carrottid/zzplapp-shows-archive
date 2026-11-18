@@ -587,7 +587,12 @@
    "genre": "뮤지컬",
    "venue": "롯데콘서트홀",
    "time": "18:30",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "고훈정"
+    }
+   ],
    "color": {
     "bg": "#87755E",
     "fg": "#FFFFFF"

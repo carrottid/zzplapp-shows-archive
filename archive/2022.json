@@ -12602,6 +12602,20 @@
    }
   },
   {
+   "id": "PF186222",
+   "title": "포르테 디 콰트로 콘서트: 메타포닉",
+   "genre": "콘서트",
+   "from": "2022-03-12",
+   "to": "2022-03-12",
+   "venue": "성남아트센터 (오페라하우스)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF186222_220128_093837.gif",
+   "cast": [
+    "포르테 디 콰트로"
+   ],
+   "state": "공연완료",
+   "castSource": "x"
+  },
+  {
    "id": "PF186425",
    "title": "최후진술",
    "genre": "뮤지컬",

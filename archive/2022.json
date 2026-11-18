@@ -13934,9 +13934,10 @@
    "id": "MN5",
    "title": "포르테 디 콰트로 콘서트: 메타포닉",
    "genre": "콘서트",
-   "from": "2022-02-06",
+   "from": "2022-02-05",
    "to": "2022-02-06",
    "venue": "경기아트센터 (대극장)",
+   "poster": "https://cdn.jsdelivr.net/gh/carrottid/zzplapp-shows@main/posters/MN5.webp",
    "cast": [
     "포르테 디 콰트로"
    ],
@@ -14789,7 +14790,7 @@
   {
    "id": "PF184711",
    "title": "虎氣: 범의 기운",
-   "genre": "기타",
+   "genre": "콘서트",
    "from": "2022-01-04",
    "to": "2022-01-04",
    "venue": "국립정동극장",

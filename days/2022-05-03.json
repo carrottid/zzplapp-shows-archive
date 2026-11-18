@@ -126,18 +126,6 @@
    "castSource": "none"
   },
   {
-   "id": "PF186168",
-   "title": "프리다: The Last Night Show",
-   "genre": "뮤지컬",
-   "venue": "세종문화회관 (세종S씨어터)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#057828",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF185900",
    "title": "더 테일 에이프릴 풀스",
    "genre": "뮤지컬",

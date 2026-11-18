@@ -127,7 +127,21 @@
    "genre": "뮤지컬",
    "venue": "세종문화회관 (세종S씨어터)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "최정원"
+    },
+    {
+     "name": "전수미"
+    },
+    {
+     "name": "정영아"
+    },
+    {
+     "name": "허혜진"
+    }
+   ],
    "color": {
     "bg": "#057828",
     "fg": "#FFFFFF"

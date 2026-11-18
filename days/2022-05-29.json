@@ -294,6 +294,32 @@
    }
   },
   {
+   "id": "PF186168",
+   "title": "프리다: The Last Night Show",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종S씨어터)",
+   "time": "14:00",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김소향"
+    },
+    {
+     "name": "전수미"
+    },
+    {
+     "name": "임정희"
+    },
+    {
+     "name": "최서연"
+    }
+   ],
+   "color": {
+    "bg": "#057828",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF189707",
    "title": "하데스타운",
    "genre": "뮤지컬",
@@ -420,18 +446,6 @@
    "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
    "time": "15:00",
    "castSource": "none"
-  },
-  {
-   "id": "PF186168",
-   "title": "프리다: The Last Night Show",
-   "genre": "뮤지컬",
-   "venue": "세종문화회관 (세종S씨어터)",
-   "time": "15:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#057828",
-    "fg": "#FFFFFF"
-   }
   },
   {
    "id": "PF191505",

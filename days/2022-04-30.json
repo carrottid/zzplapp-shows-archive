@@ -398,18 +398,6 @@
    }
   },
   {
-   "id": "PF186168",
-   "title": "프리다: The Last Night Show",
-   "genre": "뮤지컬",
-   "venue": "세종문화회관 (세종S씨어터)",
-   "time": "15:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#057828",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF189643",
    "title": "맥베스",
    "genre": "연극",
@@ -790,18 +778,6 @@
    "castSource": "none",
    "color": {
     "bg": "#B8562A",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF186168",
-   "title": "프리다: The Last Night Show",
-   "genre": "뮤지컬",
-   "venue": "세종문화회관 (세종S씨어터)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#057828",
     "fg": "#FFFFFF"
    }
   }

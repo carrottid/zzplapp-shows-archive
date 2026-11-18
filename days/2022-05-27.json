@@ -211,7 +211,21 @@
    "genre": "뮤지컬",
    "venue": "세종문화회관 (세종S씨어터)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김소향"
+    },
+    {
+     "name": "전수미"
+    },
+    {
+     "name": "임정희"
+    },
+    {
+     "name": "최서연"
+    }
+   ],
    "color": {
     "bg": "#057828",
     "fg": "#FFFFFF"

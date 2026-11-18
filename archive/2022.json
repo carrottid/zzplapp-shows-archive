@@ -13204,7 +13204,7 @@
     "허윤슬"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "x",
    "color": {
     "bg": "#057828",
     "fg": "#FFFFFF"

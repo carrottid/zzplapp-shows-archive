@@ -229,7 +229,21 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "고훈정"
+    },
+    {
+     "name": "박규원"
+    },
+    {
+     "name": "배나라"
+    },
+    {
+     "name": "이지연"
+    }
+   ],
    "color": {
     "bg": "#766F70",
     "fg": "#FFFFFF"

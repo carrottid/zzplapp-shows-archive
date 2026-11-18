@@ -111,7 +111,15 @@
    "genre": "연극",
    "venue": "한전아트센터",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "서인석"
+    },
+    {
+     "name": "남명렬"
+    }
+   ],
    "color": {
     "bg": "#899929",
     "fg": "#111111"

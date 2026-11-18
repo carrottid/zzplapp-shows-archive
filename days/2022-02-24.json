@@ -229,7 +229,21 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "조환지"
+    },
+    {
+     "name": "장지후"
+    },
+    {
+     "name": "이승헌"
+    },
+    {
+     "name": "여은"
+    }
+   ],
    "color": {
     "bg": "#766F70",
     "fg": "#FFFFFF"

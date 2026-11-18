@@ -625,7 +625,27 @@
    "genre": "연극",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "최우리"
+    },
+    {
+     "name": "이경미"
+    },
+    {
+     "name": "류이재"
+    },
+    {
+     "name": "신가은"
+    },
+    {
+     "name": "류수화"
+    },
+    {
+     "name": "최재웅"
+    }
+   ],
    "color": {
     "bg": "#9B6C4B",
     "fg": "#FFFFFF"
@@ -1428,7 +1448,27 @@
    "genre": "연극",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "최우리"
+    },
+    {
+     "name": "이경미"
+    },
+    {
+     "name": "류이재"
+    },
+    {
+     "name": "신가은"
+    },
+    {
+     "name": "류수화"
+    },
+    {
+     "name": "최재웅"
+    }
+   ],
    "color": {
     "bg": "#9B6C4B",
     "fg": "#FFFFFF"

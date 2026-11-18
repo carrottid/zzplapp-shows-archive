@@ -844,7 +844,27 @@
    "genre": "연극",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "신의정"
+    },
+    {
+     "name": "최유하"
+    },
+    {
+     "name": "최하윤"
+    },
+    {
+     "name": "김서연"
+    },
+    {
+     "name": "류수화"
+    },
+    {
+     "name": "이석준"
+    }
+   ],
    "color": {
     "bg": "#9B6C4B",
     "fg": "#FFFFFF"

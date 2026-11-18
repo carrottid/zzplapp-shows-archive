@@ -2,6 +2,32 @@
  "date": "2022-02-01",
  "sessions": [
   {
+   "id": "PF182536",
+   "title": "더데빌",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "14:00",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "고훈정"
+    },
+    {
+     "name": "김찬호"
+    },
+    {
+     "name": "배나라"
+    },
+    {
+     "name": "여은"
+    }
+   ],
+   "color": {
+    "bg": "#766F70",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF181077",
    "title": "레베카",
    "genre": "뮤지컬",
@@ -214,18 +240,6 @@
    "castSource": "none",
    "color": {
     "bg": "#212120",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF182536",
-   "title": "더데빌",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 1관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#766F70",
     "fg": "#FFFFFF"
    }
   },

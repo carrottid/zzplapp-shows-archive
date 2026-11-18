@@ -45,7 +45,21 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "조환지"
+    },
+    {
+     "name": "김찬호"
+    },
+    {
+     "name": "이승헌"
+    },
+    {
+     "name": "김수연"
+    }
+   ],
    "color": {
     "bg": "#766F70",
     "fg": "#FFFFFF"
@@ -509,7 +523,21 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "백형훈"
+    },
+    {
+     "name": "장지후"
+    },
+    {
+     "name": "이석준"
+    },
+    {
+     "name": "여은"
+    }
+   ],
    "color": {
     "bg": "#766F70",
     "fg": "#FFFFFF"

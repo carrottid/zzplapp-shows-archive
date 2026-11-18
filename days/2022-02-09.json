@@ -110,18 +110,6 @@
    }
   },
   {
-   "id": "PF182536",
-   "title": "더데빌",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 1관)",
-   "time": "16:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#766F70",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF182734",
    "title": "더모먼트",
    "genre": "뮤지컬",
@@ -419,7 +407,21 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "조환지"
+    },
+    {
+     "name": "박규원"
+    },
+    {
+     "name": "배나라"
+    },
+    {
+     "name": "이지연"
+    }
+   ],
    "color": {
     "bg": "#766F70",
     "fg": "#FFFFFF"

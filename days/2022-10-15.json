@@ -31,7 +31,15 @@
    "genre": "연극",
    "venue": "한전아트센터",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "신구"
+    },
+    {
+     "name": "정동환"
+    }
+   ],
    "color": {
     "bg": "#899929",
     "fg": "#111111"
@@ -619,7 +627,15 @@
    "genre": "연극",
    "venue": "한전아트센터",
    "time": "18:30",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "서인석"
+    },
+    {
+     "name": "남명렬"
+    }
+   ],
    "color": {
     "bg": "#899929",
     "fg": "#111111"

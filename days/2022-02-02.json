@@ -2,6 +2,32 @@
  "date": "2022-02-02",
  "sessions": [
   {
+   "id": "PF182536",
+   "title": "더데빌",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "14:00",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "박민성"
+    },
+    {
+     "name": "장지후"
+    },
+    {
+     "name": "이승헌"
+    },
+    {
+     "name": "김수연"
+    }
+   ],
+   "color": {
+    "bg": "#766F70",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF181077",
    "title": "레베카",
    "genre": "뮤지컬",
@@ -110,18 +136,6 @@
    }
   },
   {
-   "id": "PF182536",
-   "title": "더데빌",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 1관)",
-   "time": "16:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#766F70",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF182734",
    "title": "더모먼트",
    "genre": "뮤지컬",
@@ -166,6 +180,32 @@
    "castSource": "none",
    "color": {
     "bg": "#0D1436",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF182536",
+   "title": "더데빌",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "18:00",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "백형훈"
+    },
+    {
+     "name": "박규원"
+    },
+    {
+     "name": "이석준"
+    },
+    {
+     "name": "이지연"
+    }
+   ],
+   "color": {
+    "bg": "#766F70",
     "fg": "#FFFFFF"
    }
   },
@@ -390,18 +430,6 @@
    "castSource": "none",
    "color": {
     "bg": "#212120",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF182536",
-   "title": "더데빌",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 1관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#766F70",
     "fg": "#FFFFFF"
    }
   },

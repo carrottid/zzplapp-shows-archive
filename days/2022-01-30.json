@@ -119,7 +119,15 @@
    "genre": "뮤지컬",
    "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김현진"
+    },
+    {
+     "name": "김경수"
+    }
+   ],
    "color": {
     "bg": "#090A0D",
     "fg": "#FFFFFF"
@@ -730,7 +738,15 @@
    "genre": "뮤지컬",
    "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김현진"
+    },
+    {
+     "name": "유성재"
+    }
+   ],
    "color": {
     "bg": "#090A0D",
     "fg": "#FFFFFF"

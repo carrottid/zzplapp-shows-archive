@@ -343,7 +343,15 @@
    "genre": "뮤지컬",
    "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김현진"
+    },
+    {
+     "name": "임병근"
+    }
+   ],
    "color": {
     "bg": "#090A0D",
     "fg": "#FFFFFF"

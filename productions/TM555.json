@@ -1,14 +1,1 @@
-{
- "id": "TM555",
- "title": "아보스",
- "genre": "뮤지컬",
- "from": "2000-02-12",
- "to": "2000-02-26",
- "venue": "문예회관 대극장",
- "state": "공연완료",
- "producer": "아보스 기획",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM555","title":"아보스","genre":"뮤지컬","from":"2000-02-12","to":"2000-02-26","venue":"문예회관 대극장","state":"공연완료","producer":"아보스 기획","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

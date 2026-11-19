@@ -1,13 +1,1 @@
-{
- "id": "PD157803",
- "title": "오페라의 유령 내한공연 - 대구",
- "genre": "뮤지컬",
- "from": "2020-08-18",
- "to": "2020-09-06",
- "venue": "계명아트센터",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD157803","title":"오페라의 유령 내한공연 - 대구","genre":"뮤지컬","from":"2020-08-18","to":"2020-09-06","venue":"계명아트센터","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

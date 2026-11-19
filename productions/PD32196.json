@@ -1,13 +1,1 @@
-{
- "id": "PD32196",
- "title": "심야식당",
- "genre": "뮤지컬",
- "from": "2012-01-29",
- "to": "2012-01-31",
- "venue": "두산아트센터 Space111",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD32196","title":"심야식당","genre":"뮤지컬","from":"2012-01-29","to":"2012-01-31","venue":"두산아트센터 Space111","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

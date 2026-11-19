@@ -1,13 +1,1 @@
-{
- "id": "PD90516",
- "title": "두산인문극장 2016 모험 - 멜리에스 일루션 에피소드",
- "genre": "연극",
- "from": "2016-03-25",
- "to": "2016-04-02",
- "venue": "두산아트센터 Space111",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD90516","title":"두산인문극장 2016 모험 - 멜리에스 일루션 에피소드","genre":"연극","from":"2016-03-25","to":"2016-04-02","venue":"두산아트센터 Space111","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

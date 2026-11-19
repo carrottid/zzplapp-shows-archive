@@ -1,13 +1,1 @@
-{
- "id": "PD23639",
- "title": "바람이 분다",
- "genre": "연극",
- "from": "2011-06-10",
- "to": "2011-06-26",
- "venue": "대학로예술극장 소극장",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD23639","title":"바람이 분다","genre":"연극","from":"2011-06-10","to":"2011-06-26","venue":"대학로예술극장 소극장","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

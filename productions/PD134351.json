@@ -1,13 +1,1 @@
-{
- "id": "PD134351",
- "title": "플래시댄스",
- "genre": "뮤지컬",
- "from": "2019-01-18",
- "to": "2019-02-17",
- "venue": "세종문화회관 대극장",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD134351","title":"플래시댄스","genre":"뮤지컬","from":"2019-01-18","to":"2019-02-17","venue":"세종문화회관 대극장","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

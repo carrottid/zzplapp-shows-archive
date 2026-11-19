@@ -1,13 +1,1 @@
-{
- "id": "PD146014",
- "title": "NT Live 디 오디언스",
- "genre": "연극",
- "from": "2019-09-26",
- "to": "2019-09-29",
- "venue": "국립극장 달오름극장",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD146014","title":"NT Live 디 오디언스","genre":"연극","from":"2019-09-26","to":"2019-09-29","venue":"국립극장 달오름극장","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

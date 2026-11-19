@@ -1,18 +1,1 @@
-{
- "id": "TM1184",
- "title": "슈팅 바쿠간",
- "genre": "뮤지컬",
- "from": "2008-07-18",
- "to": "2008-07-27",
- "venue": "돔아트홀 (능동 어린이대공원 내)",
- "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008_바쿠간.jpg",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43",
- "color": {
-  "bg": "#132C47",
-  "fg": "#FFFFFF"
- }
-}
+{"id":"TM1184","title":"슈팅 바쿠간","genre":"뮤지컬","from":"2008-07-18","to":"2008-07-27","venue":"돔아트홀 (능동 어린이대공원 내)","poster":"https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008_바쿠간.jpg","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43","color":{"bg":"#132C47","fg":"#FFFFFF"}}

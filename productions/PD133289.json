@@ -1,17 +1,1 @@
-{
- "id": "PD133289",
- "title": "내게 빛나는 모든 것",
- "genre": "연극",
- "from": "2018-12-01",
- "to": "2018-12-25",
- "venue": "두산아트센터 Space111",
- "cast": [
-  "김진수",
-  "이봉련"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD133289","title":"내게 빛나는 모든 것","genre":"연극","from":"2018-12-01","to":"2018-12-25","venue":"두산아트센터 Space111","cast":["김진수","이봉련"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

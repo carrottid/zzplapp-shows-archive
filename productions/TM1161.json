@@ -1,16 +1,1 @@
-{
- "id": "TM1161",
- "title": "헝겊인형의 꿈",
- "genre": "뮤지컬",
- "from": "2007-03-14",
- "to": "2007-04-14",
- "venue": "동숭무대 소극장",
- "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 헝겊인형_동숭.jpg",
- "state": "공연완료",
- "producer": "바람엔터테인먼트",
- "price": "일반 2만 / 대학생 1만5천원 / 청소년 1만원",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM1161","title":"헝겊인형의 꿈","genre":"뮤지컬","from":"2007-03-14","to":"2007-04-14","venue":"동숭무대 소극장","poster":"https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2007 헝겊인형_동숭.jpg","state":"공연완료","producer":"바람엔터테인먼트","price":"일반 2만 / 대학생 1만5천원 / 청소년 1만원","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

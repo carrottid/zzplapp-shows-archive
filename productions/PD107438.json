@@ -1,13 +1,1 @@
-{
- "id": "PD107438",
- "title": "노란봉투",
- "genre": "연극",
- "from": "2017-04-25",
- "to": "2017-05-14",
- "venue": "연우 소극장(대학로)",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD107438","title":"노란봉투","genre":"연극","from":"2017-04-25","to":"2017-05-14","venue":"연우 소극장(대학로)","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

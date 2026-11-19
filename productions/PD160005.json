@@ -1,13 +1,1 @@
-{
- "id": "PD160005",
- "title": "동백꽃",
- "genre": "연극",
- "from": "2020-10-13",
- "to": "2020-10-18",
- "venue": "후암스테이지 1관",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD160005","title":"동백꽃","genre":"연극","from":"2020-10-13","to":"2020-10-18","venue":"후암스테이지 1관","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

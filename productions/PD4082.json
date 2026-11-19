@@ -1,13 +1,1 @@
-{
- "id": "PD4082",
- "title": "더 라이프",
- "genre": "뮤지컬",
- "from": "1999-02-11",
- "to": "1999-02-21",
- "venue": "세종문화회관 대극장",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD4082","title":"더 라이프","genre":"뮤지컬","from":"1999-02-11","to":"1999-02-21","venue":"세종문화회관 대극장","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

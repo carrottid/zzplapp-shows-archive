@@ -1,13 +1,1 @@
-{
- "date": "2021-09-06",
- "sessions": [
-  {
-   "id": "PF178541",
-   "title": "만선",
-   "genre": "연극",
-   "venue": "국립극단 [명동] (명동예술극장)",
-   "time": "19:30",
-   "castSource": "none"
-  }
- ]
-}
+{"date":"2021-09-06","sessions":[{"id":"PF178541","title":"만선","genre":"연극","venue":"국립극단 [명동] (명동예술극장)","time":"19:30","castSource":"none"}]}

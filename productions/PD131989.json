@@ -1,16 +1,1 @@
-{
- "id": "PD131989",
- "title": "아리아 다 카포",
- "genre": "연극",
- "from": "2018-10-19",
- "to": "2018-10-28",
- "venue": "삼일로 창고극장",
- "cast": [
-  "노기용"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD131989","title":"아리아 다 카포","genre":"연극","from":"2018-10-19","to":"2018-10-28","venue":"삼일로 창고극장","cast":["노기용"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

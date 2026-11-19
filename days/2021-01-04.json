@@ -1,13 +1,1 @@
-{
- "date": "2021-01-04",
- "sessions": [
-  {
-   "id": "PF170872",
-   "title": "웃픈 3일",
-   "genre": "연극",
-   "venue": "후암스테이지",
-   "time": "19:30",
-   "castSource": "none"
-  }
- ]
-}
+{"date":"2021-01-04","sessions":[{"id":"PF170872","title":"웃픈 3일","genre":"연극","venue":"후암스테이지","time":"19:30","castSource":"none"}]}

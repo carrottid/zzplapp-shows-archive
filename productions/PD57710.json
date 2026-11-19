@@ -1,13 +1,1 @@
-{
- "id": "PD57710",
- "title": "맘마미아 - 대구",
- "genre": "뮤지컬",
- "from": "2014-03-28",
- "to": "2014-04-13",
- "venue": "대구 오페라하우스",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD57710","title":"맘마미아 - 대구","genre":"뮤지컬","from":"2014-03-28","to":"2014-04-13","venue":"대구 오페라하우스","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

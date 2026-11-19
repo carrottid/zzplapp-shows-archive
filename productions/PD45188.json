@@ -1,13 +1,1 @@
-{
- "id": "PD45188",
- "title": "세 자매",
- "genre": "연극",
- "from": "2013-04-10",
- "to": "2013-04-12",
- "venue": "LG아트센터",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD45188","title":"세 자매","genre":"연극","from":"2013-04-10","to":"2013-04-12","venue":"LG아트센터","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

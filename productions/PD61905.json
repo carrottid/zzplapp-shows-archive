@@ -1,17 +1,1 @@
-{
- "id": "PD61905",
- "title": "챙",
- "genre": "연극",
- "from": "2014-05-08",
- "to": "2014-06-08",
- "venue": "산울림 소극장",
- "cast": [
-  "한명구",
-  "손봉숙"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD61905","title":"챙","genre":"연극","from":"2014-05-08","to":"2014-06-08","venue":"산울림 소극장","cast":["한명구","손봉숙"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

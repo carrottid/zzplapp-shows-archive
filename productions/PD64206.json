@@ -1,16 +1,1 @@
-{
- "id": "PD64206",
- "title": "분노의 포도",
- "genre": "연극",
- "from": "2014-07-18",
- "to": "2014-07-30",
- "venue": "산울림 소극장",
- "cast": [
-  "송영미"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD64206","title":"분노의 포도","genre":"연극","from":"2014-07-18","to":"2014-07-30","venue":"산울림 소극장","cast":["송영미"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

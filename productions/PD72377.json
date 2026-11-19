@@ -1,13 +1,1 @@
-{
- "id": "PD72377",
- "title": "올슉업 - 대구",
- "genre": "뮤지컬",
- "from": "2015-02-07",
- "to": "2015-02-08",
- "venue": "대구 오페라하우스",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD72377","title":"올슉업 - 대구","genre":"뮤지컬","from":"2015-02-07","to":"2015-02-08","venue":"대구 오페라하우스","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

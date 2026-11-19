@@ -1,14 +1,1 @@
-{
- "id": "TM576",
- "title": "황구도",
- "genre": "뮤지컬",
- "from": "1999-12-29",
- "to": "2000-01-23",
- "venue": "동숭아트센터 동숭홀",
- "state": "공연완료",
- "producer": "인터C&A",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM576","title":"황구도","genre":"뮤지컬","from":"1999-12-29","to":"2000-01-23","venue":"동숭아트센터 동숭홀","state":"공연완료","producer":"인터C&A","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

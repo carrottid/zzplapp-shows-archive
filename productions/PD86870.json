@@ -1,13 +1,1 @@
-{
- "id": "PD86870",
- "title": "노크하지 않는 집",
- "genre": "연극",
- "from": "2015-12-23",
- "to": "2015-12-27",
- "venue": "대학로예술극장 소극장",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD86870","title":"노크하지 않는 집","genre":"연극","from":"2015-12-23","to":"2015-12-27","venue":"대학로예술극장 소극장","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

@@ -1,14 +1,1 @@
-{
- "id": "TM495",
- "title": "애수의 소야곡",
- "genre": "뮤지컬",
- "from": "2001-01-18",
- "to": "2001-01-28",
- "venue": "세종문화회관 대극장",
- "state": "공연완료",
- "producer": "MBC",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM495","title":"애수의 소야곡","genre":"뮤지컬","from":"2001-01-18","to":"2001-01-28","venue":"세종문화회관 대극장","state":"공연완료","producer":"MBC","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

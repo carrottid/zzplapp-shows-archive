@@ -1,18 +1,1 @@
-{
- "id": "TM1179",
- "title": "시골마을 따릉이",
- "genre": "뮤지컬",
- "from": "2008-07-18",
- "to": "2008-08-31",
- "venue": "원더스페이스 (구 사다리아트센터) 세모극장",
- "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008_따릉이.jpg",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43",
- "color": {
-  "bg": "#8C7559",
-  "fg": "#FFFFFF"
- }
-}
+{"id":"TM1179","title":"시골마을 따릉이","genre":"뮤지컬","from":"2008-07-18","to":"2008-08-31","venue":"원더스페이스 (구 사다리아트센터) 세모극장","poster":"https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008_따릉이.jpg","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43","color":{"bg":"#8C7559","fg":"#FFFFFF"}}

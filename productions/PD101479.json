@@ -1,16 +1,1 @@
-{
- "id": "PD101479",
- "title": "마흔 즈음에",
- "genre": "뮤지컬",
- "from": "2016-12-01",
- "to": "2017-09-29",
- "venue": "한성아트홀 1관",
- "cast": [
-  "채환"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD101479","title":"마흔 즈음에","genre":"뮤지컬","from":"2016-12-01","to":"2017-09-29","venue":"한성아트홀 1관","cast":["채환"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

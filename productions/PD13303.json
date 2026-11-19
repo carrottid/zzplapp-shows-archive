@@ -1,16 +1,1 @@
-{
- "id": "PD13303",
- "title": "염쟁이 유씨",
- "genre": "연극",
- "from": "2009-11-03",
- "to": "2010-01-31",
- "venue": "대학로 예술극장 나무와 물",
- "cast": [
-  "유순웅"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD13303","title":"염쟁이 유씨","genre":"연극","from":"2009-11-03","to":"2010-01-31","venue":"대학로 예술극장 나무와 물","cast":["유순웅"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

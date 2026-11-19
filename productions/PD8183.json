@@ -1,13 +1,1 @@
-{
- "id": "PD8183",
- "title": "캣츠 - 수원",
- "genre": "뮤지컬",
- "from": "2009-03-07",
- "to": "2009-03-15",
- "venue": "경기아트센터 대극장",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD8183","title":"캣츠 - 수원","genre":"뮤지컬","from":"2009-03-07","to":"2009-03-15","venue":"경기아트센터 대극장","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

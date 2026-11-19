@@ -1,13 +1,1 @@
-{
- "date": "2023-09-18",
- "sessions": [
-  {
-   "id": "PF222686",
-   "title": "이 불안한 집, This Restless House",
-   "genre": "연극",
-   "venue": "국립극단 [명동] (명동예술극장)",
-   "time": "17:30",
-   "castSource": "none"
-  }
- ]
-}
+{"date":"2023-09-18","sessions":[{"id":"PF222686","title":"이 불안한 집, This Restless House","genre":"연극","venue":"국립극단 [명동] (명동예술극장)","time":"17:30","castSource":"none"}]}

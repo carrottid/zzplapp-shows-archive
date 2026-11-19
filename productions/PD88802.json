@@ -1,13 +1,1 @@
-{
- "id": "PD88802",
- "title": "민중의 적",
- "genre": "연극",
- "from": "2016-05-26",
- "to": "2016-05-28",
- "venue": "LG아트센터",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD88802","title":"민중의 적","genre":"연극","from":"2016-05-26","to":"2016-05-28","venue":"LG아트센터","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

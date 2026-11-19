@@ -1,13 +1,1 @@
-{
- "id": "PD106886",
- "title": "가족의 탄생",
- "genre": "연극",
- "from": "2017-05-02",
- "to": "2017-07-02",
- "venue": "유니플렉스 3관",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD106886","title":"가족의 탄생","genre":"연극","from":"2017-05-02","to":"2017-07-02","venue":"유니플렉스 3관","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

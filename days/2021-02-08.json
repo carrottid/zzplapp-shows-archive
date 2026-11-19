@@ -1,13 +1,1 @@
-{
- "date": "2021-02-08",
- "sessions": [
-  {
-   "id": "PF171057",
-   "title": "와이바이 (2.8)",
-   "genre": "연극",
-   "venue": "선돌극장",
-   "time": "19:30",
-   "castSource": "none"
-  }
- ]
-}
+{"date":"2021-02-08","sessions":[{"id":"PF171057","title":"와이바이 (2.8)","genre":"연극","venue":"선돌극장","time":"19:30","castSource":"none"}]}

@@ -1,14 +1,1 @@
-{
- "id": "TM490",
- "title": "살로메",
- "genre": "뮤지컬",
- "from": "2001-06-05",
- "to": "2001-06-07",
- "venue": "KBS홀",
- "state": "공연완료",
- "producer": "샴뮤지컬컴퍼니",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM490","title":"살로메","genre":"뮤지컬","from":"2001-06-05","to":"2001-06-07","venue":"KBS홀","state":"공연완료","producer":"샴뮤지컬컴퍼니","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

@@ -1,16 +1,1 @@
-{
- "id": "PD44937",
- "title": "사보이 사우나",
- "genre": "연극",
- "from": "2013-01-25",
- "to": "2013-01-27",
- "venue": "두산아트센터 Space111",
- "cast": [
-  "김정훈"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD44937","title":"사보이 사우나","genre":"연극","from":"2013-01-25","to":"2013-01-27","venue":"두산아트센터 Space111","cast":["김정훈"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

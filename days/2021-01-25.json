@@ -1,13 +1,1 @@
-{
- "date": "2021-01-25",
- "sessions": [
-  {
-   "id": "PF170636",
-   "title": "내가 광이 날 상인가",
-   "genre": "뮤지컬",
-   "venue": "예그린씨어터",
-   "time": "19:30",
-   "castSource": "none"
-  }
- ]
-}
+{"date":"2021-01-25","sessions":[{"id":"PF170636","title":"내가 광이 날 상인가","genre":"뮤지컬","venue":"예그린씨어터","time":"19:30","castSource":"none"}]}

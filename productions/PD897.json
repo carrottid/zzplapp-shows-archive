@@ -1,16 +1,1 @@
-{
- "id": "PD897",
- "title": "우리가 애인을 꿈꾸는 이유",
- "genre": "연극",
- "from": "2004-07-15",
- "to": "2004-09-26",
- "venue": "국립정동극장 세실",
- "cast": [
-  "하희라"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD897","title":"우리가 애인을 꿈꾸는 이유","genre":"연극","from":"2004-07-15","to":"2004-09-26","venue":"국립정동극장 세실","cast":["하희라"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

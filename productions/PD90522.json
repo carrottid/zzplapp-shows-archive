@@ -1,16 +1,1 @@
-{
- "id": "PD90522",
- "title": "삼류배우",
- "genre": "연극",
- "from": "2016-03-18",
- "to": "2016-04-17",
- "venue": "충무아트센터 소극장 블루",
- "cast": [
-  "김도은"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD90522","title":"삼류배우","genre":"연극","from":"2016-03-18","to":"2016-04-17","venue":"충무아트센터 소극장 블루","cast":["김도은"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

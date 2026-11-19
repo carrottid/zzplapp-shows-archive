@@ -1,16 +1,1 @@
-{
- "id": "PD13554",
- "title": "Punch！PunchII",
- "genre": "뮤지컬",
- "from": "2009-11-05",
- "to": "2009-12-31",
- "venue": "대학로 SH 아트홀",
- "cast": [
-  "황지영"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD13554","title":"Punch！PunchII","genre":"뮤지컬","from":"2009-11-05","to":"2009-12-31","venue":"대학로 SH 아트홀","cast":["황지영"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

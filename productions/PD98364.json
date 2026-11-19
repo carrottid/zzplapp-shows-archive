@@ -1,13 +1,1 @@
-{
- "id": "PD98364",
- "title": "월요쇼케이스 - 팬레터",
- "genre": "뮤지컬",
- "from": "2016-09-26",
- "to": "2016-09-26",
- "venue": "이화여자대학교 삼성홀",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD98364","title":"월요쇼케이스 - 팬레터","genre":"뮤지컬","from":"2016-09-26","to":"2016-09-26","venue":"이화여자대학교 삼성홀","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

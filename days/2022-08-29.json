@@ -1,13 +1,1 @@
-{
- "date": "2022-08-29",
- "sessions": [
-  {
-   "id": "PF195122",
-   "title": "앨리스 인 베드",
-   "genre": "연극",
-   "venue": "국립극단 [명동] (명동예술극장)",
-   "time": "19:30",
-   "castSource": "none"
-  }
- ]
-}
+{"date":"2022-08-29","sessions":[{"id":"PF195122","title":"앨리스 인 베드","genre":"연극","venue":"국립극단 [명동] (명동예술극장)","time":"19:30","castSource":"none"}]}

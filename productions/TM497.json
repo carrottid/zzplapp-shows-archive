@@ -1,14 +1,1 @@
-{
- "id": "TM497",
- "title": "에밀레 에밀레",
- "genre": "뮤지컬",
- "from": "2001-07-12",
- "to": "2001-07-14",
- "venue": "남산 드라마센터",
- "state": "공연완료",
- "producer": "동랑댄스&뮤지컬 앙상블",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM497","title":"에밀레 에밀레","genre":"뮤지컬","from":"2001-07-12","to":"2001-07-14","venue":"남산 드라마센터","state":"공연완료","producer":"동랑댄스&뮤지컬 앙상블","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

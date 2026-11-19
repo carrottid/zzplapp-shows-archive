@@ -1,13 +1,1 @@
-{
- "id": "PD136597",
- "title": "플래시댄스 - 대구",
- "genre": "뮤지컬",
- "from": "2019-03-07",
- "to": "2019-03-10",
- "venue": "대구 계명아트센터",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD136597","title":"플래시댄스 - 대구","genre":"뮤지컬","from":"2019-03-07","to":"2019-03-10","venue":"대구 계명아트센터","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

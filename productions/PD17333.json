@@ -1,16 +1,1 @@
-{
- "id": "PD17333",
- "title": "안티고네",
- "genre": "연극",
- "from": "2010-07-01",
- "to": "2010-07-18",
- "venue": "대학로 선돌극장",
- "cast": [
-  "박윤정"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD17333","title":"안티고네","genre":"연극","from":"2010-07-01","to":"2010-07-18","venue":"대학로 선돌극장","cast":["박윤정"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

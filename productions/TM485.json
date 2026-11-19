@@ -1,14 +1,1 @@
-{
- "id": "TM485",
- "title": "무너진 사랑탑",
- "genre": "뮤지컬",
- "from": "2001-01-24",
- "to": "2001-02-11",
- "venue": "예술의전당 오페라극장",
- "state": "공연완료",
- "producer": "극단 가교,SBS",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM485","title":"무너진 사랑탑","genre":"뮤지컬","from":"2001-01-24","to":"2001-02-11","venue":"예술의전당 오페라극장","state":"공연완료","producer":"극단 가교,SBS","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

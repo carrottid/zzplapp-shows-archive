@@ -1,13 +1,1 @@
-{
- "id": "PD15835",
- "title": "밑바닥에서",
- "genre": "연극",
- "from": "2010-03-09",
- "to": "2010-03-14",
- "venue": "대학로예술극장 소극장",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD15835","title":"밑바닥에서","genre":"연극","from":"2010-03-09","to":"2010-03-14","venue":"대학로예술극장 소극장","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

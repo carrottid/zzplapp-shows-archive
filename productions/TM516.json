@@ -1,14 +1,1 @@
-{
- "id": "TM516",
- "title": "홍가와라",
- "genre": "뮤지컬",
- "from": "2001-07-28",
- "to": "2001-08-15",
- "venue": "국립극장 해오름극장",
- "state": "공연완료",
- "producer": "성지뮤지컬컴퍼니",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM516","title":"홍가와라","genre":"뮤지컬","from":"2001-07-28","to":"2001-08-15","venue":"국립극장 해오름극장","state":"공연완료","producer":"성지뮤지컬컴퍼니","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

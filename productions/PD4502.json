@@ -1,13 +1,1 @@
-{
- "id": "PD4502",
- "title": "트릿",
- "genre": "연극",
- "from": "2008-05-06",
- "to": "2008-06-08",
- "venue": "산울림 소극장",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD4502","title":"트릿","genre":"연극","from":"2008-05-06","to":"2008-06-08","venue":"산울림 소극장","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

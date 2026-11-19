@@ -1,14 +1,1 @@
-{
- "id": "TM448",
- "title": "춤추는 새벽",
- "genre": "뮤지컬",
- "from": "2002-01-11",
- "to": "2002-02-10",
- "venue": "인켈아트홀 1관",
- "state": "공연완료",
- "producer": "공연기획 파란,시냇가에 심은 나무",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM448","title":"춤추는 새벽","genre":"뮤지컬","from":"2002-01-11","to":"2002-02-10","venue":"인켈아트홀 1관","state":"공연완료","producer":"공연기획 파란,시냇가에 심은 나무","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

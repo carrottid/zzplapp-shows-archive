@@ -1,13 +1,1 @@
-{
- "id": "PD8525",
- "title": "네크로슈스의 파우스트",
- "genre": "연극",
- "from": "2009-04-03",
- "to": "2009-04-05",
- "venue": "LG아트센터",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD8525","title":"네크로슈스의 파우스트","genre":"연극","from":"2009-04-03","to":"2009-04-05","venue":"LG아트센터","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

@@ -1,13 +1,1 @@
-{
- "id": "PD41833",
- "title": "브루스니까 숲",
- "genre": "연극",
- "from": "2012-11-15",
- "to": "2012-12-01",
- "venue": "대학로 선돌극장",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD41833","title":"브루스니까 숲","genre":"연극","from":"2012-11-15","to":"2012-12-01","venue":"대학로 선돌극장","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

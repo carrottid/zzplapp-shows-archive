@@ -1,13 +1,1 @@
-{
- "id": "PD63882",
- "title": "캣츠 - 울산",
- "genre": "뮤지컬",
- "from": "2014-09-26",
- "to": "2014-09-28",
- "venue": "HD아트센터 대공연장",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD63882","title":"캣츠 - 울산","genre":"뮤지컬","from":"2014-09-26","to":"2014-09-28","venue":"HD아트센터 대공연장","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

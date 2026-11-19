@@ -1,16 +1,1 @@
-{
- "id": "TM1806",
- "title": "애니",
- "genre": "뮤지컬",
- "from": "2011-12-15",
- "to": "2011-12-29",
- "venue": "세종문화회관 대극장",
- "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster (s)1.JPG",
- "state": "공연완료",
- "producer": "세종문화회관",
- "price": "VVIP석 7만원 / VIP석 5만원 / R석 4만원 / S석 3만원",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM1806","title":"애니","genre":"뮤지컬","from":"2011-12-15","to":"2011-12-29","venue":"세종문화회관 대극장","poster":"https://image.yes24.com/themusical/upFiles/Themusical/Play/post_poster (s)1.JPG","state":"공연완료","producer":"세종문화회관","price":"VVIP석 7만원 / VIP석 5만원 / R석 4만원 / S석 3만원","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

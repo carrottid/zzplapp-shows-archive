@@ -1,13 +1,1 @@
-{
- "id": "PD20946",
- "title": "해바라기의 관",
- "genre": "연극",
- "from": "2011-03-09",
- "to": "2011-03-13",
- "venue": "세종문화회관 M씨어터",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD20946","title":"해바라기의 관","genre":"연극","from":"2011-03-09","to":"2011-03-13","venue":"세종문화회관 M씨어터","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

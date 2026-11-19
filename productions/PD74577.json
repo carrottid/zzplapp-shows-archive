@@ -1,13 +1,1 @@
-{
- "id": "PD74577",
- "title": "여우인간",
- "genre": "연극",
- "from": "2015-03-27",
- "to": "2015-04-12",
- "venue": "세종문화회관 M씨어터",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD74577","title":"여우인간","genre":"연극","from":"2015-03-27","to":"2015-04-12","venue":"세종문화회관 M씨어터","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

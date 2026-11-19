@@ -1,14 +1,1 @@
-{
- "id": "TM521",
- "title": "그때 그 쑈를 아십니까",
- "genre": "뮤지컬",
- "from": "2000-05-08",
- "to": "2000-05-10",
- "venue": "장충체육관",
- "state": "공연완료",
- "producer": "서울뮤지컬컴퍼니",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM521","title":"그때 그 쑈를 아십니까","genre":"뮤지컬","from":"2000-05-08","to":"2000-05-10","venue":"장충체육관","state":"공연완료","producer":"서울뮤지컬컴퍼니","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

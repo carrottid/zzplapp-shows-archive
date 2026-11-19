@@ -1,13 +1,1 @@
-{
- "id": "PD29597",
- "title": "삼년상",
- "genre": "연극",
- "from": "2011-11-16",
- "to": "2011-11-20",
- "venue": "연극실험실 혜화동 1번지",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD29597","title":"삼년상","genre":"연극","from":"2011-11-16","to":"2011-11-20","venue":"연극실험실 혜화동 1번지","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

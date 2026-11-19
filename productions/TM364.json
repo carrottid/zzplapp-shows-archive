@@ -1,15 +1,1 @@
-{
- "id": "TM364",
- "title": "55사이즈 500시시 5컵",
- "genre": "뮤지컬",
- "from": "2003-01-10",
- "to": "2003-03-02",
- "venue": "창조콘서트홀",
- "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2003 55사이즈0.jpg",
- "state": "공연완료",
- "producer": "극단 신화",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM364","title":"55사이즈 500시시 5컵","genre":"뮤지컬","from":"2003-01-10","to":"2003-03-02","venue":"창조콘서트홀","poster":"https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2003 55사이즈0.jpg","state":"공연완료","producer":"극단 신화","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

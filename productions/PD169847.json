@@ -1,16 +1,1 @@
-{
- "id": "PD169847",
- "title": "여기에는 메데이아가 없습니다",
- "genre": "연극",
- "from": "2019-02-21",
- "to": "2019-02-23",
- "venue": "두산아트센터 Space111",
- "cast": [
-  "전흥선"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD169847","title":"여기에는 메데이아가 없습니다","genre":"연극","from":"2019-02-21","to":"2019-02-23","venue":"두산아트센터 Space111","cast":["전흥선"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

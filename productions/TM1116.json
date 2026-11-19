@@ -1,16 +1,1 @@
-{
- "id": "TM1116",
- "title": "레딕스 십계",
- "genre": "뮤지컬",
- "from": "2006-04-11",
- "to": "2006-05-09",
- "venue": "올림픽공원 체조경기장",
- "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2006 레딕스 02.JPG",
- "state": "공연완료",
- "producer": "(주)이룸이엔티",
- "price": "VIP석:150,000/R석:120,000/S석:90,000/A석:70,000/B석:40,000",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM1116","title":"레딕스 십계","genre":"뮤지컬","from":"2006-04-11","to":"2006-05-09","venue":"올림픽공원 체조경기장","poster":"https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2006 레딕스 02.JPG","state":"공연완료","producer":"(주)이룸이엔티","price":"VIP석:150,000/R석:120,000/S석:90,000/A석:70,000/B석:40,000","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

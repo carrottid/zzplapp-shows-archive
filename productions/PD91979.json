@@ -1,16 +1,1 @@
-{
- "id": "PD91979",
- "title": "그리워 그리워",
- "genre": "연극",
- "from": "2016-05-09",
- "to": "2016-06-25",
- "venue": "KT&G 상상마당 대치아트홀",
- "cast": [
-  "임동진"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD91979","title":"그리워 그리워","genre":"연극","from":"2016-05-09","to":"2016-06-25","venue":"KT&G 상상마당 대치아트홀","cast":["임동진"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

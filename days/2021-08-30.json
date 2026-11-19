@@ -1,13 +1,1 @@
-{
- "date": "2021-08-30",
- "sessions": [
-  {
-   "id": "PF178390",
-   "title": "행복한칠월",
-   "genre": "연극",
-   "venue": "후암스테이지",
-   "time": "19:30",
-   "castSource": "none"
-  }
- ]
-}
+{"date":"2021-08-30","sessions":[{"id":"PF178390","title":"행복한칠월","genre":"연극","venue":"후암스테이지","time":"19:30","castSource":"none"}]}

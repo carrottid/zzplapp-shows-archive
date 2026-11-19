@@ -1,13 +1,1 @@
-{
- "id": "PD103234",
- "title": "영국 극단 1927 골렘",
- "genre": "연극",
- "from": "2017-11-16",
- "to": "2017-11-19",
- "venue": "LG아트센터",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD103234","title":"영국 극단 1927 골렘","genre":"연극","from":"2017-11-16","to":"2017-11-19","venue":"LG아트센터","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

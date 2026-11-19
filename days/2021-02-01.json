@@ -1,17 +1,1 @@
-{
- "date": "2021-02-01",
- "sessions": [
-  {
-   "id": "PF170973",
-   "title": "Be",
-   "genre": "연극",
-   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#D1064C",
-    "fg": "#FFFFFF"
-   }
-  }
- ]
-}
+{"date":"2021-02-01","sessions":[{"id":"PF170973","title":"Be","genre":"연극","venue":"한성아트홀(구. 인켈아트홀) (2관)","time":"20:00","castSource":"none","color":{"bg":"#D1064C","fg":"#FFFFFF"}}]}

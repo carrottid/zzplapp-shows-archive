@@ -1,14 +1,1 @@
-{
- "id": "TM524",
- "title": "내 생애 최고의 날",
- "genre": "뮤지컬",
- "from": "2000-06-01",
- "to": "2000-06-27",
- "venue": "동숭아트센터 동숭홀",
- "state": "공연완료",
- "producer": "PMC프로덕션",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM524","title":"내 생애 최고의 날","genre":"뮤지컬","from":"2000-06-01","to":"2000-06-27","venue":"동숭아트센터 동숭홀","state":"공연완료","producer":"PMC프로덕션","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

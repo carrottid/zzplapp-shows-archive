@@ -1,13 +1,1 @@
-{
- "id": "PD5319",
- "title": "여보, 고마워",
- "genre": "연극",
- "from": "2008-07-11",
- "to": "2008-08-31",
- "venue": "대학로 문화공간 필링 1관",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD5319","title":"여보, 고마워","genre":"연극","from":"2008-07-11","to":"2008-08-31","venue":"대학로 문화공간 필링 1관","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

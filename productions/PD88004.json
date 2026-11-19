@@ -1,16 +1,1 @@
-{
- "id": "PD88004",
- "title": "제8회 여성연출가전 - 궁",
- "genre": "연극",
- "from": "2012-05-26",
- "to": "2012-06-03",
- "venue": "대학로 스타시티",
- "cast": [
-  "하진"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD88004","title":"제8회 여성연출가전 - 궁","genre":"연극","from":"2012-05-26","to":"2012-06-03","venue":"대학로 스타시티","cast":["하진"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

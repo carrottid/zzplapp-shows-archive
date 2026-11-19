@@ -1,13 +1,1 @@
-{
- "id": "PD32561",
- "title": "더 게임",
- "genre": "연극",
- "from": "2012-03-03",
- "to": "2012-03-11",
- "venue": "대학로예술극장 소극장",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD32561","title":"더 게임","genre":"연극","from":"2012-03-03","to":"2012-03-11","venue":"대학로예술극장 소극장","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

@@ -1,14 +1,1 @@
-{
- "id": "TM547",
- "title": "서푼짜리 오페라",
- "genre": "뮤지컬",
- "from": "2000-09-01",
- "to": "2000-10-29",
- "venue": "열린극장",
- "state": "공연완료",
- "producer": "자세 레파토리",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM547","title":"서푼짜리 오페라","genre":"뮤지컬","from":"2000-09-01","to":"2000-10-29","venue":"열린극장","state":"공연완료","producer":"자세 레파토리","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

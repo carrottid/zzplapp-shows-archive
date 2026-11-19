@@ -1,13 +1,1 @@
-{
- "id": "PD1289",
- "title": "살로메",
- "genre": "연극",
- "from": "2007-10-10",
- "to": "2007-10-11",
- "venue": "국립극장 해오름극장",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD1289","title":"살로메","genre":"연극","from":"2007-10-10","to":"2007-10-11","venue":"국립극장 해오름극장","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

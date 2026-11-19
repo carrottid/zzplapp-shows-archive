@@ -1,13 +1,1 @@
-{
- "id": "PD154936",
- "title": "배리어 프리",
- "genre": "뮤지컬",
- "from": "2020-11-11",
- "to": "2020-11-15",
- "venue": "세종문화회관 M씨어터",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD154936","title":"배리어 프리","genre":"뮤지컬","from":"2020-11-11","to":"2020-11-15","venue":"세종문화회관 M씨어터","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

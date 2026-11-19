@@ -1,18 +1,1 @@
-{
- "id": "PD136689",
- "title": "노인과 바다",
- "genre": "연극",
- "from": "2019-11-26",
- "to": "2019-12-01",
- "venue": "두산아트센터 Space111",
- "cast": [
-  "이자람",
-  "여신동",
-  "박지혜"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD136689","title":"노인과 바다","genre":"연극","from":"2019-11-26","to":"2019-12-01","venue":"두산아트센터 Space111","cast":["이자람","여신동","박지혜"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

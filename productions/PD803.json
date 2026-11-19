@@ -1,13 +1,1 @@
-{
- "id": "PD803",
- "title": "캣츠 포에버",
- "genre": "뮤지컬",
- "from": "2005-10-07",
- "to": "2005-10-30",
- "venue": "서울열린극장 창동",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD803","title":"캣츠 포에버","genre":"뮤지컬","from":"2005-10-07","to":"2005-10-30","venue":"서울열린극장 창동","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

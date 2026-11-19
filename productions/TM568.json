@@ -1,13 +1,1 @@
-{
- "id": "TM568",
- "title": "춤 추실래요?",
- "genre": "뮤지컬",
- "from": "2000-12-15",
- "to": "2001-01-07",
- "venue": "소극장 오늘 한강 마녀",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM568","title":"춤 추실래요?","genre":"뮤지컬","from":"2000-12-15","to":"2001-01-07","venue":"소극장 오늘 한강 마녀","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

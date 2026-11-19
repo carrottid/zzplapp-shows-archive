@@ -1,13 +1,1 @@
-{
- "id": "PD72220",
- "title": "빨래 - 김해",
- "genre": "뮤지컬",
- "from": "2015-02-06",
- "to": "2015-02-08",
- "venue": "김해문화의전당 마루홀",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD72220","title":"빨래 - 김해","genre":"뮤지컬","from":"2015-02-06","to":"2015-02-08","venue":"김해문화의전당 마루홀","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

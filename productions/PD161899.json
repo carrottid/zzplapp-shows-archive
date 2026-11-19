@@ -1,13 +1,1 @@
-{
- "id": "PD161899",
- "title": "지육",
- "genre": "연극",
- "from": "2020-12-02",
- "to": "2020-12-02",
- "venue": "대학로 SH 아트홀",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD161899","title":"지육","genre":"연극","from":"2020-12-02","to":"2020-12-02","venue":"대학로 SH 아트홀","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

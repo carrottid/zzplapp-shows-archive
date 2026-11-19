@@ -1,15 +1,1 @@
-{
- "id": "TM669",
- "title": "천국과 지옥",
- "genre": "뮤지컬",
- "from": "2001-07-11",
- "to": "2001-07-15",
- "venue": "학전그린 소극장",
- "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_사본 - orp.jpg",
- "state": "공연완료",
- "producer": "연희단거리패",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM669","title":"천국과 지옥","genre":"뮤지컬","from":"2001-07-11","to":"2001-07-15","venue":"학전그린 소극장","poster":"https://image.yes24.com/themusical/upFiles/Themusical/Play/main_사본 - orp.jpg","state":"공연완료","producer":"연희단거리패","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

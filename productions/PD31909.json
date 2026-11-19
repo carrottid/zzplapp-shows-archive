@@ -1,13 +1,1 @@
-{
- "id": "PD31909",
- "title": "레드 립 씨어터 - 도착",
- "genre": "연극",
- "from": "2012-05-03",
- "to": "2012-05-06",
- "venue": "LG아트센터",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD31909","title":"레드 립 씨어터 - 도착","genre":"연극","from":"2012-05-03","to":"2012-05-06","venue":"LG아트센터","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

@@ -1,13 +1,1 @@
-{
- "id": "PD14685",
- "title": "레프 도진＆말리 극장 - 바냐아저씨",
- "genre": "연극",
- "from": "2010-05-05",
- "to": "2010-05-08",
- "venue": "LG아트센터",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD14685","title":"레프 도진＆말리 극장 - 바냐아저씨","genre":"연극","from":"2010-05-05","to":"2010-05-08","venue":"LG아트센터","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

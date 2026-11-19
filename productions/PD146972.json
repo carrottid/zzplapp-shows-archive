@@ -1,13 +1,1 @@
-{
- "id": "PD146972",
- "title": "오백에 삼십 - 대구",
- "genre": "연극",
- "from": "2019-10-01",
- "to": "2019-11-30",
- "venue": "아트플러스씨어터 2관",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD146972","title":"오백에 삼십 - 대구","genre":"연극","from":"2019-10-01","to":"2019-11-30","venue":"아트플러스씨어터 2관","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

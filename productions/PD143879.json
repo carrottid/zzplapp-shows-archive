@@ -1,13 +1,1 @@
-{
- "id": "PD143879",
- "title": "미세먼지",
- "genre": "뮤지컬",
- "from": "2019-06-21",
- "to": "2019-06-22",
- "venue": "유니플렉스 2관",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD143879","title":"미세먼지","genre":"뮤지컬","from":"2019-06-21","to":"2019-06-22","venue":"유니플렉스 2관","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

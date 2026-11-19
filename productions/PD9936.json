@@ -1,17 +1,1 @@
-{
- "id": "PD9936",
- "title": "템페스트",
- "genre": "연극",
- "from": "2009-05-20",
- "to": "2009-06-06",
- "venue": "예술의전당 CJ 토월극장",
- "cast": [
-  "조원종",
-  "이영옥"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD9936","title":"템페스트","genre":"연극","from":"2009-05-20","to":"2009-06-06","venue":"예술의전당 CJ 토월극장","cast":["조원종","이영옥"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

@@ -1,13 +1,1 @@
-{
- "id": "PD91081",
- "title": "렛잇비 - 대구",
- "genre": "뮤지컬",
- "from": "2016-05-17",
- "to": "2016-05-19",
- "venue": "대구 오페라하우스",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD91081","title":"렛잇비 - 대구","genre":"뮤지컬","from":"2016-05-17","to":"2016-05-19","venue":"대구 오페라하우스","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

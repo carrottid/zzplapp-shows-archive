@@ -1,13 +1,1 @@
-{
- "id": "PD107149",
- "title": "식구를 찾아서",
- "genre": "뮤지컬",
- "from": "2017-05-12",
- "to": "2017-05-21",
- "venue": "대학로예술극장 대극장",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD107149","title":"식구를 찾아서","genre":"뮤지컬","from":"2017-05-12","to":"2017-05-21","venue":"대학로예술극장 대극장","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

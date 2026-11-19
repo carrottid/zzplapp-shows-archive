@@ -1,15 +1,1 @@
-{
- "id": "TM550",
- "title": "시카고",
- "genre": "뮤지컬",
- "from": "2000-12-08",
- "to": "2000-12-17",
- "venue": "세종문화회관",
- "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/play_chicago2000 (1).gif",
- "state": "공연완료",
- "producer": "신시뮤지컬컴퍼니",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM550","title":"시카고","genre":"뮤지컬","from":"2000-12-08","to":"2000-12-17","venue":"세종문화회관","poster":"https://image.yes24.com/themusical/upFiles/Themusical/Play/play_chicago2000 (1).gif","state":"공연완료","producer":"신시뮤지컬컴퍼니","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

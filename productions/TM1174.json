@@ -1,16 +1,1 @@
-{
- "id": "TM1174",
- "title": "넌 특별하단다",
- "genre": "뮤지컬",
- "from": "2008-07-17",
- "to": "2008-08-30",
- "venue": "대학로 아티스탄홀",
- "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008_특별 01.jpg",
- "state": "공연완료",
- "producer": "극단 리틀파파",
- "price": "일반석(전석) 15,000원",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM1174","title":"넌 특별하단다","genre":"뮤지컬","from":"2008-07-17","to":"2008-08-30","venue":"대학로 아티스탄홀","poster":"https://image.yes24.com/themusical/upFiles/Themusical/Play/post_2008_특별 01.jpg","state":"공연완료","producer":"극단 리틀파파","price":"일반석(전석) 15,000원","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

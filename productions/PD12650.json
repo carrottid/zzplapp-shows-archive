@@ -1,16 +1,1 @@
-{
- "id": "PD12650",
- "title": "2009 서울국제공연예술제-도쿄노트(Tokyo Note)",
- "genre": "연극",
- "from": "2009-10-18",
- "to": "2009-10-19",
- "venue": "대학로예술극장 소극장",
- "cast": [
-  "청년단"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD12650","title":"2009 서울국제공연예술제-도쿄노트(Tokyo Note)","genre":"연극","from":"2009-10-18","to":"2009-10-19","venue":"대학로예술극장 소극장","cast":["청년단"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

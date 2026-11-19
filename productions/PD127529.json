@@ -1,16 +1,1 @@
-{
- "id": "PD127529",
- "title": "빨간 피터들 - K의 낭독회",
- "genre": "연극",
- "from": "2018-07-06",
- "to": "2018-07-08",
- "venue": "삼일로 창고극장",
- "cast": [
-  "강말금"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD127529","title":"빨간 피터들 - K의 낭독회","genre":"연극","from":"2018-07-06","to":"2018-07-08","venue":"삼일로 창고극장","cast":["강말금"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

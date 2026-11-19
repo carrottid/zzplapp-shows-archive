@@ -1,13 +1,1 @@
-{
- "id": "PD5414",
- "title": "고래",
- "genre": "연극",
- "from": "2008-08-07",
- "to": "2008-08-31",
- "venue": "연우 소극장(대학로)",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD5414","title":"고래","genre":"연극","from":"2008-08-07","to":"2008-08-31","venue":"연우 소극장(대학로)","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

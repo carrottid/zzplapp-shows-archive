@@ -1,15 +1,1 @@
-{
- "id": "TM563",
- "title": "일식",
- "genre": "뮤지컬",
- "from": "2000-01-21",
- "to": "2000-01-30",
- "venue": "문예회관 대극장",
- "poster": "https://image.yes24.com/themusical/upFiles/Themusical/Play/main_사본 - ilsik.jpg",
- "state": "공연완료",
- "producer": "극단 연희단거리패",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-10T08:42:43"
-}
+{"id":"TM563","title":"일식","genre":"뮤지컬","from":"2000-01-21","to":"2000-01-30","venue":"문예회관 대극장","poster":"https://image.yes24.com/themusical/upFiles/Themusical/Play/main_사본 - ilsik.jpg","state":"공연완료","producer":"극단 연희단거리패","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-10T08:42:43"}

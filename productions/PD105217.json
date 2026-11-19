@@ -1,16 +1,1 @@
-{
- "id": "PD105217",
- "title": "판",
- "genre": "뮤지컬",
- "from": "2017-03-24",
- "to": "2017-04-15",
- "venue": "CJ 아지트 대학로(구 SM아트홀)",
- "cast": [
-  "최영석"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD105217","title":"판","genre":"뮤지컬","from":"2017-03-24","to":"2017-04-15","venue":"CJ 아지트 대학로(구 SM아트홀)","cast":["최영석"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

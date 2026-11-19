@@ -1,16 +1,1 @@
-{
- "id": "PD4909",
- "title": "원전유서 : 창작예찬",
- "genre": "연극",
- "from": "2008-07-16",
- "to": "2008-07-21",
- "venue": "아르코예술극장 대극장",
- "cast": [
-  "박민지"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD4909","title":"원전유서 : 창작예찬","genre":"연극","from":"2008-07-16","to":"2008-07-21","venue":"아르코예술극장 대극장","cast":["박민지"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

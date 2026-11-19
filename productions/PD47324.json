@@ -1,13 +1,1 @@
-{
- "id": "PD47324",
- "title": "난타 - 광주",
- "genre": "뮤지컬",
- "from": "2013-06-15",
- "to": "2013-06-15",
- "venue": "남한산성아트홀 대극장",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD47324","title":"난타 - 광주","genre":"뮤지컬","from":"2013-06-15","to":"2013-06-15","venue":"남한산성아트홀 대극장","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

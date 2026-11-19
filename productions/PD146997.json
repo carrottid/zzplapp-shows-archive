@@ -1,16 +1,1 @@
-{
- "id": "PD146997",
- "title": "제174회 GAC 목요예술무대",
- "genre": "연극",
- "from": "2019-09-05",
- "to": "2019-09-06",
- "venue": "강동아트센터 대극장 한강",
- "cast": [
-  "김수정"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD146997","title":"제174회 GAC 목요예술무대","genre":"연극","from":"2019-09-05","to":"2019-09-06","venue":"강동아트센터 대극장 한강","cast":["김수정"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

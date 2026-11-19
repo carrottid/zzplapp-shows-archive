@@ -1,13 +1,1 @@
-{
- "id": "PD87620",
- "title": "레베카 - 대구",
- "genre": "뮤지컬",
- "from": "2016-03-19",
- "to": "2016-03-20",
- "venue": "대구 계명아트센터",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD87620","title":"레베카 - 대구","genre":"뮤지컬","from":"2016-03-19","to":"2016-03-20","venue":"대구 계명아트센터","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

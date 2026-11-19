@@ -1,16 +1,1 @@
-{
- "id": "PD6452",
- "title": "칠수와 만수",
- "genre": "연극",
- "from": "2008-10-02",
- "to": "2008-11-09",
- "venue": "연우 소극장(대학로)",
- "cast": [
-  "이이림"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD6452","title":"칠수와 만수","genre":"연극","from":"2008-10-02","to":"2008-11-09","venue":"연우 소극장(대학로)","cast":["이이림"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

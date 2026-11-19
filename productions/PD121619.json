@@ -1,16 +1,1 @@
-{
- "id": "PD121619",
- "title": "체체파리",
- "genre": "연극",
- "from": "2018-03-29",
- "to": "2018-04-01",
- "venue": "연우 소극장(대학로)",
- "cast": [
-  "이유성"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD121619","title":"체체파리","genre":"연극","from":"2018-03-29","to":"2018-04-01","venue":"연우 소극장(대학로)","cast":["이유성"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

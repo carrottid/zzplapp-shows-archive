@@ -1,17 +1,1 @@
-{
- "date": "2021-03-29",
- "sessions": [
-  {
-   "id": "PF172158",
-   "title": "온에어: 비밀계약",
-   "genre": "뮤지컬",
-   "venue": "광림아트센터 (BBCH홀)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#4925C0",
-    "fg": "#FFFFFF"
-   }
-  }
- ]
-}
+{"date":"2021-03-29","sessions":[{"id":"PF172158","title":"온에어: 비밀계약","genre":"뮤지컬","venue":"광림아트센터 (BBCH홀)","time":"19:30","castSource":"none","color":{"bg":"#4925C0","fg":"#FFFFFF"}}]}

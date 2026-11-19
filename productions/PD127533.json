@@ -1,16 +1,1 @@
-{
- "id": "PD127533",
- "title": "빨간 피터들 - 추ing 낯선 자",
- "genre": "연극",
- "from": "2018-06-29",
- "to": "2018-07-01",
- "venue": "삼일로 창고극장",
- "cast": [
-  "하준호"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD127533","title":"빨간 피터들 - 추ing 낯선 자","genre":"연극","from":"2018-06-29","to":"2018-07-01","venue":"삼일로 창고극장","cast":["하준호"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

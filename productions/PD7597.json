@@ -1,17 +1,1 @@
-{
- "id": "PD7597",
- "title": "아일랜드",
- "genre": "연극",
- "from": "2009-02-14",
- "to": "2009-04-05",
- "venue": "CJ 아지트 대학로(구 SM아트홀)",
- "cast": [
-  "조정석",
-  "양준모"
- ],
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD7597","title":"아일랜드","genre":"연극","from":"2009-02-14","to":"2009-04-05","venue":"CJ 아지트 대학로(구 SM아트홀)","cast":["조정석","양준모"],"state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

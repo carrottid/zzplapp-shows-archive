@@ -1,13 +1,1 @@
-{
- "id": "PD64301",
- "title": "캣츠 - 부산",
- "genre": "뮤지컬",
- "from": "2014-10-31",
- "to": "2014-11-16",
- "venue": "부산시민회관 대극장",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD64301","title":"캣츠 - 부산","genre":"뮤지컬","from":"2014-10-31","to":"2014-11-16","venue":"부산시민회관 대극장","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

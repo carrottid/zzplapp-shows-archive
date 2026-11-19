@@ -1,13 +1,1 @@
-{
- "id": "PD93248",
- "title": "한 여름밤의 꿈",
- "genre": "연극",
- "from": "2016-06-02",
- "to": "2016-06-12",
- "venue": "예술의전당 CJ 토월극장",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD93248","title":"한 여름밤의 꿈","genre":"연극","from":"2016-06-02","to":"2016-06-12","venue":"예술의전당 CJ 토월극장","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

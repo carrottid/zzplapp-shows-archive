@@ -1,13 +1,1 @@
-{
- "date": "2021-05-24",
- "sessions": [
-  {
-   "id": "PF174443",
-   "title": "소년이 그랬다",
-   "genre": "연극",
-   "venue": "국립극단 [용산] (백성희장민호극장)",
-   "time": "19:30",
-   "castSource": "none"
-  }
- ]
-}
+{"date":"2021-05-24","sessions":[{"id":"PF174443","title":"소년이 그랬다","genre":"연극","venue":"국립극단 [용산] (백성희장민호극장)","time":"19:30","castSource":"none"}]}

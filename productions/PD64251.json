@@ -1,13 +1,1 @@
-{
- "id": "PD64251",
- "title": "캣츠 - 대구",
- "genre": "뮤지컬",
- "from": "2014-10-03",
- "to": "2014-10-19",
- "venue": "계명아트센터",
- "state": "공연완료",
- "images": [],
- "links": [],
- "castSource": "none",
- "fetchedAt": "2026-11-14T14:15:05"
-}
+{"id":"PD64251","title":"캣츠 - 대구","genre":"뮤지컬","from":"2014-10-03","to":"2014-10-19","venue":"계명아트센터","state":"공연완료","images":[],"links":[],"castSource":"none","fetchedAt":"2026-11-14T14:15:05"}

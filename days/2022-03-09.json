@@ -2,6 +2,35 @@
  "date": "2022-03-09",
  "sessions": [
   {
+   "id": "PF186600",
+   "title": "스메르쟈코프",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "14:00",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김현진"
+    },
+    {
+     "name": "윤은오"
+    },
+    {
+     "name": "정재환"
+    },
+    {
+     "name": "심재현"
+    },
+    {
+     "name": "김방언"
+    }
+   ],
+   "color": {
+    "bg": "#1A1617",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF184882",
    "title": "엑스칼리버",
    "genre": "뮤지컬",
@@ -132,6 +161,35 @@
    "castSource": "none",
    "color": {
     "bg": "#0D1436",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF186600",
+   "title": "스메르쟈코프",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "18:00",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김리현"
+    },
+    {
+     "name": "박좌헌"
+    },
+    {
+     "name": "류동휘"
+    },
+    {
+     "name": "심재현"
+    },
+    {
+     "name": "김방언"
+    }
+   ],
+   "color": {
+    "bg": "#1A1617",
     "fg": "#FFFFFF"
    }
   },
@@ -398,18 +456,6 @@
    "castSource": "none",
    "color": {
     "bg": "#79736C",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF186600",
-   "title": "스메르쟈코프",
-   "genre": "뮤지컬",
-   "venue": "대학로 자유극장 (자유문화발전소)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#1A1617",
     "fg": "#FFFFFF"
    }
   },

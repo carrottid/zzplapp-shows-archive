@@ -283,7 +283,24 @@
    "genre": "뮤지컬",
    "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김리현"
+    },
+    {
+     "name": "박좌헌"
+    },
+    {
+     "name": "류동휘"
+    },
+    {
+     "name": "심재현"
+    },
+    {
+     "name": "김방언"
+    }
+   ],
    "color": {
     "bg": "#1A1617",
     "fg": "#FFFFFF"

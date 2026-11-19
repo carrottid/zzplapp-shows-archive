@@ -431,7 +431,24 @@
    "genre": "뮤지컬",
    "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김현진"
+    },
+    {
+     "name": "윤은오"
+    },
+    {
+     "name": "정재환"
+    },
+    {
+     "name": "심재현"
+    },
+    {
+     "name": "김방언"
+    }
+   ],
    "color": {
     "bg": "#1A1617",
     "fg": "#FFFFFF"

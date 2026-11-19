@@ -91,7 +91,15 @@
    "genre": "뮤지컬",
    "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "박유덕"
+    },
+    {
+     "name": "김경수"
+    }
+   ],
    "color": {
     "bg": "#090A0D",
     "fg": "#FFFFFF"
@@ -115,7 +123,24 @@
    "genre": "뮤지컬",
    "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김리현"
+    },
+    {
+     "name": "윤은오"
+    },
+    {
+     "name": "정재환"
+    },
+    {
+     "name": "김주호"
+    },
+    {
+     "name": "김방언"
+    }
+   ],
    "color": {
     "bg": "#1A1617",
     "fg": "#FFFFFF"
@@ -430,7 +455,15 @@
    "genre": "뮤지컬",
    "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김현진"
+    },
+    {
+     "name": "김경수"
+    }
+   ],
    "color": {
     "bg": "#090A0D",
     "fg": "#FFFFFF"
@@ -454,7 +487,24 @@
    "genre": "뮤지컬",
    "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김바다"
+    },
+    {
+     "name": "윤은오"
+    },
+    {
+     "name": "류동휘"
+    },
+    {
+     "name": "김주호"
+    },
+    {
+     "name": "이규학"
+    }
+   ],
    "color": {
     "bg": "#1A1617",
     "fg": "#FFFFFF"

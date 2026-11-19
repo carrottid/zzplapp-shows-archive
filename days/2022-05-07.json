@@ -158,7 +158,24 @@
    "genre": "뮤지컬",
    "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김현진"
+    },
+    {
+     "name": "윤은오"
+    },
+    {
+     "name": "류동휘"
+    },
+    {
+     "name": "심재현"
+    },
+    {
+     "name": "김방언"
+    }
+   ],
    "color": {
     "bg": "#1A1617",
     "fg": "#FFFFFF"
@@ -605,7 +622,24 @@
    "genre": "뮤지컬",
    "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김바다"
+    },
+    {
+     "name": "윤은오"
+    },
+    {
+     "name": "류동휘"
+    },
+    {
+     "name": "심재현"
+    },
+    {
+     "name": "김방언"
+    }
+   ],
    "color": {
     "bg": "#1A1617",
     "fg": "#FFFFFF"

@@ -333,7 +333,24 @@
    "genre": "뮤지컬",
    "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "김바다"
+    },
+    {
+     "name": "윤은오"
+    },
+    {
+     "name": "류동휘"
+    },
+    {
+     "name": "김주호"
+    },
+    {
+     "name": "이규학"
+    }
+   ],
    "color": {
     "bg": "#1A1617",
     "fg": "#FFFFFF"

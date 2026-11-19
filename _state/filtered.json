@@ -45407,5 +45407,148 @@
    "venue_not_listed"
   ],
   "since": "2026-11-18"
+ },
+ "PF306787": {
+  "id": "PF306787",
+  "title": "겨울왕국",
+  "genre": "뮤지컬",
+  "from": "2027-01-09",
+  "to": "2027-01-10",
+  "venue": "수원문화원 (빛누리아트홀)",
+  "area": "경기도",
+  "age": "24개월 이상",
+  "hall": "수원문화원 (빛누리아트홀) (수원문화원 (빛누리아트홀) )",
+  "facilityId": "FC004065",
+  "producer": "극단 예일",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-19"
+ },
+ "PF306792": {
+  "id": "PF306792",
+  "title": "아일랜드",
+  "genre": "연극",
+  "from": "2026-11-19",
+  "to": "2026-11-22",
+  "venue": "소극장 플랫폼74",
+  "area": "서울특별시",
+  "age": "15세 이상",
+  "hall": "소극장 플랫폼74 (소극장 플랫폼74)",
+  "facilityId": "FC002677",
+  "producer": "아트컴퍼니 아비웅",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-19"
+ },
+ "PF306812": {
+  "id": "PF306812",
+  "title": "독약 같은 여자",
+  "genre": "연극",
+  "from": "2026-12-02",
+  "to": "2026-12-06",
+  "venue": "한예극장",
+  "area": "서울특별시",
+  "age": "만 16세 이상",
+  "hall": "한예극장 (한예극장)",
+  "facilityId": "FC003249",
+  "producer": "장두이레파토리극단",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-19"
+ },
+ "PF306842": {
+  "id": "PF306842",
+  "title": "인생 2장 (Chapter Two)",
+  "genre": "연극",
+  "from": "2026-12-24",
+  "to": "2026-12-27",
+  "venue": "떼아뜨르 다락 소극장",
+  "area": "인천광역시",
+  "age": "만 11세 이상",
+  "hall": "떼아뜨르 다락 소극장 (떼아뜨르 다락 소극장)",
+  "facilityId": "FC001375",
+  "producer": "떼아뜨르 다락",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-19"
+ },
+ "PF306845": {
+  "id": "PF306845",
+  "title": "마이 스위트 하우스",
+  "genre": "연극",
+  "from": "2026-12-16",
+  "to": "2026-12-20",
+  "venue": "여행자극장",
+  "area": "서울특별시",
+  "age": "만 14세 이상",
+  "hall": "여행자극장 (여행자극장)",
+  "facilityId": "FC001529",
+  "producer": "극단 노마드",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-19"
+ },
+ "PF306849": {
+  "id": "PF306849",
+  "title": "경성 카스테라 1호점",
+  "genre": "뮤지컬",
+  "from": "2026-12-04",
+  "to": "2027-03-01",
+  "venue": "가로수극장 [창원]",
+  "area": "경상남도",
+  "age": "만 12세 이상",
+  "hall": "가로수극장 [창원] (가로수극장 [창원] )",
+  "facilityId": "FC004328",
+  "producer": "(주)상상플레이스",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-19"
+ },
+ "PF306857": {
+  "id": "PF306857",
+  "title": "구름빵",
+  "genre": "뮤지컬",
+  "from": "2027-01-02",
+  "to": "2027-01-30",
+  "venue": "김포한강괜찮은홀",
+  "area": "경기도",
+  "age": "전체 관람가",
+  "hall": "김포한강괜찮은홀 (김포한강괜찮은홀)",
+  "facilityId": "FC002017",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-19"
+ },
+ "PF306885": {
+  "id": "PF306885",
+  "title": "희랍왕 페리클레스",
+  "genre": "연극",
+  "from": "2026-12-02",
+  "to": "2026-12-13",
+  "venue": "소극장 공유",
+  "area": "서울특별시",
+  "age": "만 12세 이상",
+  "hall": "소극장 공유 (소극장 공유)",
+  "facilityId": "FC001266",
+  "producer": "유라시아 셰익스피어 극단",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-19"
  }
 }

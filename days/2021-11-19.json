@@ -2,18 +2,6 @@
  "date": "2021-11-19",
  "sessions": [
   {
-   "id": "PF181077",
-   "title": "레베카",
-   "genre": "뮤지컬",
-   "venue": "충무아트센터 (대극장)",
-   "time": "14:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#1B2433",
-    "fg": "#F2A33A"
-   }
-  },
-  {
    "id": "PF179503",
    "title": "리어왕: KING LEAR",
    "genre": "연극",
@@ -55,7 +43,33 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "민영기"
+    },
+    {
+     "name": "옥주현"
+    },
+    {
+     "name": "임혜영"
+    },
+    {
+     "name": "이창용"
+    },
+    {
+     "name": "한유란"
+    },
+    {
+     "name": "류수화"
+    },
+    {
+     "name": "임정모"
+    },
+    {
+     "name": "김현웅"
+    }
+   ],
    "color": {
     "bg": "#1B2433",
     "fg": "#F2A33A"

@@ -561,18 +561,15 @@
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF182453_211105_092815.jpg",
    "cast": [
     "박유덕",
-    "안재영",
     "박규원",
+    "안재영",
     "정욱진",
     "김현진",
-    "정민",
-    "김경수",
     "유성재",
-    "정동화",
-    "임병근"
+    "정민"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "x",
    "color": {
     "bg": "#090A0D",
     "fg": "#FFFFFF"

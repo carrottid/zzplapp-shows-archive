@@ -541,7 +541,18 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (중극장 블랙)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "정휘"
+    },
+    {
+     "name": "정민"
+    },
+    {
+     "name": "최지혜"
+    }
+   ],
    "color": {
     "bg": "#1A2A30",
     "fg": "#FFFFFF"

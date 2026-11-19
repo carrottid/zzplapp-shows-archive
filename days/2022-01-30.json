@@ -453,7 +453,18 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (중극장 블랙)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "정휘"
+    },
+    {
+     "name": "김종구"
+    },
+    {
+     "name": "최지혜"
+    }
+   ],
    "color": {
     "bg": "#1A2A30",
     "fg": "#FFFFFF"
@@ -901,7 +912,18 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (중극장 블랙)",
    "time": "18:30",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "정휘"
+    },
+    {
+     "name": "김종구"
+    },
+    {
+     "name": "김이후"
+    }
+   ],
    "color": {
     "bg": "#1A2A30",
     "fg": "#FFFFFF"

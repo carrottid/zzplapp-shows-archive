@@ -519,7 +519,18 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (중극장 블랙)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "기세중"
+    },
+    {
+     "name": "조풍래"
+    },
+    {
+     "name": "김이후"
+    }
+   ],
    "color": {
     "bg": "#1A2A30",
     "fg": "#FFFFFF"
